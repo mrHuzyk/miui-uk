@@ -2882,8 +2882,8 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="notif_restore_content">Відновлення бекапа…</string>
      <string name="notif_restore_title">Відновлення бекапа</string>
      <string name="notification_app_settings_button">Налаштування сповіщень</string>
-     <string name="notification_breathing_light_color_title">Колір індикації повідомлень</string>
-     <string name="notification_breathing_light_freq_title">Частота блимання для повідомлень</string>
+     <string name="notification_breathing_light_color_title">Колір індикації сповіщень</string>
+     <string name="notification_breathing_light_freq_title">Частота блимання для сповіщень</string>
      <string name="notification_exit_power_save_mode">Енергозбереження вимкнено</string>
      <string name="notification_exit_power_save_mode_subtitle">Батарея заряджена на 60%</string>
      <string name="notification_listener_security_warning_summary">Застосунок \"%1$s\" буде мати можливість читати й управляти всіма повідомленнями, які можуть містити особисті дані</string>
