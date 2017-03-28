@@ -1,2 +1,2 @@
 # miui-uk
-Перевод от Zhenya Bentezhniy и Mr Victor
+Перевод MIUI 7/8 от Zhenya Bentezhniy и Mr Victor
