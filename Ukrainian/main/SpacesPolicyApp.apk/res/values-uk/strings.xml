@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="btn_title_cancel">Відміна</string>
+     <string name="btn_title_force">Примусово</string>
+     <string name="dialog_download_space_cancel">Відміна</string>
+     <string name="dialog_download_space_create">OK</string>
+     <string name="dialog_download_space_title">Завантажити простір?</string>
+     <string name="dialog_space_creating_text">Зачекайте</string>
+     <string name="dialog_space_creating_title">Створити новий простір</string>
+     <string name="pref_desc_sscm_force_connection">Переведіть SSCM websocket для перепідключення</string>
+     <string name="pref_title_sscm_force_connection">Примусове підключення SSCM</string>
+     <string name="toast_space_creation_failed">Помилка створення простору</string>
+     <string name="uri_invalid">URI або QR код не становлять безпечний простір</string>
+     <string name="uri_invalid_server_url">Невірне посилання сервера в зареєстрованому URI</string>
+     <string name="uri_missing_registration_token">Порожній або відсутній токен реєстрації в зареєстрованому URI</string>
+</resources>

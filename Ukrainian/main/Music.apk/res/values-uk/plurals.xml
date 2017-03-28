@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Видалити %d плейлистів?</item>
+        <item quantity="one">Видалити %d плейлист?</item>
+        <item quantity="few">Видалити %d плейлиста?</item>
+        <item quantity="many">Видалити %d плейлистів?</item>
+     </plurals>
+	 <plurals name="Nalbum_total_songs">
+        <item quantity="other">Всього пісень: %d</item>
+        <item quantity="zero">Всього пісень: %d</item>
+        <item quantity="one">Всього пісень: %d</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+        <item quantity="other">Синхронізація музики. Залишилося %1$d пісень (%2$.1f МБ)</item>
+        <item quantity="one">Синхронізація музики. Залишилося %1$d пісня (%2$.1f МБ)</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Створено %1$s | Всього пісень: %2$d</item>
+        <item quantity="zero">Створено %1$s | Всього пісень: %2$d</item>
+        <item quantity="one">Створено %1$s | Всього пісень: %2$d</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d пісень не синхронізовані з Mi Cloud. Зупинити зараз?"</item>
+        <item quantity="one">"%d пісня не синхронізована з Mi Cloud. Зупинити зараз?"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Синхронізація %1$d пісень (%2$.1f МБ)</item>
+        <item quantity="one">Сінхронизація %1$d пісні (%2$.1f МБ)</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Видалити %d пісень з Mi Cloud?</item>
+        <item quantity="one">Видалити %d пісню з Mi Cloud?</item>
+     </plurals>
+     <plurals name="NTrackstoDownload">
+        <item quantity="other">Треків завантажено: %d</item>
+        <item quantity="one">Трек завантажено</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">Ви можете завантажити %d преміум треку цього місяця. Завантажити?</item>
+        <item quantity="one">Ви можете завантажити %d преміум трек цього місяця. Завантажити?</item>
+        <item quantity="few">Ви можете завантажити %d преміум трека цього місяця. Завантажити?</item>
+        <item quantity="many">Ви можете завантажити %d преміум треку цього місяця. Завантажити?</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">Ви можете завантажити %d преміум треків цього місяця</item>
+        <item quantity="one">Ви можете завантажити %d преміум трек цього місяця</item>
+        <item quantity="few">Ви можете завантажити %d преміум трека цього місяця</item>
+        <item quantity="many">Ви можете завантажити %d преміум треків цього місяця</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">%d виконавців</item>
+        <item quantity="one">%d виконавець</item>
+        <item quantity="few">%d виконавця</item>
+        <item quantity="many">%d виконавців</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Залишилось днів: %d</item>
+        <item quantity="one">Залишилось днів: %d</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d груп</item>
+        <item quantity="one">%d група</item>
+        <item quantity="few">%d групи</item>
+        <item quantity="many">%d груп</item>
+     </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">Додано треків: %d</item>
+        <item quantity="one">Додано треків: %d</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">Нових: %d</item>
+        <item quantity="one">Нових: %d</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Відтворення завершиться через %d хвилин</item>
+        <item quantity="one">Відтворення завершиться через %d хвилину</item>
+        <item quantity="few">Відтворення завершиться через %d хвилини</item>
+        <item quantity="many">Відтворення завершиться через %d хвилин</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">Додано треків в плейлист: %d</item>
+        <item quantity="one">Трек додано в плейлист</item>
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">Треків: %d</item>
+        <item quantity="one">Треків: %d</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Видалено треків з плейлиста: %d</item>
+        <item quantity="one">Трек видалено з плейлиста</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">Знайдено треків: %d</item>
+        <item quantity="one">Знайдено треків: %d</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">Схожих треків: %d</item>
+        <item quantity="one">Схожих треків: %d</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d треків не завантажено (%2$.1f Мб)"</item>
+        <item quantity="one">"%1$d трек не завантажено (%2$.1f Мб)"</item>
+        <item quantity="few">"%1$d треки не завантажено (%2$.1f Мб)"</item>
+        <item quantity="many">"%1$d треків не завантажено (%2$.1f Мб)"</item>
+     </plurals>
+     <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Треків: %d</item>
+        <item quantity="one">Треків: %d</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%d відгуків</item>
+        <item quantity="one">%d відгук</item>
+        <item quantity="few">%d відгуки</item>
+        <item quantity="many">%d відгуків</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Видалити %d треків?</item>
+        <item quantity="one">Видалити %d трек?</item>
+        <item quantity="few">Видалити %d трека?</item>
+        <item quantity="many">Видалити %d треків?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Видалити %d треків?</item>
+        <item quantity="one">Видалити %d трек?</item>
+        <item quantity="few">Видалити %d трека?</item>
+        <item quantity="many">Видалити %d треків?</item>
+     </plurals>
+     <plurals name="download_finished">
+        <item quantity="other">Завантажено %d треків</item>
+        <item quantity="one">Завантажено %d трек</item>
+        <item quantity="few">Завантажено %d треки</item>
+        <item quantity="many">Завантажено %d треків</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">Завантаження %d треків…</item>
+        <item quantity="one">Завантаження %d треків…</item>
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">Треків: %d</item>
+        <item quantity="one">Треків: 1</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d читачів</item>
+        <item quantity="one">%d читач</item>
+        <item quantity="few">%d читачі</item>
+        <item quantity="many">%d читачів</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">Відправлено треків: %d</item>
+        <item quantity="one">Трек відправлений</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Вже додано до обраних</item>
+        <item quantity="one">Вже додано до обраних</item>
+     </plurals>
+</resources>

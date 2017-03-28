@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Використовувати для першого користувача</item>
+        <item>Використовувати для другого користувача</item>
+        <item>Використовувати для обох користувачів</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Дані програми будуть очищені</item>
+        <item>Дані програми будуть очищені</item>
+        <item>Попередження</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>"Дані програми будуть очищені після переміщення в пам'ять для першого користувача"</item>
+        <item>"Дані програми будуть очищені після переміщення в пам'ять для другого користувача"</item>
+        <item>Додатки використовуються для обох користувачів</item>
+    </string-array>
+</resources>

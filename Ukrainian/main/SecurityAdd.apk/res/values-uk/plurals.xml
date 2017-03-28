@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Додано ігор: %d</item>
+        <item quantity="one">Додано ігор: %d</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Не додано: %d</item>
+        <item quantity="one">Не додано: %d</item>
+    </plurals>
+	<plurals name="find_applications">
+        <item quantity="other">Пошук серед %d додатків</item>
+        <item quantity="one">Пошук серед %d додатку</item>
+     </plurals>
+     <plurals name="found_apps_title">
+        <item quantity="other">Знайдено додатків: %d</item>
+        <item quantity="zero">Знайдено додатків: 0</item>
+        <item quantity="one">Знайдено додатків: %d</item>
+     </plurals>
+</resources>

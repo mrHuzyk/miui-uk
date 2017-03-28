@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+	 <string name="unlockscreen_quick_charging_message">Швидка зарядка %d%%</string>
+	 <string name="input_password_after_boot_msg_must_enter_owner_space">Необхідно перейти в режим першого користувача після перезавантаження пристрою</string>
+	 <string name="keyguard_charging_info_battery_temperature_text">Температура батареї</string>
+     <string name="keyguard_charging_info_battery_used_time_text">Час використання</string>
+     <string name="keyguard_charging_info_charging_full_need_hour_time__text">До завершення заряду %d г.</string>
+     <string name="keyguard_charging_info_charging_full_need_min_time__text">До завершення заряду %d хв.​</string>
+     <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">До завершення заряду %d г. %d хв.</string>
+     <string name="keyguard_charging_info_charging_text">Зарядка</string>
+     <string name="keyguard_charging_info_charging_voltage_text">Напруга</string>
+     <string name="keyguard_charging_info_click_to_detail">Подивитися подробиці</string>
+     <string name="keyguard_charging_info_could_use_hour_time_text">Залишилося близько %d г.</string>
+     <string name="keyguard_charging_info_could_use_min_time_text">Залишилося близько %d хв.</string>
+     <string name="keyguard_charging_info_could_use_time_text" formatted="false">Залишилося близько %d г. %d хв.</string>
+     <string name="keyguard_charging_info_current_now_text">Моніторинг</string>
+     <string name="keyguard_charging_info_data_c">%s℃</string>
+     <string name="keyguard_charging_info_data_ma">%s mA</string>
+     <string name="keyguard_charging_info_data_percent">%s%%</string>
+     <string name="keyguard_charging_info_data_v">%s V</string>
+     <string name="keyguard_charging_info_drained_hour_time_format">%d г.</string>
+     <string name="keyguard_charging_info_drained_min_time_format">%d хв.</string>
+     <string name="keyguard_charging_info_drained_power_percent_text">Розрядиться</string>
+     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d г. %d хв.</string>
+     <string name="keyguard_charging_info_finished_charging_text">Повністю заряджений</string>
+     <string name="keyguard_charging_info_last_charge_time">d/MM HH:mm</string>
+     <string name="keyguard_charging_info_last_charge_today_time">Сьогодні %s</string>
+     <string name="keyguard_charging_info_last_charge_yesterday_time">Вчора %s</string>
+     <string name="keyguard_charging_info_last_charged_time_text">Остання зарядка</string>
+     <string name="keyguard_charging_info_tip_text1">Заряджайте пристрій при мінімум 10%, щоб продовжити термін служби батареї</string>
+     <string name="keyguard_charging_info_tip_text2">Не перезаряджайте пристрій. Краще кілька зарядок ввечері, ніж, залишати на всю ніч.</string>
+     <string name="keyguard_charging_info_tip_text3">Уникайте зарядки пристрою, коли температура навколишнього середовища нижче 0℃</string>
+     <string name="keyguard_charging_info_tip_text4">Не використовуйте активно пристрій під час його зарядки, щоб уникнути перегріву</string>
+     <string name="keyguard_charging_info_tip_text5">Зарядка батареї відбувається довше, якщо вона гарячіша, ніж зазвичай</string>
+     <string name="keyguard_charging_info_tip_text6">Вимкніть екран і приберіть пристрій в сторону, щоб охолодити його</string>
+     <string name="phone_locked_foget_password">Забули пароль?</string>
+     <string name="phone_locked_foget_password_content">"Ви можете зайти на i.mi.com і увійти в Мі аккаунт, який пов'язаний з цим пристроєм очистити всі дані. Це дозволить видалити всі особисті дані на цьому пристрої. Після цього, Ви можете перезавантажити пристрій і відновити контакти, повідомлення, фотографії та інші предмети з Мі Cloud." 
+
+Ви не зможете зробити це, якщо увійшли не в свій Mi аккаунт на цьому пристрої. В іншому випадку, Вам доведеться прошити пристрій ще раз."</string>
+     <string name="phone_locked_foget_password_footer">"Кроки:
+Увійдіть в аккаунт на i.mi.com, потім перейдіть на "Пошук пристрою", виберіть пристрій і натисніть Очистити пристрій."</string>
+     <string name="phone_locked_foget_password_header">Що робити, якщо я забув свій пароль?</string>
+     <string name="phone_locked_foget_password_ok">OK</string>
+     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth пристрій знаходиться занадто далеко, щоб розблокувати.</string>
+     <string name="click_to_enter_text">Відкрити</string>
+     <string name="confirm_pin_msg">Введіть PIN повторно</string>
+     <string name="contact_carrier_message">"Зв'яжіться з вашим мобільним оператором, якщо виникли питання."</string>
+     <string name="custom_lock_wallpaper_enter">Відкрити</string>
+     <string name="default_lockscreen_unlock_hint_text">Розблокувати</string>
+     <string name="delete">Очистити</string>
+     <string name="emergency_call_string">Екстрений виклик</string>
+     <string name="experimental_try_string">Повторити</string>
+     <string name="experimental_validate">Перевірка</string>
+     <string name="experimental_validate_fail">Помилка авторизації</string>
+     <string name="experimental_validate_password">Пароль</string>
+     <string name="experimental_validate_progress">Авторизація...</string>
+     <string name="experimental_validate_thanks">Дякуємо!</string>
+     <string name="experimental_validate_username">"Ім'я користувача"</string>
+     <string name="experimental_validate_warning">Дякуємо за допомогу, ви допомагаєте робити MIUI краще!</string>
+     <string name="find_device_check_sim">Перевірка SIM карти...</string>
+     <string name="find_device_turn_off_flight_mode">Вимкнути режим польоту</string>
+     <string name="find_device_turn_off_flight_mode_instructions">Ваш телефон заблоковано. будь ласка, вимкніть режим польоту.</string>
+     <string name="fingerprint_add_text">Інтерфейс сканування відбитків оновлено. Додайте відбитки знову.</string>
+     <string name="fingerprint_add_title">Додати відбиток</string>
+     <string name="fingerprint_enter_second_psw_msg">Введіть пароль другого користувача після перезавантаження пристрою для використання сканера відбитків</string>
+     <string name="fingerprint_enter_second_psw_title">Пароль другого користувача</string>
+     <string name="fingerprint_lockout_msg">Спробуйте розблокувати за допомогою відбитка пальця через хвилину</string>
+     <string name="fingerprint_not_identified_msg">Введіть пароль для розблокування пристрою</string>
+     <string name="fingerprint_not_identified_title">Помилка сканування відбитку</string>
+     <string name="fingerprint_try_again_text">Повторити</string>
+     <string name="forget_password_string">Забули пароль</string>
+     <string name="incorrect_pincode">Невірний PIN код</string>
+     <string name="incorrect_pincode_remaining_attempts">Невірний PIN код. Залишилось спроб: %d</string>
+     <string name="incorrect_pukcode">Невірний код PUK</string>
+     <string name="incorrect_pukcode_remaining_attempts">Невірний код PUK. Залишилось спроб: %d</string>
+     <string name="input_password_after_boot_msg">Після перезавантаження пристрою необхідно буде ввести пароль</string>
+     <string name="input_password_hint_text">Введіть пароль</string>
+     <string name="input_pattern_hint_text">Введіть ключ</string>
+     <string name="input_pin_code">Введіть PIN</string>
+     <string name="input_pin_code_to_unlock">Введіть PIN код для розблокування пристрою</string>
+     <string name="input_puk_code">Введіть код PUK</string>
+     <string name="input_puk_code_to_unlock">Введіть PUK-код для розблокування пристрою</string>
+     <string name="invalid_confirm_pin_hint">PIN коди не співпадають</string>
+     <string name="invalid_sim_pin_hint">Введіть PIN-код з 4-8 цифр</string>
+     <string name="invalid_sim_puk_hint">PUK-код складаєтьсяз 8 цифр чи більше</string>
+     <string name="keyguard_torch_cover_text">Щоб ліхтарик не погас, натисніть клавішу живлення.</string>
+     <string name="left_action_default_hint_text">Телефон</string>
+     <string name="lock_screen_date">"d MMMM yyyy 
+EEEE"</string>
+     <string name="lock_screen_date_12">"d MMMM yyyy
+EEEE"</string>
+     <string name="lock_wallpaper_enter">Введення</string>
+     <string name="lock_wallpaper_learn_more">Ще ></string>
+     <string name="lock_wallpaper_see_more">Ще ></string>
+     <string name="lockscreen_access_pattern_cell_added">Оператор доданий</string>
+     <string name="lockscreen_access_pattern_cleared">Ключ очищений</string>
+     <string name="lockscreen_access_pattern_detected">Кінець ключа</string>
+     <string name="lockscreen_access_pattern_start">Початок ключа</string>
+     <string name="lockscreen_charging_msg">Зарядка</string>
+     <string name="lockscreen_emergency_call">Екстрений виклик</string>
+     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Ви ввели пароль невірно %d раз(а). Після %d невірних спроб всі дані будуть очищені і відновлені заводські налаштування.</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб вводу вам буде запропоновано розблокувати телефон за допомогою Mi облікового запису.
+
+Повторіть спробу через %d секунд."</string>
+     <string name="lockscreen_failed_attempts_now_wiping">Ви ввели пароль невірно %d раз(а). Всі дані будуть очищені і відновлені заводські налаштування.</string>
+     <string name="lockscreen_forgot_pattern_button_text">Відновити</string>
+     <string name="lockscreen_glogin_checking_password">Перевірка...</string>
+     <string name="lockscreen_glogin_forgot_pattern">Розблокувати обліковий запис</string>
+     <string name="lockscreen_glogin_instructions">Ввійдіть в Mi акаунт для розблокування</string>
+     <string name="lockscreen_glogin_invalid_input">"Невірне ім'я користувача або пароль"</string>
+     <string name="lockscreen_glogin_password_hint">Пароль</string>
+     <string name="lockscreen_glogin_submit_button">Вхід</string>
+     <string name="lockscreen_glogin_too_many_attempts">Занадто багато спроб введення</string>
+     <string name="lockscreen_pattern_instructions">Намалюйте графічний ключ</string>
+     <string name="lockscreen_pattern_wrong">Невірний ключ</string>
+     <string name="lockscreen_too_many_failed_attempts_countdown">Повторіть спробу через %d секунд.</string>
+     <string name="lockscreen_transport_next_description">Далі</string>
+     <string name="lockscreen_transport_play_description">Клавіша відтворення</string>
+     <string name="lockscreen_transport_prev_description">Назад</string>
+     <string name="login_website_in_case_forget_password">Для скидання пароля, перейдіть на сайт \"i.mi.com\".</string>
+     <string name="missed_call_text">Пропущених викликів: %d</string>
+     <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковано Bluetooth пристроєм</string>
+     <string name="miui_unlockscreen_password_wrong">Невірний ключ</string>
+     <string name="open_camera_hint_text">Проведіть ліворуч для доступу до \"%s\"</string>
+     <string name="open_remote_center_hint_text">Проведіть праворуч для доступу до \"%s\"</string>
+     <string name="open_wifi_settings">"Відкрити мережеві з'єднання"</string>
+     <string name="phone_locked_string">Телефон заблоковано</string>
+     <string name="phone_locked_timeout_minutes_string">Повторіть спробу через %s хв.</string>
+     <string name="phone_locked_timeout_seconds_string">Повторіть спробу через %s сек.</string>
+     <string name="pin_operation_failed">Помилка PIN коду</string>
+     <string name="pincode_set_to_default_msg">Встановлений PIN код 1234, ви можете змінити його тут:</string>
+     <string name="puk_operation_failed">Помилка PUK коду</string>
+     <string name="return_to_me_message">Ви можете повернутися</string>
+     <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки \"Назад\"+\"Гучність +\"</string>
+     <string name="screen_on_proximity_sensor_summary">Використовувати датчик наближення для запобігання випадкових натискань на екран заблокованого телефону</string>
+     <string name="screen_on_proximity_sensor_title">Запобігання випадкових натискань</string>
+     <string name="set_lock_wallpaper_failed">Нових шпалер немає</string>
+     <string name="short_pincode_error_msg">Введіть 4-8 цифр</string>
+     <string name="short_pukcode_error_msg">Необхідно ввести не менше 8 цифр</string>
+     <string name="starting_camera_string">Запуск камери</string>
+     <string name="symbol_colon">:</string>
+     <string name="unlock_sim_string">Розблок. SIM</string>
+     <string name="unlock_string">OK</string>
+     <string name="unlocking_sim_card">Розблокування SIM карти</string>
+     <string name="unlockscreen_low_battery">Батарея розряджена</string>
+     <string name="unlockscreen_recharge_completed">Батарея заряджена</string>
+     <string name="unlockscreen_recharging_message">Зарядка: %d%%</string>
+     <string name="wrong_password">Невірний пароль</string>
+</resources>

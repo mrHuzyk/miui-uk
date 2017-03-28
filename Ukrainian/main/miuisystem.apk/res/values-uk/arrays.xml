@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>Підготовлення до оновлення…</item>
+        <item>Оновлення системи…</item>
+        <item>Оптимізація застосунків…</item>
+        <item>Оптимізація застосунків…</item>
+        <item>Завершення оновлення…</item>
+    </string-array>
+	<string-array name="cta_permission_names">
+        <item>Доступ до мережі</item>
+        <item>Перегляд SMS</item>
+        <item>Редагування SMS</item>
+        <item>Вхідні SMS</item>
+        <item>Відправити SMS</item>
+        <item>Здійснення виклику</item>
+        <item>Перегляд контактів</item>
+        <item>Редагування контактів</item>
+        <item>Перегляд журналу викликів</item>
+        <item>Редагування журналу викликів</item>
+        <item>Доступ до камери</item>
+        <item>Доступ до місцезнаходження</item>
+     </string-array>
+</resources>

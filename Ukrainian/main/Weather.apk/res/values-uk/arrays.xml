@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="indices_car_wash">
+        <item>Радимо</item>
+        <item>Не радимо</item>
+     </string-array>
+	 <string-array name="aqi_detail_title">
+        <item>Хороший</item>
+        <item>Нормальний</item>
+        <item>Помірний</item>
+        <item>Забруднений</item>
+        <item>Брудний</item>
+        <item>Поганий</item>
+     </string-array>
+     <string-array name="breeze">
+        <item>&lt;сила 2</item>
+        <item>&lt;6.0 км/г</item>
+        <item>&lt;1.7 м/с</item>
+        <item>&lt;3.7 миль/г</item>
+        <item>&lt;3.2 вуз</item>
+     </string-array>
+     <string-array name="wind_direction_simple">
+        <item>Пн</item>
+        <item>ПнСх</item>
+        <item>Сх</item>
+        <item>ПдСх</item>
+        <item>Пд</item>
+        <item>ПдЗх</item>
+        <item>Зх</item>
+        <item>ПнЗх</item>
+     </string-array>
+     <string-array name="wind_unit_detail">
+        <item>За шкалою Бофорта</item>
+        <item>Кілометрів за годину</item>
+        <item>Метрів в секунду</item>
+        <item>Миль за годину</item>
+        <item>Вузлів</item>
+     </string-array>
+     <string-array name="wind_unit_replace">
+        <item>Сила %1$s</item>
+        <item>%1$s км/г</item>
+        <item>%1$s м/с</item>
+        <item>%1$s миль/г</item>
+        <item>%1$s вуз</item>
+     </string-array>
+     <string-array name="wind_unit_simple">
+        <item>шкала Бофорта</item>
+        <item>км/г</item>
+        <item>м/с</item>
+        <item>миль/г</item>
+        <item>вуз</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Радимо</item>
+        <item>Не радимо</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Низький</item>
+        <item>Помірний</item>
+        <item>Високий</item>
+     </string-array>
+     <string-array name="update_check_interval_entries">
+        <item>5 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>6 годин</item>
+        <item>12 годин</item>
+        <item>Доба</item>
+        <item>Власноруч</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>Туман</item>
+        <item>Буря</item>
+        <item>Шторм</item>
+        <item>Сильна злива</item>
+        <item>Гроза</item>
+        <item>Дощ</item>
+        <item>Злива</item>
+        <item>Дощ</item>
+        <item>Невеликий дощ</item>
+        <item>Сніг з дощем</item>
+        <item>Заметіль</item>
+        <item>Сніг</item>
+        <item>Снігопад</item>
+        <item>Легкий сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Курний шторм</item>
+        <item>Піщана буря</item>
+        <item>Помірний пил</item>
+        <item>Вітряно</item>
+        <item>Град</item>
+        <item>Пил</item>
+        <item>Димка</item>
+        <item>Морозний дощ</item>
+        <item>Немає даних</item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>Вітер З</item>
+        <item>Вітер ПС</item>
+        <item>Вітер С</item>
+        <item>Вітер ПС</item>
+        <item>Вітер П</item>
+        <item>Вітер ПС</item>
+        <item>Вітер З</item>
+        <item>Вітер ПЗ</item>
+     </string-array>
+	 <string-array name="aqi_title_prefix">
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+       <item>ІЯП %1$s</item>
+    </string-array>
+    <string-array name="hot_city">
+       <item>Пекін</item>
+       <item>Шанхай</item>
+       <item>Гонконг</item>
+       <item>Тайбей</item>
+       <item>Джакарта</item>
+       <item>Делі</item>
+       <item>Мумбаї</item>
+       <item>Столиця Московії</item>
+       <item>Хідерабад</item>
+       <item>Ченнаї</item>
+       <item>Стамбул</item>
+       <item>Ріо-де-Жанейро</item>
+       <item>Сінгапур</item>
+       <item>Берлін</item>
+       <item>Рим</item>
+       <item>Нью-Йорк</item>
+       <item>Лос-Анджелес</item>
+       <item>Чікаго</item>
+       <item>Токіо</item>
+       <item>Париж</item>
+       <item>Бангкок</item>
+       <item>Сеул</item>
+       <item>Куала-Лумпур</item>
+    </string-array>
+    <string-array name="moon_desc">
+       <item>Новий місяць</item>
+       <item>Молодий місяць</item>
+       <item>Перша чверть</item>
+       <item>Зростаючий місяць</item>
+       <item>Повний місяць</item>
+       <item>Спадаючий місяць</item>
+       <item>Остання чверть</item>
+       <item>Спадаючий місяць</item>
+       <item>Старий місяць</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+       <item>Низький</item>
+       <item>Середній</item>
+       <item>Помірний</item>
+       <item>Високий</item>
+       <item>Небезпечний</item>
+    </string-array>
+    <string-array name="aqi_value">
+       <item>Добрий</item>
+       <item>Нормальний</item>
+       <item>Помірний</item>
+       <item>Забруднений</item>
+       <item>Забруднений</item>
+       <item>Поганий</item>
+    </string-array>
+</resources>

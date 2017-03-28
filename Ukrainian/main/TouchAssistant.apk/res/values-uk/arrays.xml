@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="enabled_for_pad_entries">
+        <item>Вимкнено</item>
+        <item>Увімкнено</item>
+        <item>Увімкнено лише у альбомному режимі</item>
+     </string-array>
+     <string-array name="motion_behavior_entries">
+        <item>Свайп</item>
+        <item>Натискання</item>
+     </string-array>
+</resources>

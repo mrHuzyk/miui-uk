@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
+        <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
+     </plurals>
+	 <plurals name="backup_after_hours">
+        <item quantity="other">Відновлення синхронізації через %d г.</item>
+        <item quantity="one">Відновлення синхронізації через %d г.</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+        <item quantity="other">%d фото та відео | Призупинено</item>
+        <item quantity="one">%d фото чи відео | Призупинено</item>
+     </plurals>
+     <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d фото та відео | %2$s</item>
+        <item quantity="one">%1$d фото чи відео | %2$s</item>
+     </plurals>
+     <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d фото та відео</item>
+        <item quantity="one">%1$d фото чи відео</item>
+     </plurals>
+     <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+     </plurals>
+     <plurals name="download_retry_message">
+        <item quantity="other">Не вдалося завантажити %1$d файлів. Перевірте настройки мережі та повторіть.</item>
+        <item quantity="one">Не вдалося завантажити %1$d файл. Перевірте настройки мережі та повторіть.</item>
+     </plurals>
+     <plurals name="file_count_format">
+        <item quantity="other">Всього файлів: %1$d</item>
+        <item quantity="one">Всього файлів: %1$d</item>
+     </plurals>
+     <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Знайдено нових фото: %1$d</item>
+        <item quantity="one">Знайдено нове фото</item>
+     </plurals>
+     <plurals name="sync_error_title">
+        <item quantity="other">Не синхронізовано %d фото та відео</item>
+        <item quantity="one">Не синхронізовано %d фото та відео</item>
+     </plurals>
+     <plurals name="sync_total_count">
+        <item quantity="other">%d файлів</item>
+        <item quantity="one">%d файл</item>
+     </plurals>
+	 <plurals name="face_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="age_day">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d днів</item>
+     </plurals>
+     <plurals name="age_month">
+        <item quantity="other">%d місяців</item>
+        <item quantity="one">%d місяць</item>
+        <item quantity="few">%d місяці</item>
+        <item quantity="many">%d місяців</item>
+     </plurals>
+     <plurals name="age_year">
+        <item quantity="other">%d років</item>
+        <item quantity="one">%d рік</item>
+        <item quantity="few">%d роки</item>
+        <item quantity="many">%d років</item>
+     </plurals>
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">%d користувачів</item>
+        <item quantity="one">%d користувач</item>
+        <item quantity="few">%d користувачі</item>
+        <item quantity="many">%d користувачів</item>
+     </plurals>
+     <plurals name="album_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d файлів | %2$s</item>
+        <item quantity="one">%1$d файл | %2$s</item>
+        <item quantity="few">%1$d файли | %2$s</item>
+        <item quantity="many">%1$d файлів | %2$s</item>
+     </plurals>
+     <plurals name="album_item_msg_format">
+        <item quantity="other">, включаючи %d файлів</item>
+        <item quantity="one">, включаючи %d файл</item>
+        <item quantity="few">, включаючи %d файли</item>
+        <item quantity="many">, включаючи %d файлів</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d дн.</item>
+        <item quantity="one">%1$d дн.</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_month">
+        <item quantity="other">Місяців: %1$d</item>
+        <item quantity="one">Місяць: %1$d</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"Вік: %1$d "</item>
+        <item quantity="one">"Вік: %1$d "</item>
+        <item quantity="few">"Вік: %1$d "</item>
+        <item quantity="many">"Вік: %1$d "</item>
+     </plurals>
+     <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">Користувачів: %1$d</item>
+        <item quantity="one">Користувачів: %1$d</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d фото від \"%2$s\" буде додано</item>
+        <item quantity="one">%1$d фото від \"%2$s\" буде додано</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d фото від \"%2$s\" буде додано</item>
+        <item quantity="one">%1$d фото від \"%2$s\" буде додано</item>
+     </plurals>
+     <plurals name="backup_waiting">
+        <item quantity="other">%1$d файлів очікують синхронізацію</item>
+        <item quantity="one">%1$d файл очікує синхронізацію</item>
+        <item quantity="few">%1$d файли очікують синхронізацію</item>
+        <item quantity="many">%1$d файлів очікують синхронізацію</item>
+     </plurals>
+     <plurals name="backuped">
+        <item quantity="other">Синхронізовано %1$d файлів</item>
+        <item quantity="one">Синхронізовано %1$d файл</item>
+        <item quantity="few">Синхронізовано %1$d файли</item>
+        <item quantity="many">Синхронізовано %1$d файлів</item>
+     </plurals>
+     <plurals name="cloud_space_full">
+        <item quantity="other">"Пам'ять в Mi Cloud заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+        <item quantity="one">"Пам'ять в Mi Cloud заповнена. 
+%1$d файл очікує синхронізацію."</item>
+        <item quantity="few">"Пам'ять в Mi Cloud заповнена. 
+%1$d файли очікують синхронізацію."</item>
+        <item quantity="many">"Пам'ять в Mi Cloud заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+     </plurals>
+     <plurals name="confirm_delete_album">
+        <item quantity="other">Видалити альбоми: %1$s (всього: %2$s)?</item>
+        <item quantity="one">Видалити альбоми: %1$s (всього: %2$s)?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Видалити %s фото з Mi Cloud?</item>
+        <item quantity="one">Видалити %s фото з Mi Cloud?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Видалити %s фото из Mi Cloud?</item>
+        <item quantity="one">Видалити %s фото из Mi Cloud?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Видалити обране з альбому? (%s)</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Видалити обране з Mi Cloud? (%s)</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">"Видалити %s фото з пам'яті телефону та Mi Cloud?"</item>
+        <item quantity="one">"Видалити %s фото з пам'яті телефону та Mi Cloud?"</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">"Видалити %s фото з пам'яті пристрою та Mi Cloud?"</item>
+        <item quantity="one">"Видалити %s фото з пам'яті пристрою та Mi Cloud?"</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">"Видалити обране з пам'яті пристрою та Mi Cloud? (%s)"</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">"Видалити %s відео з пам'яті телефону та Mi Cloud?"</item>
+        <item quantity="one">"Видалити %s відео з пам'яті телефону та Mi Cloud?"</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">"Видалити %s відео з пам'яті пристрою та Mi Cloud?"</item>
+        <item quantity="one">"Видалити %s відео з пам'яті пристрою та Mi Cloud?"</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Видалити %s відео з Mi Cloud?</item>
+        <item quantity="one">Видалити %s відео з Mi Cloud?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Видалити %s відео з Mi Cloud?</item>
+        <item quantity="one">Видалити %s відео з Mi Cloud?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Видалити %s фото?</item>
+        <item quantity="one">Видалити %s фото?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Видалити обране? (%s)</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Видалити %s відео?</item>
+        <item quantity="one">Видалити %s відео?</item>
+     </plurals>
+     <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">Видалити %1$d фото з альбому (%2$d)?</item>
+        <item quantity="one">Видалити %1$d фото з альбому (%2$d)?</item>
+     </plurals>
+     <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" &lt;Data> Видалити &amp;amp;lt;xliff:g id=ITEM>%1$d відео&amp;amp;lt;/xliff:g> із альбомів (%2$d)?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Видалити &amp;amp;lt;xliff:g id=ITEM>%1$d відео&amp;amp;lt;/xliff:g> із альбомів (%2$d)?&lt;/Data> "</item>
+     </plurals>
+     <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+     </plurals>
+     <plurals name="delete_media_msg_format">
+        <item quantity="other">Видалити %1$d файлів %2$s?</item>
+        <item quantity="one">Видалити %1$d файл %2$s?</item>
+        <item quantity="few">Видалити %1$d файли %2$s?</item>
+        <item quantity="many">Видалити %1$d файлів %2$s?</item>
+     </plurals>
+     <plurals name="delete_photo_msg_format">
+        <item quantity="other">Видалити %1$d фото %2$s?</item>
+        <item quantity="one">Видалити %1$d фото %2$s?</item>
+     </plurals>
+     <plurals name="delete_video_msg_format">
+        <item quantity="other">Видалити %1$d відео %2$s?</item>
+        <item quantity="one">Видалити %1$d відео %2$s?</item>
+     </plurals>
+     <plurals name="download_error">
+        <item quantity="other">Помилка завантаження %1$d файлів</item>
+        <item quantity="one">Помилка завантаження %1$d файлу</item>
+     </plurals>
+     <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Не вдалося обробити %1$d фото. Пропустити.</item>
+        <item quantity="one">Обрабка одного фото не вдалася. Пропустити.</item>
+     </plurals>
+     <plurals name="how_many_pics">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="how_many_sub_folders">
+        <item quantity="other">Папок: %d</item>
+        <item quantity="one">Папок: %d</item>
+     </plurals>
+     <plurals name="how_many_videos">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+     </plurals>
+     <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Не показувати обрані обличчя?</item>
+        <item quantity="one">Не показувати обране обличчя?</item>
+     </plurals>
+     <plurals name="local_space_full">
+        <item quantity="other">"Пам'ять пристрою заповнена. 
+%1$d файл очікує синхронізацію."</item>
+        <item quantity="one">"Пам'ять пристрою заповнена. 
+%1$d файл очікує синхронізацію."</item>
+        <item quantity="few">"Пам'ять пристрою заповнена. 
+%1$d файли очікують синхронізацію."</item>
+        <item quantity="many">"Пам'ять пристрою заповнена. 
+%1$d файлів очікують синхронізацію."</item>
+     </plurals>
+     <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Немає доступу для видалення цих файлів (%d)</item>
+        <item quantity="one">Немає доступу для видалення цих файлів (%d)</item>
+     </plurals>
+     <plurals name="more_face">
+        <item quantity="other">Нові обличчя (%1$s) можуть також стосуватись к %2$s >></item>
+        <item quantity="one">Нові обличчя (%1$s) можуть також стосуватись к %2$s >></item>
+     </plurals>
+     <plurals name="network_unsatisfied">
+        <item quantity="other">"Помилка підключення. 
+%1$d файлів очікують синхронізацію."</item>
+        <item quantity="one">"Помилка підключення. 
+%1$d файл очікує синхронізацію."</item>
+        <item quantity="few">"Помилка підключення. 
+%1$d файли очікують синхронізацію."</item>
+        <item quantity="many">"Помилка підключення. 
+%1$d файлів очікують синхронізацію."</item>
+     </plurals>
+     <plurals name="number_of_images">
+        <item quantity="other">Зображень: %1$d</item>
+        <item quantity="zero">Зображень: %1$d</item>
+        <item quantity="one">Зображень: %1$d</item>
+     </plurals>
+     <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d файлів для завантаження</item>
+        <item quantity="one">%1$d файл для завантаження</item>
+        <item quantity="few">%1$d файла для завантаження</item>
+        <item quantity="many">%1$d файлів для завантаження</item>
+     </plurals>
+     <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+     </plurals>
+     <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d фото для завантаження</item>
+        <item quantity="one">%1$d фото для завантаження</item>
+     </plurals>
+     <plurals name="number_of_items">
+        <item quantity="other">Файлів: %1$d</item>
+        <item quantity="zero">Файлів: %1$d</item>
+        <item quantity="one">Файлів: %1$d</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="zero">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
+     </plurals>
+     <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="number_of_uploading_images">
+        <item quantity="other">Завантаження %1$d фото…</item>
+        <item quantity="one">Завантаження %1$d фото…</item>
+     </plurals>
+     <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Завантаження %1$d файлів…</item>
+        <item quantity="one">Завантаження %1$d файла…</item>
+     </plurals>
+     <plurals name="number_of_uploading_videos">
+        <item quantity="other">Завантаження %1$d відео…</item>
+        <item quantity="one">Завантаження %1$d відео…</item>
+     </plurals>
+     <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d відео</item>
+        <item quantity="one">%1$d відео</item>
+     </plurals>
+     <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d відео для завантаження</item>
+        <item quantity="one">%1$d відео для завантаження</item>
+     </plurals>
+     <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Ви можете обрати елементів: %d</item>
+        <item quantity="one">Ви можете обрати елементів: %d</item>
+     </plurals>
+     <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Обрані фото відсутні в пам'яті пристрою, завантажити через мобільний інтернет?"</item>
+        <item quantity="one">"Обране фото відсутнє в пам'яті пристрою, завантажити через мобільний інтернет?"</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Обрані фото відсутні в пам'яті пристрою. Завантаження…"</item>
+        <item quantity="one">"Обране фото відсутні в пам'яті пристрою. Завантаження…"</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Обрані фото відсутні в пам'яті пристрою (%d Мб), завантажити через мобільний інтернет?"</item>
+        <item quantity="one">"Обране фото відсутні в пам'яті пристрою (%d Мб), завантажити через мобільний інтернет?"</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Скасувати завантаження %d залишку фото?</item>
+        <item quantity="one">Скасувати завантаження %d останнього фото?</item>
+     </plurals>
+     <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Не вдається завантажити %1$d фото. Необхідно під'єднатися до Інтернету."</item>
+        <item quantity="one">"Не вдається завантажити %1$d фото. Необхідно під'єднатися до Інтернету."</item>
+     </plurals>
+     <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
+        <item quantity="one">"Не вдається завантажити %1$d фото (%2$d Мб). Необхідно під'єднатися до Інтернету."</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Помилка завантаження %1$d фото. Завантажити повторно?</item>
+        <item quantity="one">Помилка завантаження %1$d фото. Завантажити повторно?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Помилка завантаження %1$d фото (%2$d Мб). Завантажити повторно?</item>
+        <item quantity="one">Помилка завантаження %1$d фото (%2$d Мб). Завантажити повторно?</item>
+     </plurals>
+     <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Пропущено %d фото, які збережені не у пам'яті пристрою"</item>
+        <item quantity="one">"Пропущено одне фото, які збережене не у пам'яті пристрою"</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+     </plurals>
+     <plurals name="sync_off">
+        <item quantity="other">"Синхронізація відключена. 
+%1$d файлів очікують на синхронізацію."</item>
+        <item quantity="one">"Синхронізація відключена. 
+%1$d файл очікує на синхронізацію."</item>
+        <item quantity="few">"Синхронізація відключена. 
+%1$d файли очікують на синхронізацію."</item>
+        <item quantity="many">"Синхронізація відключена. 
+%1$d файлів очікують на синхронізацію."</item>
+     </plurals>
+</resources>

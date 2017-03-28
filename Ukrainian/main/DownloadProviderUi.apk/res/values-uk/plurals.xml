@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Знайдено %d ресурсів</item>
+        <item quantity="one">Знайдено %d ресурс</item>
+        <item quantity="few">Знайдено %d ресурси</item>
+        <item quantity="many">Знайдено %d ресурсів</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Видалити %d файлів?</item>
+        <item quantity="one">Видалити %d файл?</item>
+        <item quantity="few">Видалити %d файли?</item>
+        <item quantity="many">Видалити %d файлів?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Знайдено %d результатів</item>
+        <item quantity="one">Знайдено %d результат</item>
+        <item quantity="few">Знайдено %d результати</item>
+        <item quantity="many">Знайдено %d результатів</item>
+    </plurals>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розроблювачів</item>
+        <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розроблювачів</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль повинен містити букви (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль повинен містити рядкові символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 малу літеру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль повинен містити заголовні букви (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 заголовну букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль повинен містити цифри (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль повинен містити спеціальні символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 спеціальний символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль повинен містити небуквені символи (не менш %d)</item>
+        <item quantity="one">Пароль повинен містити хоча б 1 небуквений символ</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">"Застосунків: %d 
+доступ до читання повідомлень"</item>
+        <item quantity="one">"Застосунків: %d 
+доступ до читання повідомлень"</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Невірний PIN код. Залишилося спроб: %d.</item>
+        <item quantity="one">Невірний PIN код. Залишилося спроб: %d.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Знайдено принтерів: %1$s</item>
+        <item quantity="one">Знайдено принтерів: %1$s</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+        <item quantity="one">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Залишилося натискань для входу в інженерне меню: %1$d</item>
+        <item quantity="one">Залишилося натискань для входу в інженерне меню: %1$d</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
+        <item quantity="one">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
+    </plurals>
+	<plurals name="manage_condition_providers_summary_nonzero">
+       <item quantity="other">Декілька застосунків (%d) задають умови</item>
+       <item quantity="one">%d застосунок задає умови</item>
+    </plurals>
+	<plurals name="status_bar_settings_disabled_header_title">
+       <item quantity="other">Застосунків без сповіщень: %s</item>
+       <item quantity="one">Застосунків без сповіщень: %s</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+       <item quantity="other">Застосунків зі сповіщенями: %s</item>
+       <item quantity="one">Застосунків зі сповіщенями: %s</item>
+    </plurals>
+	<plurals name="auto_disable_screenbuttons_disabled_header_title">
+       <item quantity="other">Увімкнені для %d застосунків</item>
+       <item quantity="one">Увімкнені для %d застосунку</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+       <item quantity="other">Вимкнені для %d застосунків</item>
+       <item quantity="one">Вимкнені для %d застосунку</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+       <item quantity="other">%d застосунків можуть відкривати свої підтримувані посилання</item>
+       <item quantity="zero">Немає застосунків, які можуть відкривати свої підтримувані посилання.</item>
+       <item quantity="one">%d застосунок може відкривати свої підтримувані посилання</item>
+       <item quantity="few">%d застосунок можуть відкривати свої підтримувані посилання</item>
+       <item quantity="many">%d застосунок можуть відкривати свої підтримувані посилання</item>
+    </plurals>
+    <plurals name="high_power_count">
+       <item quantity="other">%d застосункам дозволено ігнорувати оптимізацію батареї</item>
+       <item quantity="one">%d застосунку дозволено ігнорувати оптимізацію батареї</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+       <item quantity="other">"%1$d застосунків використовують пам'ять (%2$s)"</item>
+       <item quantity="one">"%1$d застосунок використовує пам'ять (%2$s)"</item>
+       <item quantity="few">"%1$d застосунків використовують пам'ять (%2$s)"</item>
+       <item quantity="many">"%1$d застосунків використовують пам'ять (%2$s)"</item>
+    </plurals>
+    <plurals name="permissions_summary">
+       <item quantity="other">Надається %d дозволів</item>
+       <item quantity="one">Надається %d дозвіл</item>
+       <item quantity="few">Надається %d дозволи</item>
+       <item quantity="many">Надається %d дозволів</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+       <item quantity="other">%d додаткових дозволів</item>
+       <item quantity="one">%d додатковий дозвіл</item>
+       <item quantity="few">%d додаткові дозволи</item>
+       <item quantity="many">%d додаткових дозволів</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+       <item quantity="other">Надається %1$d із %2$d дозволів</item>
+       <item quantity="one">Надається %1$d із %2$d дозвіл</item>
+       <item quantity="few">Надається %1$d із %2$d дозволи</item>
+       <item quantity="many">Надається %1$d із %2$d дозволів</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+       <item quantity="other">%1$d налаштувань відбитків пальців</item>
+       <item quantity="one">%1$d налаштування відбитків пальців</item>
+       <item quantity="few">%1$d налаштування відбитків пальців</item>
+       <item quantity="many">%1$d налаштувань відбитків пальців</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+       <item quantity="other">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
+       <item quantity="one">Зміна сигналу тільки протягом %1$d години до %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+       <item quantity="other">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
+       <item quantity="one">Зміна сигналу тільки протягом %1$d хвилини до %2$s</item>
+    </plurals>
+	<plurals name="connected_devices_number">
+       <item quantity="other">%d пристроїв</item>
+       <item quantity="one">%d пристрій</item>
+       <item quantity="few">%d пристрої</item>
+       <item quantity="many">%d пристроїв</item>
+    </plurals>
+</resources>

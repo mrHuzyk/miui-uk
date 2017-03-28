@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+    </plurals>
+	<plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Помилка експорту %d відео. Звільніть місце і повторіть.</item>
+        <item quantity="one">Помилка експорту %d відео. Звільніть місце і повторіть.</item>
+     </plurals>
+     <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d порожні файли) %2$s</item>
+        <item quantity="one">(%1$d порожній файл) %2$s</item>
+     </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d год.</item>
+        <item quantity="one">%d год.</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">Застосунки з автозапуском (%d)</item>
+        <item quantity="one">Застосунки з автозапуском (%d)</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">Застосунки без автозапуску (%d)</item>
+        <item quantity="one">Застосунки без автозапуску (%d)</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">Дозволів: %d</item>
+        <item quantity="one">Дозволів: %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">Застосунків: %d</item>
+        <item quantity="one">Застосунків: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
+        <item quantity="one">Застосунки з ROOT доступом(%d)</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
+        <item quantity="one">Застосунки з ROOT доступом (%d)</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Доступні оновлення застосунків: %d</item>
+        <item quantity="one">Доступні оновлення застосунків: %d</item>
+    </plurals>
+	<plurals name="hint_similar_image_header_left">
+       <item quantity="other">Груп: %d</item>
+       <item quantity="one">Груп: %d</item>
+    </plurals>
+	<plurals name="days_ago">
+       <item quantity="other">%1$d дн. тому</item>
+       <item quantity="zero">%1$d дн. тому</item>
+       <item quantity="one">%1$d дн. тому</item>
+       <item quantity="two">%1$d дн. тому</item>
+       <item quantity="few">%1$d дн. тому</item>
+       <item quantity="many">%1$d дн. тому</item>
+    </plurals>
+    <plurals name="hours_ago">
+       <item quantity="other">%1$d г. тому</item>
+       <item quantity="zero">%1$d г. тому</item>
+       <item quantity="one">%1$d г. тому</item>
+       <item quantity="two">%1$d г. тому</item>
+       <item quantity="few">%1$d г. тому</item>
+       <item quantity="many">%1$d г. тому</item>
+    </plurals>
+    <plurals name="million">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
+    <plurals name="mins_ago">
+       <item quantity="other">%1$d хв. тому</item>
+       <item quantity="zero">%1$d хв. тому</item>
+       <item quantity="one">%1$d хв. тому</item>
+       <item quantity="two">%1$d хв. тому</item>
+       <item quantity="few">%1$d хв. тому</item>
+       <item quantity="many">%1$d хв. тому</item>
+    </plurals>
+    <plurals name="people">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
+    <plurals name="people_million">
+       <item quantity="other">Завантажень: %1$d</item>
+    </plurals>
+	<plurals name="view_num">
+       <item quantity="other">Переглядів: %1$d</item>
+       <item quantity="zero">Переглядів: %1$d</item>
+       <item quantity="one">Переглядів: %1$d</item>
+       <item quantity="two">Переглядів: %1$d</item>
+       <item quantity="few">Переглядів: %1$d</item>
+       <item quantity="many">Переглядів: %1$d</item>
+    </plurals>
+	<plurals name="deepclean_app_summary">
+       <item quantity="other">Встановлено застосунків: %d</item>
+       <item quantity="one">Встановлено застосунків: %d</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+       <item quantity="other">Ви можете очистити кеш для %d застосунків</item>
+       <item quantity="one">Ви можете очистити кеш для %d застосунку</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+       <item quantity="other">Знайдено великих файлів: %d</item>
+       <item quantity="one">Знайдено великих файлів: %d</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+       <item quantity="other">Знайдено %d схожих фото</item>
+       <item quantity="one">Знайдено %d схоже фото</item>
+    </plurals>
+	<plurals name="deepclean_apk_summary">
+       <item quantity="other">Знайдено %d APK</item>
+       <item quantity="one">Знайдено %d APK</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+       <item quantity="other">Знайдено %d відео​</item>
+       <item quantity="one">Знайдено %d відео​</item>
+    </plurals>
+	<plurals name="deepclean_install_info_desc1">
+       <item quantity="other">Встановлено %d застосунків</item>
+       <item quantity="one">Встановлена %d застосунок</item>
+       <item quantity="few">Встановлені %d застосунків</item>
+       <item quantity="many">Встановлено %d застосунків</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+       <item quantity="other">Видалити %d фото?</item>
+       <item quantity="one">Видалити %d фото?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+       <item quantity="other">Видалити %1$s фото зі всіх пристроїв?</item>
+       <item quantity="one">Видалити %1$s фото зі всіх пристроїв?</item>
+    </plurals>
+</resources>

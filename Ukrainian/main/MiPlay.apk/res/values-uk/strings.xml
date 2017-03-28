@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Play</string>
+    <string name="noti_projection_status_title">WiDi</string>
+    <string name="noti_projection_status_desc_on">Відображення екрану увімкнено</string>
+    <string name="prjection_title">WiDi</string>
+    <string name="search_for_devices">Оновити</string>
+    <string name="media_feature_projection">Зеркальний екран</string>
+    <string name="media_status_error">Помилка</string>
+    <string name="media_status_starting">Підключення…</string>
+    <string name="media_status_started">Підключено</string>
+    <string name="media_status_stopping">Припинення…</string>
+    <string name="media_status_stopped">Припинено</string>
+    <string name="wifi_display_settings_title">Cast</string>
+    <string name="wifi_display_enable_menu_item">Увімкнути бездротовий дисплей</string>
+    <string name="wifi_display_no_devices_found">Не знайдено пристроїв поруч.</string>
+    <string name="wifi_display_status_connecting">Підключення…</string>
+    <string name="wifi_display_status_connected">Підключено</string>
+    <string name="wifi_display_status_in_use">Використовується</string>
+    <string name="wifi_display_status_not_available">Недоступний</string>
+    <string name="wifi_display_details">Налаштування дисплею</string>
+    <string name="wifi_display_options_title">Налаштування бездротового дисплею</string>
+    <string name="wifi_display_options_forget">"Не запам'ятовувати"</string>
+    <string name="wifi_display_options_done">Готово</string>
+    <string name="wifi_display_options_name">"Ім'я"</string>
+    <string name="wifi_display_certification_heading">Сертифікація</string>
+    <string name="wifi_display_session_info">Відомості сесії</string>
+    <string name="wifi_display_listen_mode">Увімкнути режим прослуховування</string>
+    <string name="wifi_display_autonomous_go">Увімкнути автономний GO</string>
+    <string name="wifi_display_pause">Пауза</string>
+    <string name="wifi_display_resume">Продовжити</string>
+    <string name="wifi_display_wps_config">Налаштування WPS</string>
+    <string name="wifi_display_listen_channel">Канал прослуховування</string>
+    <string name="wifi_display_operating_channel">Операційний канал</string>
+    <string name="cancel">Скасувати</string>
+    <string name="enable_wifi_title">Увімкнути Wi-Fi?</string>
+    <string name="enable_wifi_message">Для пошуку та підключення пристроїв необхідно увімкнути мережу Wi-Fi</string>
+    <string name="enable_wifi_btn">ОК</string>
+</resources>

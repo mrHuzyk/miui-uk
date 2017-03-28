@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Щоденні шпалери</string>
+    <string name="apply">Застосувати</string>
+    <string name="at_least_one">Оберіть категорію</string>
+    <string name="auto_interval">Автоматично</string>
+    <string name="cancel">Вихід</string>
+    <string name="cancel_international">Скасувати</string>
+    <string name="cancel_lockscreen">Скасувати</string>
+    <string name="change_time">Інтервал зміни шпалер</string>
+    <string name="day">1 день</string>
+    <string name="declaration">"Перед використанням сервісу потрібно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Угоду користувача&lt;/a> та &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Політику конфіденційності&lt;/a>. Для роботи застосунку необхідне підключення до Інтернету."</string>
+    <string name="declaration_lockscreen_title">Увімкнути щоденні шпалери</string>
+    <string name="declaration_title">Умови використання</string>
+    <string name="dislike">Видалити</string>
+    <string name="from_migallerylockscreen">" "</string>
+    <string name="hour_1">1 година</string>
+    <string name="hour_3">3 години</string>
+    <string name="like">Подобається</string>
+    <string name="liked">Подобається</string>
+    <string name="lockscreen_magazine_summary">Отримуйте нові шпалери прямо на екран блокування</string>
+    <string name="lockscreen_magazine_system_title">За замовчуванням</string>
+    <string name="lockscreen_magazine_title">Щоденні шпалери</string>
+    <string name="lockscreen_wallpaper_changed">Шпалери змінено</string>
+    <string name="minutes_15">15 хвилин</string>
+    <string name="no_long_show">"Запам'ятати"</string>
+    <string name="ok_enable_network_prov">ОК</string>
+    <string name="ok_international">ОК</string>
+    <string name="ok_lockscreen">ОК</string>
+    <string name="ok_network">Умови використання</string>
+    <string name="platform_unavailable_qq">Потрібно встановити ВКонтакті</string>
+    <string name="platform_unavailable_qzone">Потрібно встановити Telegram</string>
+    <string name="platform_unavailable_wechat">Потрібно встановити WeChat</string>
+    <string name="platform_unavailable_wechatmoment">Потрібно встановити WeChat</string>
+    <string name="platform_unavailable_weibo">Потрібно встановити WhatsApp</string>
+    <string name="resource_apply">Застосувати</string>
+    <string name="resource_no_network_text">Не вдається підключитися до Інтернету</string>
+    <string name="setting_head">Налаштування</string>
+    <string name="settings">Налаштування</string>
+    <string name="share">Надіслати</string>
+    <string name="sst_favor_desc">Перегляд обраних шпалер</string>
+    <string name="sst_favor_title">Обрані</string>
+    <string name="sst_grid_view_select_all">Вибрати всі</string>
+    <string name="sst_grid_view_unselect_all">Зняти вибір</string>
+    <string name="sst_no_favor_wallpaper_hint">Немає обраних шпалер</string>
+    <string name="sst_prov_enable_desc">"Отримувати кожен день нові шпалери 
+для екрану блокування"</string>
+    <string name="sst_prov_enable_title">Увімкнути щоденні шпалери</string>
+    <string name="sst_require_one_category_hint">Виберіть категорії</string>
+    <string name="sst_sti_desc">"Встановити часовий інтервал зміни 
+щоденних шпалер"</string>
+    <string name="sst_sti_title">Інтервал зміни шпалер</string>
+    <string name="sst_subscribe_title">Категорії</string>
+    <string name="sst_wifi_only_desc">"Дозволити завантаження шпалер 
+по мобільному інтернету"</string>
+    <string name="sst_wifi_only_title">Мобільний інтернет</string>
+    <string name="summary">"Перед використання потрібно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Угоду користувача&lt;/a> та &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Політику конфіденційності&lt;/a>. Для підключення необхідний доступ до Інтернету.​"</string>
+    <string name="summary_international">"Перед використання потрібно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Угоду користувача&lt;/a> та &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Політику конфіденційності&lt;/a>. Для роботи застосунку необхідне підключення до Інтернету."</string>
+    <string name="theme_apply_failured">Не вдається встановити шпалери на екран блокування</string>
+    <string name="theme_apply_success">Шпалери встановлено</string>
+    <string name="theme_applying">Встановлення…</string>
+    <string name="wlan_download">Лише по Wi-Fi</string>
+    <string name="wlan_download_cn">Завантажувати лише по Wi-Fi</string>
+    <string name="lockscreen_magazine_subscribe">Підписників: %1$s</string>
+    <string name="lockscreen_magazine_system_subscribe">Шпалер: %1$s</string>
+    <string name="ok">ОК</string>
+</resources>

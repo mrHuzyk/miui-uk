@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Ви не дозволили пошук %d ел.</item>
+        <item quantity="one">Ви не дозволили пошук %d ел.</item>
+    </plurals>
+</resources>

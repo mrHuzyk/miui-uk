@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Нещодавніх застосунків: %d</item>
+        <item quantity="one">Нещодавніх застосунків: 1</item>
+    </plurals>
+	<plurals name="disable_notification_confirm_title">
+       <item quantity="other">Блокувати застосунків: %d</item>
+       <item quantity="one">Блокувати застосунок: %d</item>
+    </plurals>
+	<plurals name="view_realtime_clear">
+       <item quantity="other">Ясно</item>
+       <item quantity="one">Сонячно</item>
+    </plurals>
+</resources>

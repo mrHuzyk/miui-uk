@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Застосунів без відстеження трафіку: %d</item>
+        <item quantity="one">Застосунок без відстеження трафіку: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Застосунків з відстеженням трафіку: %d</item>
+        <item quantity="one">Застосунок з відстеженням трафіку: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Стиснення увімкнено: %d</item>
+        <item quantity="one">Стиснення увімкнено: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Без стиснення: %d</item>
+        <item quantity="one">Без стиснення: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">Застосунків без економії трафіку: %d</item>
+        <item quantity="one">Застосунок без економії трафіку: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">Застосунків з економією трафіку: %d</item>
+        <item quantity="one">Застосунок з економією трафіку: %d</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Запускалося %d дн. тому</item>
+        <item quantity="one">Запускалося вчора</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Пошук у застосунках: %d</item>
+        <item quantity="one">Пошук у застосунку: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Застосунків з доступом до Інтернету в роумінгу: %d</item>
+        <item quantity="one">Застосунок з доступом до Інтернету в роумінгу: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Застосунків без доступу до Інтернету в роумінгу: %d</item>
+        <item quantity="one">Застосунок з доступои до Інтернету в роумінгу: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Знайдено застосунків: %d</item>
+        <item quantity="one">Знайдено застосунок: %d</item>
+    </plurals>
+</resources>

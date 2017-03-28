@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_label">Помічник MIUI</string>
+     <string name="book_store">Магазин книг</string>
+     <string name="book_update">Оновлення</string>
+     <string name="calc_name">Інженерний калькулятор</string>
+     <string name="calc_parent">Калькулятор</string>
+     <string name="calendar_name">Захід</string>
+     <string name="calendar_parent">Календар</string>
+     <string name="card_name">Візитівка</string>
+     <string name="card_parent">WeChat</string>
+     <string name="corpus_description_apps">Встановлені програми</string>
+     <string name="corpus_hint_apps">Пошук програм</string>
+     <string name="corpus_label_apps">Програма</string>
+     <string name="cta_desc">Інформація про затори</string>
+     <string name="cta_negative">Пізніше</string>
+     <string name="cta_positive">Увімкнути</string>
+     <string name="cta_text1">Перед використанням необхідно погодитися з</string>
+     <string name="cta_text2">" угодою користувача "</string>
+     <string name="cta_text3">та</string>
+     <string name="cta_text4">" політикою конфіденційності"</string>
+     <string name="cta_text5">.</string>
+     <string name="cta_title">Mi помічник</string>
+     <string name="express_complete">Отримано</string>
+     <string name="express_delivery">Доставлено</string>
+     <string name="express_no_info">Немає даних про бандероль</string>
+     <string name="express_number_txt">Номер:</string>
+     <string name="item_type_custom">Інформація</string>
+     <string name="item_type_suggestion">Рекомендації</string>
+     <string name="just_now">Тільки що</string>
+     <string name="loading_desktop">Завантаження…</string>
+     <string name="look_more">Детальніше</string>
+     <string name="month_day_format">d MMMM</string>
+     <string name="personalAssistant_mainpage">Помічник</string>
+     <string name="recharge_flow">Купити трафік</string>
+     <string name="recharge_tel">Поповнити рахунок</string>
+     <string name="recharge_title_over">Перевищення</string>
+     <string name="recharge_title_remaining">Залишилось</string>
+     <string name="recharge_title_used">Використано сьогодні</string>
+     <string name="search">Пошук</string>
+     <string name="search_hint">Пошук</string>
+     <string name="settings">Налаштування</string>
+     <string name="settings_label">Налаштування помічника</string>
+     <string name="show_more">Ще</string>
+     <string name="sms_meituan_name">Назва</string>
+     <string name="sms_meituan_pwd">Пароль</string>
+     <string name="sms_meituan_serialnum">Серійний номер</string>
+     <string name="sms_meituan_valid">Термін дії</string>
+     <string name="tabao_filter_agent">Продавець:</string>
+     <string name="tabao_filter_order_number">Номер відстеження:</string>
+     <string name="xiaomi_search_label">Пошук</string>
+     <string name="year_month_day_all_format_en">d MMMM yyyy HH:mm:ss</string>
+     <string name="year_month_day_format">d MMMM yyyy</string>
+     <string name="yesterday">Вчора</string>
+</resources>

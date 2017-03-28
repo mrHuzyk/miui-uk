@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>За разміром</item>
+        <item>За іменем</item>
+    </string-array>
+	<string-array name="wechat_menu_delete">
+        <item>Очистити</item>
+     </string-array>
+     <string-array name="wechat_menu_delete_whitelist">
+        <item>Очистити</item>
+     </string-array>
+     <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Очистити</item>
+        <item>Подивитись</item>
+     </string-array>
+    <string-array name="large_file_sort_type">
+        <item>За розміром</item>
+        <item>За іменем</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>За частотою використання</item>
+        <item>За разміром</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Щоденно</item>
+        <item>Кожні 3 дні</item>
+        <item>Кожні 7 днів</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 Мб</item>
+        <item>300 Мб</item>
+        <item>500 Мб</item>
+        <item>1 Гб</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Питати перед очищенням</item>
+        <item>Сповіщати про фон</item>
+        <item>Сповіщати після очищення</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>Через 1 хвилину</item>
+        <item>Через 5 хвилин</item>
+        <item>Через 10 хвилин</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 хвилину</item>
+        <item>Через 5 хвилин</item>
+        <item>Через 10 хвилин</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Продуктивність</item>
+        <item>Баланс</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Вимкнути</item>
+        <item>Увімкнути</item>
+        <item>Не змінювати</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Ніколи</item>
+        <item>В режимі \"Без звуку\"</item>
+        <item>Завжди</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Одноразово</item>
+        <item>Щоденно</item>
+        <item>У робочі дні</item>
+        <item>По буднях</item>
+        <item>Обрати дні</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Одноразово</item>
+        <item>Щоденно</item>
+        <item>По буднях</item>
+        <item>Обрати дні</item>
+    </string-array>
+	<string-array name="apk_clean_menu">
+       <item>Очищення</item>
+       <item>Виключення</item>
+       <item>Встановити</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+       <item>Видалити</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+       <item>Очищення</item>
+       <item>Файл</item>
+    </string-array>
+	<string-array name="empty_floder_clean_menu">
+       <item>Очищення</item>
+    </string-array>
+	<string-array name="auto_alert_apps_time">
+       <item>Кожні 7 днів</item>
+       <item>Кожні 15 днів</item>
+       <item>Кожні 30 днів</item>
+    </string-array>
+	<string-array name="trash_clean_menu">
+       <item>Очистити</item>
+       <item>Файл</item>
+    </string-array>
+	<string-array name="video_clean_menu">
+       <item>Видалити</item>
+       <item>Відтворити</item>
+    </string-array>
+	<string-array name="long_add_app_menu">
+        <item>Додати до виключень</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Додати до виключень</item>
+     </string-array>
+	 <string-array name="low_memory_clean_menu">
+       <item>Очищення</item>
+    </string-array>
+    <string-array name="scan_engine">
+       <item>Clean Master</item>
+       <item>Tencent</item>
+    </string-array>
+</resources>

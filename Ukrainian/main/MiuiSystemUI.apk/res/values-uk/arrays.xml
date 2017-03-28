@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканування…</item>
+        <item>"Під'єднання…"</item>
+        <item>Аутентифікація…</item>
+        <item>Отримання IP-адреси…</item>
+        <item>"Під'єднано"</item>
+        <item>Призупинено</item>
+        <item>Вимкнення…</item>
+        <item>Вимкнено</item>
+        <item>Невдало</item>
+        <item>Блоковано</item>
+        <item>"Тимчасове уникнення поганого з'єднання"</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканування…</item>
+        <item>"З'єднання з %1$s…"</item>
+        <item>Аутентифікація з %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>"З'єднано з %1$s"</item>
+        <item>Призупинено</item>
+        <item>"Від'єднання від %1$s…"</item>
+        <item>Вимкнено</item>
+        <item>Невдало</item>
+        <item>Блоковано</item>
+        <item>"Тимчасове уникнення поганого з'єднання"</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>Туман</item>
+        <item>Буря</item>
+        <item>Шторм</item>
+        <item>Сильна злива</item>
+        <item>Гроза</item>
+        <item>Дощ</item>
+        <item>Злива</item>
+        <item>Дощ</item>
+        <item>Невеликий дощ</item>
+        <item>Сніг з дощем</item>
+        <item>Заметіль</item>
+        <item>Сніг</item>
+        <item>Снігопад</item>
+        <item>Легкий сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Піщаний шторм</item>
+        <item>Піщана буря</item>
+        <item>Помірний пил</item>
+        <item>Вітряно</item>
+        <item>Град</item>
+        <item>Пил</item>
+        <item>Похмуро</item>
+        <item>Морозний дощ</item>
+        <item>Немає даних</item>
+    </string-array>
+</resources>

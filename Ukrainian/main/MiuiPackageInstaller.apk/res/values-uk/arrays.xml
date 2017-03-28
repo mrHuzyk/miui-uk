@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканування…</item>
+        <item>Підключення…</item>
+        <item>Авторизація…</item>
+        <item>Отримання IP-адреси…</item>
+        <item>Підключено</item>
+        <item>Сон</item>
+        <item>Відключення…</item>
+        <item>Відключено</item>
+        <item>"Неможливо з'єднатися"</item>
+        <item>Заблоковано</item>
+        <item>"Тимчасово уникати поганого з'єднання"</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканування…</item>
+        <item>Підключення до %1$s…</item>
+        <item>Авторизація на %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>Підключено до %1$s</item>
+        <item>Сон</item>
+        <item>Відключення від %1$s…</item>
+        <item>Відключено</item>
+        <item>Не вдалося відключитися</item>
+        <item>Заблоковано</item>
+        <item>Уникнення слабкого сигналу</item>
+    </string-array>
+</resources>
