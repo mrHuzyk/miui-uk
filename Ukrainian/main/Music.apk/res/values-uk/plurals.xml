@@ -7,6 +7,14 @@
         <item quantity="few">Видалити %d плейлиста?</item>
         <item quantity="many">Видалити %d плейлистів?</item>
      </plurals>
+	 <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Видалити %d завантажень?</item>
+        <item quantity="one">Видалити %d завантаження?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d завантажень видалено</item>
+        <item quantity="one">%d завантаження видалено</item>
+     </plurals>
 	 <plurals name="Nalbum_total_songs">
         <item quantity="other">Всього пісень: %d</item>
         <item quantity="zero">Всього пісень: %d</item>

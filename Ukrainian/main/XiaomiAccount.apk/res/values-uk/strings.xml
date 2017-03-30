@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Про пристрій</string>
+	 <string name="account_error_invalid_user_name">"Ім'я не може містити &lt;, >, /"</string>
      <string name="access_denied">доступ заборонений</string>
 	 <string name="account_protection_off">вимк.</string>
      <string name="account_protection_on">увмк.</string>

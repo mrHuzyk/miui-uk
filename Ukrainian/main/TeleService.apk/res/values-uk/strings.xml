@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="volte_provision_notification_activate">Активувати</string>
+     <string name="volte_provision_text">Виявлено, що VoLTE не передбачений SIM-картою. Активувати зараз?</string>
+     <string name="volte_provision_title">VoLTE</string>
 	 <string name="cf_setting_mobile_data_alert">Увімкніть мобільний інтернет та переконайтеся, що Wi-Fi вимкнений</string>
      <string name="cf_setting_mobile_data_roaming_alert">Увімкніть інтернет в роумінгу</string>
      <string name="lte_4g_settings_summaryOff">Телефон переключиться з 3G/2G на 4G. Деякі активні завдання можуть бути зупинені.</string>

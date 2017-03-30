@@ -5,6 +5,24 @@
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
      <string name="a_week_share_rank">Щотижневий рейтинг</string>
+	 <string name="clockin_failed">Не вдалося. Повторіть.</string>
+     <string name="clockin_success">Перевірено</string>
+     <string name="clockin_use">Отримати приз</string>
+     <string name="contain_sensitive_words">Видаліть недоречні слова і повторіть</string>
+     <string name="daily_clockin">Перевірити</string>
+     <string name="no_search_content">Нічого не знайдено</string>
+     <string name="save">Зберегти</string>
+     <string name="save_desc_success">Успішно змінено</string>
+     <string name="save_failed">Помилка збереження</string>
+     <string name="save_failed_for_length">Ваш підпис дуже довгий. Спробуйте інший.</string>
+     <string name="save_name_success">Змінено</string>
+     <string name="search_popup_tip">Ви можете шукати людей і теми</string>
+     <string name="search_topic">Пошук тем</string>
+     <string name="search_user">Пошук людей</string>
+     <string name="see_more_topic">Більше тем</string>
+     <string name="see_more_user">Більше людей</string>
+     <string name="topic_title">Теми</string>
+     <string name="user">Користувачі</string>
 	 <string name="add_follow">Підписатися</string>
      <string name="black_list">"Ви заблоковані. Станьте на форумі MIUI, щоб дізнатися, чому."</string>
      <string name="click_login_str">Вхід</string>

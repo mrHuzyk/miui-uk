@@ -2,6 +2,13 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук (англ.)</string>
+	<string name="index_item_experience_now">Встановити</string>
+     <string name="index_item_install_dialog" />
+     <string name="index_item_install_dialog_cancel" />
+     <string name="index_item_install_dialog_open" />
+     <string name="index_item_installing">Встановлення</string>
+     <string name="install_progress">%1$s%%</string>
+     <string name="open_now">Відкрити</string>
 	<string name="act_weather_cycle_link_china">Погода MIUI</string>
      <string name="act_weather_find_city_china">Китай</string>
      <string name="act_weather_find_city_connect_net">Перевірте мережу і повторіть</string>

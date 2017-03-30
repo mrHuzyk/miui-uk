@@ -2,6 +2,30 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="accessibility_autoclick_preference_title">Натискання після зупинки покажчика</string>
+     <string name="accessibility_toggle_large_pointer_icon_title">Великий покажчик миші</string>
+     <string name="accessibility_toggle_master_mono_summary">Об'єднувати канали при відтворенні аудіо</string>
+     <string name="accessibility_toggle_master_mono_title">Моно звук</string>
+     <string name="accessibility_autoclick_delay_preference_title">Затримка перед натисканням</string>
+     <string name="keyboard_settings_category">КЛАВІАТУРА ТА СПОСОБИ ВВЕДЕННЯ</string>
+     <string name="available_virtual_keyboard_category">Доступна віртуальна клавіатура</string>
+     <string name="show_ime">Віртуальна клавіатура</string>
+     <string name="virtual_keyboard_category">Віртуальна клавіатура</string>
+     <string name="keyboard_assistance_category">Підказки клавіотури</string>
+     <string name="keyboard_shortcuts_helper">Швидкі клавіші</string>
+     <string name="keyboard_shortcuts_helper_summary">Показати швидкі клавіші</string>
+     <string name="show_ime_summary">Показувати на екрані, коли фізична клавіатура включена</string>
+     <string name="builtin_keyboard_settings_title">Фізична клавіатура</string>
+     <string name="builtin_keyboard_settings_summary">Налаштування фізичної клавіатури</string>
+     <string name="physical_keyboard_title">Фізична клавіатура</string>
+     <string name="add_virtual_keyboard">Управління клавіатурами</string>
+	 <string name="current_zone">(поточна)</string>
+     <string name="privacy_password_settings_titles_elder_mode">Пароль захисту конфіденційності захистить Ваші фото, файли та замітки.</string>
+     <string name="privacy_password_settings_titles_second_space">Пароль захисту конфіденційності захистить Ваші повідомлення, фото, та замітки.</string>
+	 <string name="privacy_password_settings_next">Далі</string>
+     <string name="standard_configuration_version_rear_camera_mi3">13 Мп.</string>
+     <string name="standard_configuration_version_screen_resolution_mi3">1920×1080</string>
+     <string name="standard_configuration_version_screen_size_mi3">5"</string>
 	 <string name="my_device_disclaimer">Примітка: інформація про обладнанні, включаючи процесор, ємність батареї, розмір екрану і дозвіл, а також камеру, надається лабораторіями, дизайнерами та постачальниками Xiaomi.</string>
      <string name="vpn_set_screen_lock_content">Встановіть пароль екрану блокування, щоб зберегти свої VPN настройки</string>
      <string name="vpn_set_screen_lock_title">Встановити пароль екрану блокування</string>

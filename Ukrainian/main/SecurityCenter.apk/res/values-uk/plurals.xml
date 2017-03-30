@@ -7,6 +7,50 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="add_game_notification_title">
+        <item quantity="other">Додано ігор: %d</item>
+        <item quantity="one">Додано ігор: %d</item>
+     </plurals>
+     <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Оновлення додатків: %d</item>
+        <item quantity="one">Оновлення додатків: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Здійснені дзвінки: %d</item>
+        <item quantity="one">Здійснені дзвінки: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Отримано дозволів: %d</item>
+        <item quantity="one">Отримано дозволів: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read">
+        <item quantity="other">Доступ: %d</item>
+        <item quantity="one">Доступ: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Доступ до контактів: %d</item>
+        <item quantity="one">Доступ до контактів: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Читання SMS: %d</item>
+        <item quantity="one">Читання SMS: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Читання дзвінків: %d</item>
+        <item quantity="one">Читання дзвінків: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Відправлено SMS: %d</item>
+        <item quantity="one">Відправлено SMS: %d</item>
+     </plurals>
+     <plurals name="app_manager_reject_count">
+        <item quantity="other">Заблоковано %d рази</item>
+        <item quantity="one">Заблоковано %d раз</item>
+     </plurals>
+     <plurals name="app_manager_start_count">
+        <item quantity="other">%d рази</item>
+        <item quantity="one">%d раз</item>
+     </plurals>
 	 <plurals name="virus_clean_num">
         <item quantity="other">Все виглядає добре</item>
         <item quantity="one">Все виглядає добре</item>

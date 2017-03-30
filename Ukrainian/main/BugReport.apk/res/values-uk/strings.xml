@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Скасувати</string>
+	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
+     <string name="toast_third_packagename_required">Введіть назву додатку</string>
 	 <string name="feedback_status_forum_reply">Відгук</string>
      <string name="feedback_status_supplement_more">Додати коментар</string>
      <string name="feedback_submit_hint">Надсилайте звіти, щоб допомогти нам вирішити проблеми швидше</string>

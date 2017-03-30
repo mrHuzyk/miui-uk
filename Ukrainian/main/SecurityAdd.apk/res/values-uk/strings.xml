@@ -2,6 +2,37 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_game">Додати</string>
+	 <string name="add_done">Готово</string>
+     <string name="add_whitelist">Додати в виключення</string>
+     <string name="anim_gamebooster_text">Зачекайте…</string>
+     <string name="boost_done">Прискорити завершення</string>
+     <string name="boosting">Прискорення швидкості…</string>
+     <string name="create_shortcut">буде створена іконка на робочому столі для швидкого запуску</string>
+     <string name="dialog_text">буде створена іконка на робочому столі для швидкого запуску</string>
+     <string name="dont_bore_text">Вимкнути сповіщення і кнопки, для кращого ігрового досвіду</string>
+     <string name="dont_bore_title">Не турбувати</string>
+     <string name="function_close">Викл.</string>
+     <string name="game_booster_title">Boost</string>
+     <string name="game_improve_text1">Автоматичне очищення в фоні, збільшення часу гри</string>
+     <string name="game_improve_text2">Автоматичне очищення в фоні, збільшення часу гри</string>
+     <string name="game_improve_title">Оптимізація продуктивності</string>
+     <string name="game_net_text1">Обмеження фонової швидкості завантаження, зменшення затримки мережі</string>
+     <string name="game_net_text2">Прискорення мережі і обмеження фонової швидкості завантаження, зменшення затримки мережі</string>
+     <string name="game_net_title">Захист мережі</string>
+     <string name="gamebooster_network_dialog_message">Дозволити додатку підключення до мережі для використання всіх функцій режиму Прискорення ігор?</string>
+     <string name="gamebooster_network_dialog_title">Деякі функції недоступні</string>
+     <string name="get_sys_info">Отримання інформації…</string>
+     <string name="gs_anto_clean_memory_whitelist">Винятки</string>
+     <string name="i_know">OK</string>
+     <string name="intro_improve">Грунтуючись на системному рівні для поліпшення всього ігрового досвіду</string>
+     <string name="net_delay_title">Затримка</string>
+     <string name="no_game">Ігор не знайдено</string>
+     <string name="save_energy_text">Заборона запуску додатків в фоні і синхронізації даних, управління оперативною пам'яттю і зниження споживання батареї додатками</string>
+     <string name="save_energy_title">Оптимізація живлення</string>
+     <string name="sys_cpu_title">ЦП</string>
+     <string name="sys_freememory_title">Вільно</string>
+     <string name="top_load_fail_detail">Не вдалося завантажити. Натисніть для повтору.</string>
+     <string name="top_no_network_detial">Перевірте мережу і повторіть</string>
 	 <string name="dialog_button_call_taxi">Викликати таксі</string>
      <string name="dialog_button_gift_cancel">Відміна</string>
      <string name="dialog_button_gift_ok">Отримати</string>
