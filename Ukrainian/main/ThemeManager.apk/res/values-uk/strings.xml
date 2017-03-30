@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account_id_not_login">Натисніть для авторизації</string>
+	 <string name="the_picture_is_not_support">Зображення не підтримується</string>
 	 <string name="ad_app_download_start">Початок завантаження…</string>
      <string name="ad_app_is_downloading">Завантаження…</string>
      <string name="both_all_apply_failured">Не вдалося застосувати шпалери</string>

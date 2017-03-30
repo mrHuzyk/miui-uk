@@ -2,6 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Пошук</string>
+	 <string name="barcode_install_back">Назад</string>
+     <string name="barcode_install_cancel">Відміна</string>
+     <string name="barcode_install_confirm">Встановити</string>
+     <string name="barcode_system_unmatch">Оновіть MIUI перед установкою Сканера</string>
+     <string name="barcode_to_install">Щоб продовжити, встановіть Сканер</string>
+     <string name="barcode_uninstalled">Сканер видалено</string>
+     <string name="mina_name">Директ додатки</string>
+     <string name="setting_other">Різне</string>
+     <string name="setting_version">Версія додатку</string>
+     <string name="setting_version_title">Версія додатку</string>
 	 <string name="app_loaction">Знайти на екрані</string>
      <string name="appindex_description">функції встановлених додатків</string>
      <string name="appindex_search_label">функції додатків</string>

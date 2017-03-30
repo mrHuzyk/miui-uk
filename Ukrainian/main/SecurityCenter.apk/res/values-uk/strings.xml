@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">"Видалення цього додатка обмежить послідовний запуск. Пов'язані клоновані додатки будуть також видалені. Видалити %s?"</string>
 	 <string name="start_tc_button">Калібрування</string>
      <string name="add_game_notification_summary">Натисніть для запуску та прискорення швидкості</string>
      <string name="app_maanger_app_uninstalled_toast">Цей додаток видалено</string>
