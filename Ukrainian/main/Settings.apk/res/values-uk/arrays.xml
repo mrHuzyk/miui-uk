@@ -6,7 +6,7 @@
         <item>Всі мережі</item>
      </string-array>
 	 <string-array name="ap_identify">
-        <item>По умолчанию</item>
+        <item>За замовчуванням</item>
         <item>iPhone</item>
      </string-array>
 	      <string-array name="cities_names">
@@ -743,7 +743,7 @@
         <item>через 1 хвилину</item>
         <item>через 2 хвилини</item>
         <item>через 5 хвилин</item>
-		<item>Никогда</item>
+		<item>Ніколи</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Невелика</item>
