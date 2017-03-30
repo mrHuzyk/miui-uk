@@ -4,10 +4,9 @@
      <string name="Accounts_settings_title">Облікові записи</string>
 	 <string name="accessibility_autoclick_preference_title">Натискання після зупинки покажчика</string>
      <string name="accessibility_toggle_large_pointer_icon_title">Великий покажчик миші</string>
-     <string name="accessibility_toggle_master_mono_summary">Об'єднувати канали при відтворенні аудіо</string>
+     <string name="accessibility_toggle_master_mono_summary">"Об'єднувати канали при відтворенні аудіо"</string>
      <string name="accessibility_toggle_master_mono_title">Моно звук</string>
      <string name="accessibility_autoclick_delay_preference_title">Затримка перед натисканням</string>
-     <string name="keyboard_settings_category">КЛАВІАТУРА ТА СПОСОБИ ВВЕДЕННЯ</string>
      <string name="available_virtual_keyboard_category">Доступна віртуальна клавіатура</string>
      <string name="show_ime">Віртуальна клавіатура</string>
      <string name="virtual_keyboard_category">Віртуальна клавіатура</string>
@@ -945,8 +944,6 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="bugreport_tool_log_toast">Звіт збережений в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Створення звіту про помилки</string>
      <string name="build_number">Зборка</string>
-     <string name="builtin_keyboard_settings_summary">Налаштування фізичної клавіатури</string>
-     <string name="builtin_keyboard_settings_title">Фізична клавіатура</string>
      <string name="button_backup">Створити бекап</string>
      <string name="button_cancel">Скасування</string>
      <string name="button_continue">Продовжити</string>
