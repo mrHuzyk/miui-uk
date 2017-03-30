@@ -3672,7 +3672,7 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="screen">Екран</string>
      <string name="screen_button">екранна клавіша</string>
      <string name="screen_button_tips">Використання екранної клавіші</string>
-     <string name="screen_cells_config_title">Налаштування комірок екрану</string>
+     <string name="screen_cells_config_title">Налаштування сітки екрану</string>
      <string name="screen_color_and_optimize">Тон і контрастність</string>
      <string name="screen_color_and_optimize_disabled">Неможливо змінити тон і контрастність при активноу режимі читання</string>
      <string name="screen_color_temperature">Колірний тон</string>
