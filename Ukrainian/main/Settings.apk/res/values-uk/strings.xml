@@ -2916,9 +2916,9 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="notification_settings">Звуки сповіщень</string>
      <string name="notification_settings_apps_title">Застосунки</string>
      <string name="notification_sound_dialog_title">Вибрати мелодію повідомлень</string>
-     <string name="notification_sound_title">Повідомлення</string>
+     <string name="notification_sound_title">Сповіщення</string>
      <string name="notification_volume_option_title">Гучність сповіщень</string>
-     <string name="notification_volume_title">Повідомлення</string>
+     <string name="notification_volume_title">Сповіщення</string>
      <string name="notifications_disabled">Заблокувати</string>
      <string name="notifications_enabled">Звичайні</string>
      <string name="notifications_label">Сповіщення</string>
