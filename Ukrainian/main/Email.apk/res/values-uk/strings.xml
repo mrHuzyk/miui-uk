@@ -2,11 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
-	 <string name="auto_mail_describe">Служба автоматичної настройки 139 Email може допомогти вам заповнити реєстраційну інформацію в поштову скриньку. Ви хочете включити цю функцію?</string>
+	 <string name="auto_mail_describe">Служба автоматичного налаштування 139 Email може допомогти вам заповнити реєстраційну інформацію в поштову скриньку. Ви хочете включити цю функцію?</string>
      <string name="auto_mail_disable_txt">Відміна</string>
      <string name="auto_mail_enable_txt">Почати</string>
-     <string name="auto_mail_window_description">Служба автонастройки 139 Email</string>
-     <string name="auto_mail_window_label">Служба автонастройки 139 Mailbox</string>
+     <string name="auto_mail_window_description">Служба авто налаштування 139 Email</string>
+     <string name="auto_mail_window_label">Служба авто налаштування 139 MailBox</string>
      <string name="auto_remind_bind">Додати</string>
      <string name="auto_remind_discribe_text">Увімкніть, щоб отримувати автоматичні нагадування</string>
      <string name="auto_remind_text">Автоматичні нагадування</string>
