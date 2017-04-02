@@ -2127,7 +2127,7 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="keyboard_layout_dialog_switch_hint">Для перемикання натисніть Control-пробіл</string>
      <string name="keyboard_layout_dialog_title">Розкладка клавіатури</string>
      <string name="keyboard_layout_picker_title">Розкладка клавіатури</string>
-     <string name="keyboard_settings_category">Клавіатура й способи введення</string>
+     <string name="keyboard_settings_category">КЛАВІАТУРА ТА СПОБОБИ ВВЕДЕННЯ</string>
      <string name="keyboard_settings_title">Клавіатура Android</string>
      <string name="keyguard_advance_setting_title">Додатково</string>
      <string name="keyguard_left_function_chooser_hint_text">Обрано програму \"%s\"</string>
@@ -3891,7 +3891,7 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="search_label">Налаштування</string>
      <string name="search_language">Мова</string>
      <string name="search_language_picker_title">Мова та введення</string>
-     <string name="search_language_settings">Мова та введення;Мова;Клавіатура;Введення;Локалізація</string>
+     <string name="search_language_settings">Мова та введення;Мова;Клавіатура та способи введення</string>
      <string name="search_launcher">Робочий стіл</string>
      <string name="search_led">Індикація</string>
      <string name="search_led_settings">LED;LED сповіщення;Лед сповіщення;Кольорові сповіщення;LED індикатор</string>
