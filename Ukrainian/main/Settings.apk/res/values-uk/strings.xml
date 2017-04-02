@@ -10,7 +10,7 @@
      <string name="available_virtual_keyboard_category">Доступна віртуальна клавіатура</string>
      <string name="show_ime">Віртуальна клавіатура</string>
      <string name="virtual_keyboard_category">Віртуальна клавіатура</string>
-     <string name="keyboard_assistance_category">Підказки клавіотури</string>
+     <string name="keyboard_assistance_category">Підказки клавіатури</string>
      <string name="keyboard_shortcuts_helper">Швидкі клавіші</string>
      <string name="keyboard_shortcuts_helper_summary">Показати швидкі клавіші</string>
      <string name="show_ime_summary">Показувати на екрані, коли фізична клавіатура включена</string>
