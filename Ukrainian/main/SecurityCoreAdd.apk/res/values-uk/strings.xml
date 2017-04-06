@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Активувати</string>
+	 <string name="space_deleted">Цей користувач був видалений</string>
 	 <string name="air_space_created">Робочий простір створено</string>
      <string name="air_space_deleted">Робочий простір видалено</string>
      <string name="air_space_exit">Покинути простір</string>

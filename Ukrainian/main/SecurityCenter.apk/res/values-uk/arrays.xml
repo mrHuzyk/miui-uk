@@ -8,6 +8,10 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="sms_report_type">
+        <item>Використання трафіку</item>
+        <item>Баланс телефону</item>
+     </string-array>
 	 <string-array name="min_limit_pkg_default">
         <item>1 МБ</item>
         <item>2 МБ</item>

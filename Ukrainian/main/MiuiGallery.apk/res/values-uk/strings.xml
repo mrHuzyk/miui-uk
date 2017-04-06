@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="loading_fail_sync_without_network">Підключіться до мережі для завантаження метаданих</string>
+     <string name="loading_fail_syncing">Дочекайтеся повного завантаження метаданих і спробуйте ще раз</string>
+     <string name="loading_video_fail_sync_without_network">Підключіться до мережі для завантаження метаданих</string>
+     <string name="loading_video_fail_syncing">Дочекайтеся повного завантаження метаданих і спробуйте ще раз</string>
 	 <string name="album_detail_action_bar_sub_title_format">%1$s %2$s</string>
      <string name="album_from_format">З %s</string>
      <string name="album_name_recent_discovery">Недавні</string>

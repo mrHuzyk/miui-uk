@@ -4,9 +4,14 @@
         <item quantity="other">Видалити діалоги? (%1$s)</item>
         <item quantity="one">Видалити діалог?</item>
     </plurals>
+	<plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Видалити %1$s повідомлень?</item>
+        <item quantity="one">Видалити %1$s повідомлення?</item>
+     </plurals>
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">Вибрано: %d</item>
         <item quantity="zero">Вибрати елементи</item>
+		<item quantity="one">Вибрано: %d</item>
      </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s сек.</item>

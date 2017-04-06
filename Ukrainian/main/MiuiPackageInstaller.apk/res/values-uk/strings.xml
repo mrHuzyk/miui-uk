@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="caller_app">Запит: %1$s</string>
+	<string name="ads_install_button_isDownloading">Завантаження</string>
 	<string name="accessibility_no_wifi">Wi-Fi вимкнено</string>
      <string name="accessibility_wifi_off">Wi-Fi вимкнено</string>
      <string name="accessibility_wifi_one_bar">Wi-Fi: одну поділку</string>

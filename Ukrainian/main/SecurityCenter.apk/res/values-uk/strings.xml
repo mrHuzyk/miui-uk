@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="card_main_deepclean_wechat_action">Очистити</string>
+     <string name="card_main_deepclean_wechat_summary">Очистіть кеш WeChat для звільнення пам'яті</string>
+     <string name="card_main_deepclean_wechat_title">Кеш WeChat</string>
 	 <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">"Видалення цього додатка обмежить послідовний запуск. Пов'язані клоновані додатки будуть також видалені. Видалити %s?"</string>
 	 <string name="start_tc_button">Калібрування</string>
      <string name="add_game_notification_summary">Натисніть для запуску та прискорення швидкості</string>
