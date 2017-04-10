@@ -112,7 +112,7 @@
      <string name="android_upgrading_complete">Завершення завантаження.</string>
      <string name="android_upgrading_fstrim">"Оптимізація пам'яті"</string>
      <string name="android_upgrading_starting_apps">Запуск програм.</string>
-     <string name="android_upgrading_title">Android оновлюється...</string>
+     <string name="android_upgrading_title">Android оновлюється…</string>
      <string name="anr_activity_application">"Програма %2$s не відповідає.
 
 Закрити її?"</string>
@@ -240,8 +240,7 @@
      <string name="bugreport_message">Збиратиметься інформація про поточний стан вашого пристрою для подальшого надсилання електронною поштою. Від початку створення звіту про помилки до його повної готовності для надсилання потрібен певний час, тож будьте терплячими.</string>
      <string name="bugreport_status" formatted="false">%s (%s)</string>
      <string name="bugreport_title">Зробити звіт про помилки</string>
-     <string name="byteShort">Б</string>
-     <string name="byteshort">б</string>
+     <string name="byteshort">Б</string>
      <string name="cancel">Скасувати</string>
      <string name="candidates_style"><u>кандидати</u></string>
      <string name="capability_desc_canRequestEnhancedWebAccessibility">Можуть установлюватися сценарії, щоб зробити вміст програми доступнішим.</string>
@@ -526,12 +525,11 @@
      <string name="floating_toolbar_close_overflow_description">Закрити додаткове меню</string>
      <string name="floating_toolbar_open_overflow_description">Додатково</string>
      <string name="force_close">OK</string>
-     <string name="format_error">Не вдалось очистити карту SD.</string>
+     <string name="format_error">Не вдалось очистити карту SD</string>
      <string name="forward_intent_to_owner">Ця програма використовується в особистому профілі</string>
      <string name="forward_intent_to_work">Ви перейшли в робочий профіль</string>
      <string name="gadget_host_error_inflating">Не вдалося додати віджет.</string>
-     <string name="gigabyteShort">Гб</string>
-     <string name="gigabyteshort">Гб</string>
+     <string name="gigabyteShort">ГБ</string>
      <string name="global_action_assist">Помічник</string>
      <string name="global_action_bug_report">Звіт про помилки</string>
      <string name="global_action_choose_profile">Профіль</string>
@@ -741,7 +739,7 @@
      <string name="kg_login_too_many_attempts">Забагато спроб намалювати ключ</string>
      <string name="kg_login_username_hint">Ім’я користувача (електронна адреса)</string>
      <string name="kg_password_instructions">Введіть пароль</string>
-     <string name="kg_password_wrong_pin_code">Неправильний PIN-код.</string>
+     <string name="kg_password_wrong_pin_code">Неправильний PIN-код</string>
      <string name="kg_pattern_instructions">Намалюйте ключ</string>
      <string name="kg_pin_instructions">Введіть PIN-код</string>
      <string name="kg_puk_enter_pin_hint">Введіть потрібний PIN-код</string>
@@ -763,8 +761,7 @@
      <string name="kg_wrong_password">Неправильний пароль</string>
      <string name="kg_wrong_pattern">Неправильний ключ</string>
      <string name="kg_wrong_pin">Неправильний PIN-код</string>
-     <string name="kilobyteShort">Кб</string>
-     <string name="kilobyteshort">Кб</string>
+     <string name="kilobyteShort">КБ</string>
      <string name="last_month">Останній міс.</string>
      <string name="launchBrowserDefault">Запустити веб-переглядач?</string>
      <string name="launch_warning_original">Спочатку було запущено %1$s.</string>
@@ -772,7 +769,7 @@
      <string name="launch_warning_title">Програму переадресовано</string>
      <string name="launchbrowserdefault">Запустити браузер?</string>
      <string name="list_delimeter">", "</string>
-     <string name="loading">Завантаження...</string>
+     <string name="loading">Завантаження…</string>
      <string name="locale_codes" />
      <string name="locale_replacement" />
      <string name="lock_to_app_description">"Закріплення екрану блокує його в одному положенні. 
@@ -814,7 +811,7 @@
      <string name="lockscreen_glogin_checking_password">Перевірка…</string>
      <string name="lockscreen_glogin_forgot_pattern">Обл. зап. розбл.</string>
      <string name="lockscreen_glogin_instructions">Щоб розблокувати, увійдіть, використовуючи дані облікового запису Google.</string>
-     <string name="lockscreen_glogin_invalid_input">"Недійсне ім'я корист. чи пароль."</string>
+     <string name="lockscreen_glogin_invalid_input">"Недійсне ім'я корист. чи пароль"</string>
      <string name="lockscreen_glogin_password_hint">Пароль</string>
      <string name="lockscreen_glogin_submit_button">Увійти</string>
      <string name="lockscreen_glogin_too_many_attempts">Забагато спроб намалювати ключ</string>
@@ -822,9 +819,9 @@
      <string name="lockscreen_instructions_when_pattern_disabled">Натисн. меню, щоб розбл.</string>
      <string name="lockscreen_instructions_when_pattern_enabled">Натис. меню, щоб розбл. чи зробити авар. виклик.</string>
      <string name="lockscreen_low_battery">Підкл. заряд. пристрій.</string>
-     <string name="lockscreen_missing_sim_instructions">Вставте SIM-карту.</string>
+     <string name="lockscreen_missing_sim_instructions">Вставте SIM-карту</string>
      <string name="lockscreen_missing_sim_instructions_long">SIM-карта відсутня або недоступна для читання. Вставте SIM-карту.</string>
-     <string name="lockscreen_missing_sim_message">У тел. немає SIM-карти.</string>
+     <string name="lockscreen_missing_sim_message">У тел. немає SIM-карти</string>
      <string name="lockscreen_missing_sim_message_short">Відсутня SIM-карта</string>
      <string name="lockscreen_network_locked_message">Мережу заблок.</string>
      <string name="lockscreen_password_wrong">Повторіть спробу</string>
@@ -882,10 +879,10 @@
      <string name="media_route_chooser_title_for_remote_display">Транслювати екран на пристрій</string>
      <string name="media_route_controller_disconnect">Від’єднатися</string>
      <string name="media_route_status_available">Доступно</string>
-     <string name="media_route_status_connecting">З’єднання...</string>
+     <string name="media_route_status_connecting">З’єднання…</string>
      <string name="media_route_status_in_use">Використовується</string>
      <string name="media_route_status_not_available">Недоступно</string>
-     <string name="media_route_status_scanning">Сканування...</string>
+     <string name="media_route_status_scanning">Сканування…</string>
      <string name="media_shared">"Наразі комп'ютер використовує карту SD."</string>
      <string name="media_unknown_state">Зовнішні носії в невідомому стані.</string>
      <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai (Китай)</string>
@@ -971,8 +968,7 @@
      <string name="mediasize_na_tabloid">Tabloid (Пн. Америка)</string>
      <string name="mediasize_unknown_landscape">Невідома альбомна орієнтація</string>
      <string name="mediasize_unknown_portrait">Невідома книжкова орієнтація</string>
-     <string name="megabyteShort">Мб</string>
-     <string name="megabyteshort">Мб</string>
+     <string name="megabyteShort">МБ</string>
      <string name="meid">MEID</string>
      <string name="menu_delete_shortcut_label">delete</string>
      <string name="menu_enter_shortcut_label">enter</string>
@@ -1909,8 +1905,7 @@
      <string name="permlab_writesyncsettings">Налаштування синхронізації</string>
      <string name="perms_description_app">Надано %1$s.</string>
      <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВИЙ: </font></string>
-     <string name="petabyteShort">Пб</string>
-     <string name="petabyteshort">Пб</string>
+     <string name="petabyteShort">ПБ</string>
      <string name="phoneTypeAssistant">Помічник</string>
      <string name="phoneTypeCallback">Звор. викл.</string>
      <string name="phoneTypeCar">Авто</string>
@@ -2031,10 +2026,10 @@
      <string name="profileNameWork">Робота</string>
      <string name="profile_none">Немає</string>
      <string name="profile_picker_title">Профілі</string>
-     <string name="progress_erasing">Стирання карти SD...</string>
+     <string name="progress_erasing">Стирання карти SD…</string>
      <string name="progress_erasing_internal">Очищення внутрішньої пам\'яті…</string>
      <string name="progress_nomediapresent">Немає зовнішнього носія…</string>
-     <string name="progress_unmounting">Відключення карти SD...</string>
+     <string name="progress_unmounting">Відключення карти SD…</string>
      <string name="progress_unmounting_internal">Вимкнення внутрішньої пам\'яті…</string>
      <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
      <string name="quick_contacts_not_available">Не знайдено програму для перегляду цього контакта.</string>
@@ -2091,7 +2086,7 @@
      <string name="relationtypesister">Сестра</string>
      <string name="relationtypespouse">Подружжя(а)</string>
      <string name="relative_time">%1$s, %2$s</string>
-     <string name="replace">Замінити...</string>
+     <string name="replace">Замінити…</string>
      <string name="report">Повідом.</string>
      <string name="reset">Віднов.</string>
      <string name="restr_pin_confirm_pin">Підтвердьте новий PIN-код</string>
@@ -2233,7 +2228,7 @@
      <string name="show_ime">Показувати спосіб введення</string>
      <string name="shutdown_confirm">Ваш телефон буде вимкнено.</string>
      <string name="shutdown_confirm_question">Вимкнути?</string>
-     <string name="shutdown_progress">Вимкнення...</string>
+     <string name="shutdown_progress">Вимкнення…</string>
      <string name="silent_mode">Беззвуч. режим</string>
      <string name="silent_mode_ring">Дзвінок увімкнено</string>
      <string name="silent_mode_silent">Дзвінок вимкнено</string>
@@ -2305,8 +2300,7 @@
      <string name="system_error_wipe_data">Внутрішня помилка пристрою. Рекомендується виконати загальне скидання налаштувань.</string>
      <string name="telephony_plugin_class_name">com.qti.internal.telephony.QtiTelephonyPlugin</string>
      <string name="telephony_plugin_lib_path">/system/framework/qti-telephony-common.jar</string>
-     <string name="terabyteShort">Тб</string>
-     <string name="terabyteshort">Tб</string>
+     <string name="terabyteShort">ТБ</string>
      <string name="tethered_notification_message">Торкніться, щоб налаштувати.</string>
      <string name="tethered_notification_multi_device_message">Підключених пристроїв: %1$s</string>
      <string name="tethered_notification_no_device_message">Немає підключених пристроїв</string>

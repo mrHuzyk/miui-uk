@@ -2,6 +2,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="accessibility_portrait_button">Портретний режим</string>
+     <string name="accessibility_zoom_button">Режим збільшення</string>
+     <string name="hibernate_hint">Натисніть в будь-якому місці для пробудження</string>
+     <string name="portrait_mode_lowlight_hint">Потрібно більше світла</string>
+     <string name="portrait_mode_too_close_hint">Відійдіть далі</string>
+     <string name="portrait_mode_too_far_hint">"Помістіть об'єкт у межах 2.5 метрів"</string>
+     <string name="portrait_with_facebeauty_hint">В портретному режимі доступні настройки поліпшення</string>
+     <string name="pref_camera_portrait_mode_entry_off">Портретний режим вимкнений</string>
+     <string name="pref_camera_portrait_mode_entry_on">Портретний режим включений</string>
+     <string name="pref_camera_portrait_mode_title">Портретний режим</string>
+     <string name="pref_camera_portrait_with_facebeauty_title">Поліпшення в портретному режимі</string>
+     <string name="pref_camera_zoom_mode_entry_tele">Теле</string>
+     <string name="pref_camera_zoom_mode_entry_wide">Широкий</string>
+     <string name="pref_camera_zoom_mode_title">"Об'єктив"</string>
 	 <string name="groupshot_mode_use_hint">Буде зроблено кілька фото, щоб вибрати кращий
 вираз обличчя та синтезувати в фото "</string>
      <string name="pref_camera_beautify_entry_off">Викл</string>

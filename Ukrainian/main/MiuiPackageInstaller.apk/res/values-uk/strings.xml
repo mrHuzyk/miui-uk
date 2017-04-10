@@ -268,7 +268,7 @@
     <string name="permission_warn_title">Застосунок завантажено з невідомого джерела</string>
     <string name="progress_verifying">Перевірка…</string>
     <string name="update_log_default">Немає списку змін</string>
-    <string name="update_time">%4$s дата выпуску: %2$s/%3$s/%1$s.</string>
+    <string name="update_time">%4$s дата выпуску: %2$s/%3$s/%1$s</string>
     <string name="update_title">%1$s оновлено</string>
     <string name="warn_message">Ваші особисті дані більше вразливі для атак застосунків з невідомих джерел</string>
     <string name="warn_title">Підозрілі застосунки</string>

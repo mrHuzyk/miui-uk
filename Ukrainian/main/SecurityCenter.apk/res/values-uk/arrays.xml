@@ -8,6 +8,10 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="sort_type">
+        <item>Сортування по імені</item>
+        <item>Сортування по розміру</item>
+     </string-array>
 	 <string-array name="sms_report_type">
         <item>Використання трафіку</item>
         <item>Баланс телефону</item>

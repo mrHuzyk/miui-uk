@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="http_invoke_app">Веб-додатки</string>
+     <string name="http_invoke_app_summary">Швидкий запуск додатків без їх установки</string>
+     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Після відключення пароля екрану блокування, збережені відбитки пальців будуть видалені. Ви не зможете розблокувати пристрій, використовуючи відбиток пальця.</string>
 	 <string name="google_title">Google</string>
 	 <string name="keyboard_and_input_methods_category">Клавіатура та способи введення</string>
      <string name="tts_reset_speech_rate_summary">Встановити стандартну швидкість читання тексту</string>

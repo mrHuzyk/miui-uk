@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="bookmark_url_can_not_null">Введіть посилання</string>
 	 <string name="comment_hint">Коментар</string>
      <string name="contextmenu_recognise_qr_code">Сканувати QR код</string>
      <string name="empty_app_name">Інший додаток</string>
