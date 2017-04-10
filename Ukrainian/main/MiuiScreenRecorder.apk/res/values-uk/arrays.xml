@@ -30,6 +30,6 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Без звуку</item>
         <item>Мікрофон</item>
-		<item>Динамик</item>
+		<item>Динамік</item>
     </string-array>
 </resources>
