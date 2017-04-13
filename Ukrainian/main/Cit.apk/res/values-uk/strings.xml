@@ -27,8 +27,7 @@
 Всього:"</string>
      <string name="sd_used">"
 Зайнято:"</string>
-     <string name="sd_wrong_status">Невірний статус</string>
-</resources>
+    <string name="sd_wrong_status">Невірний статус</string>
     <string name="cit_name">Інженерне меню</string>
     <string name="cit_pass">ОК</string>
     <string name="cit_fail">Скасування</string>
