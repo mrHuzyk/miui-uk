@@ -2,6 +2,24 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Про пристрій</string>
+	 <string name="xiao_mi_vip">Mi VIP</string>
+	 <string name="account_mipay_info">Mi pay</string>
+     <string name="account_secure_info_pref_title">Інформація аккаунта</string>
+     <string name="account_security">Безпека</string>
+     <string name="account_security_info_pref_title">Інформація безпеки</string>
+     <string name="account_user_info">Інформація</string>
+     <string name="mipay">Pay</string>
+     <string name="mipay_balance">Баланс</string>
+     <string name="mipay_bank_card">Банківська картка</string>
+     <string name="mipay_identity">Identity</string>
+     <string name="mipay_others">Інше</string>
+     <string name="mipay_transit_card">Транзитна картка</string>
+     <string name="search_account_security">Безпека аккаунта</string>
+     <string name="search_account_security_desc">Налаштування аккаунта</string>
+     <string name="search_account_security_key_words">Змінити номер,Змінити пошту,Захист аккаунта,Акаунти,Авторизація,Пристрої</string>
+     <string name="search_account_security_path">Налаштування/Mi аккаунт/Налаштування аккаунта</string>
+     <string name="vip_account_settings">Налаштування Vip</string>
+     <string name="vip_more_info">Більше інформації</string>
 	 <string name="account_error_invalid_user_name">"Ім'я не може містити &lt;, >, /"</string>
      <string name="access_denied">доступ заборонений</string>
 	 <string name="account_protection_off">вимк.</string>

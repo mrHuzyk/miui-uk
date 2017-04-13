@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="pref_dualcamera_watermark_entry_dualcamera">Подвійна камера</string>
+     <string name="pref_dualcamera_watermark_entry_off">Вимк</string>
+     <string name="pref_dualcamera_watermark_entry_timestamp">Дата</string>
+     <string name="pref_dualcamera_watermark_title">Водяний знак на фото</string>
 	 <string name="accessibility_portrait_button">Портретний режим</string>
      <string name="accessibility_zoom_button">Режим збільшення</string>
      <string name="hibernate_hint">Натисніть в будь-якому місці для пробудження</string>

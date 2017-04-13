@@ -5,6 +5,8 @@
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
      <string name="a_week_share_rank">Щотижневий рейтинг</string>
+	 <string name="clear_record">Очистити історію</string>
+     <string name="search_history">Історія пошуку</string>
 	 <string name="clockin_failed">Не вдалося. Повторіть.</string>
      <string name="clockin_success">Перевірено</string>
      <string name="clockin_use">Отримати приз</string>

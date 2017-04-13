@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_error">Запис неможливий у режимі \"Гість\"</string>
+	 <string name="rename_fail_tip">Неможливо перейменувати. Файл з такою назвою вже існує.</string>
 	 <string name="head_set_tip_dialog_msg">Вимкніть навушники, щоб мати можливість записувати звук з певними настройками (музика, голос)</string>
      <string name="head_set_tip_dialog_ok">OK</string>
      <string name="head_set_tip_dialog_title">Використовувати вбудований мікрофон</string>

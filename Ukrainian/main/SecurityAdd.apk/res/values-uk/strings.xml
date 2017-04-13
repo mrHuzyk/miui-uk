@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_game">Додати</string>
+	 <string name="intro_skip">Пропустить</string>
 	 <string name="add_done">Готово</string>
      <string name="add_whitelist">Додати в виключення</string>
      <string name="anim_gamebooster_text">Зачекайте…</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="global_action_text_card_manager">Більше цікавих календарів</string>
 	 <string name="anniversary_card_title">Річниця</string>
      <string name="anniversary_event_title">[Річниця] %1$s</string>
      <string name="birthday_saved">День народження збережений</string>

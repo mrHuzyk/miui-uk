@@ -2,6 +2,21 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="music_unsupport_effect_summary">Непідтримувана USB-гарнітура</string>
+	 <string name="palm_enabled">Велика область закриває екран</string>
+     <string name="suspend_gesture_enabled">Згорніть екран</string>
+	 <string name="account_other">Інші</string>
+     <string name="aod_mode_summary">Завжди показувати час, дату та повідомлення на вимкненому екрані</string>
+     <string name="aod_mode_title">Режим завжди включений</string>
+     <string name="dndm_summary_for_pad">Сповіщення одержані в вимкненому режимі Не турбувати будуть без звуку</string>
+     <string name="edge_touch_volume">Регулювання гучності на Edge Touch</string>
+     <string name="screen_resolution_dialog_title">Розширення екрану</string>
+     <string name="screen_resolution_high_format">Високе (%1$s)</string>
+     <string name="screen_resolution_normal_format">Звичайне (%1$s)</string>
+     <string name="screen_resolution_ultrahigh_format">Ультра (%1$s)</string>
+     <string name="xiaomi_cloud_service_description">Mi Cloud синхронізує Ваші контатки і фото, зберігає копії додатків і налаштувань та допомагає знайти пристрій в Пошуку пристрою.</string>
+     <string name="xiaomi_cloud_service_disabled">Вимк</string>
+     <string name="xiaomi_cloud_service_unknown">Невідомо</string>
 	 <string name="http_invoke_app">Веб-додатки</string>
      <string name="http_invoke_app_summary">Швидкий запуск додатків без їх установки</string>
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Після відключення пароля екрану блокування, збережені відбитки пальців будуть видалені. Ви не зможете розблокувати пристрій, використовуючи відбиток пальця.</string>

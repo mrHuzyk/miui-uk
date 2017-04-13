@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="tc_sms_report_type">Тип отчета</string>
+	 <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Не впевнені в операторі?&lt;/U>&lt;/font>"</string>
 	 <string name="card_main_deepclean_wechat_action">Очистити</string>
      <string name="card_main_deepclean_wechat_summary">Очистіть кеш WeChat для звільнення пам'яті</string>
      <string name="card_main_deepclean_wechat_title">Кеш WeChat</string>

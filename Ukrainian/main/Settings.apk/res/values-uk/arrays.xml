@@ -5,6 +5,28 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+        <item>Процесор</item>
+        <item>Батарея</item>
+        <item>Камера</item>
+        <item>Екран</item>
+        <item>Дозволи</item>
+        <item>Android</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 810</item>
+        <item>3090 мАч</item>
+        <item>13 Мп.</item>
+        <item>5.7"</item>
+        <item>2560x1440</item>
+        <item>7.0</item>
+     </string-array>
 	 <string-array name="enjoy_version_mi3">
         <item>3 ГБ</item>
         <item>32 ГБ</item>
