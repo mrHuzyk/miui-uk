@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="callEnded_pulled">Виклик передається на інший пристрій</string>
+     <string name="callFailed_data_disabled">Виклик завершено. Інтернет відключено.</string>
+     <string name="callFailed_data_limit_reached">Перевищено ліміт трафіку. Виклик завершено.</string>
+     <string name="callFailed_data_limit_reached_description">Виклик завершено. Ліміт трафіку був перевищений.</string>
+     <string name="callFailed_maximum_reached">Використовуються всі доступні лінії. Щоб здійснити виклик, завершіть один на цьому пристрої або увімкніть на іншому пристрої.</string>
 	 <string name="volte_provision_notification_activate">Активувати</string>
      <string name="volte_provision_text">Виявлено, що VoLTE не передбачений SIM-картою. Активувати зараз?</string>
      <string name="volte_provision_title">VoLTE</string>

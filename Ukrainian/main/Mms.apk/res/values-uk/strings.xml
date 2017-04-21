@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_firewall_setting">Чорний список</string>
+	 <string name="mx_activate_network_allow_notice">Цей сервіс буде використовувати мережу.</string>
 	 <string name="pref_hide_verification_code_summary">Автоматично приховувати одноразові паролі в повідомленнях на заблокованому екрані</string>
      <string name="title_hide_verification_code">Приховувати OП на локскріні</string>
 	 <string name="pref_switch_sdk_setting">Змінити движок Smart повідомлень</string>

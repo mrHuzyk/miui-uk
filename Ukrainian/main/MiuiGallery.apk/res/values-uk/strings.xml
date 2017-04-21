@@ -2,6 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="grant_permission_go_and_set">Налаштувати</string>
+     <string name="grant_permission_item">\"%s\"</string>
+     <string name="grant_permission_text">"Потрібно доступ до
+%s
+ для нормальної роботи Галереї. Натисніть Налаштувати, щоб надати доступ."</string>
+     <string name="grant_permission_title">Дозвольте доступ</string>
 	 <string name="loading_fail_sync_without_network">Підключіться до мережі для завантаження метаданих</string>
      <string name="loading_fail_syncing">Дочекайтеся повного завантаження метаданих і спробуйте ще раз</string>
      <string name="loading_video_fail_sync_without_network">Підключіться до мережі для завантаження метаданих</string>

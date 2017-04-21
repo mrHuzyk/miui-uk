@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="pref_watermark_style_entry_dualcamera">Подвійна камера</string>
+     <string name="pref_watermark_style_entry_off">Вимк</string>
+     <string name="pref_watermark_style_entry_timestamp">Час</string>
+     <string name="pref_watermark_style_title">Водяний знак на фото</string>
 	 <string name="pref_dualcamera_watermark_entry_dualcamera">Подвійна камера</string>
      <string name="pref_dualcamera_watermark_entry_off">Вимк</string>
      <string name="pref_dualcamera_watermark_entry_timestamp">Дата</string>

@@ -2,6 +2,9 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук (англ.)</string>
+	<string name="act_find_city_hot_attractions_title">Популярні сайти</string>
+     <string name="act_find_city_hot_city_title">Популярні міста</string>
+     <string name="menu_speeker">Голосове мовлення</string>
 	<string name="index_item_experience_now">Встановити</string>
      <string name="index_item_install_dialog" />
      <string name="index_item_install_dialog_cancel" />

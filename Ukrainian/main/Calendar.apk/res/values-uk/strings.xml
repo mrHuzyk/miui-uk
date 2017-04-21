@@ -2,6 +2,30 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="add_anniversary">Додати річницю</string>
+     <string name="add_countdown">Додати відлік</string>
+     <string name="add_event">Додати подію</string>
+     <string name="calculate_result">Обчислити результат</string>
+     <string name="date_calculate">Розрахунок дати</string>
+     <string name="date_calculate_days">Введіть номер дня</string>
+     <string name="date_calculate_description">Розрахувати дату до або після декількох днів</string>
+     <string name="date_calculate_direction">Напрямок обчислення дати</string>
+     <string name="date_calculate_result">Результат</string>
+     <string name="date_calculate_tab">Розрахунок дати</string>
+     <string name="date_calculate_today">0 дн.</string>
+     <string name="date_calculate_when">Якщо</string>
+     <string name="date_interval_description">Розрахувати інтервал між двома датами</string>
+     <string name="date_interval_end">До</string>
+     <string name="date_interval_start">З</string>
+     <string name="date_interval_tab">Інтервал</string>
+     <string name="date_interval_text_to">До %1$s</string>
+     <string name="date_today">(сьогодні)</string>
+     <string name="edit_date_calculate_days_backward_error_hint">Не може бути розраховане назад</string>
+     <string name="edit_date_calculate_days_empty_hint">Число днів не може бути порожнім</string>
+     <string name="edit_date_calculate_days_error_hint">Вкажіть правильні дні протягом %1$d</string>
+     <string name="edit_date_calculate_days_forward_error_hint">Не може бути розраховане вперед</string>
+     <string name="start_date_calculate">Почати розрахунок</string>
+     <string name="view_in_month_view">Перегляд в місяці</string>
 	 <string name="global_action_text_card_manager">Більше цікавих календарів</string>
 	 <string name="anniversary_card_title">Річниця</string>
      <string name="anniversary_event_title">[Річниця] %1$s</string>

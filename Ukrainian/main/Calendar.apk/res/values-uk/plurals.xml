@@ -5,6 +5,26 @@
         <item quantity="other">+ Подій: %d</item>
         <item quantity="one">+ Подій: 1</item>
      </plurals>
+	 <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d дн. після</item>
+        <item quantity="one">%1$d дн. після</item>
+     </plurals>
+     <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d дн. назад</item>
+        <item quantity="one">%1$d дн. назад</item>
+     </plurals>
+     <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Назад %1$d дн.</item>
+        <item quantity="one">Назад %1$d дн.</item>
+     </plurals>
+     <plurals name="date_calculate_direction_forward">
+        <item quantity="other">Вперед %1$d дн.</item>
+        <item quantity="one">Вперед %1$d дн.</item>
+     </plurals>
+     <plurals name="work_days">
+        <item quantity="other">Робочих днів: %d</item>
+        <item quantity="one">Робочих днів: %d</item>
+     </plurals>
 	 <plurals name="Ndays_after_at">
         <item quantity="other">Через %1$d дн. в %2$s</item>
         <item quantity="one">Через %1$d дн. в %2$s</item>

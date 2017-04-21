@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">ОК</string>
+	 <string name="drag_barcode_into_frame">Помістіть рамку на код</string>
 	 <string name="low_version_tip">Не вдалося запустити сканер на поточній прошивці. Обновіть MIUI</string>
 	 <string name="keywords_search_code">Сканер;Сканувати,QR-код,Штрих-код,Товари</string>
      <string name="keywords_search_document">Сканер;Сканування документів;Документи;Текст</string>
