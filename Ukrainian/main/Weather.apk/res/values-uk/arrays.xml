@@ -5,6 +5,11 @@
         <item>Радимо</item>
         <item>Не радимо</item>
      </string-array>
+	 <string-array name="minute_rain_array">
+        <item>Сильний</item>
+        <item>Помірний</item>
+        <item>Невеликий</item>
+     </string-array>
 	 <string-array name="aqi_detail_title">
         <item>Хороший</item>
         <item>Нормальний</item>

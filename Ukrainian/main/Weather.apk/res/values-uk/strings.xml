@@ -2,6 +2,35 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук (англ.)</string>
+	<string name="data_provided_by">"Дані надані"</string>
+     <string name="feedback_heavy_rain">Сильний дощ</string>
+     <string name="feedback_heavy_snow">Сніг</string>
+     <string name="feedback_light_rain">Невеликий дощ</string>
+     <string name="feedback_overcast">Похмуро</string>
+     <string name="feedback_result_fail_no_choice">Виберіть погоду, яку ви бачите</string>
+     <string name="feedback_result_interval_time_too_short">%1$s сек. після відгуку</string>
+     <string name="feedback_result_success">Дякую за відгук :)</string>
+     <string name="feedback_sand">Піщана буря</string>
+     <string name="feedback_sunny">Ясно</string>
+     <string name="menu_minute_rain">Двох годинний прогноз</string>
+     <string name="minute_rain_after_an_hour">Через годину</string>
+     <string name="minute_rain_after_two_hour">Через дві години</string>
+     <string name="minute_rain_feedback_subtitle">Просто скажи мені, яка погода</string>
+     <string name="minute_rain_feedback_text">Відгук</string>
+     <string name="minute_rain_feedback_title">Погода не відповідає поточній...</string>
+     <string name="minute_rain_let_go_refresh">Оновити</string>
+     <string name="minute_rain_no_data">Немає даних</string>
+     <string name="minute_rain_now">Зараз</string>
+     <string name="minute_rain_progress_indicator_original_time">- -</string>
+     <string name="minute_rain_pull_down_refresh">Потягніть вниз, щоб оновити</string>
+     <string name="minute_rain_refreshing_now">Оновлення</string>
+     <string name="precipitation_degree_five">шторм</string>
+     <string name="precipitation_degree_four">сильний</string>
+     <string name="precipitation_degree_one">без опадів</string>
+     <string name="precipitation_degree_three">помірний</string>
+     <string name="precipitation_degree_two">невеликий</string>
+     <string name="radar_cloud_image_title">Карта радара</string>
+     <string name="some_where_on_earth">Десь на землі</string>
 	<string name="act_find_city_hot_attractions_title">Популярні сайти</string>
      <string name="act_find_city_hot_city_title">Популярні міста</string>
      <string name="menu_speeker">Голосове мовлення</string>

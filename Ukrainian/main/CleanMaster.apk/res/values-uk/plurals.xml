@@ -4,6 +4,18 @@
         <item quantity="other">%d дн.</item>
         <item quantity="one">%d дн.</item>
     </plurals>
+	<plurals name="app_usage_day">
+        <item quantity="other">Не використовувалося: %d дн.</item>
+        <item quantity="one">Не використовувалося: %d дн.</item>
+     </plurals>
+     <plurals name="app_usage_month">
+        <item quantity="other">Не використовувалося: %d міс.</item>
+        <item quantity="one">Не використовувалося: %d міс.</item>
+     </plurals>
+     <plurals name="app_usage_year">
+        <item quantity="other">Не використовувалося: %d р.</item>
+        <item quantity="one">Не використовувалося: %d р.</item>
+     </plurals>
 	<plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">Помилка експорту %d відео. Звільніть місце і повторіть.</item>
         <item quantity="one">Помилка експорту %d відео. Звільніть місце і повторіть.</item>

@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="music_notification_headset_custom">Відміна</string>
+     <string name="music_notification_headset_info">Натисніть, щоб налаштувати</string>
+     <string name="music_notification_headset_settings">Підключені навушники</string>
 	 <string name="music_unsupport_effect_summary">Непідтримувана USB-гарнітура</string>
 	 <string name="palm_enabled">Велика область закриває екран</string>
      <string name="suspend_gesture_enabled">Згорніть екран</string>

@@ -2,7 +2,22 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
-	 
+	 <string name="app_name_antispam">Чорний список</string>
+     <string name="daily_sim_over_limit_dialog_message">"Ви вже використали %s щоденного трафіку.
+
+Якщо Ви знову включите мобільний інтернет, то оператор може стягувати плату за додатковий трафік."</string>
+     <string name="daily_sim_over_limit_notify_title">Ви вже використали %s щоденного трафіку</string>
+     <string name="demo_number">241</string>
+     <string name="main_daily_package">Щоденний трафік</string>
+     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
+     <string name="menu_text_networkassistants_unit_b">" Б"</string>
+     <string name="menu_text_networkassistants_unit_gb">" ГБ</string>
+     <string name="menu_text_networkassistants_unit_kb">" КБ</string>
+     <string name="menu_text_networkassistants_unit_mb">" МБ"</string>
+     <string name="open_activity_err">Додаток не знайдено</string>
+     <string name="pref_key_daily_package_summary">Увімкніть, щоб скинути щоденний ліміт трафіку</string>
+     <string name="pref_over_traffic_limit">При перевищенні ліміту</string>
+     <string name="pref_special_package_setting_summary">Управління додатковим трафіком, поповнення, щоденні трафік і призначення трафіку</string>
 	 <string name="ACaddnumcontent">Введіть префікс</string>
      <string name="ACaddnumtitle">Додати префікс телефону в білий список</string>
      <string name="AD_ALLOW">Дозволити рекламу</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Пошук</string>
+	 <string name="switch_email">Пошта</string>
 	 <string name="barcode_install_back">Назад</string>
      <string name="barcode_install_cancel">Відміна</string>
      <string name="barcode_install_confirm">Встановити</string>

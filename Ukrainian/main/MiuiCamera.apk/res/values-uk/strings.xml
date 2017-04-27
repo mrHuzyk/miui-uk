@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="portrait_mode_depth_effect_success_hint">Ефект глибини</string>
 	 <string name="pref_watermark_style_entry_dualcamera">Подвійна камера</string>
      <string name="pref_watermark_style_entry_off">Вимк</string>
      <string name="pref_watermark_style_entry_timestamp">Час</string>

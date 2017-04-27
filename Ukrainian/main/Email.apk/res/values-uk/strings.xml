@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="account_settings_background_attachments_summary_inter">Завантажити вкладення по Wi-Fi</string>
+     <string name="imap_or_pop3_name">IMAP/POP3</string>
+     <string name="policy_dont_allow_wifi_inter">Не дозволяти Wi-Fi</string>
 	 <string name="auto_mail_describe">Служба автоматичного налаштування 139 Email може допомогти вам заповнити реєстраційну інформацію в поштову скриньку. Ви хочете включити цю функцію?</string>
      <string name="auto_mail_disable_txt">Відміна</string>
      <string name="auto_mail_enable_txt">Почати</string>

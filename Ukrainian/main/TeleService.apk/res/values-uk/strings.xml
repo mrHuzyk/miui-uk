@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="sum_cfu_enabled_indicator_by_sim">Всі виклики на %s будуть переадресовані</string>
+     <string name="title_cfu_enabled">Увімкнена переадресація викликів</string>
 	 <string name="callEnded_pulled">Виклик передається на інший пристрій</string>
      <string name="callFailed_data_disabled">Виклик завершено. Інтернет відключено.</string>
      <string name="callFailed_data_limit_reached">Перевищено ліміт трафіку. Виклик завершено.</string>

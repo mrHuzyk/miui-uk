@@ -2,6 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
+	 <string name="app_usage_never">Не використовувалося</string>
+     <string name="app_usage_recently">Використовувалося недавно</string>
+     <string name="main_title_filesize">%1$s сміття</string>
+     <string name="menu_add_to_white_list">Додати в виключення</string>
+     <string name="menu_clear">Очистити</string>
+     <string name="menu_install">Встановити</string>
+     <string name="menu_view">Переглянути в папці</string>
 	 <string name="analying">Аналіз…</string>
      <string name="delete_confirm">Видалити</string>
      <string name="delete_confirm_msg">Видалити всі вибрані файли назавжди?</string>

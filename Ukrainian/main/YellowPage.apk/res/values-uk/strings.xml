@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Жовті сторінки</string>
+	<string name="miuishare_qzone_title">Qzone</string>
 	<string name="express_inquiry_detail">Детальніше</string>
      <string name="express_tail_number">Задній номер</string>
      <string name="search_description_express">Запит або швидка експрес відправка</string>

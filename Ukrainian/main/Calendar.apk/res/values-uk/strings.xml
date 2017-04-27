@@ -2,6 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="global_cricket_no_match">Сьогодні немає змагань з крикету, і ви можете переглянути основні моменти минулих змагань або спробувати інший матч. Чудова подія, варто почекати!</string>
+     <string name="global_onthisday_com">OnThisDay.com</string>
+     <string name="match_select_activity_label">Вибір збігів</string>
+     <string name="repeat_interval_frequency_day_single">дн.</string>
+     <string name="repeat_interval_frequency_month_single">міс.</string>
+     <string name="repeat_interval_frequency_week_single">нед.</string>
+     <string name="repeat_interval_frequency_year_single">р.</string>
 	 <string name="add_anniversary">Додати річницю</string>
      <string name="add_countdown">Додати відлік</string>
      <string name="add_event">Додати подію</string>

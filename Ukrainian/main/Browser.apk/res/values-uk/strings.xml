@@ -2,6 +2,22 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="add_to_desk_lite_mode_toast">Неможливо додати на робочий стіл в простому режимі</string>
+     <string name="autoSwithcingSearchEngineTips">Змінена пошукова система в порівнянні</string>
+     <string name="back_description">Назад</string>
+     <string name="comment_description">Коментар</string>
+     <string name="firstUsingSearchEngineTips">Зміна пошуку</string>
+     <string name="forward_description">Вперед</string>
+     <string name="home_description">Головна</string>
+     <string name="more_description">Меню</string>
+     <string name="pref_automatic_matching_searchengines_title">Зіставлення пошукових систем</string>
+     <string name="quicklink_cannot_save_url">Неможливо додати це посилання</string>
+     <string name="quicklink_folder_text">Топ додаток</string>
+     <string name="storage_permission_request_toast">Потрібен дозвіл до пам'яті пристрою. Увімкніть його.</string>
+     <string name="switchText">ТАК</string>
+     <string name="tabs_description">Вкладки</string>
+     <string name="unSwitchText">НІ</string>
+     <string name="undo">Відміна</string>
 	 <string name="bookmark_url_can_not_null">Введіть посилання</string>
 	 <string name="comment_hint">Коментар</string>
      <string name="contextmenu_recognise_qr_code">Сканувати QR код</string>

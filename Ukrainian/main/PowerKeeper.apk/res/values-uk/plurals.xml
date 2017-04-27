@@ -12,4 +12,12 @@
         <item quantity="other">Ще %1$d кроків для розблокування всіх елементів</item>
         <item quantity="one">Ще %1$d крок для розблокування всіх елементів</item>
     </plurals>
+	<plurals name="app_list_total">
+        <item quantity="other">%d дод.</item>
+        <item quantity="one">%d дод.</item>
+     </plurals>
+     <plurals name="select_items">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
+     </plurals>
 </resources>
