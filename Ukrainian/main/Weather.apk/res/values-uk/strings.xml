@@ -2,6 +2,10 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук (англ.)</string>
+	<string name="aqi_display_exp">exp_%1$s</string>
+     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+     <string name="hourly_forecast_date">d/MM</string>
 	<string name="data_provided_by">"Дані надані"</string>
      <string name="feedback_heavy_rain">Сильний дощ</string>
      <string name="feedback_heavy_snow">Сніг</string>

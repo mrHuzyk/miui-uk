@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lch_dtmf_key">D</string>
+	<string name="notification_AllMissedCallTitle">Всі пропущені дзвінки</string>
 	<string name="default_connection_manager_component" />
      <string name="headset_plugin_view_text">Підключені навушники</string>
      <string name="headset_plugin_view_title">Навушники</string>

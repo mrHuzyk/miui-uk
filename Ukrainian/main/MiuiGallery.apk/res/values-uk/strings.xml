@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="show_in_other_albums_disable_toast_long_press_menu">Успішно переміщений. Зайдіть в Інші альбоми для перегляду.</string>
+     <string name="show_in_other_albums_enable_toast_long_press_menu">Успішно переміщений. Перейдіть в Альбоми для перегляду.</string>
 	 <string name="grant_permission_go_and_set">Налаштувати</string>
      <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"Потрібно доступ до

@@ -2,6 +2,15 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="paper_mode_auto_twilight_summary">Вмикати режим читання ввечері</string>
+     <string name="paper_mode_auto_twilight_title">Вечір</string>
+     <string name="paper_mode_customize_time_summary">Вмикати режим читання в завдний час</string>
+     <string name="paper_mode_customize_time_title">Час</string>
+     <string name="paper_mode_get_location_dlg_msg">Необхідно включити певну інформацію про Ваше розташування для отримання точного часу про схід і захід сонця. Відкрити параметри?</string>
+     <string name="paper_mode_get_location_dlg_negative_btn_text">відміна</string>
+     <string name="paper_mode_get_location_dlg_positive_btn_text">OK</string>
+     <string name="paper_mode_get_location_dlg_title">Позиціонування</string>
+     <string name="screen_paper_mode_time_summary">Вмикати режим читання в заданий час</string>
 	 <string name="music_notification_headset_custom">Відміна</string>
      <string name="music_notification_headset_info">Натисніть, щоб налаштувати</string>
      <string name="music_notification_headset_settings">Підключені навушники</string>

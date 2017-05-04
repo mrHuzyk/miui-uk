@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vip аккаунт</string>
+    <string name="xiaomi_account">Mi аккаунт</string>
+    <string name="invalid_json">Щось пішло не так(</string>
+    <string name="no_network">Неможливо підключитися до мережі</string>
+    <string name="no_data">Немає даних</string>
+    <string name="fail_reach_server">Неможливо з'єднатися з сервером</string>
+    <string name="too_fast">Не так швидко, кнопки також потребують відпочинку :)</string>
+    <string name="loading">Завантаження…</string>
+    <string name="start_activity_error">Не вдалося запустити додаток: %s</string>
+    <string name="no_app">Спочатку встановіть додаток</string>
+    <string name="level_info">Рів. %s</string>
+    <string name="account_settings">Аккаунт</string>
+    <string name="security_settings">Безпека</string>
+    <string name="cta_declaration_title">Умови використання</string>
+    <string name="cta_declaration_message">"Для входу в Mi аккаунт потрібне підключення до мережі. Будуть включені сервіси визначення місцеположення і синхронізація з Mi Cloud. Також потрібен доступ до контактів, повідомлень, дзвінків і диктофону, для бекапа Ваших даних. Ми не будемо використовувати ваші дані в комерційних цілях або передавати їх третім особам. Після входу в Mi аккаунт, Mi VIP і сервіси Mi будуть підключатися до мережі."</string>
+    <string name="cta_declaration_agree_and_continue">Продовжити</string>
+    <string name="cta_declaration_exit">Вихід</string>
+</resources>
