@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="privacy_password_use_finger_dialog_mess">Ви так само можете використовувати відбиток пальця на пароль захисту конфіденційності</string>
+     <string name="privacy_password_use_finger_dialog_open">Налаштування</string>
+     <string name="privacy_password_use_finger_dialog_title">Розблокування відбитком</string>
+     <string name="privacy_password_use_finger_success">Включено</string>
 	 <string name="paper_mode_auto_twilight_summary">Вмикати режим читання ввечері</string>
      <string name="paper_mode_auto_twilight_title">Вечір</string>
      <string name="paper_mode_customize_time_summary">Вмикати режим читання в завдний час</string>

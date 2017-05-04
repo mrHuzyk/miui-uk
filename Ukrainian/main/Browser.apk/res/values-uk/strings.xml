@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="ssl_bad_clock_date_settings">Налаштування дати</string>
+     <string name="ssl_bad_clock_warning" formatted="false">"Закрите підключення до %s1 може бути не виконано, тому що невірна дата і час на пристрої (%s2)."</string>
 	 <string name="add_to_desk_lite_mode_toast">Неможливо додати на робочий стіл в простому режимі</string>
      <string name="autoSwithcingSearchEngineTips">Змінена пошукова система в порівнянні</string>
      <string name="back_description">Назад</string>

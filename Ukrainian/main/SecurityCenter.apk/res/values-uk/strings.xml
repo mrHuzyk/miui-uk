@@ -2,6 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="applock_add_account">Додати</string>
+     <string name="applock_add_account_info">"Додайте Mi аккаунт, щоб мати можливість скинути пароль,
+якщо Ви його забудете "</string>
+     <string name="applock_add_account_setting">Аккаунт та конфіденційність</string>
+     <string name="applock_close_dialog_summary">Додатки більше не будуть захищені і пароль буде видалений після розблокувати додатків</string>
+     <string name="applock_close_dialog_title">Вимкнення блокування</string>
+     <string name="applock_exit_account_info">Аккаунт буде видалений автоматично після виходу з нього</string>
+     <string name="applock_login_and_add_account">Увійти, щоб додати</string>
+     <string name="applock_not_add_account">Не зараз</string>
+     <string name="applock_not_login_account">Ви не ввійшли</string>
 	 <string name="app_name_antispam">Чорний список</string>
      <string name="daily_sim_over_limit_dialog_message">"Ви вже використали %s щоденного трафіку.
 

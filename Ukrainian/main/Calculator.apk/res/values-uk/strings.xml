@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="advanced">Додаткова панель</string>
+	 <string name="cal_paste">Вставити</string>
+     <string name="deleteDesc">видалити</string>
+     <string name="menuDesc">меню</string>
+     <string name="percentDesc">відсоток</string>
+     <string name="settingsDesc">налаштування</string>
 	 <string name="global_search_key_area_convertion">Конвертер площі;Площа</string>
      <string name="global_search_key_calculation">Порахувати;Калькулятор;Одиниці виміру</string>
      <string name="global_search_key_date_convertion">Конвертер часу;Одиниці часу;Час</string>
