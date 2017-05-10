@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
+	 <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> інших файлів можна очистити. Звільніть більше місця.</Data>" "</string>
+     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> кеша WeChat. Звільніть більше місця.</Data>" "</string>
 	 <string name="app_usage_never">Не використовувалося</string>
      <string name="app_usage_recently">Використовувалося недавно</string>
      <string name="main_title_filesize">%1$s сміття</string>

@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="user_settings_forbidden">Не вдається змінити налаштування адміністратора в поточному користувачеві. Поверніться до першого користувача.</string>
+	 <string name="recents_config_title">Налаштування панелі задач</string>
+     <string name="show_mem_info_title">"Показувати інформацію про пам'ять"</string>
 	 <string name="privacy_password_use_finger_dialog_mess">Ви так само можете використовувати відбиток пальця на пароль захисту конфіденційності</string>
      <string name="privacy_password_use_finger_dialog_open">Налаштування</string>
      <string name="privacy_password_use_finger_dialog_title">Розблокування відбитком</string>

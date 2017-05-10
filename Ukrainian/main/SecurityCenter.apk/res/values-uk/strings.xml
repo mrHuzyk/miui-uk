@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="app_manager_go_to_manger_app">Управління</string>
+     <string name="app_manager_perm">Дозволи</string>
+     <string name="app_manager_usage_record_title">Використання додатків</string>
+     <string name="app_usage_never">Не використовуються</string>
+     <string name="app_usage_recently">Нещодавно використовувані</string>
 	 <string name="applock_add_account">Додати</string>
      <string name="applock_add_account_info">"Додайте Mi аккаунт, щоб мати можливість скинути пароль,
 якщо Ви його забудете "</string>

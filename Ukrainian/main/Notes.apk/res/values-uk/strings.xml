@@ -2,6 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_account_desc">Синхронізувати нотатки з вашим Mi акаунтом?</string>
+	 <string name="dialog_share_as_pic">Поділитися як картинкою</string>
+     <string name="dialog_share_as_text">Поділитися як текстом</string>
+     <string name="dialog_share_title">Відправка замітки</string>
+     <string name="done">Готово</string>
+     <string name="format_move_note_out_folder">Переміщено</string>
+     <string name="format_move_note_to_folder">Переміщено в %1$s</string>
+     <string name="menu_add_folder">Додати в папку</string>
 	 <string name="cloud_trash_bin_title">Видалити нотатки в Mi Cloud</string>
      <string name="cta_reminder">Додатку потрібно доступ до мережі, щоб створити резервну копію нотаток у Mi Cloud. Також необхідний доступ до читання Ваших контактів, щоб позначки нотаток під час викликів.</string>
      <string name="pref_title_cloud_trash_bin">Видалення нотаток в Mi Cloud</string>

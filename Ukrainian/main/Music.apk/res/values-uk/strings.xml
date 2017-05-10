@@ -2,6 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account">Акаунт</string>
+	 <string name="confirm">OK</string>
+     <string name="online_play_tips">Ця пісня доступна тільки онлайн. Увімкніть онлайн-сервіси в налаштуваннях, щоб прослухати її.</string>
+     <string name="online_service_open_tip">Онлайн сервіси музики включені</string>
+     <string name="online_service_title">Онлайн сервіси</string>
+     <string name="online_switch">Сервіси онлайн контенту</string>
+     <string name="online_switch_message">Відключення онлайн-сервісів вплине на VIP-послуги і рекомендації. Все одно вимкнути?</string>
+     <string name="online_switch_setting">Налаштування онлайн контенту</string>
+     <string name="open_online_service">Вам необхідно включити онлайн-сервіси, щоб використовувати цю функцію. Включити їх зараз?</string>
+     <string name="open_service">Увімкнути</string>
+     <string name="start_to_backup">Бекап…</string>
 	 <string name="ad_data_exception">Дані реклами минули</string>
      <string name="ad_recommend">Рекомендувати рекламу</string>
      <string name="ad_setting">Налаштування реклами</string>

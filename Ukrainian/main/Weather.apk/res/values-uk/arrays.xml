@@ -5,6 +5,15 @@
         <item>Радимо</item>
         <item>Не радимо</item>
      </string-array>
+	 <string-array name="pollution_level_desc_arr">
+        <item>Відмінне</item>
+        <item>Хороше</item>
+        <item>Легке забруднення</item>
+        <item>Помірне забруднення</item>
+        <item>Забруднене</item>
+        <item>Дуже забруднене</item>
+        <item>Поза індексом</item>
+     </string-array>
 	 <string-array name="minute_rain_array">
         <item>Сильний</item>
         <item>Помірний</item>
@@ -172,5 +181,6 @@
        <item>Забруднений</item>
        <item>Забруднений</item>
        <item>Поганий</item>
+	   <item>Burst Table</item>
     </string-array>
 </resources>

@@ -7,6 +7,42 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Зачекайте %d с. і повторіть знову."</item>
+        <item quantity="one">"Зачекайте %d с. і повторіть знову."</item>
+     </plurals>
+     <plurals name="marked_by_others">
+        <item quantity="other">%d корист. відзначили це як</item>
+        <item quantity="one">%d корист. відзначили це як</item>
+     </plurals>
+	 <plurals name="app_usage_day">
+        <item quantity="other">Не використовувалося %d дн.</item>
+        <item quantity="one">Не використовувалося %d дн.</item>
+     </plurals>
+     <plurals name="app_usage_month">
+        <item quantity="other">Не використовувалося %d міс.</item>
+        <item quantity="one">Не використовувалося %d міс.</item>
+     </plurals>
+     <plurals name="app_usage_year">
+        <item quantity="other">Не використовувалося %d років</item>
+        <item quantity="one">Не використовувалося %d рік</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Ви вже використали %s щоденного ліміту трафіку.
+
+Якщо Ви знову включите мобільний інтернет, оператор може стягувати плату за додатковий трафік."</item>
+        <item quantity="one">"Ви вже використали %s щоденного ліміту трафіку.
+
+Якщо Ви знову включите мобільний інтернет, оператор може стягувати плату за додатковий трафік."</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Ви вже використали %s щоденного ліміту трафіку</item>
+        <item quantity="one">Ви вже використали %s щоденного ліміту трафіку</item>
+     </plurals>
+     <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d дод.</item>
+        <item quantity="one">%d дод.</item>
+     </plurals>
 	 <plurals name="fw_blocked_count_call">
         <item quantity="other">Викликів: %d</item>
         <item quantity="one">Виклик: 1</item>

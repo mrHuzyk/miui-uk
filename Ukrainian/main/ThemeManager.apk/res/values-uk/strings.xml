@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account_id_not_login">Натисніть для авторизації</string>
+	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>
      <string name="uid_change_dialog_ok">Перезавантажити</string>
      <string name="uid_change_dialog_title">Потрібне перезавантаження</string>
