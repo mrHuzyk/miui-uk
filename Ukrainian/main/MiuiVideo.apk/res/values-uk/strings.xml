@@ -519,7 +519,7 @@
      <string name="passport_login_check_find_device_failed_message">Неможливо перевірити статус пошуку пристрою</string>
      <string name="passport_login_check_find_device_failed_title">Інтернет недоступний</string>
      <string name="passport_login_failed">Помилка авторизації</string>
-     <string name="passport_login_find_device_bind">Цей пристрій прив'язано до існуючого ID Mi акаунту(%s). Авторизуйтеся для активації пристрою.</string>
+     <string name="passport_login_find_device_bind">"Цей пристрій прив'язано до існуючого ID Mi акаунту(%s). Авторизуйтеся для активації пристрою."</string>
      <string name="passport_login_instead_reg">Використовувати цей номер</string>
      <string name="passport_login_instead_reg_with_email">Використовувати цей Email</string>
      <string name="passport_login_notice">Авторизація…</string>
@@ -568,7 +568,7 @@
      <string name="passport_register_account_goto_email">Увійдіть у \"Вхідні\"</string>
      <string name="passport_register_account_verified_confirm">Акаунт вже підтверджено</string>
      <string name="passport_register_by_email"><u>Реєстрація по Email</u></string>
-     <string name="passport_register_restricted">До цього номеру прив'язане занадто багато акаунтів. Використовуйте інший номер.</string>
+     <string name="passport_register_restricted">"До цього номеру прив'язане занадто багато акаунтів. Використовуйте інший номер."</string>
      <string name="passport_register_restricted_title">Попередження</string>
      <string name="passport_registered_phone_user_ID">ID користувача: %s</string>
      <string name="passport_registered_phone_user_name">"Ім'я користувача: %s"</string>

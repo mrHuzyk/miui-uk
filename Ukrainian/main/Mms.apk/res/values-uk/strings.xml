@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_firewall_setting">Чорний список</string>
+	 <string name="pref_show_list_avatar_summary">Показувати фотографії та іншу контактну інформацію</string>
+     <string name="title_show_list_avatar">Фото та інформація</string>
 	 <string name="mx_activate_network_allow_notice">Цей сервіс буде використовувати мережу.</string>
 	 <string name="pref_hide_verification_code_summary">Автоматично приховувати одноразові паролі в повідомленнях на заблокованому екрані</string>
      <string name="title_hide_verification_code">Приховувати OП на локскріні</string>

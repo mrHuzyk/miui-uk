@@ -2,6 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="pref_camera_proximity_lock_summary">Блокувати натискання при знаходженні в кишені</string>
+     <string name="pref_camera_proximity_lock_title">Кишеньковий режим</string>
+     <string name="pref_camera_show_gender_age_label_alias">Вік</string>
+     <string name="pref_camera_show_gender_age_label_on">Вік і стать</string>
+     <string name="pref_camera_snap_label_take_movie">Відео</string>
+     <string name="pref_camera_snap_label_take_picture">Фото</string>
+     <string name="pref_front_mirror_label_auto">Авто</string>
 	 <string name="portrait_mode_depth_effect_success_hint">Ефект глибини</string>
 	 <string name="pref_watermark_style_entry_dualcamera">Подвійна камера</string>
      <string name="pref_watermark_style_entry_off">Вимк</string>

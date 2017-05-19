@@ -2,6 +2,21 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="check_permission_of_current_location">Поточне місцезнаходження</string>
+     <string name="check_permission_of_current_url">Посилання відвідуваних сайтів</string>
+     <string name="contextmenu_share_image">Надіслати зображення</string>
+     <string name="open_voice_permission">Включити дозволи</string>
+     <string name="pref_check_security_url_summary_international">Для забезпечення кращої довідкової служби, дозвольте браузеру отримати доступ до посилань</string>
+     <string name="pref_check_security_url_title_international">Отримувати посилання</string>
+     <string name="scanner_uninstalled_text">Для використання, встановіть програму Сканер</string>
+     <string name="scanner_uninstalled_title">Сканер видалений</string>
+     <string name="share_image_text">Мені сподобалося це зображення</string>
+     <string name="show_check_security_url_check_tip_dialog_description_international">Щоб отримати відповідні рекомендації, дозвольте браузеру доступ до:</string>
+     <string name="voice_check_network">Перевірте мережу і спробуйте ще раз</string>
+     <string name="voice_connect_network">Неможливо підключитися до мережі</string>
+     <string name="voice_network_connection">Для використання голосового пошуку необхідно підключення до мережі</string>
+     <string name="voice_search_permission">Для голосового пошуку потрібні дозволи. Перейдіть в налаштування браузера, щоб включити їх.</string>
+     <string name="voice_semantic_analysis">Семантичний аналіз після підключення</string>
 	 <string name="ssl_bad_clock_date_settings">Налаштування дати</string>
      <string name="ssl_bad_clock_warning" formatted="false">"Закрите підключення до %s1 може бути не виконано, тому що невірна дата і час на пристрої (%s2)."</string>
 	 <string name="add_to_desk_lite_mode_toast">Неможливо додати на робочий стіл в простому режимі</string>

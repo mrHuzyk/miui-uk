@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
+	 <string name="profileSavedErrorToast">Зміни не були збережені</string>
+     <string name="profileSavedToast">Профіль збережений</string>
 	 <string name="call_sim_menu_title_suffix">(первинна)</string>
      <string name="callrecordview_menu_misim">Mi SIM</string>
      <string name="sim_unloaded">SIM-карту вивантажено</string>

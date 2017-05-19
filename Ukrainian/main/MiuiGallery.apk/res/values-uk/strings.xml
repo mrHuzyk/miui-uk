@@ -2,6 +2,23 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="album_jump_failed">Зачекайте, поки всі альбоми синхронізуються з Mi Cloud і спробуйте ще раз</string>
+     <string name="change_to_visible">Відновити цю людину?</string>
+     <string name="delete_from_local_and_cloud">з цього пристрою і Mi Cloud</string>
+     <string name="delete_unsynced">Видалити несинхронізовані елементи</string>
+     <string name="ignore_faces_title">Ігноровані</string>
+     <string name="load_complete">Більше нічого немає</string>
+     <string name="load_failed">Не вдалося завантажити інформацію. натисніть для повтору.</string>
+     <string name="loading_dots">Зачекайте…</string>
+     <string name="no_ignore_faces">Тут немає людей</string>
+     <string name="people_jump_failed">Зачекайте, поки фотографії з людьми синхронізуються з Mi Cloud і спробуйте ще раз</string>
+     <string name="recovery_merge">"Об'єднати"</string>
+     <string name="recovery_merge_or_rename">"Об'єднання альбомів"</string>
+     <string name="recovery_merge_or_rename_message">"Альбом з таким ім'ям вже існує. Об'єднати їх?"</string>
+     <string name="recovery_rename">Перейменувати</string>
+     <string name="search_clear_histories">Очистити</string>
+     <string name="search_title_history">Очистити історію</string>
+     <string name="see_ignore_faces">Перегляд ігнорованих людей</string>
 	 <string name="show_in_other_albums_disable_toast_long_press_menu">Успішно переміщений. Зайдіть в Інші альбоми для перегляду.</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">Успішно переміщений. Перейдіть в Альбоми для перегляду.</string>
 	 <string name="grant_permission_go_and_set">Налаштувати</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="holiday_detail_read_more">Ще</string>
 	 <string name="birthday_card_other_day_title">День народження</string>
 	 <string name="global_cricket_no_match">Сьогодні немає змагань з крикету, і ви можете переглянути основні моменти минулих змагань або спробувати інший матч. Чудова подія, варто почекати!</string>
      <string name="global_onthisday_com">OnThisDay.com</string>

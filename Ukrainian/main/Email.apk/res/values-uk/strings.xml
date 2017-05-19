@@ -2,6 +2,39 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="automatic_remind_text">Нагадати</string>
+     <string name="cancel_pop3_attchemt_downloading">Скасування будь-якого завантажується вкладення недоступна для облікового запису POP3</string>
+     <string name="drawer_classification">Інтелектуальна класифікація</string>
+     <string name="email_suggestions_authority">com.android.email.provider</string>
+     <string name="no_recognize_describe">"Не вдалося знайти електронні листи, що містять квитки або бронювання.
+Спробуйте іншу поштову скриньку."</string>
+     <string name="parse_recognize_describe">Аналіз електронної пошти…</string>
+     <string name="recognize_hotel_check_in_date">Час реєстрації</string>
+     <string name="recognize_hotel_hotel_money">Ціна %1$s</string>
+     <string name="recognize_hotel_notification_content">Приємного відпочинку:)</string>
+     <string name="recognize_hotel_notification_title">Ви забронювали номер в %1$ s починаючи з %2$s/%3$s. Двічі перевірте своє бронювання до прибуття туди.</string>
+     <string name="recognize_hotel_order_money">Всього</string>
+     <string name="recognize_hotel_other_money">Інші витрати %1$s</string>
+     <string name="recognize_hotel_reverse_date">Заїзд до %1$s:%2$s %3$s</string>
+     <string name="recognize_hotel_room_type">Номер</string>
+     <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+     <string name="recognize_hotel_title">Бронювання готелю</string>
+     <string name="recognize_hotel_user_names">Гість</string>
+     <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+     <string name="recognize_setting_title">Налаштування подорожі</string>
+     <string name="recognize_ticket_air_notification_content">Приємного польоту:)</string>
+     <string name="recognize_ticket_air_notification_title">Скоро виліт рейсу %3$s (%1$s/%2$s). Двічі перевірте інформацію про рейс.</string>
+     <string name="recognize_ticket_air_state_stopover">Зупинка</string>
+     <string name="recognize_ticket_air_state_transfer">Переліт</string>
+     <string name="recognize_ticket_air_user_name">Пасажир:</string>
+     <string name="recognize_ticket_title">Квитки на літак і поїзд</string>
+     <string name="recognize_ticket_train_alter">Змінено</string>
+     <string name="recognize_ticket_train_depart_date">Відправлення о %3$s:%4$s с %1$s/%2$s</string>
+     <string name="recognize_ticket_train_notification_content">Приємної подорожі:)</string>
+     <string name="recognize_ticket_train_notification_title">Поїзд %3$s (%1$s/%2$s) скоро вирушає. Двічі перевірте свій квиток.</string>
+     <string name="recognize_ticket_train_return">Повернено</string>
+     <string name="recognize_ticket_train_user_name">Пасажир: %1$s</string>
+     <string name="recognize_title">Інформація про подорож</string>
 	 <string name="account_settings_background_attachments_summary_inter">Завантажити вкладення по Wi-Fi</string>
      <string name="imap_or_pop3_name">IMAP/POP3</string>
      <string name="policy_dont_allow_wifi_inter">Не дозволяти Wi-Fi</string>
@@ -27,7 +60,7 @@
      <string name="cur_debt">Баланс</string>
      <string name="drawer_bank_bill">Банківські виписки</string>
      <string name="drawer_bill_title">Виписки</string>
-     <string name="due">У зв'язку</string>
+     <string name="due">"У зв'язку"</string>
      <string name="due_date_text">Підсумкове погашення</string>
      <string name="error">помилка</string>
      <string name="fetch_bank_sender_list_failure">Не вдалося отримати інформацію</string>
@@ -196,7 +229,7 @@
      <string name="account_setup_failed_security">Не вдалося встановити підключення до сервера через помилку безпеки</string>
      <string name="account_setup_failed_security_policies_unsupported">Ваш пристрій не підтримує обовязкові для сервера функції захисту: %s</string>
      <string name="account_setup_failed_tls_required">TLS не підтримується сервером</string>
-     <string name="account_setup_failed_too_many_partnerships">""Помилка авторизації. Забагато спроб під'єднатися до серверу"."</string>
+     <string name="account_setup_failed_too_many_partnerships">"Помилка авторизації. Забагато спроб під'єднатися до серверу."</string>
      <string name="account_setup_incoming_delete_policy_delete_label">При видаленні із вхідних</string>
      <string name="account_setup_incoming_delete_policy_label">Видаляти повідомлення із сервера</string>
      <string name="account_setup_incoming_delete_policy_never_label">Ніколи</string>

@@ -17,7 +17,7 @@
      <string name="global_search_key_scientific_convertion">Науковий калькулятор;Інженерний;Алгебра</string>
      <string name="global_search_key_speed_convertion">Конвертер швидкості;Швидкість</string>
      <string name="global_search_key_temperature_convertion">Конвертер температури;Температура</string>
-     <string name="global_search_key_volume_convertion">Конвертер об'єму;Об'єм</string>
+     <string name="global_search_key_volume_convertion">"Конвертер об'єму;Об'єм"</string>
      <string name="global_search_key_weight_convertion">Конвертер вваги;Кілограм;Ваги</string>
      <string name="global_search_key_word_figure">Фінансові символи</string>
      <string name="golbal_search_calculator_setting">Калькулятор;Налаштування калькулятора;Налаштування</string>

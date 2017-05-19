@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="micloud_main_sync_need_charge_or_sleep">Зарядіть пристрій і вимкніть екран</string>
 	 <string name="micloud_detail_battery_low">Низький заряд батареї</string>
      <string name="micloud_detail_need_charge">Зарядіть для синхронізації</string>
      <string name="micloud_detail_pause">Синхронізація припинена</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="menu_item_install_debug_package">Встановити пакет налагодження</string>
 	 <string name="app_manager_go_to_manger_app">Управління</string>
      <string name="app_manager_perm">Дозволи</string>
      <string name="app_manager_usage_record_title">Використання додатків</string>
