@@ -6,6 +6,15 @@
         <item>Доступний</item>
         <item>Не визначений</item>
      </string-array>
+	 <string-array name="week_header_name">
+        <item>НЕД</item>
+        <item>ПОН</item>
+        <item>ВІВ</item>
+        <item>СЕР</item>
+        <item>ЧЕТ</item>
+        <item>ПЯТ</item>
+        <item>СУБ</item>
+     </string-array>
 	 <string-array name="date_calculate_spinner">
         <item>Назад</item>
         <item>Вперед</item>

@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="remove_continue">OK</string>
+     <string name="uninstall_protected_dlg_msg">Видалення системних додатків може перешкодити роботі деяких компонентів MIUI. Продовжити?</string>
+     <string name="uninstall_protected_dlg_title">Видалення системних додатків</string>
 	 <string name="user_settings_forbidden">Не вдається змінити налаштування адміністратора в поточному користувачеві. Поверніться до першого користувача.</string>
 	 <string name="recents_config_title">Налаштування панелі задач</string>
      <string name="show_mem_info_title">"Показувати інформацію про пам'ять"</string>

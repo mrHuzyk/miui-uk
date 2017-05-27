@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-    <string name="act_find_city_hint">Пошук (англ.)</string>
+    <string name="act_find_city_hint">Пошук</string>
+	<string name="alert_detail_title">Відомості про попередження</string>
+     <string name="city_exceeded_warning">Ви можете додати до 10 міст</string>
 	<string name="aqi_display_exp">exp_%1$s</string>
      <string name="aqi_fifteen_dates_time_format">d/MM</string>
      <string name="aqi_quality_ambient_air_quality">Якість повітря поблизу</string>

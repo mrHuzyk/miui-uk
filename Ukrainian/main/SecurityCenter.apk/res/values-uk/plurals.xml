@@ -7,6 +7,22 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="st_show_num_keyword">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="st_show_num_number">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+	 <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Надано дозволів: %d</item>
+        <item quantity="one">Надано дозволів: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Запит дозволів: %d</item>
+        <item quantity="one">Запит дозволів: %d</item>
+     </plurals>
 	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Зачекайте %d с. і повторіть знову."</item>
         <item quantity="one">"Зачекайте %d с. і повторіть знову."</item>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_airplane_mode">Режим польоту</string>
+	 <string name="recent_task_cleaning">Очищення. Зачекайте...</string>
 	 <string name="accessibility_recent_task_enter">Вхід в меню недавніх додатків. завдань: %d.</string>
      <string name="accessibility_recent_task_exit">Вихід з меню недавніх додатків</string>
      <string name="accessibility_recent_task_first_enter_tips">Вхід в меню недавніх додатків. завдань: %d. Посуньте вгору для видалення, посуньте вниз для блокування</string>

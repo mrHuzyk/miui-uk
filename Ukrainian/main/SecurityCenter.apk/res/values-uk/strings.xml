@@ -2,6 +2,27 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="app_manager_permission_summary_reject">Обмежити все</string>
+     <string name="app_manager_powerkeeper_miui_auto">Автоматична економія</string>
+     <string name="app_manager_powerkeeper_no_bg">Обмеження фонової активності</string>
+     <string name="app_manager_powerkeeper_no_restrict">Без обмежень</string>
+     <string name="app_manager_powerkeeper_restrict_bg">Обмеження фонових додатків</string>
+     <string name="low_memory_clean_dialog_msg">Спочатку очистіть файли розміром не менше 100 МБ</string>
+     <string name="low_memory_clean_dialog_ok_button">OK</string>
+     <string name="low_memory_clean_dialog_title">Недостатньо вільного місця</string>
+     <string name="low_memory_warning_dialog_cancel_button">Відміна</string>
+     <string name="low_memory_warning_dialog_msg">Для продовження звільніть місце на пристрої</string>
+     <string name="low_memory_warning_dialog_ok_button">Очистити</string>
+     <string name="low_memory_warning_dialog_title">Недостатньо вільного місця</string>
+     <string name="app_manager_clear_data_dlg_message">Всі дані цього додатка (файли, налаштування, облікові записи, бази даних і т.д.) будуть видалені без можливості відновлення. Продовжити?</string>
+     <string name="app_manager_clear_data_dlg_title">Видалення даних додатка</string>
+     <string name="app_manager_clear_failed_dlg_message">Не вдалося очистити дані додатка</string>
+     <string name="app_manager_clear_failed_dlg_title">Очистити дані</string>
+     <string name="app_manager_have_not_consume">Пусто</string>
+     <string name="app_manager_manage_space">Управління простором</string>
+     <string name="app_manager_menu_clear_data">Очистити дані</string>
+     <string name="pref_summary_upload_data_usage">Відправляти статистику використання трафіку, щоб допомогти поліпшити MIUI. Відправлення здійснюється відповідно до нашої Політики конфіденційності.</string>
+     <string name="pref_title_upload_data_usage">Статистика використання трафіку</string>
 	 <string name="menu_item_install_debug_package">Встановити пакет налагодження</string>
 	 <string name="app_manager_go_to_manger_app">Управління</string>
      <string name="app_manager_perm">Дозволи</string>

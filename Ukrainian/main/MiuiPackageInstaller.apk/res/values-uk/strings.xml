@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="caller_app">Запит: %1$s</string>
+	<string name="miui_message_staging_0">Встановлення додатку   </string>
+     <string name="miui_message_staging_1">Встановлення додатку.  </string>
+     <string name="miui_message_staging_2">Встановлення додатку.. </string>
+     <string name="miui_message_staging_3">Встановлення додатку...</string>
+     <string name="miui_virus_scanning_0">Сканування   </string>
+     <string name="miui_virus_scanning_1">Сканування.  </string>
+     <string name="miui_virus_scanning_2">Сканування.. </string>
+     <string name="miui_virus_scanning_3">Сканування...</string>
 	<string name="miui_not_uninstall_system_app">Системні додатки неможливо видалити</string>
 	<string name="ads_install_button_isDownloading">Завантаження</string>
 	<string name="accessibility_no_wifi">Wi-Fi вимкнено</string>

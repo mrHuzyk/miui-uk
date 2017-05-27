@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+	 <string name="keyguard_quick_charging_info_click_to_detail">Натисніть для перегляду подробиць</string>
+     <string name="keyguard_quickly_charging_info_charging_text">Швидка зарядка</string>
 	 <string name="fingerprint_again_identified_msg">Сканер відбитку зараз активний. Використовуйте його для розблокування пристрою, або введіть пароль.</string>
 	 <string name="fingerprint_try_again_msg">Не вдалося перевірити відбиток пальцю. Повторіть спробу.</string>
 	 <string name="fingerprint_enter_second_psw_msg_oldman">Не вдається увійти в режим другого користувача в простому режимі</string>
