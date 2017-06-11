@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Телефон</string>
+	<string name="remind_unlock_message">Пристрій зараз заблоковано. \"%s\" буде доступно після розблокування пристрою. Розблокувати?</string>
+     <string name="unlock_phone">Розблокуйте пристрій</string>
 	<string name="close_camera_failed">Не вдалося закрити камеру</string>
      <string name="close_camera_requesting">Потрібно закрити камеру</string>
 	<string name="call_button_conference_manager_text">Менеджер конференції</string>

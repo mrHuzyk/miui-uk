@@ -7,6 +7,22 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="manual_white_list_header">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">Остання перевірка: %d днів назад</item>
+        <item quantity="one">Остання перевірка: %d день назад</item>
+     </plurals>
+     <plurals name="scan_result_description">
+        <item quantity="other">Результат сканування: знайдено %d ризиків оплати</item>
+        <item quantity="one">Результат сканування: знайдений %d ризик оплати</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+        <item quantity="other">Статистика трафіку не синхронізовано %d днів</item>
+        <item quantity="one">Статистика трафіку не синхронізовано %d день</item>
+     </plurals>
 	 <plurals name="st_show_num_keyword">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>

@@ -5,7 +5,8 @@
         <item quantity="one">%d дн.</item>
     </plurals>
 	<plurals name="resutl_function_install_app_summary">
-        <item quantity="other">"&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> дод. не використовувалися протягом тривалого часу&lt;/Data>"</item>
+        <item quantity="other">"&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> додатків не використовувалося протягом тривалого часу. Подивіться&lt;/Data>"</item>
+		<item quantity="other">"&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> додаток не використовувалося протягом тривалого часу. Подивіться.&lt;/Data>"</item>
      </plurals>
 	<plurals name="app_usage_day">
         <item quantity="other">Не використовувалося: %d дн.</item>

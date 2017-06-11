@@ -4,6 +4,8 @@
      <string name="account_bind_prompt">"Перенесення даних користувача
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
+     <string name="support_mtp">MTP буде підтримуватися найближчим часом</string>
+	 
      <string name="a_week_share_rank">Щотижневий рейтинг</string>
 	 <string name="overwrite_msg">\"%s\" вже існує. Натисніть для заміни.</string>
      <string name="skip_file">Пропустити</string>

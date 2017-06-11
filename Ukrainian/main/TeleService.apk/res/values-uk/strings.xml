@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="no_checked_network">Ви не зможете підключитися до мобільної мережі і здійснювати дзвінки. Обрати іншу мережу?</string>
 	 <string name="sum_cfu_enabled_indicator_by_sim">Всі виклики на %s будуть переадресовані</string>
      <string name="title_cfu_enabled">Увімкнена переадресація викликів</string>
 	 <string name="callEnded_pulled">Виклик передається на інший пристрій</string>

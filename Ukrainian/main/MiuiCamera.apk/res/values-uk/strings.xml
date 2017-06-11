@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="portrait_mode_use_hint">"Портретний режим допомагає розмити фон
+з більш чітким основним об'єктом і красивішим портретом"</string>
 	 <string name="pref_camera_proximity_lock_summary">Блокувати натискання при знаходженні в кишені</string>
      <string name="pref_camera_proximity_lock_title">Кишеньковий режим</string>
      <string name="pref_camera_show_gender_age_label_alias">Вік</string>

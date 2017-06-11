@@ -2,6 +2,14 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
+	 <string name="accessibility_contact_detail">Інформація про контакт</string>
+     <string name="call_sim1_description">SIM 1</string>
+     <string name="call_sim2_description">SIM 2</string>
+     <string name="description_call_log_incoming_forwarding_call">Вхідний переадресований виклик</string>
+     <string name="description_call_log_missed_forwarding_call">Пропущений переадресований виклик</string>
+     <string name="description_call_log_new_contact">Новий контакт</string>
+     <string name="miprofile_notice_close">Закрити</string>
+     <string name="profile_delete_toast">Профіль видалено</string>
 	 <string name="profileSavedErrorToast">Зміни не були збережені</string>
      <string name="profileSavedToast">Профіль збережений</string>
 	 <string name="call_sim_menu_title_suffix">(первинна)</string>

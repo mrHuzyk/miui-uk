@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Play</string>
+	<string name="media_route_controller_disconnect">Відключити</string>
     <string name="noti_projection_status_title">WiDi</string>
     <string name="noti_projection_status_desc_on">Відображення екрану увімкнено</string>
     <string name="prjection_title">WiDi</string>

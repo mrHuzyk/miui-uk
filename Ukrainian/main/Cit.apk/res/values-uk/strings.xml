@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cit_label">Інженерне меню</string>
+	<string name="cit_hardware_info_summary">Зачекайте ... Рендеринг інформації про обладнання цього пристрою</string>
+     <string name="cit_hardware_info_title">Дані про прилад</string>
+     <string name="cit_tool_radio_infor">Інформація про радіо</string>
+     <string name="cit_tool_radio_infor_voiceNetworkTech">Інформація про радіо</string>
+	 
 	<string name="cit_not_support_summary">Тест недоступний на цьому пристрої</string>
      <string name="cit_not_support_title">Не підтримується</string>
      <string name="cit_proximity_us_sensitivity">Чутливість:</string>
@@ -18,7 +23,6 @@
      <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
      <string name="sd_correct_status">Нормальний статус</string>
      <string name="sd_external_storage">"Статус зовнішнього накопичувача:
-
 "</string>
      <string name="sd_read_exception">Read exception</string>
      <string name="sd_remained">"

@@ -2,7 +2,7 @@
 <resources>
     <plurals name="last_num_days">
         <item quantity="other">Останні %d дн.</item>
-        <item quantity="one">Вчора</item>
+        <item quantity="one">Останні %d дн.</item>
      </plurals>
 	 <plurals name="video_subtitle_last_message">
        <item quantity="other">Залишилося %d хв.</item>

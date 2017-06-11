@@ -28,4 +28,12 @@
        <item>Друзі</item>
        <item>Інші</item>
     </string-array>
+	<string-array name="sharer_relation_addressive">
+        <item>Батько</item>
+        <item>Мама</item>
+        <item>Дідусь по батьковій лінії</item>
+        <item>Бабуся по батьківській лінії</item>
+        <item>Дідусь по материнській лінії</item>
+        <item>Бабуся по материнській лінії</item>
+     </string-array>
 </resources>

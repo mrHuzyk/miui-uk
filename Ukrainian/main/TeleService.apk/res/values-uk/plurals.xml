@@ -5,6 +5,24 @@
         <item quantity="other">Телефон перейде в режим екстрених зворотних викликів на %s хв. У цьому режимі неможливо використовувати застосунки, що використовують передачу даних. Вийти з режиму?</item>
         <item quantity="one">Телефон перейде в режим екстрених зворотних викликів на %s хв. У цьому режимі неможливо використовувати застосунки, що використовують передачу даних. Вийти з режиму?</item>
      </plurals>
+	 <plurals name="auto_answer_summary_delay">
+        <item quantity="other">затримка: %s с.</item>
+        <item quantity="one">затримка: %s с.</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Буде видалено номерів: %d</item>
+        <item quantity="one">Буде видалено номерів: %d</item>
+     </plurals>
+     <plurals name="pin_attempts">
+        <item quantity="other">"
+Залишилося спроб: %d"</item>
+        <item quantity="one">"
+Залишилося спроб: %d"</item>
+     </plurals>
 	 <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Ви можете додати до %s чол. Повторіть.</item>
         <item quantity="one">Ви можете додати до %s чол. Повторіть.</item>

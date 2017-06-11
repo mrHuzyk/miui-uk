@@ -4,6 +4,26 @@
         <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розроблювачів</item>
         <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розроблювачів</item>
     </plurals>
+	<plurals name="auto_startup_count">
+        <item quantity="other">Додатки автозапуску: %d</item>
+        <item quantity="one">Додаток автозапуску: %d</item>
+     </plurals>
+     <plurals name="free_wifi_connected_count">
+        <item quantity="other">Підключено людей: %1$d</item>
+        <item quantity="one">Підключено людей: %1$d</item>
+     </plurals>
+     <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN повинен бути з %d цифр</item>
+        <item quantity="one">PIN повинен бути з %d цифри</item>
+     </plurals>
+     <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Знайдено ризиків: %d</item>
+        <item quantity="one">Знайдено ризиків: %d</item>
+     </plurals>
+     <plurals name="wifi_share_count">
+        <item quantity="other">Загальних мереж: %d</item>
+        <item quantity="one">Загальних мереж: %d</item>
+     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль повинен містити букви (не менш %d)</item>
         <item quantity="one">Пароль повинен містити хоча б 1 букву</item>

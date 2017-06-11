@@ -2,6 +2,19 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 
+	 <string name="select_webview_provider_dialog_title">Налаштування сервісу WebView</string>
+	 <string name="select_webview_provider_title">Сервіс WebView</string>
+	 <string name="enable_webview_multiprocess">Багатопроцесорний WebView</string>
+	 <string name="enable_webview_multiprocess_desc">Виконувати обробники WebView окремо</string>
+	 <string name="bluetooth_disable_absolute_volume">Відключити абсолютну гучність</string>
+	 <string name="bluetooth_disable_absolute_volume_summary">Відключити абсолютний рівень гучності Bluetooth при виникненні проблем на віддалених пристроях, наприклад при занадто гучний звучанні або неможливості контролювати налаштування</string>
+	 <string name="force_allow_on_external">Збереження на зовнішні накопичувачі</string>
+	 <string name="force_allow_on_external_summary">Надати дозвіл на додатків на зовнішніх накопичувачах незалежно від значень маніфесту</string>
+	 <string name="force_resizable_activities">Зміна розміру в багато віконному режимі</string>
+	 <string name="force_resizable_activities_summary">Дозволити зміну розміру в багато віконному режимі (незалежно від значень маніфесту)</string>
+	 <string name="default_spell_checker">Правопис за замовчуванням</string>
+	 
 	 <string name="remove_continue">OK</string>
      <string name="uninstall_protected_dlg_msg">Видалення системних додатків може перешкодити роботі деяких компонентів MIUI. Продовжити?</string>
      <string name="uninstall_protected_dlg_title">Видалення системних додатків</string>

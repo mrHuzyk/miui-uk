@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="antispam_mode_details">Деталі чорного списку</string>
+     <string name="app_manager_instruction">Інструкція</string>
+     <string name="app_manager_sort">Сортування по</string>
+     <string name="auto_task_manage_new_task">Нове завдання</string>
 	 <string name="app_manager_permission_summary_reject">Обмежити все</string>
      <string name="app_manager_powerkeeper_miui_auto">Автоматична економія</string>
      <string name="app_manager_powerkeeper_no_bg">Обмеження фонової активності</string>

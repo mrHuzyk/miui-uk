@@ -2,6 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_game">Додати</string>
+	 <string name="fastboot_locked_answer_1">Fastboot є традиційним методом прошивки Mi пристроїв. Коли пристрій перебуває в режимі Fastboot, всі дані, що зберігаються на ньому, можуть бути доступні і видалені безпосередньо. Ми заблокували Fastboot для захисту Ваших даних в разі втрати пристрою, а також гарантувати надійність функції Пошук пристрою.</string>
+     <string name="fastboot_locked_answer_2">У разі, якщо Ви втратите пристрій, Fastboot гарантує безпеку даних, що зберігаються на ньому. Після розблокування Fastboot, ви більше не будете мати можливість заблокувати пристрій або віддалено стерти дані за допомогою функції Пошуку пристрою. Ми не рекомендуємо розблокувати Fastboot на пристрої.</string>
+     <string name="fastboot_locked_answer_3">Ви повинні використовувати інструмент розблокування з сайту MIUI. Для того, щоб розблокувати пристрій, ми повинні переконатися, що пристрій належить Вам. Ви повинні увійти в свій Mi аккаунт і включити функцію Пошук пристрою.</string>
+     <string name="fastboot_locked_question_1">Чому Fastboot повинен бути заблокований?</string>
+     <string name="fastboot_locked_question_2">"Чи існують які-небудь ризики, пов'язані з розблокуванням Fastboot?"</string>
+     <string name="fastboot_locked_question_3">Я знаю про ризики, і хочу розблокувати пристрій. Що мені робити?</string>
+     <string name="fastboot_status_locked_info">Fastboot не розблокований на цьому пристрої</string>
+     <string name="fastboot_status_locked_summary">Суперкористувач недоступний</string>
+     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+     <string name="fastboot_unlock_web_title">Відвідайте офіційний сайт MIUI, щоб отримати інструмент для розблокування</string>
 	 <string name="intro_skip">Пропустить</string>
 	 <string name="add_done">Готово</string>
      <string name="add_whitelist">Додати в виключення</string>

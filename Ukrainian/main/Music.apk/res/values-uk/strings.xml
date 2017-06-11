@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account">Акаунт</string>
+	 <string name="date_format_str">d.MM.yyyy</string>
+     <string name="start_shuffle">Відтворення у випадковому порядку…</string>
 	 <string name="confirm">OK</string>
      <string name="online_play_tips">Ця пісня доступна тільки онлайн. Увімкніть онлайн-сервіси в налаштуваннях, щоб прослухати її.</string>
      <string name="online_service_open_tip">Онлайн сервіси музики включені</string>
@@ -77,7 +79,7 @@
      <string name="global_search_title_movie">Музика з фільмів</string>
      <string name="global_search_title_prenatal">Пренатальна музика</string>
      <string name="global_search_title_radar">Розпізнавання музики</string>
-     <string name="load_shuffle">Завантаження ...</string>
+     <string name="load_shuffle">Завантаження…</string>
      <string name="manager_cloud_space">Управління місцем в Mi Cloud</string>
      <string name="metered_alert_msg_with_data"> Залишилося даних: %s. Використовувати його для прослуховування музики?</string>
      <string name="metered_play_toast_with_beyond_data"> Використовувати моб. інтернет для прослуховування пісень. Перевищено ліміт в %s</string>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_count">
+        <item quantity="other">Коментарів: %d</item>
+        <item quantity="one">Коментарів: %d</item>
+    </plurals>
+    <plurals name="comment_sub_count">
+        <item quantity="other">%d відповідей</item>
+        <item quantity="one">%d відповідь</item>
+    </plurals>
+    <plurals name="comment_view_all_comment">
+        <item quantity="other">Подивитися всі коментарі (%d)</item>
+        <item quantity="one">Подивитися всі коментарі (%d)</item>
+    </plurals>
+    <plurals name="downloading_task_num">
+        <item quantity="other">%d файлів</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="notification_sub_title">
+        <item quantity="other">Завантажено файлів: %d</item>
+        <item quantity="one">Завантажено файлів: %d</item>
+    </plurals>
+    <plurals name="offline_num">
+        <item quantity="other">%d файлів</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="offline_num_title">
+        <item quantity="other">(%d епізодів)</item>
+        <item quantity="one">(%d епізод)</item>
+    </plurals>
+    <plurals name="updated_already">
+        <item quantity="other">Оновлено елементів: %d</item>
+        <item quantity="one">Оновлено елементів: %d</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+    </plurals>
+    <plurals name="video_pre_play_tip">
+        <item quantity="other">Доступний попередній перегляд %1$d хв. Щоб подивитися повне відео, &lt;Data>&lt;font color=#ffa201>придбати зараз&lt;/font>&lt;/Data>.</item>
+        <item quantity="one">Доступний попередній перегляд %1$d хв. Щоб подивитися повне відео, &lt;Data>&lt;font color=#ffa201>придбати зараз&lt;/font>&lt;/Data>.</item>
+    </plurals>
+</resources>

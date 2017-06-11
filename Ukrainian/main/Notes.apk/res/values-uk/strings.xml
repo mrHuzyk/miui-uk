@@ -2,6 +2,29 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_account_desc">Синхронізувати нотатки з вашим Mi акаунтом?</string>
+	 <string name="action_folder_description">Перегляд папок</string>
+     <string name="action_mode_switcher_grid_description">Сітка</string>
+     <string name="action_mode_switcher_list_description">Список</string>
+     <string name="action_settings_description">Відкрити параметри</string>
+     <string name="cancel_alarm_description">Відмінити будильник</string>
+     <string name="edit_header_done_description">Готово</string>
+     <string name="edit_header_home_description">Назад</string>
+     <string name="menu_add_description">Додати замітку</string>
+     <string name="menu_add_folder_description">Додати папку</string>
+     <string name="set_alarm_description">Встановити будильник</string>
+     <string name="theme_blue_description">Синя</string>
+     <string name="theme_green_description">Зелена</string>
+     <string name="theme_red_description">Червона</string>
+     <string name="theme_white_description">Біла</string>
+     <string name="theme_yellow_description">Жовта</string>
+     <string name="toolbar_check_description">Додати прапорець</string>
+     <string name="toolbar_delete_description">Видалити замітку</string>
+     <string name="toolbar_gallery_description">Додати зображення</string>
+     <string name="toolbar_more_description">Ще</string>
+     <string name="toolbar_redo_description">Повернути</string>
+     <string name="toolbar_share_description">Поділитися заміткою</string>
+     <string name="toolbar_theme_description">Виберіть тему</string>
+     <string name="toolbar_undo_description">Відміна</string>
 	 <string name="dialog_share_as_pic">Поділитися як картинкою</string>
      <string name="dialog_share_as_text">Поділитися як текстом</string>
      <string name="dialog_share_title">Відправка замітки</string>

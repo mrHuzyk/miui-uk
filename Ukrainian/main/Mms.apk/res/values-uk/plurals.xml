@@ -4,6 +4,11 @@
         <item quantity="other">Видалити діалоги? (%1$s)</item>
         <item quantity="one">Видалити діалог?</item>
     </plurals>
+	<plurals name="hint_search_sms">
+        <item quantity="other">Повідомлень: %d</item>
+        <item quantity="zero">Повідомлень: %d</item>
+        <item quantity="one">Повідомлень: %d</item>
+     </plurals>
 	<plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Видалити %1$s повідомлень?</item>
         <item quantity="one">Видалити %1$s повідомлення?</item>

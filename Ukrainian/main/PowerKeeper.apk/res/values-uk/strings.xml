@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_bar_delete">Видалити</string>
+	 <string name="sleep_config_disable_description">MIUI не буде покращувати економію батареї</string>
+     <string name="sleep_config_disable_title">Вимк</string>
+     <string name="sleep_config_enhance_description">MIUI буде покращувати економію батареї</string>
+     <string name="sleep_config_enhance_title">Увімк</string>
+     <string name="sleep_config_mode_title">Режими енергозбереження</string>
 	 <string name="action_title_optimize">Оптимізувати</string>
      <string name="notify_app_consume_abnormal_title">розряджає батарею</string>
      <string name="power_checker_background_cpu_multi_apps_title">%1$s сильне навантаження ЦП</string>
