@@ -443,7 +443,7 @@
      <string name="monthly_on_day">Щомісяця</string>
      <string name="monthly_on_day_count">Щомісяця (кожн. %1$s %2$s)</string>
      <string name="more_match">Ще</string>
-     <string name="more_string">+%1$d</string>
+     <string name="more_string">+%1$s</string>
      <string name="movable_list_header_label">Стисла інформація</string>
      <string name="my_subscribe_events">Підписки</string>
      <string name="network_not_available">Не вдається підключитися до мережі</string>

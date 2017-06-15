@@ -1760,7 +1760,7 @@
      <string name="packages_subtitle">Вкладені пакети</string>
      <string name="passwordIncorrect">"Неправильне ім'я користувача або пароль"</string>
      <string name="password_promotion_button_text">ОК</string>
-     <string name="password_promotion_message">Функція захисту програм оновлена до пароля конфіденційності. Ви можете використати Mi акаунт для скидання пароля.</string>
+     <string name="password_promotion_message">Добавьте свой Mi аккаунт (%s), чтобы иметь возможность сбросить пароль, если Вы его забудете</string>
      <string name="password_promotion_not_login_xiaomi_account_message">Функція захисту програм оновлена до пароля конфіденційності. Ви можете використати Mi акаунт для скидання пароля. Додайте Mi акаунт для використання цієї функції.</string>
      <string name="password_promotion_postbutton_text">Налаштувати</string>
      <string name="password_promotion_title">Пароль конфіденційності</string>
