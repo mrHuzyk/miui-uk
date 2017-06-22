@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+	 <string name="input_password_after_boot_msg_can_not_switch_when_calling">Неможливо перемикатися між просторами під час виклику</string>
 	 <string name="keyguard_quick_charging_info_click_to_detail">Натисніть для перегляду подробиць</string>
      <string name="keyguard_quickly_charging_info_charging_text">Швидка зарядка</string>
 	 <string name="fingerprint_again_identified_msg">Сканер відбитку зараз активний. Використовуйте його для розблокування пристрою, або введіть пароль.</string>
@@ -132,8 +133,8 @@ EEEE"</string>
      <string name="open_remote_center_hint_text">Проведіть праворуч для доступу до \"%s\"</string>
      <string name="open_wifi_settings">"Відкрити мережеві з'єднання"</string>
      <string name="phone_locked_string">Телефон заблоковано</string>
-     <string name="phone_locked_timeout_minutes_string">Повторіть спробу через %s хв.</string>
-     <string name="phone_locked_timeout_seconds_string">Повторіть спробу через %s сек.</string>
+     <string name="phone_locked_timeout_minutes_string">Повторіть спробу через %d хв.</string>
+     <string name="phone_locked_timeout_seconds_string">Повторіть спробу через %d сек.</string>
      <string name="pin_operation_failed">Помилка PIN коду</string>
      <string name="pincode_set_to_default_msg">Встановлений PIN код 1234, ви можете змінити його тут:</string>
      <string name="puk_operation_failed">Помилка PUK коду</string>

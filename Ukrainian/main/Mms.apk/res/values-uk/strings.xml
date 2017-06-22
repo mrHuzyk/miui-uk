@@ -2,6 +2,21 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_firewall_setting">Чорний список</string>
+	 <string name="delete_verification_code_sms_message">Видалити всі одноразові паролі?</string>
+     <string name="delete_verification_code_sms_title">Очистити одноразові паролі</string>
+     <string name="disabled">Вимкнено</string>
+     <string name="earlier">Раніше</string>
+     <string name="enabled">Увімкнено</string>
+     <string name="favorite_at_time">В обраному: %1s</string>
+     <string name="group_verification_codes_summary">Автоматично групувати одноразові паролі разом</string>
+     <string name="group_verification_codes_title">Одноразові паролі</string>
+     <string name="pref_show_sms_template_entry_summary">Виявляти одноразові паролі в SMS</string>
+     <string name="received_at_time">Отримано: %1s</string>
+     <string name="sent_at_time">Відправлено: %1s</string>
+     <string name="today">Сьогодні</string>
+     <string name="verification_code_icon_name">П</string>
+     <string name="verification_code_list_title">Коди підтвердження</string>
+     <string name="yesterday">Вчора</string>
 	 <string name="select_sim">Виберіть SIM-карту</string>
      <string name="sms_report_dialog_content">Не вдалося відправити звіт. Спробуйте ще раз.</string>
      <string name="sms_report_dialog_retry">Спробуй ще раз</string>

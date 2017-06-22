@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Активувати</string>
+	 <string name="can_not_delete_when_calling">Неможливо видалити простір під час виклику</string>
+     <string name="can_not_switch_when_calling">Неможливо перемикатися між просторами під час виклику</string>
 	 <string name="current_space">Поточний користувач</string>
      <string name="function_not_support">Не підтримується в цьому користувачу</string>
 	 <string name="space_deleted">Цей користувач був видалений</string>

@@ -2,6 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="cloud_sync_card_description">Синхронізуйте свої фотографії та відео з Mi Cloud для доступу до них з декількох пристроїв</string>
+     <string name="cloud_sync_card_title">Увімкнути синхронізацію з Mi Cloud</string>
+     <string name="comma_separator">,</string>
+     <string name="secret_album_card_description">Найкраще місце для всіх ваших маленьких секретів</string>
+     <string name="secret_album_card_title">Спробуйте особисті альбоми</string>
+     <string name="today">Сьогодні</string>
+     <string name="yesterday">Вчора</string>
 	 <string name="album_already_exists_check">Подивитися</string>
      <string name="album_already_exists_msg">Альбом \"%s\" вже існує</string>
 	 <string name="album_jump_failed">Зачекайте, поки всі альбоми синхронізуються з Mi Cloud і спробуйте ще раз</string>

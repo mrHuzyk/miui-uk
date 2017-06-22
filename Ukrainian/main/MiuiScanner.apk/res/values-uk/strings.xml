@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">ОК</string>
+	 <string name="app_description_content">Сканер може сканувати QR-коди, візитні картки та документи. Перед видаленням додатки переконайтеся, що Ви можете обійтися без цих функцій.</string>
+     <string name="app_description_title">Про додаток</string>
 	 <string name="back">Назад</string>
      <string name="weixin_code_tip">Використовуйте WeChat для сканування цього QR коду</string>
 	 <string name="drag_barcode_into_frame">Помістіть рамку на код</string>
@@ -101,23 +103,6 @@
      <string name="language_entry_russian">Російська</string>
      <string name="language_entry_spanish">Іспанська</string>
      <string name="language_entry_swedish">Шведська</string>
-     <string name="language_value_chinese_cn">chinese_cn</string>
-     <string name="language_value_chinese_tw">chinese_tw</string>
-     <string name="language_value_danish">danish</string>
-     <string name="language_value_dutch">dutch</string>
-     <string name="language_value_english">english</string>
-     <string name="language_value_finnish">finnish</string>
-     <string name="language_value_french">french</string>
-     <string name="language_value_german">german</string>
-     <string name="language_value_hungarian">hungarian</string>
-     <string name="language_value_italian">italian</string>
-     <string name="language_value_japanese">japanese</string>
-     <string name="language_value_korean">korean</string>
-     <string name="language_value_norwegian">norwegian</string>
-     <string name="language_value_portuguese">portuguese</string>
-     <string name="language_value_russian">russian</string>
-     <string name="language_value_spanish">spanish</string>
-     <string name="language_value_swedish">swedish</string>
      <string name="module_title_code">Коди</string>
      <string name="module_title_document">Документ</string>
      <string name="module_title_namecard">Візитка</string>

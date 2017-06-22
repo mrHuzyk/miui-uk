@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Про застосунок</string>
+	 <string name="v_debug_close">Закрити</string>
+     <string name="v_debug_close_log">Вимкнути налагодження</string>
+     <string name="v_debug_open_log">Увімкнути налагодження</string>
+     <string name="vp_select_related_video">Виберіть схоже відео</string>
 	 <string name="abc_action_bar_home_description">На головну</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>

@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_account_desc">Синхронізувати нотатки з вашим Mi акаунтом?</string>
+	 <string name="note_description_content">"Нотатки - відмінний інструмент для запису Ваших ідей. Вони мають вбудовані нагадування та синхронізує об'єкти з Mi Cloud, щоб отримати доступ до них в будь-якому місці та в будь-який час. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій</string>
+     <string name="note_description_title">Про нотатки</string>
 	 <string name="action_folder_description">Перегляд папок</string>
      <string name="action_mode_switcher_grid_description">Сітка</string>
      <string name="action_mode_switcher_list_description">Список</string>

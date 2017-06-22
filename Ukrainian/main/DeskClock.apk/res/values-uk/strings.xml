@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+	 <string name="install_weather_app_error">Помилка завантаження додатку</string>
+     <string name="install_weather_app_loading">Завантаження…</string>
 	 <string name="alarm_settings_category_title">Налаштування будильника</string>
      <string name="alarmclock_silent_hint">Будильник без звуку</string>
      <string name="life_post_setting">Ранковий звіт</string>

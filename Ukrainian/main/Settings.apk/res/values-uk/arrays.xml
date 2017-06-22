@@ -5,6 +5,11 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="traffic_balance_entries">
+        <item>Вимкнено</item>
+        <item>Звичайний режим</item>
+        <item>Екстрім режим</item>
+     </string-array>
 	 <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
         <item>Slip adjust - Slip trigger</item>

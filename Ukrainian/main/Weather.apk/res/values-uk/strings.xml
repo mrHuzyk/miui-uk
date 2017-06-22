@@ -2,6 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук</string>
+	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
+     <string name="xiaomi_weather_description_title">Про погоду</string>
 	<string name="alert_detail_title">Відомості про попередження</string>
      <string name="city_exceeded_warning">Ви можете додати до 10 міст</string>
 	<string name="aqi_display_exp">exp_%1$s</string>

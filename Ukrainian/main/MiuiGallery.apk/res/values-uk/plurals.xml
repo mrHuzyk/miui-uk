@@ -5,6 +5,10 @@
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="add_to_secret_successful">
+        <item quantity="other">%1$d фото додано в особистий альбом</item>
+        <item quantity="one">%1$d фото додано в особистий альбом</item>
+     </plurals>
 	 <plurals name="backup_after_hours">
         <item quantity="other">Відновлення синхронізації через %d г.</item>
         <item quantity="one">Відновлення синхронізації через %d г.</item>

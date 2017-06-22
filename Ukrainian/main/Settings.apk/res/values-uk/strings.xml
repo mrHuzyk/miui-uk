@@ -2,7 +2,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
-	 
+	 <string name="traffic_balance">Інтелектуальна стратегія трафіку</string>
+	 <string name="giga_hertz">" ГГц"</string>
+     <string name="notification_reboot_btn">Перезавантажити</string>
+     <string name="notification_reboot_summary_hm">Натисніть, щоб перезавантажити пристрій</string>
+     <string name="notification_reboot_title">Перезавантажтеся, щоб застосувати оновлення</string>
+     <string name="notification_reboot_title_hm">Перезавантажтеся, щоб застосувати оновлення</string>
+     <string name="notification_update_new_version">Доступне оновлення</string>
+     <string name="notification_update_now">Оновити</string>
+     <string name="privacy_delete_space_dlg_message">Щоб змінити пароль другого простору, видаліть його і створіть новий</string>
+     <string name="privacy_dlg_button_cancel">Відміна</string>
+     <string name="privacy_factory_reset_dlg_button_text">Створити копію</string>
+     <string name="privacy_factory_reset_dlg_message">Зробіть локальну резервну копію даних, а потім зробіть скидання  даних. Після цього Ви зможете змінити свій пароль.</string>
+     <string name="privacy_factory_reset_dlg_title">Резервне копіювання даних</string>
+     <string name="update_new_version">Доступне оновлення</string>
 	 <string name="select_webview_provider_dialog_title">Налаштування сервісу WebView</string>
 	 <string name="select_webview_provider_title">Сервіс WebView</string>
 	 <string name="enable_webview_multiprocess">Багатопроцесорний WebView</string>
@@ -14,7 +27,6 @@
 	 <string name="force_resizable_activities">Зміна розміру в багато віконному режимі</string>
 	 <string name="force_resizable_activities_summary">Дозволити зміну розміру в багато віконному режимі (незалежно від значень маніфесту)</string>
 	 <string name="default_spell_checker">Правопис за замовчуванням</string>
-	 
 	 <string name="remove_continue">OK</string>
      <string name="uninstall_protected_dlg_msg">Видалення системних додатків може перешкодити роботі деяких компонентів MIUI. Продовжити?</string>
      <string name="uninstall_protected_dlg_title">Видалення системних додатків</string>

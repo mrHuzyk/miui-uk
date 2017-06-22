@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abort_backup_confirm">Скасувати створення бекапа?</string>
+	 <string name="total_size">, %s</string>
 	 <string name="feature_title_antispam">Чорний список</string>
      <string name="abort_restore_confirm">Зупинити відновлення?</string>
      <string name="account_contact_backup_info">Дані акаунтів і контакти</string>

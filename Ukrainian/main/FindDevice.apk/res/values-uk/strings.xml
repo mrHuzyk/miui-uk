@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="activate_xiaomi_account">Активувати цей пристрій</string>
+	 <string name="default_debt_msg_words">"Цей пристрій заблоковано через заборгованість вашого пристрою.
+Зверніться до торгового агента."</string>
 	 <string name="phone_locked_account_email">", пов'язана пошта: %s"</string>
      <string name="phone_locked_account_phone">", пов'язаний номер телефону: %s"</string>
      <string name="adding_or_updating_account">Оновлення акаунта…</string>
