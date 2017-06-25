@@ -2,6 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="add_game">Додати</string>
+	 <string name="install_sucess">%s встановлено</string>
+     <string name="more_game">Інші ігри</string>
+     <string name="open_game">Відкрити</string>
+     <string name="sys_title_gamebooster_unit_gb">" ГБ"</string>
+     <string name="sys_title_gamebooster_unit_mb">" МБ"</string>
+     <string name="try_game">Спробувати</string>
 	 <string name="fastboot_locked_answer_1">Fastboot є традиційним методом прошивки Mi пристроїв. Коли пристрій перебуває в режимі Fastboot, всі дані, що зберігаються на ньому, можуть бути доступні і видалені безпосередньо. Ми заблокували Fastboot для захисту Ваших даних в разі втрати пристрою, а також гарантувати надійність функції Пошук пристрою.</string>
      <string name="fastboot_locked_answer_2">У разі, якщо Ви втратите пристрій, Fastboot гарантує безпеку даних, що зберігаються на ньому. Після розблокування Fastboot, ви більше не будете мати можливість заблокувати пристрій або віддалено стерти дані за допомогою функції Пошуку пристрою. Ми не рекомендуємо розблокувати Fastboot на пристрої.</string>
      <string name="fastboot_locked_answer_3">Ви повинні використовувати інструмент розблокування з сайту MIUI. Для того, щоб розблокувати пристрій, ми повинні переконатися, що пристрій належить Вам. Ви повинні увійти в свій Mi аккаунт і включити функцію Пошук пристрою.</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Про застосунок</string>
+	 <string name="t_no_miuibbs">Встановіть додаток MIUI Forum</string>
 	 <string name="v_debug_close">Закрити</string>
      <string name="v_debug_close_log">Вимкнути налагодження</string>
      <string name="v_debug_open_log">Увімкнути налагодження</string>

@@ -5,6 +5,10 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="connect_mode_entries">
+        <item>Сумісний</item>
+        <item>Високий</item>
+     </string-array>
 	 <string-array name="traffic_balance_entries">
         <item>Вимкнено</item>
         <item>Звичайний режим</item>

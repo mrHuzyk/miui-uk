@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Телефон</string>
+	<string name="card_title_hanging_up_restart">Неможливо завершити виклик. Перезавантажте пристрій.</string>
+     <string name="card_title_hanging_up_weak_signal">"Слабкий сигнал мобільного мережі. Завершення виклику"</string>
+	 <string name="onscreen_message_text">Повідомлення</string>
 	<string name="remind_unlock_message">Пристрій зараз заблоковано. \"%s\" буде доступно після розблокування пристрою. Розблокувати?</string>
      <string name="unlock_phone">Розблокуйте пристрій</string>
 	<string name="close_camera_failed">Не вдалося закрити камеру</string>

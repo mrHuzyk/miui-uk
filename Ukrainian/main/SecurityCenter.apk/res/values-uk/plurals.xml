@@ -7,6 +7,14 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="white_list_risk_app_header">
+        <item quantity="other">Небезпечні додатки: %d</item>
+        <item quantity="one">Небезпечні додатки: %d</item>
+     </plurals>
+     <plurals name="white_list_trojan_header">
+        <item quantity="other">Трояни: %d</item>
+        <item quantity="one">Трояни: %d</item>
+     </plurals>
 	 <plurals name="manual_white_list_header">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>

@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="reading_data">Отримання інформації…</string>
+	 <string name="connect_mode">Режим підключення</string>
+     <string name="sure_sync_now">Синхронізувати зараз?</string>
+     <string name="sync_now">Синхронізувати</string>
 	 <string name="traffic_balance">Інтелектуальна стратегія трафіку</string>
 	 <string name="giga_hertz">" ГГц"</string>
      <string name="notification_reboot_btn">Перезавантажити</string>

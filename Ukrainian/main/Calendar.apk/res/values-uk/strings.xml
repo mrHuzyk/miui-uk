@@ -2,6 +2,31 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="panchang_amanta">Amanta</string>
+     <string name="panchang_amanta_month">Amanta Month:</string>
+     <string name="panchang_ayana">Ayana</string>
+     <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
+     <string name="panchang_hindu_lunar_month">Hindu Lunar Month</string>
+     <string name="panchang_inauspicious_timings">Inauspicious Timings</string>
+     <string name="panchang_karan">Karan</string>
+     <string name="panchang_moon_sign">Moon Sign</string>
+     <string name="panchang_nakshatra">Nakshatra</string>
+     <string name="panchang_purnimanta">Purnimanta</string>
+     <string name="panchang_purnimanta_month">Purnimanta Month:</string>
+     <string name="panchang_rahu_kalam">Rahu Kalam</string>
+     <string name="panchang_ritu">Ritu</string>
+     <string name="panchang_shaka_samvat">Shaka Samvat</string>
+     <string name="panchang_sun_sign">Sun Sign</string>
+     <string name="panchang_tithi">Tithi</string>
+     <string name="panchang_to"> to </string>
+     <string name="panchang_upto"> upto </string>
+     <string name="panchang_vikram_samvat">Vikram Samvat</string>
+     <string name="panchang_yamaghanta">Yamaghanta</string>
+     <string name="panchang_yog">Yog</string>
+     <string name="too_long_content">Занадто довгий зміст</string>
+     <string name="too_long_description">Опис події занадто довгий</string>
+     <string name="too_long_location">Місце події занадто довге</string>
+     <string name="too_long_name">"Занадто довге ім'я"</string>
 	 <string name="missing_required_permission">Ви відключили необхідний дозвіл</string>
 	 <string name="holiday_detail_read_more">Ще</string>
 	 <string name="birthday_card_other_day_title">День народження</string>

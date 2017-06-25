@@ -2,6 +2,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="antivirus_longtime_no_update">Схоже, вірусні бази даних застаріли. Регулярні оновлення допомагають поліпшити результати сканування. Дозволити Безпеці підключатися до мережі та оновлювати вірусні бази даних?</string>
+     <string name="antivirus_longtime_no_update1">Схоже, вірусні бази даних застаріли. Регулярні оновлення допомагають поліпшити результати сканування. Оновіть вірусні бази даних та спробуйте ще раз.</string>
+     <string name="antivirus_not_wlan">Використання мобільного трафіку може призвести до додаткових витрат. Продовжити?</string>
+     <string name="antivirus_sec_network_unavailable">Додаток Безпека не може оновлюватися, оскільки Ви обмежили підключення до мережі. Дозволити підключення до мережі?</string>
+     <string name="antivirus_toast_already_update">Оновлення не потрібне</string>
+     <string name="antivirus_toast_network_unavailable">Неможливо підключитися до мережі</string>
+     <string name="antivirus_toast_update_failed">Неможливо оновити</string>
+     <string name="antivirus_toast_update_success">Оновлення завершено</string>
+     <string name="antivirus_toast_updating">Оновлення…</string>
+     <string name="antivirus_update_btn_contiue">OK</string>
+     <string name="antivirus_update_btn_open">Дозволити</string>
+     <string name="antivirus_update_btn_update">Оновити</string>
+     <string name="btn_back">Назад</string>
+     <string name="exit">Вихід</string>
 	 <string name="firewall_restrict_notify_title">%s не має доступу до мережі</string>
 	 <string name="firewall_allow_all">Дозволити всім додаткам підключатися наступним чином</string>
      <string name="firewall_allow_data">Дозволити використання мобільного трафіку</string>

@@ -2,6 +2,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_bar_delete">Видалити</string>
+	 <string name="about_hide_mode">Про економію батареї</string>
+     <string name="config_restrict_running_warning">Додаток, що працює в фоні буде закрито. Можлива некоректна робота.</string>
+     <string name="config_scenario_policies_title">Розклади</string>
+     <string name="disable_hide_mode">Вимкнути економію батареї</string>
+     <string name="disable_hide_mode_warning">Відключення економії батареї може призвести до збільшення споживання енергії</string>
+     <string name="enable_hide_mode">Включити економію батареї</string>
+     <string name="hide_system_app">Приховати системні додатки</string>
+     <string name="scenario_policies_summary">Енергозбереження за розкладом</string>
+     <string name="scenario_policies_title">Розклад</string>
+     <string name="show_system_app">Показати системні додатки</string>
+     <string name="vip_feedback">"Vip зв'язок"</string>
+     <string name="vip_feedback_apply">"Застосувати Vip зв'язок"</string>
+     <string name="vip_feedback_apply_msg">"Зв'яжіться з qiufeng@xiaomi.com, щоб застосувати Vip зв'язок"</string>
+     <string name="vip_feedback_enable">"Увімкнути Vip зв'язок"</string>
 	 <string name="sleep_config_disable_description">MIUI не буде покращувати економію батареї</string>
      <string name="sleep_config_disable_title">Вимк</string>
      <string name="sleep_config_enhance_description">MIUI буде покращувати економію батареї</string>

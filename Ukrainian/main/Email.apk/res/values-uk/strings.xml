@@ -2,6 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="account_failure">Збій облікового запису</string>
+     <string name="changepw_dialog_tips_please_clikc_btn">Перевірте код через %s та спробуйте ще раз</string>
+     <string name="dialog_system_auto_sync_account_no_open">Синхронізація облікового запису не включена, і повідомлення не синхронізуються автоматично</string>
+     <string name="dialog_system_auto_sync_master_no_open">Синхронізація системи не включена, і повідомлення не синхронізуються автоматично</string>
+     <string name="mail_description_content">Електронна пошта - це поштовий клієнт, який може управляти декількома поштовими скриньками, підтримує відправку та отримання листів і т.д. Після видалення програми, всі дані будуть видалені.</string>
+     <string name="mail_description_title">Про додаток</string>
+     <string name="syncing_wait_restart">Натисніть для повтору</string>
+     <string name="syncing_wait_restart_title">"З'єднання з сервером вийшло.
+Не вдалося завантажити повідомлення. "</string>
+     <string name="system_setup_open_error">"Неможливо викликати синхронізацію облікового запису. Увімкніть 'Налаштувати' в синхронізації аккаунта."</string>
 	 <string name="automatic_remind_text">Нагадати</string>
      <string name="cancel_pop3_attchemt_downloading">Скасування будь-якого завантажується вкладення недоступна для облікового запису POP3</string>
      <string name="drawer_classification">Інтелектуальна класифікація</string>
