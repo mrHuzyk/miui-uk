@@ -2,8 +2,8 @@
 <resources>
     <plurals name="notification_missedCallTitle">
         <item quantity="other">пропущені виклики</item>
-        <item quantity="one">пропущені виклик</item>
-		<item quantity="few">пропущені виклика</item>
+        <item quantity="one">пропущений виклик</item>
+		<item quantity="few">пропущений виклик</item>
         <item quantity="many">пропущені виклики</item>
     </plurals>
 </resources>
