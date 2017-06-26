@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_missedCallTitle">
-        <item quantity="other">пропущені виклики</item>
+        <item quantity="other">пропущених викликів</item>
         <item quantity="one">пропущені виклик</item>
 		<item quantity="few">пропущені виклика</item>
-        <item quantity="many">пропущені виклики</item>
+        <item quantity="many">пропущених викликів</item>
     </plurals>
 </resources>
