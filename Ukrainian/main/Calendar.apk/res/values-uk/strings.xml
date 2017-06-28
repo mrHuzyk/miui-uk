@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="agenda_month_empty_hint">Немає подій сьогодні</string>
+     <string name="load_more_hint">Оновити події %1$d</string>
+     <string name="no_events_hint">Немає подій</string>
+     <string name="pull_to_refresh_hint">Потягніть, щоб оновити події %1$d</string>
+     <string name="refreshing_hint">Оновлення</string>
 	 <string name="panchang_amanta">Amanta</string>
      <string name="panchang_amanta_month">Amanta Month:</string>
      <string name="panchang_ayana">Ayana</string>

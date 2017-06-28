@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Додому</string>
+	 <string name="immersion_button_close_description">Закрити</string>
+     <string name="search_input_description">Пошук</string>
 	 <string name="sar">Інформація RF</string>
      <string name="abc_action_bar_up_description">Назад</string>
      <string name="action_mode_deselect_all">Зняти вибір</string>

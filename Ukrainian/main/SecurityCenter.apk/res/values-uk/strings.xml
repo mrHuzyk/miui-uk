@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="auto_task_notify_task_exit_task">Завершити завдання</string>
+     <string name="power_consume_hardware_total_format">Система: %s</string>
+     <string name="power_consume_software_total_format">Додатки: %s</string>
 	 <string name="antivirus_longtime_no_update">Схоже, вірусні бази даних застаріли. Регулярні оновлення допомагають поліпшити результати сканування. Дозволити Безпеці підключатися до мережі та оновлювати вірусні бази даних?</string>
      <string name="antivirus_longtime_no_update1">Схоже, вірусні бази даних застаріли. Регулярні оновлення допомагають поліпшити результати сканування. Оновіть вірусні бази даних та спробуйте ще раз.</string>
      <string name="antivirus_not_wlan">Використання мобільного трафіку може призвести до додаткових витрат. Продовжити?</string>
