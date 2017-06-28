@@ -99,7 +99,7 @@
      <string name="account_sec_dspt">MIUI, Mi Cloud, Mi Маркет.</string>
      <string name="account_security_question">Контрольне питання</string>
      <string name="account_settings">Акаунти</string>
-     <string name="account_user_avatar">Фото профилю</string>
+     <string name="account_user_avatar">Фото профілю</string>
      <string name="account_user_avatar_from_album">Вибрати фото</string>
      <string name="account_user_avatar_from_camera">Зняти фото</string>
      <string name="account_user_base_info">Інформація про користувача</string>
@@ -107,7 +107,7 @@
      <string name="account_user_details">Інформація про користувача</string>
      <string name="account_user_education">Освіта</string>
      <string name="account_user_email">Email</string>
-     <string name="account_user_gender">Пол</string>
+     <string name="account_user_gender">Стать</string>
      <string name="account_user_gender_female">Жіночий</string>
      <string name="account_user_gender_male">Чоловічий</string>
      <string name="account_user_id">ID Mi акаунта</string>
