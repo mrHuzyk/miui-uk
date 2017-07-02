@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_firewall_setting">Чорний список</string>
+	 <string name="fail_to_view_attachment">Вкладення недоступно</string>
 	 <string name="delete_verification_code_sms_message">Видалити всі одноразові паролі?</string>
      <string name="delete_verification_code_sms_title">Очистити одноразові паролі</string>
      <string name="disabled">Вимкнено</string>

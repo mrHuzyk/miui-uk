@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Запис экрану</string>
+	<string name="low_memory_dior">"Доступно менше 500 МБ пам'яті. Ви можете записати відео до 12 хвилин."</string>
     <string name="app_info">Запис. Натисніть, щоб зупинити.</string>
     <string name="app_notification_title">Запис экранау</string>
     <string name="screen_record_params">Параметри запису</string>

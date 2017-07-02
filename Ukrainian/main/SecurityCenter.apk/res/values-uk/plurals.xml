@@ -7,6 +7,16 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="result_sign_header">
+        <item quantity="other">Знайдено %d неофіційних додатків</item>
+        <item quantity="one">Знайдено %d неофіційний додаток</item>
+     </plurals>
+     <plurals name="result_virus_header">
+        <item quantity="other">Знайдено %d додатків з вірусом</item>
+        <item quantity="one">Знайдено 1 додаток з вірусом</item>
+		<item quantity="few">Знайдено 2 додатки з вірусом</item>
+        <item quantity="many">Знайдено %d додатків з вірусом</item>
+     </plurals>
 	 <plurals name="white_list_risk_app_header">
         <item quantity="other">Небезпечні додатки: %d</item>
         <item quantity="one">Небезпечні додатки: %d</item>

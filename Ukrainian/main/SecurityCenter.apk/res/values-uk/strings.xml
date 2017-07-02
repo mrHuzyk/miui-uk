@@ -2,6 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="handle_title_network">Безпека Wi-Fi</string>
+     <string name="handle_title_pay_env">Платіжна система</string>
+     <string name="handle_title_privacy">Конфіденційність</string>
+     <string name="hints_scan_danger_result">Знайдений ризики. Виправте зараз.</string>
+     <string name="hints_scan_result_no_finish">Сканування не завершено. Натисніть, щоб відновити.</string>
+     <string name="virus_auto_update_engine">Автоматичне оновлення: %s</string>
 	 <string name="auto_task_notify_task_exit_task">Завершити завдання</string>
      <string name="power_consume_hardware_total_format">Система: %s</string>
      <string name="power_consume_software_total_format">Додатки: %s</string>

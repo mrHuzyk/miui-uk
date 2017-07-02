@@ -4,6 +4,36 @@
         <item quantity="other">Видалити діалоги? (%1$s)</item>
         <item quantity="one">Видалити діалог?</item>
     </plurals>
+	<plurals name="group_message_failed_title">
+        <item quantity="other">Не вдалося відправити %d контактам</item>
+        <item quantity="one">Не вдалося відправити %d контакту</item>
+		<item quantity="few">Не вдалося відправити %d контактам</item>
+        <item quantity="many">Не вдалося відправити %d контактам</item>
+     </plurals>
+     <plurals name="send_to_count">
+        <item quantity="other">Відправлено %1$s повідомлень</item>
+        <item quantity="one">Відправлено %1$s повідомлення</item>
+		<item quantity="few">Відправлено %1$s повідомлення</item>
+        <item quantity="many">Відправлено %1$s повідомлень</item>
+     </plurals>
+     <plurals name="timed_message_expired_title">
+        <item quantity="other">%d запланованих повідомлень не було відправлено</item>
+        <item quantity="one">%d заплановане повідомлення не було відправлено</item>
+		<item quantity="few">%d заплановані повідомлення не були відправлені</item>
+        <item quantity="many">%d запланованих повідомлень не було відправлено</item>
+     </plurals>
+     <plurals name="timed_message_in_total">
+        <item quantity="other">(%d повідомлень)</item>
+        <item quantity="one">(%d повідомлення)</item>
+		<item quantity="few">(%d повідомлення)</item>
+        <item quantity="many">(%d повідомлень)</item>
+     </plurals>
+     <plurals name="to_count">
+        <item quantity="other">%d одержувачів</item>
+        <item quantity="one">%d одержувач</item>
+		<item quantity="few">%d одержувача</item>
+        <item quantity="many">%d одержувачів</item>
+     </plurals>
 	<plurals name="hint_search_sms">
         <item quantity="other">Повідомлень: %d</item>
         <item quantity="zero">Повідомлень: %d</item>

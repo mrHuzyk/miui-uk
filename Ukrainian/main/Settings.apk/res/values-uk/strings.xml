@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="music_app_unavailable">Залежить від додатку музика. Переконайтеся, що він є.</string>
 	 <string name="encryption_progress_summary">Шифрування. Не перезавантажуйте пристрій.</string>
      <string name="owner_space">Перший простір</string>
      <string name="sim_management_title_cr_kolbi">SIM-карти та мобільні мережі</string>
