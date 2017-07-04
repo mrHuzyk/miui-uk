@@ -1041,7 +1041,7 @@
      <string name="exit">ОК</string>
      <string name="exit_share">Вийти з альбому</string>
      <string name="exit_share_failed">Не вдалося вийти з альбому \"%1$s\"</string>
-     <string name="exit_share_in_process">Вихід з альбому…</string>
+     <string name="exit_share_in_process">Вихід з альбому \"%s\"…</string>
      <string name="exit_share_successfully">Ви вийшли з альбому \"%1$s\"</string>
      <string name="exit_video_play">Вихід</string>
      <string name="expand_people">Показать інші обличчя</string>
