@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Про застосунок</string>
+	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>
 	 <string name="permission_content">Ви не можете використовувати відео до тих пір, поки не надасте дозволи</string>
      <string name="permission_refuse">Відміна</string>
      <string name="permission_retry">Повтор</string>

@@ -6,6 +6,14 @@
         <item quantity="few">%d хвилин тому</item>
         <item quantity="many">%d хвилин тому</item>
     </plurals>
+	<plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s денний прогноз</item>
+        <item quantity="one">%1$s денний прогноз</item>
+     </plurals>
+     <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">"%1$s с. після зворотного зв'язку"</item>
+        <item quantity="one">"%1$s с. після зворотного зв'язку"</item>
+     </plurals>
 	<plurals name="no_vote_num">
         <item quantity="other">%1$s людей | </item>
         <item quantity="one">%1$s чол. | </item>

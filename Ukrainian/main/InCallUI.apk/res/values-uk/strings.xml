@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Телефон</string>
+	<string name="card_title_answering">Відповідь на виклик</string>
+     <string name="card_title_answering_fail">Неможливо відповісти на дзвінок. Повторіть спробу.</string>
+     <string name="card_title_hanging_up_fail">Не вдалося завершити виклик. Повторіть спробу.</string>
 	<string name="user_locked_prompt">Розблокуйте пристрій для доступу до контактів</string>
 	<string name="card_title_hanging_up_restart">Неможливо завершити виклик. Перезавантажте пристрій.</string>
      <string name="card_title_hanging_up_weak_signal">"Слабкий сигнал мобільного мережі. Завершення виклику"</string>

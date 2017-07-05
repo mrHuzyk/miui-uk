@@ -2,6 +2,15 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="alert_secret_album_message_lower_case">Проведіть пальцем вниз в альбомі та натисніть, щоб подивитися прихований альбом</string>
+     <string name="backup_sync_dialog_confirm">Увімкнути</string>
+     <string name="backup_sync_dialog_tips">Увімкніть синхронізацію з Mi Cloud, щоб змінити налаштування синхронізації</string>
+     <string name="backup_sync_dialog_title">Синхронізація відключена</string>
+     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
 	 <string name="cloud_sync_card_description">Синхронізуйте свої фотографії та відео з Mi Cloud для доступу до них з декількох пристроїв</string>
      <string name="cloud_sync_card_title">Увімкнути синхронізацію з Mi Cloud</string>
      <string name="comma_separator">,</string>

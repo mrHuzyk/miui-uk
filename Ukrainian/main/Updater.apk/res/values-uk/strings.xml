@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
+	<string name="provision_activate_device">Активація пристрою…</string>
+     <string name="provision_check_sim">Перевірка SIM-карти</string>
+     <string name="provision_connect_wifi">Підключення до Wi-Fi</string>
+     <string name="provision_have_sim">SIM-карта вставлена</string>
+     <string name="provision_no_network_extra">Підключіться до Wi-Fi або вставте SIM-карту та використовуйте мобільний інтернет для активації пристрою. Ви не можете активувати пристрій без підключення до мережі.</string>
+     <string name="provision_no_network_title">Підключення до мережі</string>
+     <string name="provision_retry">Повтор</string>
+     <string name="provision_toast_no_network">Спочатку підключіться до мережі</string>
+     <string name="provision_toast_server_error">Не вдалося підключитися до сервера. Зачекайте та спробуйте ще раз.</string>
+     <string name="provision_toast_timeout">Час в онлайні минув. Перевірте налаштування мережі.</string>
+     <string name="recovery_power_need_plugged">Підключіть зарядний пристрій для оновлення</string>
+     <string name="recovery_power_plugged_warning">Переконайтеся, що зарядний пристрій підключено до пристрою протягом всього оновлення</string>
 	<string name="alpha_apply">Подати заявку в програму бета-тестування</string>
      <string name="alpha_cancel">Скасувати заявку в програму бета-тестування</string>
      <string name="alpha_cancel_cancel">Відміна</string>

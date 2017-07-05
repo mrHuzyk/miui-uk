@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Жовті сторінки</string>
+	<string name="express_install_cainiao_description">%s вимагає встановлення Cainiao. Встановити зараз?</string>
+     <string name="express_install_delivery_service">Служби доставки</string>
+     <string name="express_install_open_locker">Один крок для відкриття шафки</string>
+     <string name="express_install_order_detail">Перевірка деталей замовлення</string>
+     <string name="express_install_schedule_delivery">Запланована доставка</string>
+     <string name="express_open_locker">Відкриття шафки</string>
+     <string name="express_pickup_code">Код самовивозу: %s</string>
+     <string name="express_schedule_delivery">Запланована доставка</string>
 	<string name="express_cainiao_banner">Подробиці надані Cainiao</string>
      <string name="express_check_fetch_code">Код самовивозу</string>
      <string name="express_goods_detail">Детальніше про товар</string>
