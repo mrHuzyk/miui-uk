@@ -2,7 +2,6 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Стандарт</item>
-        <item>Без еффектів</item>
         <item>Сгасання</item>
         <item>Поворот</item>
         <item>Листання</item>
