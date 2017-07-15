@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="security_encryption_rejected_via_home_manager">Ця функція не може бути в демо-версії</string>
 	 <string name="privacy_close_dlg_button_ok">Вимкнути</string>
      <string name="privacy_close_dlg_msg">Якщо пароль захисту конфіденційності відключений, Ваші дані більше не будуть захищені</string>
      <string name="privacy_close_dlg_title">Увага</string>

@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_bar_delete">Видалити</string>
+	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
+     <string name="warm_configure">Конфігурація</string>
 	 <string name="about_hide_mode">Про економію батареї</string>
      <string name="config_restrict_running_warning">Додаток, що працює в фоні буде закрито. Можлива некоректна робота.</string>
      <string name="config_scenario_policies_title">Розклади</string>

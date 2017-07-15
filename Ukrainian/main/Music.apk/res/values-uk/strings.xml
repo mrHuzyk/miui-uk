@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account">Акаунт</string>
+	 <string name="local_header_title">Локальна музика</string>
 	  <string name="vip_after_tomorrow_auto_renew_message">Ваша підписка на музику буде автоматично оновлена ​​післязавтра. Переконайтеся, що у Вас досить Mi Credits для завершення цього платежу.</string>
      <string name="vip_after_tomorrow_renew_message">Ви не зможете слухати високоякісне аудіо, але деякі пісні будуть доступні в звичайній якості</string>
      <string name="vip_tomorrow_auto_renew_message">Ваша підписка на музику буде автоматично оновлена ​​завтра. Переконайтеся, що у Вас досить Mi Credits для завершення цього платежу.</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
+	 <string name="engine_init">Ініціалізація…</string>
 	 <string name="app_description_content">Cleaner знаходить сміття на пристрої та звільняє місце. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій.</string>
      <string name="app_description_title">Про Clean Master</string>
      <string name="engine_cm">Clean Master</string>

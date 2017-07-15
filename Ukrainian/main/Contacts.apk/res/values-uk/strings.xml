@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
+	 <string name="option_delete_batch_contacts">Пакетне видалення</string>
 	 <string name="preference_other">Різне</string>
      <string name="preference_show_yellowpage_tab_description">Функція жовті сторінки може працювати некоректно, після її відключення</string>
      <string name="preference_show_yellowpage_tab_title">Показувати жовті сторінки</string>

@@ -8,9 +8,21 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="sort_title">
+        <item>Статус</item>
+        <item>"Ім'я додатку"</item>
+        <item>Частота використання</item>
+        <item>"Використання пам'яті"</item>
+        <item>Використання трафіку</item>
+        <item>Використання батареї</item>
+     </string-array>
 	 <string-array name="sort_type">
-        <item>Сортування по імені</item>
-        <item>Сортування по розміру</item>
+        <item>Статус</item>
+        <item>"Ім'я додатку"</item>
+        <item>Частота використання</item>
+        <item>"Використання пам'яті"</item>
+        <item>Використання трафіку</item>
+        <item>Використання батареї</item>
      </string-array>
 	 <string-array name="sms_report_type">
         <item>Використання трафіку</item>

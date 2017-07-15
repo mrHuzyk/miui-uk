@@ -6,6 +6,14 @@
         <item>Режим читання</item>
         <item>Режим медіа</item>
     </string-array>
+	<string-array name="thermal_entries">
+        <item>За замовчуванням</item>
+        <item>Продуктивність</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Переважно температура пристрою</item>
+        <item>Переважно продуктивність пристрою</item>
+     </string-array>
     <string-array name="event_name_translate">
         <item>Програма в фоні</item>
         <item>Екран увімкнено</item>

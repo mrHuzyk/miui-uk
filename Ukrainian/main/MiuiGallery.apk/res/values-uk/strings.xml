@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="backup_cta_not_allow_desc">Дозвольте для автоматичної синхронізації</string>
+     <string name="backup_cta_not_allow_title">Немає доступу до мережі</string>
+     <string name="cloud_storage_extend">Додаткове місце в хмарі</string>
 	 <string name="alert_secret_album_message_lower_case">Проведіть пальцем вниз в альбомі та натисніть, щоб подивитися прихований альбом</string>
      <string name="backup_sync_dialog_confirm">Увімкнути</string>
      <string name="backup_sync_dialog_tips">Увімкніть синхронізацію з Mi Cloud, щоб змінити налаштування синхронізації</string>

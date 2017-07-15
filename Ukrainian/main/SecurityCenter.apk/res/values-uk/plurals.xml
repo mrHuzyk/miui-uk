@@ -7,6 +7,10 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d дод. працюють неправильно та витрачають батарею</item>
+        <item quantity="one">"%d дод. працює неправильно та витрачає батарею</item>
+     </plurals>
 	 <plurals name="result_sign_header">
         <item quantity="other">Знайдено %d неофіційних додатків</item>
         <item quantity="one">Знайдено %d неофіційний додаток</item>

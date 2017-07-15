@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="bookmark">Закладки</string>
+     <string name="snapshot">Локально</string>
 	 <string name="agree">OK</string>
      <string name="exit">Вихід</string>
 	 <string name="check_permission_of_current_location">Поточне місцезнаходження</string>

@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Скасувати</string>
+	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
      <string name="toast_third_packagename_required">Введіть назву додатку</string>
 	 <string name="feedback_status_forum_reply">Відгук</string>

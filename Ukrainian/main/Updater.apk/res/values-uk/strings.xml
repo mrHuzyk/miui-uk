@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
+	<string name="auto_download">Завантажувати автоматично </string>
+     <string name="auto_download_sum">Завантажувати оновлення при підключенні до Wi-Fi</string>
+     <string name="set_auto_download_msg">MIUI автоматично завантажить оновлення, коли пристрій підключено до Wi-Fi</string>
+     <string name="set_auto_download_title">Завантажити автоматично?</string>
+     <string name="set_auto_download_update_title">Встановити автоматично?</string>
+     <string name="set_auto_update_msg">MIUI буде встановлювати оновлення, коли пристрій не використовується</string>
+     <string name="title_toast_auto_download">Оновлення будуть завантажені автоматично</string>
+     <string name="title_toast_auto_update">Оновлення будуть встановлені автоматично</string>
 	<string name="provision_activate_device">Активація пристрою…</string>
      <string name="provision_check_sim">Перевірка SIM-карти</string>
      <string name="provision_connect_wifi">Підключення до Wi-Fi</string>

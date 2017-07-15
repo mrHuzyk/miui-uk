@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Додому</string>
+	 <string name="actionbar_button_up_description">Назад</string>
+     <string name="actionbar_immersion_button_more_description">Ще</string>
+     <string name="search_mode_button_back_description">Назад</string>
 	 <string name="immersion_button_close_description">Закрити</string>
      <string name="search_input_description">Пошук</string>
 	 <string name="sar">Інформація RF</string>
