@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Про пристрій</string>
+	 <string name="mipay_identitiy_no">Ні</string>
+     <string name="mipay_indentity_done">Готово</string>
+	 
 	 <string name="confirm_bundled_phone_dialog_title">"Підтвердіть прив'язаний номер"</string>
      <string name="confirm_unbundled_phone_dialog_message">"Номер телефону в %1$s пов'язаний з аккаунтом %2$s. Продовжуючи, буде відв'язано акаунт %3$s. Ви впевнені?"</string>
      <string name="get_phone_bind_exceed_limit">"Кількість номерів, прив'язаних до числа акаунтів, досягло максимуму (3). Більше не можна пов'язувати новий акаунт."</string>

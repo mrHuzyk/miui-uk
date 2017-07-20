@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="caller_app">Запит: %1$s</string>
+	<string name="miui_compatibility_desc">Цей додаток не є сумісним з Вашим пристроєм або версією Android. Можлива некоректна робота.</string>
+     <string name="miui_installing2">Встановлення…</string>
+	 
 	<string name="miui_message_staging_0">Встановлення додатку   </string>
      <string name="miui_message_staging_1">Встановлення додатку.  </string>
      <string name="miui_message_staging_2">Встановлення додатку.. </string>

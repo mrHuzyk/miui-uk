@@ -2,6 +2,21 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="micloud_detail_not_syncable">Не синхр.</string>
+     <string name="micloud_main_error_activated_fail">Активуйте SIM-карту</string>
+     <string name="micloud_main_error_network_disallowed">Переконайтеся, що є доступ до мережі</string>
+     <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
+     <string name="micloud_main_master_sync_on">Sync on</string>
+     <string name="micloud_main_message_master_sync_off">Автоматична синхронізація в панелі сповіщень</string>
+     <string name="micloud_main_query_again">Query</string>
+     <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
+     <string name="micloud_main_space_full_message">Оновлення до користувача отримає більше місця для зберігання</string>
+     <string name="micloud_main_wait_charge">Очікування зарядного пристрою</string>
+     <string name="micloud_main_wait_charge_sleep">Очікування зарядного пристрою та виключення екрану</string>
+     <string name="micloud_main_wait_wlan">Очікування Wi-Fi</string>
+     <string name="micloud_main_wait_wlan_charge">Очікування Wi-Fi, зарядного пристрою</string>
+     <string name="micloud_main_wait_wlan_charge_sleep">Очікування Wi-Fi, зарядного пристрою та виключення екрану</string>
+	 
 	 <string name="micloud_buy_member_safe">Купити преміум Mi Cloud</string>
      <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронізуються тільки контакти, календар і замітки. Для синхронізації всіх даних, перейдіть в налаштування Mi Cloud.</string>
 	 <string name="micloud_detail_need_charge_or_sleep">Підключіть зарядний пристрій і вимкніть екран, щоб відновити синхронізацію</string>

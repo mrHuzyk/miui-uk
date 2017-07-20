@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lch_dtmf_key">D</string>
+	<string name="callFailed_simError">Помилка SIM-карти</string>
+     <string name="close">Закрити</string>
+     <string name="incall_error_power_off">Вимкніть режим польоту, щоб зробити дзвінок</string>
+     <string name="incall_error_supp_service_unknown">Ця послуга не підтримується</string>
+	 
 	<string name="notification_AllMissedCallTitle">Всі пропущені дзвінки</string>
 	<string name="default_connection_manager_component" />
      <string name="headset_plugin_view_text">Підключені навушники</string>

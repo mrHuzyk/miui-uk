@@ -2,6 +2,23 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_package_delete_confirm_title">Попередження</string>
+	 <string name="always">Завжди</string>
+     <string name="close">Вимкнути</string>
+     <string name="description_title">Режим без звуку</string>
+     <string name="eighthours">8 год.</string>
+     <string name="fourhours">2 год.</string>
+     <string name="gotosetting">Налаштувати</string>
+     <string name="onehour">Пів години</string>
+     <string name="remain">Залишилось: %s</string>
+     <string name="silence_mode">Режим без звуку</string>
+     <string name="standard">Стандартний</string>
+     <string name="standard_description">standard description</string>
+     <string name="standard_title">Стандартний..</string>
+     <string name="total">Повний</string>
+     <string name="total_description">total descritpion</string>
+     <string name="total_title">Повний..</string>
+     <string name="twohours">1 год.</string>
+	 
 	 <string name="miui_upgrading_notification_title">"Оновлення системи...
 Деякі функції можуть бути недоступні."</string>
 	 <string name="status_bar_toggle_battery_saver">Економія батареї</string>

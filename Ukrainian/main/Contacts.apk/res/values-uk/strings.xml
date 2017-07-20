@@ -2,6 +2,14 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
+	 <string name="hybrid_webpage_not_available">Веб-сторінка недоступна</string>
+     <string name="t9_search_empty_create_contact">Новий контакт</string>
+     <string name="t9_search_empty_edit_contact">Додати в контакти</string>
+     <string name="t9_search_empty_send_sms">Надіслати повідомлення</string>
+     <string name="t9_search_empty_video_call">Відеодзвінок</string>
+     <string name="unfold_all">Розгорнути все</string>
+     <string name="unknown_details_new_contact">Новий контакт</string>
+	 
 	 <string name="option_delete_batch_contacts">Пакетне видалення</string>
 	 <string name="preference_other">Різне</string>
      <string name="preference_show_yellowpage_tab_description">Функція жовті сторінки може працювати некоректно, після її відключення</string>

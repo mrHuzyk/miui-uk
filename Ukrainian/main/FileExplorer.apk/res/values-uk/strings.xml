@@ -5,6 +5,25 @@
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
      <string name="support_mtp">MTP буде підтримуватися найближчим часом</string>
+	 <string name="cannot_send">Неможливо відправити файли з зовнішнього сховища</string>
+     <string name="clock_in">Перевірка…</string>
+     <string name="connection_lost">Вимкнений</string>
+     <string name="decompress_corrupt">Неможливо розпакувати файли. Пакет пошкоджений.</string>
+     <string name="error_create_dir">Не вдалося створити папку</string>
+     <string name="error_create_file">Не вдалося створити файл</string>
+     <string name="error_delete_failed">Неможливо видалити файл</string>
+     <string name="error_folder_already_exists">Цей файл вже існує</string>
+     <string name="error_invalid_path">Невірний шлях</string>
+     <string name="error_not_support">Не підтримується</string>
+     <string name="homepage_tab_file_view_phone">"Пам'ять"</string>
+     <string name="instruction_pre_pad">Натисніть, щоб запустити FTP-сервер</string>
+     <string name="instruction_pre_phone">Натисніть, щоб запустити FTP-сервер</string>
+     <string name="mtp_device">Медіа-пристрій (MTP)</string>
+     <string name="mtp_label">MTP</string>
+     <string name="pad">"Внутрішня пам'ять"</string>
+     <string name="permission_denial">Не вдалося отримати доступ до файлів. Дозвольте провіднику доступ до файлів в налаштуваннях.</string>
+     <string name="permission_required">Не вдалося отримати доступ до файлів. Дозволити провіднику доступ до файлів в налаштуваннях.</string>
+     <string name="unknown_error">Виникла невідома помилка. Зачекайте і спробуйте ще раз.</string>
 	 
      <string name="a_week_share_rank">Щотижневий рейтинг</string>
 	 <string name="overwrite_msg">\"%s\" вже існує. Натисніть для заміни.</string>

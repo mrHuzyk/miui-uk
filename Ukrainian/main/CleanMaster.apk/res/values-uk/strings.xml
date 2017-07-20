@@ -2,6 +2,22 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
+	 <string name="qq_cache_files">Кеш QQ</string>
+     <string name="qq_clean">QQ cleaner</string>
+     <string name="qq_clean_exit_confirm_msg">Зупинити сканування і вийти?</string>
+     <string name="qq_data_type_cache">Кеш QQ</string>
+     <string name="qq_data_type_cache_desc">Ви зможете відновити ці файли після підключення до мережі</string>
+     <string name="qq_data_type_chat">Історія чату</string>
+     <string name="qq_data_type_chat_desc">Ви не зможете відновити історію чату</string>
+     <string name="qq_data_type_normal">Сміття</string>
+     <string name="qq_data_type_normal_clean_tips">Це технічні файли. Їх видалення не вплине на використання.</string>
+     <string name="qq_data_type_normal_desc">Видалення не вплине на використання</string>
+     <string name="qq_data_type_other">Інше</string>
+     <string name="qq_data_type_other_desc">Будьте обережні, Ви не зможете відновити ці файли після їх видалення</string>
+     <string name="resutl_function_qq_clean_summary">" "<Data>Ви можете очистити &lt;font color=#ff0000 >%1$s&lt;/font> кешу від QQ</Data>" "</string>
+     <string name="wechat_qq_chat_files">Історія чату</string>
+     <string name="wechat_qq_normal_files">Сміття</string>
+	 
 	 <string name="engine_init">Ініціалізація…</string>
 	 <string name="app_description_content">Cleaner знаходить сміття на пристрої та звільняє місце. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій.</string>
      <string name="app_description_title">Про Clean Master</string>

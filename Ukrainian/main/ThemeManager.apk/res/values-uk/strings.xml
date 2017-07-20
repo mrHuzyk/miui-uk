@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="account_id_not_login">Натисніть для авторизації</string>
+	 <string name="account_id_not_login">Натисніть, щоб увійти</string>
+	 <string name="card_data_request_error">Запит даних закінчився. Повторіть пізніше.</string>
+     <string name="card_loading">Завантаження…</string>
+     <string name="card_no_network">Немає мережі. Підключіться та повторіть.</string>
+     <string name="card_retry">Повтор</string>
+     <string name="in_the_end">Кінець</string>
+     <string name="item_resource_audio_divider">│</string>
+     <string name="item_resource_audio_optional_alarm_ring">Будильник 2</string>
+     <string name="item_resource_audio_optional_color_ring">color ring</string>
+     <string name="item_resource_audio_optional_notification_ring">Сповіщення 2</string>
+     <string name="item_resource_audio_optional_phone_ring">Мелодія 2</string>
+     <string name="resource_ring_ranking_list_divider">-</string>
+     <string name="resource_ring_ranking_list_rank_1">1</string>
+     <string name="resource_ring_ranking_list_rank_2">2</string>
+     <string name="resource_ring_ranking_list_rank_3">3</string>
+     <string name="ringtone_set_success">Встановлено</string>
+	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>
      <string name="uid_change_dialog_ok">Перезавантажити</string>

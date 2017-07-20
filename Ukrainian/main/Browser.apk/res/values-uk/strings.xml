@@ -2,6 +2,56 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="miuichromium_error_page_description_no_connection" formatted="false">"Не вдалося підключитися до мережі через слабкого сигналу або неправильної конфігурації мережі. Перевірте %s1налаштування мережі%s2 та повторіть. "</string>
+     <string name="miuichromium_error_page_problem_access_denied">Доступ до %s0 був відхилений</string>
+     <string name="miuichromium_error_page_problem_cache_miss">Ця сторінка не може бути завантажена з кешу</string>
+    <string name="miuichromium_error_page_problem_cannot_open_page">Неможливо відкрити сторінку</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site">Сайт не може бути досягнутий</string>
+     <string name="miuichromium_error_page_problem_connection_interrupted">"З'єднання було перервано"</string>
+     <string name="miuichromium_error_page_problem_file_not_found">​​Неможливо знайти файл</string>
+     <string name="miuichromium_error_page_problem_gateway_timed_out">Занадто багато часу %s0 для відповіді</string>
+     <string name="miuichromium_error_page_problem_network_access_denied">Доступ до мережі обмежений</string>
+     <string name="miuichromium_error_page_problem_no_internet_connection">Неможливо підключитися до мережі</string>
+     <string name="miuichromium_error_page_problem_page_moved">Ця сторінка на %s0 можливо, була переміщена або видалена</string>
+     <string name="miuichromium_error_page_problem_page_not_found">​​Неможливо знайти цю сторінку на %s0</string>
+     <string name="miuichromium_error_page_problem_page_not_working">Ця сторінка не працює</string>
+     <string name="miuichromium_error_page_problem_security_error">"Цей сайт не може забезпечити безпечне з'єднання"</string>
+     <string name="miuichromium_error_page_problem_server_fault">%s0 в даний час не може обробити цей запит</string>
+     <string name="miuichromium_error_page_reason_bad_client_cert">тому що %s0 не прийняв сертифікат</string>
+     <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 не відповідає стандартам безпеки</string>
+     <string name="miuichromium_error_page_reason_blocked_by_response">. Доступ заблокований %s0</string>
+     <string name="miuichromium_error_page_reason_connection_closed">".  %s0 перериває зв'язок"</string>
+     <string name="miuichromium_error_page_reason_connection_refused">.  %s0 відмовився підключитися</string>
+     <string name="miuichromium_error_page_reason_connection_reset">". З'єднання було скинуто"</string>
+     <string name="miuichromium_error_page_reason_device_slept">"коли пристрій заснув"</string>
+     <string name="miuichromium_error_page_reason_empty_response">"тому що %s0 не відправив ніяких даних"</string>
+     <string name="miuichromium_error_page_reason_invalid_address">. IP-адреса або номер порту недійсні</string>
+     <string name="miuichromium_error_page_reason_invalid_response">"тому що %s0 відправив неправильну відповідь"</string>
+     <string name="miuichromium_error_page_reason_invalid_url">"тому що URL-адресу недійсний"</string>
+     <string name="miuichromium_error_page_reason_moved_or_deleted">. Він може бути переміщений або видалено</string>
+     <string name="miuichromium_error_page_reason_name_collision">. Цей сайт в інтернеті має той же URL-адресу, що і зовнішній веб-сайт</string>
+     <string name="miuichromium_error_page_reason_name_not_resolved">". Не вдалося знайти адресу DNS для %s0"</string>
+     <string name="miuichromium_error_page_reason_network_changed">"в зв'язку зі зміною мережі"</string>
+     <string name="miuichromium_error_page_reason_proxy_error">. Щось не так з проксі-сервером, або адреса проксі-сервера невірна</string>
+     <string name="miuichromium_error_page_reason_site_unreachable">.  %s0 м даний час недоступний</string>
+     <string name="miuichromium_error_page_reason_timed_out">". %s0 Не відповідає занадто довго"</string>
+     <string name="miuichromium_error_page_reason_too_many_redirects">"тому що %s0 перенаправляє занадто багато разів"</string>
+     <string name="miuichromium_error_page_reason_unsafe_port">.  %s0 використовує небезпечний номер порту</string>
+     <string name="miuichromium_error_page_reason_unsafe_redirect">.  %s0 перенаправляє небезпечним способом</string>
+     <string name="miuichromium_error_page_reason_unsupported_protocol">.  %s0 використовує непідтримуваний протокол</string>
+     <string name="miuichromium_error_page_suggestion_check_app_proxy">Перевірити налаштування проксі-додатків, встановлених на пристрої</string>
+     <string name="miuichromium_error_page_suggestion_check_connetion">Перевірити підключення до мережі</string>
+     <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Скинути %s1APN налаштування%s2.</string>
+     <string name="miuichromium_error_page_suggestion_check_url">Перевірте зазначену адресу</string>
+     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Перевірити %s1налаштування проксі%s2.</string>
+     <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Очистити кеш (%s1Налаштування%s2 - Очистити дані).</string>
+     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Очистити кеш та файли cookie (%s1Налаштування%s2 - Очистити дані. Інформація про акаунт може бути втрачена).</string>
+     <string name="miuichromium_error_page_suggestion_connect_and_retry">Оновити після підключення до мережі</string>
+     <string name="miuichromium_error_page_suggestion_contact_admin">Зверніться до системного адміністратора.</string>
+     <string name="miuichromium_error_page_suggestion_correct_url">Перевірте зазначену адресу, та спробуйте ще раз</string>
+     <string name="miuichromium_error_page_suggestion_grant_permission">Оновити після надання браузеру доступу до мережі</string>
+     <string name="miuichromium_error_page_suggestion_title">. Спробуйте це:</string>
+	 
 	 <string name="bookmark">Закладки</string>
      <string name="snapshot">Локально</string>
 	 <string name="agree">OK</string>

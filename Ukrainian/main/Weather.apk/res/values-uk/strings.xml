@@ -2,6 +2,20 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук</string>
+	<string name="aqi_settings_summary">Налаштування ІЯП</string>
+     <string name="aqi_settings_title">Попередження ІЯП</string>
+     <string name="it_is_going_to_rain">Скоро буде дощ</string>
+     <string name="night_not_disturb_settings_summary">Не отримувати сповіщення з 23:00 до 07:00</string>
+     <string name="night_not_disturb_settings_title">Не турбувати</string>
+     <string name="other_warning_settings">Інші налаштування попереджень</string>
+     <string name="rainfall_settings_summary">налаштування опадів</string>
+     <string name="rainfall_settings_title">Попередження про опади</string>
+     <string name="reminder_from_xiaomi_weather_app">Нагадування з додатку погоди</string>
+     <string name="update_night_setting_summary_text">Оновлювати погоду автоматично в період з 23:00 до 07:00 годин</string>
+     <string name="update_night_setting_title_text">Автоматичне оновлення</string>
+     <string name="update_setting_title_text">Налаштування оновлення</string>
+     <string name="your_location">Ваше місце розташування</string>
+	 
 	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
      <string name="xiaomi_weather_description_title">Про погоду</string>
 	<string name="alert_detail_title">Відомості про попередження</string>

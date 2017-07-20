@@ -3,6 +3,25 @@
 <resources>
      <string name="account_detail">"Mi акаунт: 
 %1$s"</string>
+<string name="mibi_applock_dialog_cancel">Не зараз</string>
+     <string name="mibi_applock_dialog_content">Через оновлення системи термін дії поточного шаблону закінчився. Встановіть шаблон блокування.</string>
+     <string name="mibi_applock_dialog_ok">Налаштувати</string>
+     <string name="mibi_applock_dialog_title">Встановіть новий шаблон блокування</string>
+     <string name="mibi_deduct_query_error">Не вдалося підписати угоду про продовження. Зачекайте та спробуйте ще раз.</string>
+     <string name="mibi_order_balance_lable">Mi Credits</string>
+     <string name="mibi_order_balance_lable_append">Mi Credits + купон</string>
+     <string name="mibi_order_balance_title">Мои Mi Credits</string>
+     <string name="mibi_order_no_use_balance">Nonuse</string>
+     <string name="mibi_order_pay_back">Підтвердити</string>
+     <string name="mibi_order_pay_type">Спосіб оплати</string>
+     <string name="mibi_order_pay_type_title">Оберіть спосіб оплати</string>
+     <string name="mibi_order_title">Оплата</string>
+     <string name="mibi_paytool_mipay">Mipay</string>
+     <string name="mibi_signing_pay_group_title">Оберіть спосіб оплати</string>
+     <string name="mibi_signing_success_sub">Поновлювані платежі будуть здійснюватися з використанням %1$s</string>
+     <string name="mibi_signing_success_title">Успішно обрано</string>
+     <string name="mibi_web_sso_login_fail">Вам потрібно знову увійти в систему</string>
+	 
      <string name="app_name">Mi Сredits</string>
      <string name="balance_payment">Mi Сredits: %1$s</string>
      <string name="balance_title">Баланс</string>

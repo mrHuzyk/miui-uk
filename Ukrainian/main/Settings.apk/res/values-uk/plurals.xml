@@ -4,6 +4,10 @@
         <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розроблювачів</item>
         <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розроблювачів</item>
     </plurals>
+	<plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d перемик. вище активні</item>
+        <item quantity="one">1 перемикач вище активний</item>
+     </plurals>
 	<plurals name="auto_startup_count">
         <item quantity="other">Додатки автозапуску: %d</item>
         <item quantity="one">Додаток автозапуску: %d</item>

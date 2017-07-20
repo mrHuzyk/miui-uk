@@ -7,6 +7,14 @@
         <item quantity="few">%d записи чорного списку</item>
         <item quantity="many">%d записів чорного списку</item>
      </plurals>
+	 <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Продовження синхронізації через %d год.</item>
+        <item quantity="one">Продовження синхронізації через %d год.</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Продовження синхронізації через %d хв.</item>
+        <item quantity="one">Продовження синхронізації через %d хв.</item>
+     </plurals>
      <plurals name="dirty_browser_count">
         <item quantity="other">%d даних браузера</item>
         <item quantity="one">%d дані браузера</item>

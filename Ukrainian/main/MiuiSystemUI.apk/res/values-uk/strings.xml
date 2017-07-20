@@ -2,6 +2,44 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_airplane_mode">Режим польоту</string>
+	 <string name="accessibility_desc_recent_apps">Огляд</string>
+     <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>
+     <string name="accessibility_recents_item_dismissed">%s відхилено</string>
+     <string name="accessibility_recents_item_launched">Запуск %s.</string>
+     <string name="accessibility_recents_item_open_app_info">Відкрити %s інформацію про додаток</string>
+     <string name="accessibility_recents_item_will_be_dismissed">Відхилено %s</string>
+     <string name="as_important">Важливе</string>
+     <string name="as_unimportant">Не важливе</string>
+     <string name="cancel">Скасування</string>
+     <string name="click_to_return_multi_window">Натисніть, щоб повернутися в мультивіконний режим</string>
+     <string name="demo_mode">Демо режим</string>
+     <string name="important_desc">Всі важливі сповіщення будуть відображатися безпосередньо в панелі сповіщень</string>
+     <string name="keyboard_shortcut_group_system_recents">Недавні додатки</string>
+     <string name="recent_dock_tip">Натисніть, щоб вибрати додаток</string>
+     <string name="recents_app_info_button_label">Інформація про додаток</string>
+     <string name="recents_caption_resize">Виберіть новий макет завдання</string>
+     <string name="recents_drag_hint_message">Перетягніть сюди, щоб використовувати розділений екран</string>
+     <string name="recents_empty_message">Немає недавніх додатків</string>
+     <string name="recents_empty_message_dismissed_all">Немає недавніх додатків</string>
+     <string name="recents_empty_message_multi_window">Відкрийте додаток з робочого столу</string>
+     <string name="recents_exit_multi_window_mode">Вихід</string>
+     <string name="recents_incompatible_app_message">Додаток не підтримує поділ екрану</string>
+     <string name="recents_launch_disabled_message">%s відключено в безпечному режимі</string>
+     <string name="recents_lock_to_app_button_label">Закріплення екрана</string>
+     <string name="recents_multi_window_mode">Режим поділу екрана</string>
+     <string name="recents_multistack_add_stack_dialog_split_custom">Розділити</string>
+     <string name="recents_multistack_add_stack_dialog_split_horizontal">Розділити по горизонталі</string>
+     <string name="recents_multistack_add_stack_dialog_split_vertical">Розділити по вертикалі</string>
+     <string name="recents_search_bar_label">Пошук</string>
+     <string name="recents_stack_action_button_label">Очистити все</string>
+     <string name="show_demo_mode">Показати демонстраційний режим</string>
+     <string name="status_bar_accessibility_dismiss_recents">Відхилити недавні додатки</string>
+     <string name="status_bar_recent_inspect_item_title">Про додаток</string>
+     <string name="status_bar_recent_remove_item_title">Прибрати зі списку</string>
+     <string name="un_important_notifications">Не важливі сповіщення</string>
+     <string name="unimportant_desc">Всі не важливі сповіщення будуть відображатися в окремій папці</string>
+     <string name="unimportant_title">Не важливе</string>
+	 
 	 <string name="loading_desktop">Зачекайте…</string>
 	 <string name="recent_task_cleaning">Очищення. Зачекайте...</string>
 	 <string name="accessibility_recent_task_enter">Вхід в меню недавніх додатків. завдань: %d.</string>

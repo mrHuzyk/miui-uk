@@ -7,6 +7,14 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="install_game_count_title">
+        <item quantity="other">Додано ігор %d</item>
+        <item quantity="one">Додано ігор %d</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+        <item quantity="other">Не додано ігор %d</item>
+        <item quantity="one">Не додано ігор %d</item>
+     </plurals>
 	 <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d дод. працюють неправильно та витрачають батарею</item>
         <item quantity="one">"%d дод. працює неправильно та витрачає батарею</item>

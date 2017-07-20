@@ -12,4 +12,24 @@
        <item quantity="other">Ясно</item>
        <item quantity="one">Сонячно</item>
     </plurals>
+	<plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Відкрита панель задач. Доступно додатків: %d.</item>
+        <item quantity="one">Відкрита панель задач. Доступно додатків: 1.</item>
+     </plurals>
+     <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Відкрита панель задач. Доступно додатків: %d. Проведіть пальцем вгору, щоб видалити. Проведіть пальцем вниз, щоб заблокувати.</item>
+        <item quantity="one">Відкрита панель задач. Доступно додатків: 1. Проведіть пальцем вгору, щоб видалити. Проведіть пальцем вниз, щоб заблокувати.</item>
+     </plurals>
+     <plurals name="block_record_notification_more_text">
+        <item quantity="other">Приховування сповіщень з %1$s і %2$d додатків</item>
+        <item quantity="one">Приховування сповіщень з %1$s і 1 додатку</item>
+     </plurals>
+     <plurals name="fold_tips_title">
+        <item quantity="other">%d сповіщень згорнуто</item>
+        <item quantity="one">%d сповіщеня згорнуто</item>
+     </plurals>
+     <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d перемик. вище активні</item>
+        <item quantity="one">1 перемикач вище активний</item>
+     </plurals>
 </resources>

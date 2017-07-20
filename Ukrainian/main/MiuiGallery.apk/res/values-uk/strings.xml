@@ -2,6 +2,20 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="album_name_locations">Місця</string>
+     <string name="album_name_people">Люди</string>
+     <string name="album_name_tags">Теги</string>
+     <string name="assistant_page_label">Помічник</string>
+     <string name="empty_title_no_photos">Немає фото чи відео</string>
+     <string name="home_page_empty_action">Зробити знімок</string>
+     <string name="people_album_empty_title">Фотографії можуть бути відсортовані по людях на них</string>
+     <string name="places_album_empty_title">Фотографії можуть бути відсортовані за місцем розташування</string>
+     <string name="recent_album_empty_title">Немає недавніх фото</string>
+     <string name="search_net_error">Сталася помилка мережі. Підключіться до іншої мережі та спробуйте ще раз.</string>
+     <string name="search_select_network">Виберіть мережу</string>
+     <string name="setup_network_connection">Налаштування мережі</string>
+     <string name="things_album_empty_title">Фотографії можуть бути відсортовані по об'єктах на них</string>
+	 
 	 <string name="backup_cta_not_allow_desc">Дозвольте для автоматичної синхронізації</string>
      <string name="backup_cta_not_allow_title">Немає доступу до мережі</string>
      <string name="cloud_storage_extend">Додаткове місце в хмарі</string>

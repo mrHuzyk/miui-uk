@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">ОК</string>
+	 <string name="document_recognize_null_tip">Результат документа порожній</string>
+     <string name="error_get_image">Не вдалося отримати зображення</string>
+	 
 	 <string name="app_description_content">Сканер може сканувати QR-коди, візитні картки та документи. Перед видаленням додатки переконайтеся, що Ви можете обійтися без цих функцій.</string>
      <string name="app_description_title">Про додаток</string>
 	 <string name="back">Назад</string>

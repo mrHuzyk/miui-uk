@@ -8,6 +8,14 @@
         <item quantity="few">Видалити %1$d файли</item>
         <item quantity="many">Видалити %1$d файлів</item>
      </plurals>
+	 <plurals name="delete_files">
+        <item quantity="other">Видалити файли? %1$d</item>
+        <item quantity="one">Видалити цей файл?</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Видалити папки? %1$d</item>
+        <item quantity="one">Видалити цю папку?</item>
+     </plurals>
      <plurals name="delete_folders_confirm">
         <item quantity="other">" та %1$d папок?"</item>
         <item quantity="zero">" та %1$d папок?"</item>
