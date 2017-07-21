@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">SD картка заповнена</string>
+    <string name="dialog_insufficient_space_on_external">SD-картка заповнена</string>
+	<string name="dialog_button_cancel">Відміна</string>
+     <string name="dialog_button_ok">OK</string>
+     <string name="dialog_content_limit0">Обмеження завантаження</string>
+     <string name="dialog_content_limit_max">Безлімітний</string>
+     <string name="dialog_data_limit_button1">Очікувати WI-Fi</string>
+     <string name="dialog_data_limit_button2">Завантажити</string>
+     <string name="dialog_data_limit_msg1">%s мобільного трафіку буде використовуватися для завантаження цього файлу. Продовжити?</string>
+     <string name="dialog_data_limit_msg3">Зміна меж</string>
+     <string name="dialog_data_limit_title">Попередження трафіку</string>
+     <string name="dialog_tip_limit">Попереджати при завантаженні файлу більш %s</string>
+     <string name="dialog_tip_limit0">Попереджати кожен раз</string>
+     <string name="dialog_tip_no_limit">Не попереджати</string>
+	 
     <string name="dialog_insufficient_space_on_cache">"Не вистачає пам'яті на внутрішній пам'яті"</string>
     <string name="auto_restart_under_wifi">Автоматично завантажити файл через Wi-Fi</string>
     <string name="task_already_exist">Завантаження вже існує</string>

@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Про застосунок</string>
+	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
+     <string name="vp_aggree">Згоден</string>
+	 
 	 <string name="vp_device_list_seaching">&lt;Немає пристрою для трансляції></string>
 	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>
 	 <string name="permission_content">Ви не можете використовувати відео до тих пір, поки не надасте дозволи</string>

@@ -4,6 +4,7 @@
      <string name="action_firewall_setting">Чорний список</string>
 	 <string name="sqlite_disk_full">База даних або диск заповнені</string>
      <string name="sqlite_low_memory">"Мало пам'яті"</string>
+	 <string name="message_queued_second_space">Неможливо відправити повідомлення. Перевірте налаштування мережі.</string>
 	 
 	 <string name="pref_show_photo_word_summary">Автоматично призначати зображення контактам без них</string>
      <string name="title_show_photo_word">Призначати фото</string>
