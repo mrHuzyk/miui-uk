@@ -14,6 +14,18 @@
         <item>Заблоковано</item>
         <item>"Тимчасово уникати поганого з'єднання"</item>
     </string-array>
+	<string-array name="select_logpersist_summaries">
+        <item>Вимкнено</item>
+        <item>Всі буфери журналів</item>
+        <item>Все, крім буферів журналу радіо</item>
+        <item>Тільки буфер журналу ядра</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Вимк.</item>
+        <item>Все</item>
+        <item>Все, крім радіо</item>
+        <item>Тільки ядро</item>
+     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Сканування…</item>

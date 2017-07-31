@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ims_vt_call_quality_medium">Середнє</string>
+     <string name="ims_vt_call_static_image_error">Непідтримуваний формат зображення. Виберіть інше.</string>
+     <string name="ims_vt_call_static_image_okay">Статичне зображення вибрано</string>
+     <string name="ims_vt_call_static_image_text">Виберіть статичне зображення</string>
+</resources>

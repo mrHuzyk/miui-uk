@@ -5,6 +5,15 @@
      <string name="close">Закрити</string>
      <string name="incall_error_power_off">Вимкніть режим польоту, щоб зробити дзвінок</string>
      <string name="incall_error_supp_service_unknown">Ця послуга не підтримується</string>
+	 <string name="change_default_dialer_dialog_affirmative">Встановити за замовчуванням</string>
+     <string name="change_default_dialer_dialog_negative">Відміна</string>
+     <string name="change_default_dialer_warning_message">%s буде здійснювати та контролювати всі виклики. Тільки додатки, яким Ви довіряєте, повинні бути встановлені в якості телефонів.</string>
+     <string name="content_description_menu_button">Меню</string>
+     <string name="dev_logpersist_clear_warning_message">Коли ми більше не відстежуємо постійний реєстратор, нам необхідно стерти дані реєстратора на пристрої</string>
+     <string name="dev_logpersist_clear_warning_title">Очистити реєстратор постійного зберігання?</string>
+     <string name="select_logpersist_dialog_title">Виберіть буфери журналів для постійного зберігання на пристрої</string>
+     <string name="select_logpersist_title">Зберігати дані журналів</string>
+     <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string>
 	 
 	<string name="notification_AllMissedCallTitle">Всі пропущені дзвінки</string>
 	<string name="default_connection_manager_component" />

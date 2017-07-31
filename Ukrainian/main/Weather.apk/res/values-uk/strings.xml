@@ -15,6 +15,10 @@
      <string name="update_night_setting_title_text">Автоматичне оновлення</string>
      <string name="update_setting_title_text">Налаштування оновлення</string>
      <string name="your_location">Ваше місце розташування</string>
+     <string name="content_desc_activity_main_add_city">Додати місто</string>
+     <string name="content_desc_activity_main_add_city_manage">Управління містом</string>
+     <string name="content_desc_activity_main_more_settings">Інші налаштування</string>
+     <string name="forecast_vedio_visible_setting_string">Відео погода</string>
 	 
 	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
      <string name="xiaomi_weather_description_title">Про погоду</string>

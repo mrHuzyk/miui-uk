@@ -4,6 +4,18 @@
         <item>Голос</item>
         <item>Відео</item>
     </string-array>
+	<string-array name="select_logpersist_summaries">
+        <item>Вимкнено</item>
+        <item>Всі буфери журналів</item>
+        <item>Все, крім буферів журналу радіо</item>
+        <item>Тільки буфер журналу ядра</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Вимк.</item>
+        <item>Все</item>
+        <item>Все, крім радіо</item>
+        <item>Тільки ядро</item>
+     </string-array>
 	<string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Тільки GSM</item>
         <item>Тільки WCDMA</item>
@@ -133,15 +145,6 @@
        <item>4G/3G/2G(Авто)</item>
        <item>3G/2G(Авто)</item>
     </string-array>
-    <string-array name="plmn_prefer_network_type_choices">
-       <item>2G</item>
-       <item>3G</item>
-       <item>4G</item>
-       <item>2G/3G</item>
-       <item>2G/4G</item>
-       <item>3G/4G</item>
-       <item>2G/3G/4G</item>
-    </string-array>
     <string-array name="sglte_network_mode_choices">
        <item>4G/3G/2G(Авто)</item>
        <item>3G/2G(Авто)</item>
@@ -154,10 +157,6 @@
        <item>China Mobile</item>
        <item>China Unicom</item>
        <item>China Telecom</item>
-    </string-array>
-    <string-array name="transport_types">
-       <item>UDP</item>
-       <item>TCP</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
        <item>GSM</item>

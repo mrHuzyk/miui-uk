@@ -17,6 +17,8 @@
      <string name="resource_ring_ranking_list_rank_2">2</string>
      <string name="resource_ring_ranking_list_rank_3">3</string>
      <string name="ringtone_set_success">Встановлено</string>
+	 <string name="internal_online_precust_gorgeous_black_name">Чудовий чорний</string>
+     <string name="internal_online_precust_gorgeous_color_name">Чудовий колір</string>
 	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>

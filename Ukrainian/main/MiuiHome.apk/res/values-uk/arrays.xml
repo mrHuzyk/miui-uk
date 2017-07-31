@@ -10,11 +10,9 @@
         <item>3D куб</item>
     </string-array>
 	<string-array name="editing_mode_entries"> 
-        <item>Теми</item> 
-        <item>Віджети</item> 
-        <item>Шпалери</item> 
-        <item>Ефекти</item> 
-        <item>Сітка</item> 
+        <item>Шпалери</item>
+        <item>Віджети</item>
+        <item>Налаштування</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Увімкнена</item>

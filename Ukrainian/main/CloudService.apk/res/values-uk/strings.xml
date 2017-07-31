@@ -2,11 +2,34 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
+     <string name="cloud_find_device_off">Вимк.</string>
+     <string name="cloud_find_device_on">Увмк.</string>
+     <string name="find_device_operation_failure_rpc">Не вдалося виконати операцію через RPC помилки</string>
+     <string name="find_device_pref_alert_content">"Пошук пристрою пов'язана з Вашим Mi аккаунтом. Вам необхідно встановити пароль або ввести встановлений пароль. Для активації цієї послуги може знадобитися вихідне SMS, вартість якого згідно тарифікації. При перемиканні SIM-карт повідомлення буде автоматично відправлено для повторної активації цієї функції."</string>
+     <string name="find_device_pref_alert_negtive">Ні дякую</string>
+     <string name="find_device_pref_alert_positive">OK</string>
+     <string name="find_device_pref_alert_title">"Запам'ятайте свій Mi аккаунт та пароль"</string>
+     <string name="find_device_pref_initializing">Ініціалізація…</string>
+     <string name="micloud_find_device_close_alert_content">Якщо відключити цю функцію, Ви не зможете знайти пристрій у разі його втрати</string>
+     <string name="micloud_find_device_close_alert_negtive">Вимкнути</string>
+     <string name="micloud_find_device_close_alert_positive">Залишити</string>
+     <string name="micloud_find_device_close_alert_title">Вимкнути Пошук пристрою?</string>
+     <string name="micloud_find_device_close_fail">Не вдалося відключити Пошук пристрою</string>
+     <string name="micloud_find_device_close_progress">Відключення Пошуку пристрою…</string>
+     <string name="micloud_find_device_guide_alert_content">"Пошук пристрою пов'язана з Вашим Mi аккаунтом. Вам необхідно встановити пароль або ввести встановлений пароль. Переконайтеся, що Ви завжди пам'ятайте свій Mi аккаунт і пароль."</string>
+     <string name="micloud_find_device_guide_alert_negtive">Нет, спасибо</string>
+     <string name="micloud_find_device_guide_alert_negtive_activate">Ні дякую</string>
+     <string name="micloud_find_device_guide_alert_positive">OK</string>
+     <string name="micloud_find_device_guide_alert_title">"Запам'ятайте свій Mi аккаунт та пароль"</string>
+     <string name="micloud_find_device_verify_button">Активувати повторно</string>
+     <string name="micloud_find_device_verify_close">Вимкнути Пошук пристрою</string>
+     <string name="micloud_find_device_verify_fail">Повторна активація Пошуку пристрою не вдалася</string>
+     <string name="micloud_find_device_verify_progress">Реактивація Пошуку пристрою…</string>
+	 
 	 <string name="micloud_detail_not_syncable">Не синхр.</string>
      <string name="micloud_main_error_activated_fail">Активуйте SIM-карту</string>
      <string name="micloud_main_error_network_disallowed">Переконайтеся, що є доступ до мережі</string>
-     <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
-     <string name="micloud_main_master_sync_on">Sync on</string>
      <string name="micloud_main_message_master_sync_off">Автоматична синхронізація в панелі сповіщень</string>
      <string name="micloud_main_query_again">Query</string>
      <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
@@ -16,6 +39,11 @@
      <string name="micloud_main_wait_wlan">Очікування Wi-Fi</string>
      <string name="micloud_main_wait_wlan_charge">Очікування Wi-Fi, зарядного пристрою</string>
      <string name="micloud_main_wait_wlan_charge_sleep">Очікування Wi-Fi, зарядного пристрою та виключення екрану</string>
+	 <string name="micloud_main_button_activate">Активувати</string>
+     <string name="micloud_main_button_authorize">Авторизуватися</string>
+     <string name="micloud_main_button_set_internet">Налаштувати</string>
+     <string name="micloud_main_error_permission_limit">Авторизуйте дозвіл на доступ до бази даних для Mi Cloud</string>
+     <string name="micloud_main_master_sync_on">Синхронізація увімкнена</string>
 	 
 	 <string name="micloud_buy_member_safe">Купити преміум Mi Cloud</string>
      <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронізуються тільки контакти, календар і замітки. Для синхронізації всіх даних, перейдіть в налаштування Mi Cloud.</string>

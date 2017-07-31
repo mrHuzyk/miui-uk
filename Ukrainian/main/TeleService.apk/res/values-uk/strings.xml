@@ -2,6 +2,45 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="change_pin_cancel_label">Відміна</string>
+     <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>
+     <string name="change_pin_confirm_pins_dont_match">PIN-коди не співпадають</string>
+     <string name="change_pin_continue_label">Продовжити</string>
+     <string name="change_pin_enter_new_pin_header">Встановити новий PIN-код</string>
+     <string name="change_pin_enter_new_pin_hint">PIN-код повинен бути %1$d-%2$d цифр</string>
+     <string name="change_pin_enter_old_pin_header">Підтвердіть старий PIN-код</string>
+     <string name="change_pin_enter_old_pin_hint">Введіть PIN-код голосової пошти, щоб продовжити</string>
+     <string name="change_pin_ok_label">OK</string>
+     <string name="change_pin_succeeded">PIN-код голосової пошти оновлений</string>
+     <string name="change_pin_system_error">Не вдалося встановити PIN-код</string>
+     <string name="change_pin_title">Змінити PIN голосової пошти</string>
+     <string name="content_description_menu_button">Меню</string>
+     <string name="default_preference_summary_domain_address">&lt;Не задано></string>
+     <string name="default_preference_summary_password">&lt;Не задано></string>
+     <string name="default_preference_summary_username">&lt;Не задано></string>
+     <string name="dev_logpersist_clear_warning_message">Коли ми більше не відстежуємо постійний реєстратор, нам необхідно стерти дані реєстратора на пристрої</string>
+     <string name="dev_logpersist_clear_warning_title">Очистити реєстратор постійного зберігання?</string>
+     <string name="enhanced_4g_lte_mode_title_variant">Розширений виклик</string>
+     <string name="incall_error_cannot_add_call">Виклик не може бути доданий в цей час</string>
+     <string name="incall_error_promote_wfc">Увімкніть Wi-Fi дзвінки для здійснення дзвінка</string>
+     <string name="select_logpersist_dialog_title">Виберіть буфери журналів для постійного зберігання на пристрої</string>
+     <string name="select_logpersist_title">Зберігати дані журналів</string>
+     <string name="time_next_day">" наступний день "</string>
+     <string name="vm_change_pin_error_invalid">Новий PIN-код містить неприпустимі символи</string>
+     <string name="vm_change_pin_error_mismatch">Старий PIN-код не відповідає</string>
+     <string name="vm_change_pin_error_system_error">Не вдалося змінити PIN-код</string>
+     <string name="vm_change_pin_error_too_long">Новий PIN-код занадто довгий</string>
+     <string name="vm_change_pin_error_too_short">Новий PIN-код занадто короткий</string>
+     <string name="vm_change_pin_error_too_weak">Новий PIN-код занадто слабкий. Сильний пароль не повинен мати безперервній послідовності або повторних цифр.</string>
+     <string name="vm_change_pin_new_pin">Новий PIN</string>
+     <string name="vm_change_pin_old_pin">Старий PIN</string>
+     <string name="vm_change_pin_progress_message">Будь ласка, зачекайте</string>
+     <string name="voicemail_change_pin_dialog_title">Змінити PIN</string>
+     <string name="voicemail_set_pin_dialog_title">Встановити PIN</string>
+     <string name="vvm_unsupported_message_format">Непідтримуваний тип повідомлення. наберіть %s для прослуховування.</string>
+     <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string>
+	 
+	 
 	 <string name="volte_switch_not_support_summary">VoLTE дзвінки можуть не підтримуватись SIM-картою для інтернету</string>
 	 <string name="no_checked_network">Ви не зможете підключитися до мобільної мережі і здійснювати дзвінки. Обрати іншу мережу?</string>
 	 <string name="sum_cfu_enabled_indicator_by_sim">Всі виклики на %s будуть переадресовані</string>

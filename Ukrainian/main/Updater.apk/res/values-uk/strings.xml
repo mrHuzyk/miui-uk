@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
+	<string name="VideoView_error_button">OK</string>
+     <string name="VideoView_error_text_invalid_progressive_playback">Це відео не діє для потокової передачі на цей пристрій</string>
+     <string name="VideoView_error_text_unknown">Неможливо відтворити це відео</string>
+     <string name="VideoView_error_title">Проблема з відео</string>
+     <string name="check_network">Неможливо підключитися до мережі</string>
+     <string name="log_status_locked_info">У вас немає доступу до журналу оновлень</string>
+     <string name="log_status_locked_summary">Спробуйте увійти в систему з авторизованим Xiaomi ID</string>
+     <string name="userdata_alert_content">Використання мобільного підключення для перегляду відео може спричинити додаткові грошові витрати</string>
+     <string name="userdata_alert_ok">OK</string>
+     <string name="userdata_alert_title">Попередження даних</string>
+	 
 	<string name="auto_download">Завантажувати автоматично </string>
      <string name="auto_download_sum">Завантажувати оновлення при підключенні до Wi-Fi</string>
      <string name="set_auto_download_msg">MIUI автоматично завантажить оновлення, коли пристрій підключено до Wi-Fi</string>

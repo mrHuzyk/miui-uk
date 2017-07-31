@@ -2,6 +2,25 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="BaMmi">Заборона викл.</string>
+	 <string name="app_upgrading_toast">%1$s обновлюється…</string>
+     <string name="conference_call">"Конференц зв'язок"</string>
+     <string name="demo_restarting_message">Скидання пристрою…</string>
+     <string name="demo_starting_message">Запуск демо…</string>
+     <string name="demo_user_inactivity_timeout_countdown">Ви втратите будь-які зміни, і демо почнеться знову через %1$s с.…</string>
+     <string name="demo_user_inactivity_timeout_left_button">Відміна</string>
+     <string name="demo_user_inactivity_timeout_right_button">Скинути</string>
+     <string name="demo_user_inactivity_timeout_title">Скинути пристрій?</string>
+     <string name="global_action_emergency">Екстрений</string>
+     <string name="lockscreen_storage_locked">Розблокувати всі функції і дані</string>
+     <string name="network_switch_metered">Змінено на %1$s</string>
+     <string name="network_switch_metered_detail">Пристрій використовує %1$s, якщо %2$s не має доступу в інтернет. Може потребувати додаткової оплати.</string>
+     <string name="network_switch_metered_toast">Змінено з %1$s на %2$s</string>
+     <string name="network_switch_type_name_unknown">Невідомий тип мережі</string>
+     <string name="region_picker_section_all">Все регіони</string>
+     <string name="reset_retail_demo_mode_text">Натисніть для скидання пристрою</string>
+     <string name="reset_retail_demo_mode_title">Скинути пристрій?</string>
+     <string name="vpn_lockdown_disconnected">Завжди підключаємий VPN відключений</string>
+	 
      <string name="Bammi">Заборона виклику</string>
      <string name="CLIRDefaultOffNextCallOff">Ідентиф. абонента за умовч. не обмеж. Наст. дзвінок: не обмежений</string>
      <string name="CLIRDefaultOffNextCallOn">Ідентиф. абонента за умовч. не обмеж. Наст. дзвінок: обмеж.</string>

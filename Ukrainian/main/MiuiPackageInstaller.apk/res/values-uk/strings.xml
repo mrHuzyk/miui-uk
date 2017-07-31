@@ -3,6 +3,13 @@
     <string name="caller_app">Запит: %1$s</string>
 	<string name="miui_compatibility_desc">Цей додаток не є сумісним з Вашим пристроєм або версією Android. Можлива некоректна робота.</string>
      <string name="miui_installing2">Встановлення…</string>
+	 <string name="content_description_menu_button">Меню</string>
+     <string name="dev_logpersist_clear_warning_message">Коли ми більше не відстежуємо постійний реєстратор, нам необхідно стерти дані реєстратора на пристрої</string>
+     <string name="dev_logpersist_clear_warning_title">Очистити реєстратор постійного зберігання?</string>
+     <string name="search_menu_title">Пошук</string>
+     <string name="select_logpersist_dialog_title">Виберіть буфери журналів для постійного зберігання на пристрої</string>
+     <string name="select_logpersist_title">Зберігати дані журналів</string>
+     <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string>
 	 
 	<string name="miui_message_staging_0">Встановлення додатку   </string>
      <string name="miui_message_staging_1">Встановлення додатку.  </string>

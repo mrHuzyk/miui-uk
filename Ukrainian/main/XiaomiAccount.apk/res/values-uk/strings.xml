@@ -4,6 +4,37 @@
      <string name="about_device_info">Про пристрій</string>
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>
+	 <string name="account_mibi_center">Центр Mibi</string>
+     <string name="account_token_expired_msg">"Код перевірки минув. Почніть знову або вийдіть.
+ Ваш ID акаунта: %s"</string>
+     <string name="account_token_expired_title">Помилка аутентифікації</string>
+     <string name="passport_account_set_password">Встановити пароль</string>
+     <string name="passport_account_set_password_prompt">Встановіть пароль для наступного входу.</string>
+     <string name="passport_account_set_password_title">Встановити пароль</string>
+     <string name="passport_adding_account">Додавання акаунта…</string>
+     <string name="passport_error_auth_fail">Сесія закінчилася. Увійдіть знову.</string>
+     <string name="passport_error_no_password_user">Ваш акаунт ще не має пароля. Увійдіть за допомогою SMS.</string>
+     <string name="passport_error_verify_activator_phone_message">Помилка номера телефону. Переконайтеся, що SIM-карта активована і поповнений баланс.</string>
+     <string name="passport_error_verify_activator_phone_title">Помилка перевірки телефону</string>
+     <string name="passport_getting_activator_phone">Отримання інформації про SIM-карту…</string>
+     <string name="passport_identification_expired">Код перевірки минув, почніть</string>
+     <string name="passport_login_other_account">Увійти в інший обліковий запис</string>
+     <string name="passport_password_phone_login">Введення пароля</string>
+     <string name="passport_phone_ticket_login">Введення коду телефона</string>
+     <string name="passport_querying_phone_info">Запит інформації про телефон користувача…</string>
+     <string name="passport_quick_login">Увійти</string>
+     <string name="passport_quick_register_notice"><u>"Немає Mi аккаунта? Створити."</u></string>
+     <string name="passport_recycle_login_other_account">Не мій. Увійти в інший акаунт.</string>
+     <string name="passport_reg_new_account">Створити новий акаунт</string>
+     <string name="passport_registered_phone_num">Телефон: %s</string>
+     <string name="passport_select_the_login_account">Виберіть акаунт</string>
+     <string name="passport_select_the_recycle_phone_login">Виберіть що належить Вам</string>
+     <string name="passport_select_the_register_phone">Виберіть той, який ви створюєте</string>
+     <string name="passport_send_vcode_failed">Помилка відправки</string>
+     <string name="passport_sending_vcode">Відправка коду…</string>
+     <string name="passport_set">Встановити</string>
+     <string name="passport_sms_send_success">Відправлено</string>
+     <string name="passport_verifying_activator_phone">Перевірка безпеки телефону…</string>
 	 
 	 <string name="confirm_bundled_phone_dialog_title">"Підтвердіть прив'язаний номер"</string>
      <string name="confirm_unbundled_phone_dialog_message">"Номер телефону в %1$s пов'язаний з аккаунтом %2$s. Продовжуючи, буде відв'язано акаунт %3$s. Ви впевнені?"</string>

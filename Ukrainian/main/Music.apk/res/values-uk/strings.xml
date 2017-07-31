@@ -4,6 +4,9 @@
      <string name="account">Акаунт</string>
 	 <string name="talkback_nowplaying_bar">Грати розподіл</string>
      <string name="talkback_nowplaying_circle">Грати коло</string>
+	 <string name="talkback_mode_repeat_all">Режим повторення списку</string>
+     <string name="talkback_mode_repeat_current">Повторення однієї пісні</string>
+     <string name="talkback_mode_repeat_shuffle">Режим відтворення у випадковому порядку</string>
 	 
 	 <string name="local_header_title">Локальна музика</string>
 	  <string name="vip_after_tomorrow_auto_renew_message">Ваша підписка на музику буде автоматично оновлена ​​післязавтра. Переконайтеся, що у Вас досить Mi Credits для завершення цього платежу.</string>

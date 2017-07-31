@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="select_logpersist_summaries">
+        <item>Вимкнено</item>
+        <item>Всі буфери журналів</item>
+        <item>Все, крім буферів журналу радіо</item>
+        <item>Тільки буфер журналу ядра</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Вимк.</item>
+        <item>Все</item>
+        <item>Все, крім радіо</item>
+        <item>Тільки ядро</item>
+     </string-array>
+</resources>

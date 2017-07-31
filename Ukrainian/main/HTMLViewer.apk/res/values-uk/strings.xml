@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Перегляд HTML</string>
+	<string name="pre_installed_apps">Передвстановлені додатки</string>
+	<string name="autoconnect">Автопідключення</string>
+	
 	<string name="ad_service">Сервіс реклами</string>
      <string name="settings_ad_loading">Завантаження…</string>
      <string name="settings_ad_loading_unavailable">Проблема при завантаженні</string>

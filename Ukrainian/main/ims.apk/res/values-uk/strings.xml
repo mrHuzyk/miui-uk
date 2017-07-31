@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="wifi_calling_enable_dialog_cancel">Відміна</string>
+     <string name="wifi_calling_enable_dialog_enable">Увімкнути</string>
+     <string name="wifi_calling_enable_dialog_msg">Виконуйте і приймайте дзвінки через Wi-Fi з обліковим записом Jio</string>
+     <string name="wifi_calling_enable_dialog_title">Включити Wi-Fi дзвінки?</string>
+</resources>

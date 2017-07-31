@@ -2,7 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessbility_suggestion_dropdown_opened">Увімкнено пропозиції контактів</string>
+	 <string name="english_premium_league">"Англійська прем'єр-ліга"</string>
+     <string name="global_football_final">ФІНАЛ</string>
+     <string name="global_football_no_match">На сьогоднішній день футбольних матчів не заплановано</string>
 	 <string name="agenda_month_empty_hint">Немає подій сьогодні</string>
+	 
      <string name="load_more_hint">Оновити події %1$d</string>
      <string name="no_events_hint">Немає подій</string>
      <string name="pull_to_refresh_hint">Потягніть, щоб оновити події %1$d</string>

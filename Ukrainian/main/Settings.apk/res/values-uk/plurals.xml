@@ -4,6 +4,26 @@
         <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розроблювачів</item>
         <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розроблювачів</item>
     </plurals>
+	<plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN-код може містити до %d цифр</item>
+        <item quantity="one">PIN-код може містити до %d цифри</item>
+     </plurals>
+     <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN-код повинен бути довшим %d цифр</item>
+        <item quantity="one">PIN-код повинен бути довшим %d цифри</item>
+     </plurals>
+     <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">"З'єднайте як мінімум %d точок. Повторіть."</item>
+        <item quantity="one">"З'єднайте як мінімум %d точку. Повторіть."</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Занадто багато невдалих спроб. Спробуйте ще раз  через %d секунд.</item>
+        <item quantity="one">Занадто багато невдалих спроб. Спробуйте ще раз  через %d секунд.</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Зачекайте %d секунд та спробуйте ще раз</item>
+        <item quantity="one">Зачекайте %d секунду  та спробуйте ще раз</item>
+     </plurals>
 	<plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d перемик. вище активні</item>
         <item quantity="one">1 перемикач вище активний</item>

@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="confirm_install_scanner_message">Сканер дозволяє сканувати QR коди, штрих коди та багато іншого. Для установки підключення до мережі не потрібно.</string>
+     <string name="confirm_install_scanner_title">Встановіть сканер</string>
+     <string name="install_confirmed">Встановити</string>
+	 
 	 <string name="portrait_mode_use_hint">"Портретний режим допомагає розмити фон
 з більш чітким основним об'єктом і красивішим портретом"</string>
 	 <string name="pref_camera_proximity_lock_summary">Блокувати натискання при знаходженні в кишені</string>
@@ -746,7 +750,6 @@
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Відеокамера</string>
      <string name="video_err">Неможливо відтворити відео</string>
-     <string name="video_file_name_format">"'VID'_ddmmyyyy_Hhmmss"</string>
      <string name="video_reach_size_limit">Досягнуто максимальний розмір відео</string>
      <string name="video_snapshot_hint">Щоб зробити знімок при відеозйомці, натисніть на екран перегляду</string>
      <string name="videocamera_settings_label">Налаштування відеокамери</string>

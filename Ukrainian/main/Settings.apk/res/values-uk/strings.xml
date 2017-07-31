@@ -2,6 +2,41 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="max_aspect_settings_all_app_display_loading">Зачекайте…</string>
+     <string name="restrict_max_aspect_ratio_title">Запропонуйте відключити макс. співвідношення сторін</string>
+     <string name="screen_max_aspect_ratio_desc">Чи може додаток відображатися в повноекранному режимі</string>
+     <string name="screen_max_aspect_ratio_title">Макс. співвідношення сторін</string>
+     <string name="status_bar_screen_button_force_immersive_desc">Посуньте вгору, щоб відобразити програмні кнопки</string>
+     <string name="status_bar_screen_button_key_force_immersive">Приховати програмні кнопки</string>
+     <string name="suggest_unrestrict_max_aspect_ratio_title">Запропонуйте включити макс. співвідношення сторін</string>
+     <string name="turn_off_keyguard_password_wait_dialog">Вимкнення паролю</string>
+     <string name="turn_update_keyguard_password_wait_dialog">Зміна паролю</string>
+     <string name="unrestrict_max_aspect_ratio_title">Підтримує макс. співвідношення сторін</string>
+	 
+	 <string name="application_permissions">Дозволи додатку</string>
+     <string name="bluetooth_filter_device_display">Показувати всі</string>
+     <string name="bluetooth_filter_device_filter">Тільки типовий</string>
+     <string name="close_sdcard_optimization_title">Вимкнення оптимізації SD-карти</string>
+     <string name="close_sdcard_optimization_warning_message">Пристрій перезавантажиться, щоб застосувати зміну</string>
+     <string name="miui_lab_feature_off">Вимк.</string>
+     <string name="miui_lab_feature_on">Увімк.</string>
+     <string name="miui_lab_features">Нові можливості MIUI</string>
+     <string name="miui_lab_settings">Лабораторія MIUI</string>
+     <string name="miui_lab_slogan">Вчити. Дослідити. Виявити.</string>
+     <string name="miui_lab_taplus_desc">Натисніть та утримуйте, щоб викликати ярлики</string>
+     <string name="miui_lab_taplus_title">Тригерні додатки</string>
+     <string name="open_sdcard_optimization_title">Включення оптимізації SD-карти</string>
+     <string name="open_sdcard_optimization_warning_message">Пристрій перезавантажиться, щоб застосувати зміна</string>
+     <string name="pre_installed_application">Встановлені додатки</string>
+     <string name="sdcard_optimization">Оптимізація імітованої SD-карти</string>
+     <string name="sdcard_optimization_cancel">Відміна</string>
+     <string name="sdcard_optimization_close">Вимкнути та перезавантажити</string>
+     <string name="sdcard_optimization_open">Увімкнути</string>
+     <string name="sdcard_optimization_summary">Більш швидке читання та запис даних</string>
+     <string name="search_menu_title">Пошук</string>
+     <string name="wifi_eap_info_reconnect">Помилка авторизації. Повторіть!</string>
+     <string name="wifi_info_reconnect">Помилка паролю. Повторіть спробу!</string>
+	 
 	 <string name="add_new">Додати</string>
      <string name="add_rule">Додати правило</string>
      <string name="alarm_stop">Будильник може припинити режим без звуку</string>

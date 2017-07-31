@@ -3,4 +3,7 @@
     <string name="app_name">Продуктивність</string>
     <string name="hello_world">Привіт, світе!</string>
     <string name="action_settings">Налаштування</string>
+	<string name="is_optimization_enabled">Увімкнути оптимізацію</string>
+     <string name="jank_optimize">Продуктивність</string>
+     <string name="jank_records">Jank Record</string>
 </resources>

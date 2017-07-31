@@ -2,6 +2,9 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="qr_description">Сканувати QR код</string>
+     <string name="voice_description">Голосовий пошук</string>
+	 
 	 <string name="miuichromium_error_page_description_no_connection" formatted="false">"Не вдалося підключитися до мережі через слабкого сигналу або неправильної конфігурації мережі. Перевірте %s1налаштування мережі%s2 та повторіть. "</string>
      <string name="miuichromium_error_page_problem_access_denied">Доступ до %s0 був відхилений</string>
      <string name="miuichromium_error_page_problem_cache_miss">Ця сторінка не може бути завантажена з кешу</string>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome">Ласкаво просимо!</string>
+	<string name="application_permissions">Дозволи додатку</string>
+     <string name="fail_to_generate_qr_code">Не вдалось створити QR код. Повторно зайдіть на цю сторінку.</string>
+     <string name="other_settings_taplus">Taplus</string>
+     <string name="other_settings_taplus_summary">Тривале натиснення для отримання додаткової інформації</string>
+     <string name="two_dimensional_code_scan">Сканер QR коду</string>
+     <string name="user_strayed_warning">Сторінка призначена для заводського тесту. Натисніть кнопку «Назад», щоб вийти.</string>
 	<string name="cm_terms_content">"Щоб поліпшити послуги, що надаються, обраний Вами оператор мобільного мережі може завантажувати ваші персональні дані та інформацію про цей пристрій на свої сервери за Wi-Fi або мобільноному інтернету. Ця інформація буде використовуватися тільки в статистичних цілях, щоб поліпшити якість послуг і забезпечити більш персоналізований контент. Ця інформація не буде використовуватися для ідентифікації вас особисто і не буде розкрита третім особам."</string>
      <string name="cm_terms_title">Угода з оператором мобільного мережі</string>
      <string name="enable_accessibility_dialog_message">Ви включили TalkBack, натиснувши на екран двома пальцями протягом більше 10 секунд. TalkBack забезпечує голосовий зворотний зв'язок для людей з порушеннями зору. Якщо ви випадково включили його, натисніть кнопку «Скасувати», а потім двічі торкніться екрана.</string>
@@ -25,7 +31,6 @@
     <string name="other_settings_mifg_online_content_summary">Отримувати кожного деня нові шпалери для екрану блокування</string>
 	<string name="language_picker_other_languages_title">Інші мови</string>
     <string name="language_picker_popular_languages_title">Популярні мови</string>
-	
     <string name="input_method_setting">Оберіть спосіб введення</string>
     <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
     <string name="multisim_settings_title">Виявлено 2 SIM карти</string>
@@ -43,7 +48,7 @@
     <string name="sim_dectection_next">Продовжити</string>
     <string name="shut_down">Вимкнення</string>
     <string name="sim_redetection">Перевірити SIM карту повторно</string>
-    <string name="title_congratulation">"Приготуйтесь побачити :)"</string>
+    <string name="title_congratulation">Приготуйтесь побачити </string>
     <string name="congratulation_label"> </string>
     <string name="pref_title_voice_slot">SIM для викликів</string>
     <string name="pref_title_data_slot">SIM для передачі даних</string>
@@ -84,7 +89,7 @@
     <string name="content_description_complete">Готово</string>
     <string name="content_description_start">Почати</string>
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, застосунків і сервісів.</string>
+    <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, застосунків і сервісів</string>
     <string name="other_settings_permission">Дозволи сервісів MIUI</string>
     <string name="other_settings_permission_summary">Включити системні сервіси, які необхідні для коректної роботи дозволу</string>
 </resources>

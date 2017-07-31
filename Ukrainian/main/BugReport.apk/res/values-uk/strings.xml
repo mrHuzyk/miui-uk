@@ -2,6 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Скасувати</string>
+	 <string name="mobile_data_note_dialog_cancel">Очікувати Wi-Fi</string>
+     <string name="mobile_data_note_dialog_confirm">Завантижити</string>
+     <string name="mobile_data_note_dialog_content">Використання мобільного трафіку для завантаження журналів може привести до додаткових витрат</string>
+     <string name="mobile_data_note_dialog_content_with_file_size">Для завантаження журналів буде потрібно %s МБ мобільного трафіку</string>
+     <string name="mobile_data_note_dialog_title">Попередження трафіку</string>
+	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
      <string name="toast_third_packagename_required">Введіть назву додатку</string>
