@@ -720,12 +720,12 @@
 	 <string name="start_tc_button">Калібрування</string>
      <string name="add_game_notification_summary">Натисніть для запуску та прискорення швидкості</string>
      <string name="app_maanger_app_uninstalled_toast">Цей додаток видалено</string>
-     <string name="app_manager_app_lock">Блокування додатків</string>
+     <string name="app_manager_app_lock">Блокування</string>
      <string name="app_manager_app_version_name">Версія:</string>
      <string name="app_manager_apps_generatioin">Оновлення</string>
      <string name="app_manager_apps_generation_summary">Оновлення для використання останніх функцій</string>
      <string name="app_manager_appupdate_remind">Повідомляти про оновлення</string>
-     <string name="app_manager_bipartition">Клоновані додатки</string>
+     <string name="app_manager_bipartition">Клонування</string>
      <string name="app_manager_card_permission_title">Дозволи</string>
      <string name="app_manager_default_close_summary">Немає налаштувань за замовчуванням</string>
      <string name="app_manager_default_open">Відкрити за замовчуванням</string>
