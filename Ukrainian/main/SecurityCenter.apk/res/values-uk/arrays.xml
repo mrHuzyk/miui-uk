@@ -8,6 +8,12 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="title_app_info">
+        <item>Джерело встановлення</item>
+        <item>Час встановлення</item>
+        <item>Післ. оновлення джерела</item>
+        <item>Час післ. оновлення</item>
+     </string-array>
 	 <string-array name="sort_title">
         <item>Статус</item>
         <item>"Ім'я додатку"</item>

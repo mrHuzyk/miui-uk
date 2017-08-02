@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="answer_question_charge_diff_about_wifi_call">Основною перевагою Wi-Fi дзвінків є збільшення охоплення в місцях з Wi-Fi. Виклики та повідомлення, зроблені через Wi-Fi, будуть оплачуватися як стільникові виклики для певних планів.</string>
+     <string name="answer_question_how_enable_wifi">"Щоб включити Wi-Fi, використовуйте розділ управління бездротовим зв'язком в меню налаштувань Android."</string>
+     <string name="answer_question_how_enable_wifi_calling">За замовчуванням Ваш телефон готовий для Wi-Fi дзвінків, як тільки Ви включите Wi-Fi.Управляти можна за допомогою Налаштування Wi-Fi дзвінків.</string>
+     <string name="answer_question_if_use_Wifi">Коли Ваш телефон підключиться до Wi-Fi, він автоматично спробує зареєструватися в мережі MetroPCS для Wi-Fi дзвінків. Як тільки реєстрація буде завершена, Ви побачите іконку в рядку стану. Ви також побачите іконку Wi-Fi дзвінка в діалер (замість звичайного значка виклику), і коротку інформацію у верхній частині екрану.</string>
+     <string name="answer_question_what_happen_without_wifi_coverage">Коли трубка втрачає покриття Wi-Fi, будь-які активні виклики будуть падати і телефон буде підключатися до мережі, якщо це можливо. Ви отримаєте підказку, якщо ваш дзвінок падає через втрату покриття Wi-Fi.</string>
+     <string name="answer_question_what_is_wifi_calling">Wi-Fi дзвінки дозволяють здійснювати і приймати голосові дзвінки та SMS/MMS повідомлення через Wi-Fi, коли телефон підключений до Wi-Fi мережі і зареєстрований в мережі MetroPCS.</string>
+     <string name="question_charge_diff_about_wifi_call">Чи буде стягуватися інша тарифікація за дзвінки або SMS/MMS через Wi-Fi дзвінок?</string>
+     <string name="question_how_enable_wifi">Як увімкнути Wi-Fi?</string>
+     <string name="question_how_enable_wifi_calling">Як увімкнути Wi-Fi дзвінок?</string>
+     <string name="question_if_use_Wifi">Коли можна користуватися Wi-Fi дзвінками?</string>
+     <string name="question_what_happen_without_wifi_coverage">Що станеться при втраті Wi-Fi мережі?</string>
+     <string name="question_what_is_wifi_calling">Що таке Wi-Fi дзвінок?</string>
+     <string name="skip_label">Пропустити</string>
+     <string name="wifi_call_preferrd_setting_title">Уподобання Wi-Fi дзвінків</string>
+     <string name="wifi_call_setting">Налаштування Wi-Fi дзвінків</string>
+     <string name="wifi_call_setting_title">Wi-Fi дзвінки</string>
+     <string name="wifi_calling_connection_pref_title">Налаштування підключення</string>
+     <string name="wifi_calling_help_wizard_title">Дізнайтеся більше про Wi-Fi дзвінки</string>
+     <string name="wifi_calling_settings_menu_help">Допомога</string>
+     <string name="wifi_calling_wizard_content_step_1">"Це рекомендації по Wi-Fi дзвінкам.
+ \"Пропустити\" пропустити рекомендації в цей раз.
+ \"Дізнатись більше\" покаже більше інформації."</string>
+     <string name="wifi_calling_wizard_content_step_2">"Wi-Fi дзвінки дозволяють попрощатися з поганим покриттям. За допомогою Wi-Fi дзвінків Ви можете відправляти та приймати виклики і повідомлення через Wi-Fi мережу, використовуючи існуючий план T-Mobile. 
+ Для Wi-Fi дзвінка не потрібно спеціального налаштування. У меню «Налаштування» перейдіть в «Бездротові мережі» і встановіть з'єднання з Wi-Fi мережею, щоб почати роботу."</string>
+     <string name="wifi_calling_wizard_content_step_3">Як тільки Ви побачите іконку Wi-Fi дзвінка в рядку стану, Ваш телефон готовий до Wi-Fi дзвінків</string>
+     <string name="wifi_calling_wizard_content_step_4">Щоб залишатися в Wi-Fi дзвінку, залишайтеся в діапазоні Wi-Fi мережі. Ви отримаєте звуковий сигнал та повідомлення, якщо дзвінок перерветься через втрату мережі.</string>
+     <string name="wifi_calling_wizard_learn_more">Дізнатися більше</string>
+     <string name="wifi_calling_wizard_title">Рекомендації по Wi-Fi дзвінкам</string>
+     <string name="wifi_tether_checkbox_text">Точка доступу Wi-Fi</string>
+</resources>

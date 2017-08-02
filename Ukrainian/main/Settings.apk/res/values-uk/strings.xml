@@ -12,6 +12,9 @@
      <string name="turn_off_keyguard_password_wait_dialog">Вимкнення паролю</string>
      <string name="turn_update_keyguard_password_wait_dialog">Зміна паролю</string>
      <string name="unrestrict_max_aspect_ratio_title">Підтримує макс. співвідношення сторін</string>
+	 <string name="miui_lab_feature_applied">Схвалено</string>
+     <string name="miui_lab_gallery_search_desc">Покращений пошук зображень</string>
+     <string name="miui_lab_gallery_search_title">Пошук фото в галереї</string>
 	 
 	 <string name="application_permissions">Дозволи додатку</string>
      <string name="bluetooth_filter_device_display">Показувати всі</string>

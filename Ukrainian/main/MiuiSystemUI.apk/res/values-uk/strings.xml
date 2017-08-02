@@ -39,6 +39,7 @@
      <string name="un_important_notifications">Не важливі сповіщення</string>
      <string name="unimportant_desc">Всі не важливі сповіщення будуть відображатися в окремій папці</string>
      <string name="unimportant_title">Не важливе</string>
+	 <string name="screenshot_insert_failed">Не вдалося завантажити скріншот. Зробіть новий або перегляньте зображення в альбомі.</string>
 	 
 	 <string name="loading_desktop">Зачекайте…</string>
 	 <string name="recent_task_cleaning">Очищення. Зачекайте...</string>

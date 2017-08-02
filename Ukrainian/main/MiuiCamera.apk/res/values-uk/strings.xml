@@ -5,6 +5,8 @@
 	 <string name="confirm_install_scanner_message">Сканер дозволяє сканувати QR коди, штрих коди та багато іншого. Для установки підключення до мережі не потрібно.</string>
      <string name="confirm_install_scanner_title">Встановіть сканер</string>
      <string name="install_confirmed">Встановити</string>
+	 <string name="screen_on_proximity_sensor_hint">Для відключення одночасно натисніть кнопки Гучність + і Назад</string>
+     <string name="screen_on_proximity_sensor_summary">Не закривайте верхню область</string>
 	 
 	 <string name="portrait_mode_use_hint">"Портретний режим допомагає розмити фон
 з більш чітким основним об'єктом і красивішим портретом"</string>

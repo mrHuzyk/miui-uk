@@ -4,7 +4,14 @@
      <string name="SMS_and_MMS">SMS і MMS</string>
 	 <string name="app_manager_pref_ads">Рекомендації</string>
 	 <string name="install">Встановити</string>
-	  
+	 <string name="app_manager_app_ifno_version">Версія додатку</string>
+     <string name="app_manager_app_info_label">Про додаток</string>
+     <string name="app_manager_app_info_name">"Ім'я додатку"</string>
+     <string name="app_manager_app_info_pkg">Назва APK</string>
+     <string name="app_manager_copy_pkg_to_clip">Скопійовано в буфер обміну</string>
+     <string name="app_manager_hide_system_server">Приховати системні служби</string>
+     <string name="app_manager_show_all_apps">Показати всі додатки</string>
+	 
 	 <string name="add_done">Успішно додано</string>
      <string name="add_game">Додати гру</string>
      <string name="add_whitelist">Додати в виключення</string>

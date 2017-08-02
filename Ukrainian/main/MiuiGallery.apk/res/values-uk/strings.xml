@@ -15,6 +15,7 @@
      <string name="search_select_network">Виберіть мережу</string>
      <string name="setup_network_connection">Налаштування мережі</string>
      <string name="things_album_empty_title">Фотографії можуть бути відсортовані по об'єктах на них</string>
+	 <string name="search_syncing">Синхронізація даних. Поверніться пізніше.</string>
 	 
 	 <string name="backup_cta_not_allow_desc">Дозвольте для автоматичної синхронізації</string>
      <string name="backup_cta_not_allow_title">Немає доступу до мережі</string>
