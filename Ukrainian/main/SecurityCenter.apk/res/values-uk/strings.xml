@@ -101,9 +101,9 @@
 	 
 	 <string name="activate_fingerprint_dialog_message">Цей відбиток не активний. Введіть пароль, щоб активувати цей відбиток.</string>
      <string name="activate_fingerprint_dialog_title">Введіть пароль</string>
-     <string name="app_manager_app_power">"Використання батареї: "</string>
+     <string name="app_manager_app_power">"Викор. батареї: "</string>
      <string name="app_manager_app_storage">"Пам'ять: "</string>
-     <string name="app_manager_app_traffic">"Використання трафіку: "</string>
+     <string name="app_manager_app_traffic">"Викор. трафіку: "</string>
      <string name="app_manager_app_update">Оновлення</string>
      <string name="app_manager_disable">Не дозволяти</string>
      <string name="app_manager_factory_reset">Видалення оновлень</string>
