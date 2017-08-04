@@ -26,6 +26,7 @@
         <item>Щоденно</item>
         <item>Кожні 3 дні</item>
         <item>Кожні 7 днів</item>
+		<item>Кожні 15 днів</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 Мб</item>
