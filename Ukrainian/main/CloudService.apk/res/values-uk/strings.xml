@@ -294,7 +294,7 @@
      <string name="micloud_dspt_provision">Використовуйте Mi Cloud для синхронізації даних, пошуку пристрою та інших сервісів</string>
      <string name="micloud_find_device_finish">Завершено</string>
      <string name="micloud_find_device_guide_button">Увімкніть пошук пристрою</string>
-     <string name="micloud_find_device_guide_content">При зміні SIM-карти автоматично буде надіслане SMS активації</string>
+	 <string name="micloud_find_device_guide_content">Для активації цієї послуги може бути надіслано SMS. Оплата згідно з тарифом. При зміні SIM-карти повторна активація буде виконана автоматично.</string>
      <string name="micloud_find_device_guide_fail_reopen">Увімкніть пошук пристрою</string>
      <string name="micloud_find_device_guide_fail_sub_net">Інтернет недоступений</string>
      <string name="micloud_find_device_guide_fail_sub_timeout">Час очікування сплинув</string>
@@ -309,7 +309,7 @@
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Увімкніть пошук пристрою для захисту даних WeChat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Увімкніть пошук пристрою для захисту даних Alipay</string>
      <string name="micloud_find_device_guide_progress">Увімкнення пошуку пристрою…</string>
-     <string name="micloud_find_device_guide_title">Перейдіть до %s для пошуку, блокування та форматування пристрою</string>
+     <string name="micloud_find_device_guide_title">"Зайдіть на &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> для пошуку, блокування або перезавантаження пристрою. Це може допомогти Вам знайти пристрій у разі його втрати.&lt;br />Якщо Ви втратили пристрій, Ви можете звернутися в службу безпеки часто використовуваних додатків (Alipay, WeChat, QQ), щоб захистити свої акаунти на &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
      <string name="micloud_find_device_open_fail">Помилка увімкнення пошуку пристрою</string>
      <string name="micloud_find_device_opened">Пошук пристрою увімкнено</string>
      <string name="micloud_find_device_opened_content">Знайдіть свій пристрій через %s</string>
