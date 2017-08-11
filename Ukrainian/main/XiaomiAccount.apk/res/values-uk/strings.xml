@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Про пристрій</string>
+	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
+     <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>
+     <string name="find_device_prompt_message">Поточний пристрій заблоковано. Повідомлення: %1$s.</string>
+	 
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>
 	 <string name="account_mibi_center">Центр Mibi</string>
@@ -35,7 +39,6 @@
      <string name="passport_set">Встановити</string>
      <string name="passport_sms_send_success">Відправлено</string>
      <string name="passport_verifying_activator_phone">Перевірка безпеки телефону…</string>
-	 
 	 <string name="confirm_bundled_phone_dialog_title">"Підтвердіть прив'язаний номер"</string>
      <string name="confirm_unbundled_phone_dialog_message">"Номер телефону в %1$s пов'язаний з аккаунтом %2$s. Продовжуючи, буде відв'язано акаунт %3$s. Ви впевнені?"</string>
      <string name="get_phone_bind_exceed_limit">"Кількість номерів, прив'язаних до числа акаунтів, досягло максимуму (3). Більше не можна пов'язувати новий акаунт."</string>

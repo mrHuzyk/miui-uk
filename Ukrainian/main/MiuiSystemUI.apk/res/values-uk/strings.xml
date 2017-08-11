@@ -2,14 +2,16 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_airplane_mode">Режим польоту</string>
+	 <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard не підтримує багатовіконний режим. Вихід.</string>
+	 
 	 <string name="accessibility_desc_recent_apps">Огляд</string>
      <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>
      <string name="accessibility_recents_item_dismissed">%s відхилено</string>
-     <string name="accessibility_recents_item_launched">Запуск %s.</string>
+     <string name="accessibility_recents_item_launched">Запуск %s</string>
      <string name="accessibility_recents_item_open_app_info">Відкрити %s інформацію про додаток</string>
      <string name="accessibility_recents_item_will_be_dismissed">Відхилено %s</string>
      <string name="as_important">Важливе</string>
-     <string name="as_unimportant">Не важливе</string>
+     <string name="as_unimportant">Неважливе</string>
      <string name="cancel">Скасування</string>
      <string name="click_to_return_multi_window">Натисніть, щоб повернутися в мультивіконний режим</string>
      <string name="demo_mode">Демо режим</string>
@@ -36,9 +38,9 @@
      <string name="status_bar_accessibility_dismiss_recents">Відхилити недавні додатки</string>
      <string name="status_bar_recent_inspect_item_title">Про додаток</string>
      <string name="status_bar_recent_remove_item_title">Прибрати зі списку</string>
-     <string name="un_important_notifications">Не важливі сповіщення</string>
-     <string name="unimportant_desc">Всі не важливі сповіщення будуть відображатися в окремій папці</string>
-     <string name="unimportant_title">Не важливе</string>
+     <string name="un_important_notifications">Неважливі сповіщення</string>
+     <string name="unimportant_desc">Всі неважливі сповіщення будуть відображатися в окремій папці</string>
+     <string name="unimportant_title">Неважливе</string>
 	 <string name="screenshot_insert_failed">Не вдалося завантажити скріншот. Зробіть новий або перегляньте зображення в альбомі.</string>
 	 
 	 <string name="loading_desktop">Зачекайте…</string>

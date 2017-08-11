@@ -3,7 +3,14 @@
 <resources>
      <string name="account_detail">"Mi акаунт: 
 %1$s"</string>
-<string name="mibi_applock_dialog_cancel">Не зараз</string>
+     <string name="mibi_applock_dialog_cancel">Не зараз</string>
+	 <string name="mibi_applock_config">Ви не можете тимчасово заблокувати додаток в режимі поділу екрана</string>
+     <string name="mibi_click_retry">%1$s, Натисніть, щоб повторити</string>
+     <string name="mibi_header_network_error">Не вдалося підключитися до мережі</string>
+     <string name="mibi_order_pay_uncertain_button">OK</string>
+     <string name="mibi_order_pay_uncertain_detail">Якщо платіж не вдається, зателефонуйте %1$s</string>
+     <string name="mibi_order_pay_uncertain_summary">Підтвердження платежу</string>
+	 
      <string name="mibi_applock_dialog_content">Через оновлення системи термін дії поточного шаблону закінчився. Встановіть шаблон блокування.</string>
      <string name="mibi_applock_dialog_ok">Налаштувати</string>
      <string name="mibi_applock_dialog_title">Встановіть новий шаблон блокування</string>
@@ -21,7 +28,6 @@
      <string name="mibi_signing_success_sub">Поновлювані платежі будуть здійснюватися з використанням %1$s</string>
      <string name="mibi_signing_success_title">Успішно обрано</string>
      <string name="mibi_web_sso_login_fail">Вам потрібно знову увійти в систему</string>
-	 
      <string name="app_name">Mi Сredits</string>
      <string name="balance_payment">Mi Сredits: %1$s</string>
      <string name="balance_title">Баланс</string>

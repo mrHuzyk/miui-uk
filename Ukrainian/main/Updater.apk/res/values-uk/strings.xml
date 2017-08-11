@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
+	<string name="home_delay_cancel">Відміна</string>
+     <string name="home_delay_msg">Оновлення будуть встановлені між 2:00 та 5:00 год., якщо батарея не менше %s</string>
+     <string name="home_delay_ok">OK</string>
+     <string name="home_delay_title">Оновлення сьогодні</string>
+     <string name="home_dialog_more_button">Детальніше ></string>
+     <string name="home_dialog_msg">Оновлення готові до встановлення. Натисніть \"Перезавантажити\", щоб завершити.</string>
+     <string name="home_dialog_negative_button">Не зараз</string>
+     <string name="home_dialog_positive_button">Перезавантажити</string>
+     <string name="home_dialog_title">MIUI 9</string>
+     <string name="post_sina">Пост в Sina Weibo</string>
+	 
 	<string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Це відео не діє для потокової передачі на цей пристрій</string>
      <string name="VideoView_error_text_unknown">Неможливо відтворити це відео</string>
@@ -11,7 +22,6 @@
      <string name="userdata_alert_content">Використання мобільного підключення для перегляду відео може спричинити додаткові грошові витрати</string>
      <string name="userdata_alert_ok">OK</string>
      <string name="userdata_alert_title">Попередження даних</string>
-	 
 	<string name="auto_download">Завантажувати автоматично </string>
      <string name="auto_download_sum">Завантажувати оновлення при підключенні до Wi-Fi</string>
      <string name="set_auto_download_msg">MIUI автоматично завантажить оновлення, коли пристрій підключено до Wi-Fi</string>

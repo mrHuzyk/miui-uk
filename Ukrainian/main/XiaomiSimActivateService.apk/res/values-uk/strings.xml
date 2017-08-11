@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Обліковий запис Mi</string>
+	<string name="activate_feature_mi_roaming">Mi Roaming</string>
+	
 	<string name="activate_history_canceled_overview">Активацію SIM-карти було скасовано. Активацію запущено \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Активацію SIM-карти %2$d було скасовано. Активацію  запущено \"%1$s\".</string>
      <string name="activate_history_multisim_success_overview">SIM-карта %2$d активована. Активацію запущено \"%1$s\".</string>

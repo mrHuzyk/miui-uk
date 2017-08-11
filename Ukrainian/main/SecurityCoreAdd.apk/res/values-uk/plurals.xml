@@ -6,6 +6,10 @@
         <item quantity="few">%d елементи</item>
         <item quantity="many">%d елементів</item>
     </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Пошук додатків: %d</item>
+        <item quantity="one">Пошук додатків: %d</item>
+     </plurals>
     <plurals name="first_space_notification_format">
         <item quantity="other">%d сповіщень першого користувача</item>
         <item quantity="one">%d сповіщення першого користувача</item>

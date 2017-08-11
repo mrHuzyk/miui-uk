@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Жовті сторінки</string>
+	<string name="data_error_w">Виникла помилка</string>
+	
 	<string name="express_install_cainiao_description">%s вимагає встановлення Cainiao. Встановити зараз?</string>
      <string name="express_install_delivery_service">Служби доставки</string>
      <string name="express_install_open_locker">Один крок для відкриття шафки</string>

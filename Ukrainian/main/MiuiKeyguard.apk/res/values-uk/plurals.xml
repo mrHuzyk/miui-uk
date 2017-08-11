@@ -6,6 +6,10 @@
         <item quantity="few">%d нових сповіщень</item>
         <item quantity="many">%d нових сповіщень</item>
     </plurals>
+	<plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Повторіть через %d с.</item>
+        <item quantity="one">Повторіть через %d с.</item>
+     </plurals>
 	<plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Невірний PIN-код. Залишилося спроб: %d.</item>
         <item quantity="one">Невірний PIN-код. Залишилося спроб: %d.</item>

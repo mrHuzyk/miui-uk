@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="hybrid_check_network">Налаштування мережі</string>
+     <string name="hybrid_data_error">Виникла помилка</string>
+     <string name="hybrid_locating_fail">Не вдалося знайти Ваше місце розташування</string>
+     <string name="hybrid_network_access_denied">Доступ до мережі заборонений</string>
+     <string name="hybrid_network_unavaliable">Неможливо підключитися до мережі</string>
+     <string name="hybrid_pull_to_refresh_pull_label">Потягніть, щоб оновити…</string>
+     <string name="hybrid_pull_to_refresh_refreshing_label">Зачекайте…</string>
+     <string name="hybrid_pull_to_refresh_release_label">Відпустіть, щоб оновити…</string>
+     <string name="hybrid_service_unavailiable">Сервіс недоступний</string>
+     <string name="hybrid_try_again">Повторіть</string>
+     <string name="packages_select_sim_cards_title">Виберіть SIM-карту</string>
+     <string name="sim1">SIM 1</string>
+     <string name="sim2">SIM 2</string>
+</resources>

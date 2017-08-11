@@ -4,6 +4,13 @@
         <item quantity="other">Непрочитаних: %1$d</item>
 		<item quantity="one">Непрочитаних: %1$d</item>
     </plurals>
+	<plurals name="confirm_delete_draft">
+        <item quantity="other">Видалити чернетки? (%1$d)</item>
+     </plurals>
+     <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d люд.</item>
+        <item quantity="one">… %1$d люд.</item>
+     </plurals>
 	<plurals name="day">
         <item quantity="other">%d дн.</item>
         <item quantity="one">%d дн.</item>

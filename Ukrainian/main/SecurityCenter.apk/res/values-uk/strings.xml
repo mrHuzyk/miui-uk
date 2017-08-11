@@ -2,6 +2,45 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
+     <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>
+     <string name="applock_bind_account_title">Скидання паролю</string>
+     <string name="background_restrict_app_dialog_message">Обмеження фонового трафіку для цього додатку може призвести до ненормальною роботі додатка, отримання повідомлень, завантаження вмісту тощо Продовжити?</string>
+     <string name="exception_dialog_message">Неможливо обчислити статистику використання через помилку. Без точної статистики Безпека не зможе контролювати використання даних. Перезавантажити та відновити цю функцію?</string>
+     <string name="exception_dialog_ok_button">Перезавантаження</string>
+     <string name="exception_notify_message">Неможливо обчислити статистику даних через помилки. Перезавантажтеся, щоб відновити.</string>
+     <string name="exception_titile">Помилка</string>
+     <string name="forget_password_button_text_normal">Забув пароль</string>
+     <string name="google_base_app_install_choice">\"%s\" потрібно Google Service для нормальної роботи. Завантажити та встановити їх?</string>
+     <string name="item_system_auto_download">Отримувати оновлення автоматично</string>
+     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Неможливо розпізнати відбиток пальця. Повторіть.</string>
+     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Неправильний пароль. Спробуйте ще раз.</string>
+     <string name="memory_clear_unused">Очистити кеш (%s)</string>
+     <string name="menu_charge_bill">Поповнити баланс</string>
+     <string name="menu_charge_traffic">Купити трафік</string>
+     <string name="menu_report">Повідомити про помилку</string>
+     <string name="menu_text_optimize_manage">"Очищення пам'яті"</string>
+     <string name="password_forget_pattern_message_none">Додатків не заблоковані. Ви можете скинути пароль.</string>
+     <string name="password_forget_pattern_reset">Скинути</string>
+     <string name="privacy_dialog_message">Коли ви підключаєтеся до інтернету, це повідомлення разом з інформацією про оператора буде зашифрована та завантажена на сервери Mi, щоб допомогти поліпшити моніторинг використання даних.</string>
+     <string name="sms_detail_fragment_title_bill">Баланс телефону</string>
+     <string name="sms_detail_fragment_title_traffic">Залишилося трафіку</string>
+     <string name="ss_activity_main_support_text">За підтримки %s</string>
+     <string name="title_chain_start">Обмежити послід. запуск</string>
+     <string name="title_data_flow_monitor">Моніторинг трафіку включений</string>
+     <string name="title_dev_model_off">Налаштування для розробника вимкнені</string>
+     <string name="title_device_not_root">Прав суперкористувача немає</string>
+     <string name="title_garbage_less">Кеш додатку маленький</string>
+     <string name="title_miui_update_latest">MIUI оновлена</string>
+     <string name="title_payment_protection">Платежі захищені</string>
+     <string name="title_system_auto_download">Оновлення будуть завантажені автоматично</string>
+     <string name="unlock_pattern"><u>Шаблон</u></string>
+     <string name="unlock_pattern_to_bind_fingerprint">Введіть пароль для активації відбитка пальця</string>
+     <string name="uninstall_danagerous_btn">Видалити</string>
+     <string name="uninstall_danagerous_desc">\"%s\" може нашкодити пристрою</string>
+     <string name="uninstall_danagerous_msg">\"%s\" може призвести до пошкодження пристрою, знизити його продуктивність або викликати перезавантаження</string>
+     <string name="uninstall_danagerous_title">Видалення шкідливих додатків</string>
+	 
 	 <string name="app_manager_pref_ads">Рекомендації</string>
 	 <string name="install">Встановити</string>
 	 <string name="app_manager_app_ifno_version">Версія додатку</string>
@@ -11,7 +50,6 @@
      <string name="app_manager_copy_pkg_to_clip">Скопійовано в буфер обміну</string>
      <string name="app_manager_hide_system_server">Приховати системні служби</string>
      <string name="app_manager_show_all_apps">Показати всі додатки</string>
-	 
 	 <string name="add_done">Успішно додано</string>
      <string name="add_game">Додати гру</string>
      <string name="add_whitelist">Додати в виключення</string>

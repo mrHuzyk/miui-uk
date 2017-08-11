@@ -2,6 +2,26 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
+     <string name="account_settings_preference_head_icon">Показувати фото відправників</string>
+     <string name="account_settings_preference_notify">Замітка</string>
+     <string name="account_settings_user_usage">Налаштування облікового запису</string>
+     <string name="account_setup_options_actionbar_title">Загальні налаштування</string>
+     <string name="account_sync_settings_settings">Синхронізувати контакти аккаунта і календарі</string>
+     <string name="account_sync_settingstip_description">Налаштування синхронізації</string>
+     <string name="conversation_detail_hide">Приховати</string>
+     <string name="conversation_detail_show">Подробиці</string>
+     <string name="conversation_msg_header_collapsed_sent_to">"Відправлено"</string>
+     <string name="conversation_pull_ad_content">Ефективний менеджер пошти</string>
+     <string name="edit_signature">Змінити підпис</string>
+     <string name="login_support_tip_text">Підтримуються всі основні поштові акаунти</string>
+     <string name="mailbox_name_display_add_account">Додати обліковий запис поштового ящика</string>
+     <string name="new_signature_has_saved">Новий підпис збережено</string>
+     <string name="save_this_new_signature">Зберегти новий підпис?</string>
+     <string name="search_bar_text">Пошук пошти, відправника</string>
+     <string name="topic_merge_summary">Режим організації за темами</string>
+     <string name="update_to_wps_mail">Додаткові можливості, оновлення до WPS-пошти</string>
+	 
 	 <string name="account_failure">Збій облікового запису</string>
      <string name="changepw_dialog_tips_please_clikc_btn">Перевірте код через %s та спробуйте ще раз</string>
      <string name="dialog_system_auto_sync_account_no_open">Синхронізація облікового запису не включена, і повідомлення не синхронізуються автоматично</string>

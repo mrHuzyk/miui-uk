@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+	 <string name="input_password_handle_sdcard_fs">Перед входом відключіть Оптимізацію SD-карти в налаштуваннях для розробників</string>
+	 
 	 <string name="keyguard_left_bankcard">Mi Pay</string>
      <string name="keyguard_left_buscard">Транспортна карта</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
@@ -13,7 +15,6 @@
      <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Вимкніть пристрій, натисніть та утримуйте &lt;font color=#a5220e>кнопку живлення &lt;/font> и &lt;font color=#a5220e>збільшення гучності &lt;/font>одночасно поки не побачите логотип Mi.</Data></string>
      <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Виберіть &lt;font color=#a5220e>\"Очищення та скидання\"&lt;/font> і почекайте, поки пристрій перезавантажиться.</Data></string>
      <string name="phone_locked_forget_password_suggesstions_title">Як стерти дані?</string>
-	 
 	 <string name="input_password_after_boot_msg_can_not_switch_when_calling">Неможливо перемикатися між просторами під час виклику</string>
 	 <string name="keyguard_quick_charging_info_click_to_detail">Натисніть для перегляду подробиць</string>
      <string name="keyguard_quickly_charging_info_charging_text">Швидка зарядка</string>

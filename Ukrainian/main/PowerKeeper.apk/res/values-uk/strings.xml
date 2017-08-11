@@ -2,6 +2,21 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_bar_delete">Видалити</string>
+	 <string name="change_cloud_addr">Змінити адрес хмари</string>
+     <string name="cloud_test_reset_addr">Відновити нормальну адресу сервера</string>
+     <string name="cloud_test_update_addr">Оновити на тестовий адресу сервера</string>
+     <string name="cloud_test_update_profile">Негайне оновлення даних</string>
+     <string name="current_cloud_addr_is">Адреса сервера хмарного управління:</string>
+     <string name="extreme_power_config_mode_category">Екстремальна економія батареї</string>
+     <string name="extreme_power_config_mode_desc">Включення цієї функції відключить синхронізацію, Bluetooth, GPS, NFC, подвійне натискання, підсвічування кнопок, включення екрану при повідомленнях, світлодіод і т.д.</string>
+     <string name="extreme_power_config_mode_title">Екстремальний режим економії батареї</string>
+     <string name="failure">помилка</string>
+     <string name="sucess">успіх</string>
+     <string name="switch_to_online_server_sucess">Switch to the online server successfully</string>
+     <string name="switch_to_test_server_sucess">Switch to the test server successfully</string>
+     <string name="update_profile_failture_not_connect_wifi">Оновлення не вдалося. Немає Wi-Fi мережі.</string>
+     <string name="update_profile_sucess">Оновлення з сервера успішне</string>
+	 
 	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
      <string name="warm_configure">Конфігурація</string>
 	 <string name="about_hide_mode">Про економію батареї</string>

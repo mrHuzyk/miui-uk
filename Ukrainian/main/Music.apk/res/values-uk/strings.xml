@@ -7,6 +7,11 @@
 	 <string name="talkback_mode_repeat_all">Режим повторення списку</string>
      <string name="talkback_mode_repeat_current">Повторення однієї пісні</string>
      <string name="talkback_mode_repeat_shuffle">Режим відтворення у випадковому порядку</string>
+	 <string name="audio_recognition_setting_summary">Оптимізація інформації про пісні, альбом та тексти локальної музики</string>
+     <string name="audio_recognition_setting_title">Оптимізація інформації</string>
+     <string name="recognized_alert_message">Автоматична оптимізація інформації про пісні, альбом та тексти. Ви можете натиснути 「...」 та змінити вручну.</string>
+     <string name="recognized_alert_title">Оптимізація інформації</string>
+	 <string name="no_system_cropper_find">Система не має додатку для обрізки зображення</string>
 	 
 	 <string name="local_header_title">Локальна музика</string>
 	  <string name="vip_after_tomorrow_auto_renew_message">Ваша підписка на музику буде автоматично оновлена ​​післязавтра. Переконайтеся, що у Вас досить Mi Credits для завершення цього платежу.</string>

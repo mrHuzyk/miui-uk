@@ -2,6 +2,34 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abort_backup_confirm">Скасувати створення бекапа?</string>
+	 <string name="trans_intro_desc_2">Скасуйте передачу, вийдіть з Mi Mover та почніть спочатку. Під час нової передачі дубльовані файли будуть перезаписані.</string>
+     <string name="trans_intro_desc_3">Mi Mover використовує Wi-Fi для передачі файлів. Проте, Ви можете використовувати мобільний інтернет.</string>
+     <string name="trans_intro_desc_4">"Для створення пакетів перенесення використовується пам'ять на старих пристроях. Перед початком передачі переконайтеся, що є не менше 500 МБ - 1 ГБ місця на старому телефоні."</string>
+     <string name="trans_intro_desc_5">Є кілька причин: проблеми сумісності версій програм та додатків, проблеми з мережею, проблеми сумісності, специфічні для конкретного пристрою, і т.д.</string>
+     <string name="trans_intro_desc_6">"Деякі профілі додатків (ел. Банкінг, фінанси і т.д.) пов'язані з певним пристроєм з міркувань безпеки. Спробуйте очистити дані додатка або перевстановити його на новий пристрій."</string>
+     <string name="trans_intro_desc_7">Дані додатків та чатів WeChat можуть не повністю передаватися за допомогою Mi Mover. Перейдіть в налаштування WeChat і вийдіть зі свого облікового запису, щоб отримати більше шансів на успішну передачу.</string>
+     <string name="trans_intro_desc_account">З міркувань безпеки Вам необхідно знову увійти в обліковий запис (наприклад, Mi аккаунт, Exchange, Google і т.д.) на новому пристрої</string>
+     <string name="trans_intro_desc_multiapp">Mi Mover не передає дані клонованих додатків, щоб уникнути конфліктів між файлами</string>
+     <string name="trans_intro_desc_multiuser">Mi Mover не може отримати доступ до елементів у другому просторі. Перемістіть їх в перше місце та почніть знову.</string>
+     <string name="trans_intro_desc_new">Натисніть \"Отримати\". Буде створено QR код.</string>
+     <string name="trans_intro_desc_old">Натисніть \"Відправити\". Відскануте QR код на новому телефоні, дочекайтеся, поки Mi Mover які файли відправити та натисніть \"Відправити\".</string>
+     <string name="trans_intro_desc_private">Mi Mover не може отримати доступ до фотографій в прихованому альбомі, оскільки вони зашифровані. Ви можете відновити ці фотографії з Mi Cloud на новому пристрої.</string>
+     <string name="trans_intro_question_1">1. Як я можу використовувати Mi Mover?</string>
+     <string name="trans_intro_question_2">2. Що робити, якщо Mi Mover завис?</string>
+     <string name="trans_intro_question_3">3. Чому я не можу використовувати Wi-Fi під час передачі?</string>
+     <string name="trans_intro_question_4">4. Чому Mi Mover каже мені, що на моєму старому телефоні недостатньо місця для зберігання?</string>
+     <string name="trans_intro_question_5">5. Чому деякі додатки не переносяться успішно?</string>
+     <string name="trans_intro_question_6">6. Чому деякі додатки не запускаються на новому пристрої?</string>
+     <string name="trans_intro_question_7">7. Чому історія WeChat передана повністю?</string>
+     <string name="trans_intro_question_8">8. Які елементи можна передати?</string>
+     <string name="trans_intro_title">Довідка</string>
+     <string name="trans_intro_title_account">Облікові записи та паролі:</string>
+     <string name="trans_intro_title_multiapp">Дані клонованих додатків:</string>
+     <string name="trans_intro_title_multiuser">Дані другого простору:</string>
+     <string name="trans_intro_title_new">На новому телефоні:</string>
+     <string name="trans_intro_title_old">На старому телефоні:</string>
+     <string name="trans_intro_title_private">Прихований альбом:</string>
+	 
 	 <string name="total_size">, %s</string>
 	 <string name="feature_title_antispam">Чорний список</string>
      <string name="abort_restore_confirm">Зупинити відновлення?</string>

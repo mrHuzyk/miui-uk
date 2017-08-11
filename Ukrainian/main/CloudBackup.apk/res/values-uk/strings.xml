@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Резервне копіювання​</string>
+	<string name="arrange_restore_order">Ініціалізація порядку відновлення</string>
+     <string name="authentication_failed">Помилка аутентифікації!</string>
+     <string name="backup_fail_wifi_needed">Бекап не вдався. Потрібен Wi-Fi.</string>
+     <string name="cancel_backup">Скасування бекапу</string>
+     <string name="cancel_restore_home">Відміна</string>
+     <string name="confirm_cancel_restore_negative">Скасувати</string>
+     <string name="confirm_cancel_restore_positive">Продовжити</string>
+     <string name="confirm_cancel_restore_title">Скасувати відновлення?</string>
+     <string name="desktop_failed">Не вдалось</string>
+     <string name="download_home_data">Завантаження налаштувань робочого столу</string>
+     <string name="download_meta_again">Спробуйте ще раз</string>
+     <string name="download_meta_failed">Не вдалося завантажити дані</string>
+     <string name="lack_of_storage">"Недолік пам'яті"</string>
+     <string name="network_error">Підключіться до мережі</string>
+     <string name="no_account">Немає Mi акаунту</string>
+     <string name="no_backup">Немає бекапу в Mi Cloud</string>
+     <string name="remove_again">Спробуйте ще раз</string>
+     <string name="remove_unfinished">Видалення. Повторіть пізніше.</string>
+     <string name="restore_finished_notification_content">Відновлення додатків, системних налаштувань і т.д.</string>
+     <string name="restore_home_failed">Відновлення робочого столу не вдалося</string>
+     <string name="restore_task_cancelling">Відміна…</string>
+     <string name="restore_task_in_process">Відновлення…</string>
+     <string name="restore_unfinished">Відновлення. Спробуйте пізніше.</string>
+     <string name="restoring_file_tile">Відновлення файлів: %d </string>
+     <string name="total_space">Всього місця: %s</string>
+     <string name="try_again">Натисніть для повтору</string>
+	 
 	<string name="can_not_backup_in_lite_mode">Неможливо створити бекап в Простому режимі</string>
     <string name="can_not_restore_in_lite_mode">Неможливо відновити дані в Простому режимі</string>
     <string name="back_up_task_in_process">Копіювання</string>

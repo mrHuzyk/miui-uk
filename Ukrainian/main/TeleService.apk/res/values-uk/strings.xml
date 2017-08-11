@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="carrier_info">Інформація про оператора</string>
+	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>
      <string name="change_pin_confirm_pins_dont_match">PIN-коди не співпадають</string>
@@ -38,9 +40,7 @@
      <string name="voicemail_change_pin_dialog_title">Змінити PIN</string>
      <string name="voicemail_set_pin_dialog_title">Встановити PIN</string>
      <string name="vvm_unsupported_message_format">Непідтримуваний тип повідомлення. наберіть %s для прослуховування.</string>
-     <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string>
-	 
-	 
+     <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string> 
 	 <string name="volte_switch_not_support_summary">VoLTE дзвінки можуть не підтримуватись SIM-картою для інтернету</string>
 	 <string name="no_checked_network">Ви не зможете підключитися до мобільної мережі і здійснювати дзвінки. Обрати іншу мережу?</string>
 	 <string name="sum_cfu_enabled_indicator_by_sim">Всі виклики на %s будуть переадресовані</string>

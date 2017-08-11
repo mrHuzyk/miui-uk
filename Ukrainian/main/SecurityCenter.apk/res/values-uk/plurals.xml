@@ -7,6 +7,10 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="title_virus_clean">
+        <item quantity="other">Очищено вірусів: %d</item>
+        <item quantity="one">Очищено вірусів: %d</item>
+     </plurals>
 	 <plurals name="install_game_count_title">
         <item quantity="other">Додано ігор %d</item>
         <item quantity="one">Додано ігор %d</item>

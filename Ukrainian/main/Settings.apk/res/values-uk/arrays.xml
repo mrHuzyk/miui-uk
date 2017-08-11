@@ -5,6 +5,13 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="silent_mode_duration_text">
+        <item>Завжди</item>
+        <item>30 хв.</item>
+        <item>1 год.</item>
+        <item>2 год.</item>
+        <item>8 год.</item>
+     </string-array>
 	 <string-array name="connect_mode_entries">
         <item>Сумісний</item>
         <item>Високий</item>
