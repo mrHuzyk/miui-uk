@@ -776,7 +776,7 @@
      <string name="miuichromium_error_page_no_network">Не вдається підключитися до інтернету</string>
      <string name="miuichromium_error_page_reason_network">Увімкніть мережу</string>
      <string name="miuichromium_error_page_reason_server">Неможливо завантажити сторінку</string>
-     <string name="miuichromium_error_page_reload">Перезавантажити</string>
+     <string name="miuichromium_error_page_reload">Оновити</string>
      <string name="miuichromium_error_page_safe_network">Економія трафіку</string>
      <string name="miuichromium_error_page_server_error">"Забагато пристроїв намагаються під'єднатися"</string>
      <string name="miuichromium_error_page_title">Не вдається знайти сторінку</string>
