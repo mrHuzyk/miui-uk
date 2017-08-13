@@ -142,8 +142,8 @@ EEEE"</string>
      <string name="missed_call_text">Пропущених викликів: %d</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковано Bluetooth пристроєм</string>
      <string name="miui_unlockscreen_password_wrong">Невірний ключ</string>
-     <string name="open_camera_hint_text">Проведіть ліворуч для доступу до Камеру</string>
-     <string name="open_remote_center_hint_text">Проведіть праворуч для доступу до Телефон</string>
+     <string name="open_camera_hint_text">Проведіть ліворуч для доступу до камеру</string>
+     <string name="open_remote_center_hint_text">Проведіть праворуч для доступу до меню</string>
      <string name="open_wifi_settings">"Відкрити мережеві з'єднання"</string>
      <string name="phone_locked_string">Телефон заблоковано</string>
      <string name="phone_locked_timeout_minutes_string">Повторіть спробу через %d хв.</string>
