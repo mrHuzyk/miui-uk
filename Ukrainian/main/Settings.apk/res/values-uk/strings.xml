@@ -620,9 +620,9 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="app_not_supported_in_limited">Застосунок не підтримується в профілях з обмеженим доступом</string>
      <string name="app_notification_block_summary">Не показувати сповіщення від застосунку</string>
      <string name="app_notification_block_title">Заблокувати</string>
-     <string name="app_notification_peekable_summary">Дозволити програмі ненадовго виводити деякі повідомлення на поточний екран</string>
+     <string name="app_notification_peekable_summary">Дозволити додатку ненадовго виводити деякі повідомлення на поточний екран</string>
      <string name="app_notification_peekable_title">Короткі повідомлення</string>
-     <string name="app_notification_preferences">Налаштування програм</string>
+     <string name="app_notification_preferences">Налаштування додатків</string>
      <string name="app_notification_priority_summary">Відображати сповіщення у верхній частині списку, також коли дозволені лише критичні сповіщення</string>
      <string name="app_notification_priority_title">Важливі</string>
      <string name="app_notification_row_banned">Заблоковані</string>
@@ -654,9 +654,9 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="application_item_already_permission">Дозволене</string>
      <string name="application_item_disable">Заборонити</string>
      <string name="application_item_permission">Дозволити</string>
-     <string name="application_lock_name">Захист програм</string>
-     <string name="application_manager_section_title">Налаштування програм</string>
-     <string name="application_permission_manager">Дозволи програм</string>
+     <string name="application_lock_name">Захист додатків</string>
+     <string name="application_manager_section_title">Налаштування додатків</string>
+     <string name="application_permission_manager">Дозволи додатків</string>
      <string name="application_restrictions">Дозволити застосунки й контент</string>
      <string name="application_size_label">Застосунок</string>
      <string name="applications_settings">Усі застосунки</string>
