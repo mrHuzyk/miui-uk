@@ -2,6 +2,15 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="people_mark_mode_title">Обрано \"%s\"</string>
+     <string name="people_mark_mode_title_no_mark_name">Виберіть людину</string>
+     <string name="search_request_open">Приєднатися до тестування</string>
+     <string name="search_setting_sub_title">Покращений пошук фото</string>
+     <string name="search_setting_sub_title_open">Схвалено. Зачекайте деякий час перед початком.</string>
+     <string name="search_setting_title">Пошук фото в галереї</string>
+     <string name="search_title_album">Альбом</string>
+     <string name="search_title_suggestion">Пропозиції</string>
+
 	 <string name="collage_choose">Виберіть фото</string>
      <string name="collage_margin_text">Грань</string>
      <string name="collage_mirror">Дзеркально</string>
