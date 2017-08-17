@@ -43,7 +43,7 @@
      <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
      <string name="pref_title_about_smart_sms">Інформація про партнерів</string>
      <string name="activity_not_found">Не вдається відкрити вкладення</string>
-     <string name="activity_not_found_uri">Не вдається знайти застосунок для цього типу файлів</string>
+     <string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
      <string name="addBlackList">У чорний список</string>
      <string name="add_attachment">Вкладення</string>
      <string name="add_bookmark">Вибрані</string>
@@ -163,7 +163,7 @@
      <string name="copy_to_sdcard_fail">Файл не збережений</string>
      <string name="copy_to_sdcard_success">Файл збережений як %s</string>
      <string name="database_corruption">База даних ушкоджена, востановлення бази даних</string>
-     <string name="del_private_contact">Видалити усі приватні контакти</string>
+     <string name="del_private_contact">Видалити всі приватні контакти</string>
      <string name="delete">Видалити</string>
      <string name="delete_bookmark">Забрати з вибраних</string>
      <string name="delete_message">Видалити</string>
@@ -487,8 +487,8 @@ sms (%1$d), MMS (%2$d)."</string>
 відправляйте звіти про баги напряму розроблювачам."</string>
      <string name="pref_summary_notification_body_enabled">Попередній перегляд повідомлень на екрані блокування та у рядку стану</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Попередній перегляд повідомлень відключений у режимі \"Гість\"</string>
-     <string name="pref_summary_off_system_mms_priority">Інші застосунки для повідомлень будуть отримувати повідомлення першими</string>
-     <string name="pref_summary_on_system_mms_priority">Системний застосунок буде отримувати повідомлення першим</string>
+     <string name="pref_summary_off_system_mms_priority">Інші додатки для повідомлень будуть отримувати повідомлення першими</string>
+     <string name="pref_summary_on_system_mms_priority">Системний додаток буде отримувати повідомлення першим</string>
      <string name="pref_summary_send_delivery_reports">Надсилати звіт про доставку надісланих повідомлень</string>
      <string name="pref_summary_show_recent_contacts">Показувати список недавніх контактів при створенні нових повідомлень</string>
      <string name="pref_summary_wake_up_screen">Включення екрану при одержанні нових повідомлень</string>
@@ -530,9 +530,9 @@ sms (%1$d), MMS (%2$d)."</string>
      <string name="priority_low">Низький</string>
      <string name="priority_normal">Звичайний</string>
      <string name="privacy_mode_hint">Не вдається відправити повідомлення в режимі захисту</string>
-     <string name="privacy_password_message1">Пароль буде використовуватись для застосунків, фото, нотаток, прихованих папок и подібних даних.</string>
+     <string name="privacy_password_message1">Пароль буде використовуватись для додатків, фото, нотаток, прихованих папок и подібних даних.</string>
      <string name="privacy_password_message2">Приватні нотатки будуть захищені паролем конфіденційності</string>
-     <string name="privacy_password_message3">Пароль приватних повідомлень буде замінено на пароль конфіденційності, який використовується для застосунків, фото, нотаток, прихованих папок и подібних даних.</string>
+     <string name="privacy_password_message3">Пароль приватних повідомлень буде замінено на пароль конфіденційності, який використовується для додатків, фото, нотаток, прихованих папок и подібних даних.</string>
      <string name="privacy_password_set_password">Встановити</string>
      <string name="privacy_password_title1">Пароль конфіденційності</string>
      <string name="privacy_password_title2">Пароль конфіденційності</string>
@@ -590,7 +590,7 @@ sms (%1$d), MMS (%2$d)."</string>
      <string name="search_hint">Пошук повідомлень</string>
      <string name="search_keyword_mms">Повідомлення</string>
      <string name="search_label">Повідомлення</string>
-     <string name="search_path_mms">Налаштування/Системні застосунки/Повідомлення</string>
+     <string name="search_path_mms">Налаштування/Системні додатки/Повідомлення</string>
      <string name="search_setting_description">Текст у повідомленнях</string>
      <string name="search_show_more_results">Більше</string>
      <string name="search_title_mms">Повідомлення</string>
@@ -751,7 +751,7 @@ sms (%1$d), MMS (%2$d)."</string>
      <string name="url_fraud_visit"><u>Відвідати все одно</u></string>
      <string name="url_result_safe">Це посилання безпечне</string>
      <string name="url_scanning">Сканування посилання…</string>
-     <string name="user_agreement1">Перед встановленням додаткових застосунків прочитайте умови користування</string>
+     <string name="user_agreement1">Перед встановленням додаткових додатків прочитайте умови користування</string>
      <string name="user_agreement2">" Угода користувача"</string>
      <string name="user_agreement3">" і "</string>
      <string name="user_agreement4">Політика безпеки</string>

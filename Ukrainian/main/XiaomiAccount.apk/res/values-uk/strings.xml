@@ -238,7 +238,7 @@
      <string name="activate_status_title_activating">Активація SIM карти</string>
      <string name="activate_status_title_activating_msim">Активація SIM карти %s</string>
      <string name="activating">Активація...</string>
-     <string name="activity_not_found_notice">Неможливо знайти програму</string>
+     <string name="activity_not_found_notice">Неможливо знайти додаток</string>
      <string name="add_account">Додати обліковий запис</string>
      <string name="add_this_verified_device">Додати цей пристрій як перевірений</string>
      <string name="add_weibo_account">Додати акаунт</string>
@@ -275,11 +275,11 @@
      <string name="choose_which_one_sim">Виберіть номер телефону</string>
      <string name="cloud_messaging">Хмарні повідомлення</string>
      <string name="cloud_service">Mi Cloud</string>
-     <string name="cloud_service_dspt">Хмарний сервіс Mi Cloud дозволить вам синхринізувати фото, контакти, замітки, застосунки та інші дані між пристроями.</string>
+     <string name="cloud_service_dspt">Хмарний сервіс Mi Cloud дозволить вам синхринізувати фото, контакти, замітки, додатки та інші дані між пристроями.</string>
      <string name="completed">Готово</string>
      <string name="confirm">OK</string>
      <string name="confirm_activate_email">Перевірено</string>
-     <string name="confirm_delete_app_message">Після видалення цієї програми вам потрібно знову підтвердити номер телефону при вході до Mi акаунту у ній</string>
+     <string name="confirm_delete_app_message">Після видалення цієї додатку вам потрібно знову підтвердити номер телефону при вході до Mi акаунту у ній</string>
      <string name="confirm_delete_browser_message">Після видалення цього браузеру вам потрібно знову підтвердити номер телефону при вході до Mi акаунту в ньому</string>
      <string name="confirm_delete_device_message">Після видалення цього пристрою вам буде потрібно знову підтвердити номер телефону при вході до Mi акаунту у ньому</string>
      <string name="confirm_email_address_dialog_message">Перевірочний код буде відправлено на %s</string>
@@ -299,7 +299,7 @@
      <string name="data_wipe_from_device">Видалити з пристрою</string>
      <string name="data_wipe_from_phone">Видалити</string>
      <string name="delete_action">Видалити</string>
-     <string name="delete_app">Видалити програму</string>
+     <string name="delete_app">Видалити додаток</string>
      <string name="delete_bank_card_failed">Не вдається видалити карту</string>
      <string name="delete_bank_card_message">Після виходу видаліть свою банківську карту для захисту даних</string>
      <string name="delete_bank_card_title">Видалення банківської карти</string>
@@ -395,7 +395,7 @@
      <string name="input_verify_code_hint">Введіть перевірочний код</string>
      <string name="int_phone_user_notice">При авторизації в Mi акаунті за допомогою мобільного номера вказуйте код країни. Наприклад: 38</string>
      <string name="internet_comm">Сервіси повідомлень</string>
-     <string name="internet_statement_message">Дозволити програмі використовувати інтернет?</string>
+     <string name="internet_statement_message">Дозволити додатку використовувати інтернет?</string>
      <string name="internet_statement_title">Доступ до інтернету</string>
      <string name="io_error_title">Оберіть мережу</string>
      <string name="just_a_second">Завантаження…</string>
@@ -411,7 +411,7 @@
      <string name="login_check_find_device_failed_title">Не вдається перевірити статус пошуку пристрою</string>
      <string name="login_failed">"Невірне ім'я користувача або пароль"</string>
      <string name="login_find_device_bind">"Це пристрій прив'язаний до існуючого ID Mi акаунта (%s)"</string>
-     <string name="login_guard_prompt">Запитувати підтвердження номера телефону при вході до Mi акаунту на невідомому пристрої або у програмі першого разу</string>
+     <string name="login_guard_prompt">Запитувати підтвердження номера телефону при вході до Mi акаунту на невідомому пристрої або у додатку першого разу</string>
      <string name="login_instead_reg">Використовувати цей номер</string>
      <string name="login_instead_reg_with_email">Використовувати цей Email</string>
      <string name="login_notice">Авторизація...</string>
@@ -842,7 +842,7 @@
      <string name="vcode_notification_title">Перевірка авторизації не завершено</string>
      <string name="vcode_prompt_long">Введіть перевірочний код Xiaomi</string>
      <string name="verification_failed">Помилка перевірки</string>
-     <string name="verified_apps">Перевірені програми</string>
+     <string name="verified_apps">Перевірені додатку</string>
      <string name="verified_devices">Перевірені пристрої</string>
      <string name="verify">Перевірка</string>
      <string name="verify_phone_prompt">Оберіть номер телефону для перевірки</string>

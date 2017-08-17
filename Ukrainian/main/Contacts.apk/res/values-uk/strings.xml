@@ -223,7 +223,7 @@
      <string name="check_unsynchronized_accounts">Сповіщати про синхронізацію акаунтів</string>
      <string name="checkhint">Перевірити інший телефон</string>
      <string name="china_mobile_online">China Mobile Online</string>
-     <string name="clearCallLogConfirmation">Усі ваші записи про виклики будуть видалені</string>
+     <string name="clearCallLogConfirmation">Всі ваші записи про виклики будуть видалені</string>
      <string name="clearCallLogConfirmation_title">Очистити журнал викликів?</string>
      <string name="clearCallLogProgress_title">Очищення журналу викликів…</string>
      <string name="clearFrequentsConfirmation">Будуть очищені всі часто використовувані контакти</string>
@@ -477,7 +477,7 @@
      <string name="disclaimer_text">Жовті сторінки отримують інформацію про ваш баланс за допомогою SMS. Ваш оператор може оновлювати цю інформацію із затримкою. Якщо ви помітили помилку, ви можете надіслати звіт, використовуючи SMS. 
 Щоб уникнути частих запитів, інформація про баланс оновлюється 1 раз на день.</string>
      <string name="disclaimer_title">Відмова від відповідальності</string>
-     <string name="display_all_contacts">Усі контакти</string>
+     <string name="display_all_contacts">Всі контакти</string>
      <string name="display_more_groups">Інші групи…</string>
      <string name="display_only_phones">Тільки з номером телефону</string>
      <string name="display_options_sort_by_family_name">На прізвище</string>
@@ -487,7 +487,7 @@
      <string name="display_options_view_given_name_first">"Спочатку ім\'я"</string>
      <string name="display_options_view_names_as">Показувати в контактах</string>
      <string name="display_sim_contacts">Контакти SIM карти</string>
-     <string name="display_ungrouped">Усі інші контакти</string>
+     <string name="display_ungrouped">Всі інші контакти</string>
      <string name="display_warn_remove_ungrouped">Разом із групою \"%s\" перестануть синхронізуватися контакти, не додані в групи</string>
      <string name="dlg_add_blacklist">Додати номер у чорний список?</string>
      <string name="dlg_remove_blacklist">Видалити номер з чорного списку?</string>
@@ -721,7 +721,7 @@
      <string name="listTotalAllContactsZeroGroup">Немає контактів в \"%s\"</string>
      <string name="listTotalAllContactsZeroStarred">Немає обраних</string>
      <string name="listTotalPhoneContactsZero">Немає контактів з номерами телефонів</string>
-     <string name="list_filter_all_accounts">Усі контакти</string>
+     <string name="list_filter_all_accounts">Всі контакти</string>
      <string name="list_filter_all_starred">Вибрані</string>
      <string name="list_filter_custom">Користувацькі</string>
      <string name="list_filter_customize">Налаштувати</string>
@@ -879,7 +879,7 @@
      <string name="missing_name">Мої групи</string>
      <string name="missing_required_permission">Ви вимкнули запитування дозволу</string>
      <string name="mobile_equipment_identification">Ідентифікація мобільного обладнання</string>
-     <string name="more_call_logs">Усі записи доступні на сайті i.mi.com</string>
+     <string name="more_call_logs">Всі записи доступні на сайті i.mi.com</string>
      <string name="move_and_resize">Розмір і положення</string>
      <string name="multi_number_menu_call">Виклик</string>
      <string name="multi_number_menu_delete">Видалити</string>
@@ -1584,7 +1584,7 @@
 
 оберіть один з наступних варіантів:"</string>
      <string name="upgrade_out_of_memory_retry">Повторити спробу відновлення</string>
-     <string name="upgrade_out_of_memory_uninstall">Видалити деякі застосунки</string>
+     <string name="upgrade_out_of_memory_uninstall">Видалити деякі додатки</string>
      <string name="use_photo_as_primary">Використовувати дане зображення</string>
      <string name="use_photo_as_primary2">Використовувати фото контакту %1$s</string>
      <string name="useful_numbers">Корисні номери</string>

@@ -52,8 +52,8 @@
     <string name="receiver_audio_file_current">Отримання треків: %2$d​ | Відправник: %1$s</string>
     <string name="receiver_video_file_num">Отримання відео: %2$d​ | Відправник: %1$s</string>
     <string name="receiver_video_file_current">Отримання відео: %2$d​ | Відправник: %1$s</string>
-    <string name="receiver_apk_file_num">Отримання програм: %2$d​ | Відправник: %1$s</string>
-    <string name="receiver_apk_file_current">Отримання програм: %2$d​ | Відправник: %1$s</string>
+    <string name="receiver_apk_file_num">Отримання додатків: %2$d​ | Відправник: %1$s</string>
+    <string name="receiver_apk_file_current">Отримання додатків: %2$d​ | Відправник: %1$s</string>
     <string name="receiver_file_cancel">Передачу від користувача %1$s перервано</string>
     <string name="receiver_cancel">Скасувати</string>
     <string name="i_know">ОК</string>

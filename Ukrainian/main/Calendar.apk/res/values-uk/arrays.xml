@@ -40,7 +40,7 @@
         <item>Всі заходи в серії</item>
      </string-array>
      <string-array name="credential_usage">
-        <item>VPN та застосунки</item>
+        <item>VPN та додатки</item>
         <item>Wi-Fi</item>
      </string-array>
      <string-array name="default_allday_reminder_labels">

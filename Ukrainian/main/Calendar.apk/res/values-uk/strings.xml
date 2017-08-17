@@ -528,7 +528,7 @@
      <string name="pref_title_alert_remind">Спливаюче повідомлення</string>
      <string name="pref_title_no_remind">Не нагадувати</string>
      <string name="pref_title_notification_remind">Тільки в рядку стану</string>
-     <string name="preferences_about_title">Про застосунок</string>
+     <string name="preferences_about_title">Про додаток</string>
      <string name="preferences_alerts_popup_title">Спливаюче вікно</string>
      <string name="preferences_alerts_ringtone_title">Мелодія</string>
      <string name="preferences_alerts_title">Повідомлення</string>
@@ -575,7 +575,7 @@
      <string name="privacy_label">Конфіденційність</string>
      <string name="quick_response_custom_msg">Користувацьке повідомлення…</string>
      <string name="quick_response_dialog_title">Вибрати швидку відповідь</string>
-     <string name="quick_response_email_failed">Програма пошти не знайдена</string>
+     <string name="quick_response_email_failed">Додаток пошти не знайдено</string>
      <string name="quick_response_settings">Швидкі відповіді</string>
      <string name="quick_response_settings_edit_title">Швидка відповідь</string>
      <string name="quick_response_settings_summary">Редагування повідомлень швидкої відповіді</string>
@@ -651,7 +651,7 @@
      <string name="setting_online_calendar">Підписка</string>
      <string name="setting_others">Інше</string>
      <string name="setting_sms_import">Імпорт повідомлень</string>
-     <string name="setting_title_about">Про програму</string>
+     <string name="setting_title_about">Про додаток</string>
      <string name="setting_wifi_mode">Синхронізувати підписки лише через Wi-Fi</string>
      <string name="settings_calendar">Календар</string>
      <string name="show_controls">Показати елементи керування</string>

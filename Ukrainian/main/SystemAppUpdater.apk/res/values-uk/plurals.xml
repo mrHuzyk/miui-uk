@@ -6,23 +6,23 @@
         <item quantity="few">%1$d оновлення</item>
     </plurals>
     <plurals name="notif_summary_auto_update_successful">
-        <item quantity="other">Програм оновлено: %1$d</item>
-        <item quantity="one">Програм оновлено: %1$d</item>
-        <item quantity="few">Програм оновлено: %1$d</item>
+        <item quantity="other">додатків оновлено: %1$d</item>
+        <item quantity="one">додатків оновлено: %1$d</item>
+        <item quantity="few">додатків оновлено: %1$d</item>
     </plurals>
     <plurals name="install_on_data_description">
-        <item quantity="other">Використання мобільного інтернету для завантаження програм збільшить використання трафіку. Завантажити %2$s та ще %1$d програм?</item>
-        <item quantity="one">Використання мобільного інтернету для завантаження програм збільшить використання трафіку. Завантажити %2$s та ще %1$d програму?</item>
-        <item quantity="few">Використання мобільного інтернету для завантаження програм збільшить використання трафіку. Завантажити %2$s та ще %1$d програми?</item>
+        <item quantity="other">Використання мобільного інтернету для завантаження додатків збільшить використання трафіку. Завантажити %2$s та ще %1$d додатків?</item>
+        <item quantity="one">Використання мобільного інтернету для завантаження додатків збільшить використання трафіку. Завантажити %2$s та ще %1$d додаток?</item>
+        <item quantity="few">Використання мобільного інтернету для завантаження додатків збільшить використання трафіку. Завантажити %2$s та ще %1$d додатки?</item>
     </plurals>
     <plurals name="install_all_description">
-        <item quantity="other">Встановити %2$s та ще %1$d програм?</item>
-        <item quantity="one">Встановити %2$s та ще %1$d програму?</item>
-        <item quantity="few">Встановити %2$s та ще %1$d програми?</item>
+        <item quantity="other">Встановити %2$s та ще %1$d додатків?</item>
+        <item quantity="one">Встановити %2$s та ще %1$d додаток?</item>
+        <item quantity="few">Встановити %2$s та ще %1$d додатки?</item>
     </plurals>
     <plurals name="upgrade_all_description">
-        <item quantity="other">Оновити %2$s та ще %1$d програм?</item>
-        <item quantity="one">Оновити %2$s та ще %1$d програму?</item>
-        <item quantity="few">Оновити %2$s та ще %1$d програми?</item>
+        <item quantity="other">Оновити %2$s та ще %1$d додатків?</item>
+        <item quantity="one">Оновити %2$s та ще %1$d додаток?</item>
+        <item quantity="few">Оновити %2$s та ще %1$d додатки?</item>
     </plurals>
 </resources>

@@ -361,12 +361,12 @@
      <string name="__leak_canary_share_heap_dump">Надіслати дамп купи</string>
      <string name="__leak_canary_share_leak">Надіслати інформацію</string>
      <string name="__leak_canary_share_with">Надіслати</string>
-     <string name="__leak_canary_toast_heap_dump">Програма може гальмувати</string>
+     <string name="__leak_canary_toast_heap_dump">Додаток може гальмувати</string>
      <string name="abandon">Відмова</string>
      <string name="accept">Прийняти</string>
      <string name="accept_or_deny">Користувач \"%1$s\" поділився з вами альбомом %2$s</string>
      <string name="action_fail_unknown_error">Відбулася невідома помилка</string>
-     <string name="activity_not_found">Не вдається знайти застосунок для цього типу файлів</string>
+     <string name="activity_not_found">Не вдається знайти Додаток для цього типу файлів</string>
      <string name="add_account">Додати акаунт</string>
      <string name="add_automatically_alert_msg">Дадавати фото з \"%1$s\" доцього альбому автоматично?</string>
      <string name="add_automatically_alert_title">Додавання фото</string>
@@ -457,7 +457,7 @@
      <string name="alert_secret_album_message">Ви можете прокрутити хмарні фото і відео в секретному альбомі</string>
      <string name="alert_secret_album_set_pattern">Графічний ключ</string>
      <string name="alert_secret_album_title">Секретний альбом</string>
-     <string name="all_items_synced">Усі файли синхронізовано з Mi Cloud</string>
+     <string name="all_items_synced">Всі файли синхронізовано з Mi Cloud</string>
      <string name="all_video_album_display_name">Всі відео</string>
      <string name="already_apply_album">Відкрити \"%1$s\"?</string>
      <string name="already_create_baby_album">Дитячий альбом вже існує у Mi Cloud</string>
@@ -500,8 +500,8 @@
      <string name="auto_upload_face_summary">Автоматично порівнювати та додавати фото в дитячий альбом</string>
      <string name="auto_upload_face_summary_with_people_name_when_off">Автоматично додавати фото \"%1$s\" до цього альбому</string>
      <string name="auto_upload_face_summary_with_people_name_when_on">Автоматично додавати фото \"%1$s\" до цього альбому</string>
-     <string name="auto_upload_guide">Автоматично завантажувати фото з інших застосунків в Mi Cloud</string>
-     <string name="auto_upload_guide_msssage">" "<Data> Автоматично завантажувати фото з інших застосунків у Mi Cloud. Функція доступна у &lt;font color=#323232>&lt;b>Налаштування галереї > Хмарні альбоми > Автозавантаження альбомів&lt;/b>&lt;/font>. </Data>" "</string>
+     <string name="auto_upload_guide">Автоматично завантажувати фото з інших додатків в Mi Cloud</string>
+     <string name="auto_upload_guide_msssage">" "<Data> Автоматично завантажувати фото з інших додатків у Mi Cloud. Функція доступна у &lt;font color=#323232>&lt;b>Налаштування галереї > Хмарні альбоми > Автозавантаження альбомів&lt;/b>&lt;/font>. </Data>" "</string>
      <string name="auto_upload_guide_title">Увімкнути автозавантаження?</string>
      <string name="auto_upload_setting_toast">Показати додаткові функції цієї мождливості в налаштуваннях Mi Cloud?</string>
      <string name="auto_upload_tip">"Після включення цієї функції буде створено альбом з тим же ім'ям. Існуючий альбом буде об'єднаний з новим."</string>
@@ -1083,7 +1083,7 @@
      <string name="crossprocess">Крос-обробка</string>
      <string name="custom_select_title_deselect_all">Зняти вибір</string>
      <string name="custom_select_title_quickly_share">Швидке надсилання</string>
-     <string name="custom_select_title_select_all">Обрати усі</string>
+     <string name="custom_select_title_select_all">Обрати всі</string>
      <string name="custom_select_title_select_item">Оберіть файли</string>
      <string name="cut">Обрізати</string>
      <string name="damaged_file">Файл пошкоджений</string>
@@ -1493,7 +1493,7 @@
      <string name="no_albums_alert">Немає доступних альбомів</string>
      <string name="no_connectivity">Не вдалося визначити деякі локації через проблеми з підключенням</string>
      <string name="no_location">Місце не зазначене</string>
-     <string name="no_map_app">Немає застосунків навігації</string>
+     <string name="no_map_app">Немає додатків навігації</string>
      <string name="no_network_connected">Інтернет недоступний</string>
      <string name="no_picture_or_video">Немає фото й відео</string>
      <string name="no_secret_photo">Нема секретних фото</string>
@@ -1732,18 +1732,18 @@
      <string name="sdcard_root">Накопичувач</string>
      <string name="seconds">сек.</string>
      <string name="secret_album_display_name">Секретний альбом</string>
-     <string name="secret_album_password_first_use_msg">Пароль конфіденційності буде використовуватися для повідомлень, фото, файлів, нотаток, програм та подібних даних.</string>
+     <string name="secret_album_password_first_use_msg">Пароль конфіденційності буде використовуватися для повідомлень, фото, файлів, нотаток, додатків та подібних даних.</string>
      <string name="secret_album_password_first_use_title">Пароль конфіденційності</string>
      <string name="secret_album_password_update_dialog_cancel">Скасувати</string>
      <string name="secret_album_password_update_dialog_msg">Галерея буде використовувати пароль конфіденційності</string>
      <string name="secret_album_password_update_dialog_ok">ОК</string>
      <string name="secret_album_password_update_dialog_title">Пароль конфіденційності</string>
-     <string name="secret_album_password_update_first_user_dialog_msg">Пароль конфіденційності буде використовуватися для повідомлень, фото, файлів, нотаток, програм та подібних даних.</string>
+     <string name="secret_album_password_update_first_user_dialog_msg">Пароль конфіденційності буде використовуватися для повідомлень, фото, файлів, нотаток, додатків та подібних даних.</string>
      <string name="secret_album_password_update_first_user_dialog_title">Пароль конфіденційності</string>
-     <string name="secret_album_set_pc_password_dialog_msg">Пароль буде використовуватись для програм, фото, нотаток, прихованих папок и подібних даних.</string>
+     <string name="secret_album_set_pc_password_dialog_msg">Пароль буде використовуватись для додатків, фото, нотаток, прихованих папок и подібних даних.</string>
      <string name="secret_album_set_pc_password_dialog_ok">Встановити</string>
      <string name="secret_album_set_pc_password_dialog_title">Установка паролю</string>
-     <string name="secret_album_set_pc_password_first_use_msg">Пароль буде використовуватись для програм, фото, нотаток, прихованих папок и подібних даних.</string>
+     <string name="secret_album_set_pc_password_first_use_msg">Пароль буде використовуватись для додатків, фото, нотаток, прихованих папок и подібних даних.</string>
      <string name="secret_album_set_pc_password_first_use_title">Пароль конфіденційності</string>
      <string name="secret_reason_space_full">Альбом в Mi Cloud заповнений</string>
      <string name="secret_reason_too_large">Файл занадто великий</string>
@@ -1779,7 +1779,7 @@
      <string name="set_group">Група</string>
      <string name="set_hidden_album">Сховати</string>
      <string name="set_image">Застосувати</string>
-     <string name="set_label_all_albums">Усі альбоми</string>
+     <string name="set_label_all_albums">Всі альбоми</string>
      <string name="set_label_local_albums">Локальні альбоми</string>
      <string name="set_label_mtp_devices">Mtp-пристрої</string>
      <string name="set_lock_and_wallpaper">Встановлення шпалер…</string>
@@ -1893,7 +1893,7 @@
      <string name="tip_file_info">Файл:</string>
      <string name="tip_file_path">Розташування:</string>
      <string name="tip_not_download">Відео буде завантажено при відтворенні</string>
-     <string name="tip_screenshot_package_info">"Ім'я програми:"</string>
+     <string name="tip_screenshot_package_info">"Ім'я додатку:"</string>
      <string name="title">Назва</string>
      <string name="title_set_name">"Ввести ім'я"</string>
      <string name="title_warn">Попередження</string>

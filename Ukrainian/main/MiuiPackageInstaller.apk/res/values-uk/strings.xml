@@ -79,7 +79,7 @@
      <string name="connected_via_wfa">Підключено через Wi-Fi асистента</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Відміна</string>
-     <string name="cta_dialog_msg">Для нормальної роботи програми і отримання оновлення, необхідно мати доступ до мережі. А також доступ до місця розташування.</string>
+     <string name="cta_dialog_msg">Для нормальної роботи додатку і отримання оновлення, необхідно мати доступ до мережі. А також доступ до місця розташування.</string>
      <string name="cta_dialog_title">Підключення до мережі</string>
      <string name="current_permissions_category">Поточні дозволи</string>
      <string name="grant_dialog_button_deny_anyway">Заборонити все одно</string>
@@ -146,7 +146,7 @@
      <string name="review_button_continue">Продовжити</string>
      <string name="saved_network">Захищено %1$s</string>
      <string name="settings_package">com.android.settings</string>
-     <string name="uninstall_all_blocked_profile_owner">Ця програма потрібна для декількох користувачів або профілів і буде видалено для них</string>
+     <string name="uninstall_all_blocked_profile_owner">Цей додаток потрібний для декількох користувачів або профілів і буде видалено для них</string>
      <string name="uninstall_update_text_multiuser">Замінити цей додаток на заводський? Всі дані будуть видалені. Це відноситься до всіх користувачів цього пристрою, в тому числі і до робочих профілів.</string>
      <string name="wear_not_allowed_dlg_text">Установка або видалення не підтримується на годиннику</string>
      <string name="wear_not_allowed_dlg_title">Android Wear</string>
@@ -173,8 +173,8 @@
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
 	<string name="grant_dialog_button_deny_dont_ask_again">"Заборонити і не перепитувати"</string>
-    <string name="grant_dialog_how_to_change">Ви можете змінити це пізніше в Налаштування> Застосунки</string>
-    <string name="preference_show_system_apps">Показувати системні застосунки</string>
+    <string name="grant_dialog_how_to_change">Ви можете змінити це пізніше в Налаштування> Додатки</string>
+    <string name="preference_show_system_apps">Показувати системні додатки</string>
     <string name="safe_guard_support">Підтримка: %1$s</string>
     <string name="safe_relative">Безпечні дозволи</string>
     <string name="privacy_relative">Небезпечні дозволи</string>
@@ -195,16 +195,16 @@
     <string name="perm_action_prompt">Запит</string>
     <string name="perm_action_reject">Заборонити</string>
     <string name="unknown_installer">Невідомий встановник ПК</string>
-    <string name="dlg_app_replacement_statement_with_version">"Застосунок: %1$s 
+    <string name="dlg_app_replacement_statement_with_version">"Додаток: %1$s 
 Інстальована версія: %3$s 
 Версія оновлення: %2$s 
 
 Всі користувацькі дані буде збережено.
 Продовжити інсталяцію?"</string>
     <string name="lift_ban">Зняти заборону</string>
-    <string name="uninstall_confirm_question">Видалити цей застосунок?</string>
-    <string name="uninstall_failed_retained_app_msg">Застосунок, змінений оператором, не може бути видаленим</string>
-    <string name="install_failed_system_incompatible">Цей застосунок не сумісний із системою MIUI</string>
+    <string name="uninstall_confirm_question">Видалити цей додаток?</string>
+    <string name="uninstall_failed_retained_app_msg">Додаток, змінений оператором, не може бути видаленим</string>
+    <string name="install_failed_system_incompatible">Цей додаток не сумісний із системою MIUI</string>
     <string name="permission_group_title_charges_related">Телефон</string>
     <string name="permission_group_title_privacy_related">Конфіденційність</string>
     <string name="permission_group_title_media_related">Медіа</string>
@@ -213,22 +213,22 @@
     <string name="permission_action_accept">Дозволити</string>
     <string name="permission_action_prompt">Із запитом</string>
     <string name="permission_action_reject">Заборонити</string>
-    <string name="permission_send_sms_descx">Застосунок може відправляти SMS і MMS</string>
+    <string name="permission_send_sms_descx">Додаток може відправляти SMS і MMS</string>
     <string name="virus_scan_install">" "<u>продовжити інсталяцію</u>" "</string>
-    <string name="virus_scan_is_virus">Застосунок містить вірус, рекомендується видалити!</string>
-    <string name="virus_scan_is_risk">Застосунок містить погрозу, продовжити інсталяцію?</string>
+    <string name="virus_scan_is_virus">Додаток містить вірус, рекомендується видалити!</string>
+    <string name="virus_scan_is_risk">Додаток містить погрозу, продовжити інсталяцію?</string>
     <string name="virus_scan_clear">Видалити</string>
     <string name="virus_scan_caller_unknown">Невідомо</string>
-    <string name="app_name">Інсталяція застосунків</string>
+    <string name="app_name">Інсталяція додатків</string>
     <string name="install">Інсталювати</string>
     <string name="done">Готове</string>
     <string name="security_settings_desc">Дозволити цьому застосунку:</string>
     <string name="cancel">Скасувати</string>
     <string name="unknown">Невідомо</string>
     <string name="installing">Інсталяція…</string>
-    <string name="install_done">Застосунок інстальовано</string>
-    <string name="install_confirm_question">Інсталювати цей застосунок?</string>
-    <string name="install_failed">Застосунок не інстальовано</string>
+    <string name="install_done">Додаток інстальовано</string>
+    <string name="install_confirm_question">Інсталювати цей додаток?</string>
+    <string name="install_failed">Додаток не інстальовано</string>
     <string name="install_failed_invalid_apk">Файл ушкоджений</string>
     <string name="install_failed_inconsistent_certificates">Підпис оновлення не збігається з підписом встановленого застосунка. Перед інсталяцією видаліть стару версію</string>
     <string name="install_failed_older_sdk">Цей пакет підтримується лише в системі Android більш пізніх версій</string>
@@ -236,41 +236,41 @@
     <string name="install_failed_file_not_found">Зазначений пакет вилучено до завершення інсталяції</string>
     <string name="install_failed_verify_failed">Пакет не перевірено і не може бути інстальовано</string>
     <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте інсталювати його пізніше.</string>
-    <string name="install_failed_msg">Не вдалося інсталювати застосунок \"%1$s\"</string>
+    <string name="install_failed_msg">Не вдалося інсталювати додаток \"%1$s\"</string>
     <string name="launch">Відкрити</string>
     <string name="unknown_apps_dlg_title">Інсталяцію заблоковано</string>
-    <string name="unknown_apps_dlg_text">Для забезпечення безпеки пристрою заблоковано інсталяцію застосунків, отриманих не з Google Play</string>
+    <string name="unknown_apps_dlg_text">Для забезпечення безпеки пристрою заблоковано інсталяцію додатків, отриманих не з Google Play</string>
     <string name="ok">ОК</string>
     <string name="settings">Налаштування</string>
-    <string name="allow_source_dlg_title">Дозволити додавання нового джерела для застосунків?</string>
-    <string name="allow_source_dlg_text">"%1$s прагне інсталювати інші застосунки.
+    <string name="allow_source_dlg_title">Дозволити додавання нового джерела для додатків?</string>
+    <string name="allow_source_dlg_text">"%1$s прагне інсталювати інші додатки.
 
 Дозволити та запам'ятати вибір?"</string>
     <string name="manage_applications">Керування</string>
-    <string name="dlg_app_replacement_title">Заміна застосунка</string>
-    <string name="dlg_app_replacement_statement">"Застосунок, який ви інсталюєте, замінить вже існуючий.
+    <string name="dlg_app_replacement_title">Заміна додатку</string>
+    <string name="dlg_app_replacement_statement">"Додаток, який ви інсталюєте, замінить вже існуючий.
 
 Всі користувацькі дані будуть збережені"</string>
-    <string name="dlg_sys_app_replacement_statement">"Застосунок, який ви інсталюєте, є системним.
+    <string name="dlg_sys_app_replacement_statement">"Додаток, який ви інсталюєте, є системним.
 
 Всі користувацькі дані будуть збережені.
 Продовжити інсталяцію?"</string>
     <string name="out_of_space_dlg_title">Недостатньо місця</string>
-    <string name="out_of_space_dlg_text">"Не вдалося інсталювати застосунок \"%1$s\". Звільніть пам'ять і повторіть спробу"</string>
+    <string name="out_of_space_dlg_text">"Не вдалося інсталювати додаток \"%1$s\". Звільніть пам'ять і повторіть спробу"</string>
     <string name="dlg_ok">ОК</string>
-    <string name="app_not_found_dlg_title">Застосунок не знайдений</string>
-    <string name="app_not_found_dlg_text">Застосунок не був знайдений у списку інстальованих застосунків</string>
+    <string name="app_not_found_dlg_title">Додаток не знайдений</string>
+    <string name="app_not_found_dlg_text">Додаток не був знайдений у списку інстальованих додатків</string>
     <string name="uninstall_application_title">Видалення застосунка</string>
     <string name="uninstall_update_title">Видалення оновлення</string>
     <string name="uninstall_activity_text">\"%1$s\" є частиною обраного застосунка</string>
-    <string name="uninstall_application_text">Застосунок буде вилучено</string>
+    <string name="uninstall_application_text">Додаток буде вилучено</string>
     <string name="uninstall_update_text">Буде відновлено вихідну версію застосунка</string>
     <string name="uninstalling">Видалення…</string>
     <string name="uninstall_done">Видалення завершене</string>
     <string name="uninstall_failed">Помилка при видаленні</string>
     <string name="uninstall_failed_device_policy_manager">Не вдалося видалити пакет, тому що він обраний для адміністрування пристрою</string>
     <string name="manage_device_administrators">Налаштування адміністрування</string>
-    <string name="uninstall_failed_msg">Видалити застосунок %1$s не вдалося</string>
+    <string name="uninstall_failed_msg">Видалити додаток %1$s не вдалося</string>
     <string name="Parse_error_dlg_title">Синтаксична помилка</string>
     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла неполадка</string>
     <string name="all">Всі дозволи</string>
@@ -282,16 +282,16 @@
     <string name="button_next">Далі</string>
     <string name="button_remove">Видалити</string>
     <string name="installer_name">Джерело: %1$s</string>
-    <string name="main_title">Інсталювати застосунок</string>
+    <string name="main_title">Інсталювати додаток</string>
     <string name="permission_warn_hint">Дозволи застосунку:</string>
-    <string name="permission_warn_title">Застосунок завантажено з невідомого джерела</string>
+    <string name="permission_warn_title">Додаток завантажено з невідомого джерела</string>
     <string name="progress_verifying">Перевірка…</string>
     <string name="update_log_default">Немає списку змін</string>
     <string name="update_time">%4$s дата выпуску: %2$s/%3$s/%1$s</string>
     <string name="update_title">%1$s оновлено</string>
-    <string name="warn_message">Ваші особисті дані більше вразливі для атак застосунків з невідомих джерел</string>
-    <string name="warn_title">Підозрілі застосунки</string>
-	<string name="dlg_appstore_notice">Завантажте цей застосунок через &lt;u>&lt;font color=#91c727>Маркет&lt;/font>&lt;/u></string>
+    <string name="warn_message">Ваші особисті дані більше вразливі для атак додатків з невідомих джерел</string>
+    <string name="warn_title">Підозрілі додатки</string>
+	<string name="dlg_appstore_notice">Завантажте цей додаток через &lt;u>&lt;font color=#91c727>Маркет&lt;/font>&lt;/u></string>
     <string name="lift_ban_once">Інсталювати</string>
 	<string name="activity_package_delete_confirm_title">Попередження</string>
     <string name="app_store_install_hint">Інсталювати</string>
@@ -314,13 +314,13 @@
     <string name="btn_text_scaning">Сканування…</string>
     <string name="btn_text_security_install">Замінити на безпечну версію</string>
     <string name="btn_text_security_scan">Сканер безпеки</string>
-    <string name="install_from_appstore_hint">Рекомендуємо інсталювати застосунок за допомогою &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
+    <string name="install_from_appstore_hint">Рекомендуємо інсталювати додаток за допомогою &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
     <string name="message_apk_checking">Перевірка APK…</string>
     <string name="message_appstore_verify_has_new_version">Інсталювати нову версію застосунку за допомогою App Store?</string>
-    <string name="message_appstore_verify_inconsistent">Підписи застосунків різняться. Ви можете інсталювати застосунок за допомогою App Store.</string>
-    <string name="message_appstore_verify_ok">Цей застосунок пройшов повну перевірку безпеки у App Store</string>
+    <string name="message_appstore_verify_inconsistent">Підписи додатків різняться. Ви можете інсталювати додаток за допомогою App Store.</string>
+    <string name="message_appstore_verify_ok">Цей додаток пройшов повну перевірку безпеки у App Store</string>
     <string name="message_full_scanning">Повне сканування…</string>
-    <string name="message_install_in_market">Рекомендовано інсталювати застосунки з App Store</string>
+    <string name="message_install_in_market">Рекомендовано інсталювати додатки з App Store</string>
     <string name="message_quick_scanning">Швидке сканування…</string>
     <string name="message_security_scaning">Сканування…</string>
     <string name="waiting_tip">Завантаження…</string>
@@ -330,8 +330,8 @@
     <string name="abc_action_bar_up_description">Вгору</string>
     <string name="abc_action_menu_overflow_description">Ще</string>
     <string name="abc_action_mode_done">Готово</string>
-    <string name="abc_activity_chooser_view_see_all">Показати усі</string>
-    <string name="abc_activitychooserview_choose_application">Оберіть застосунок</string>
+    <string name="abc_activity_chooser_view_see_all">Показати всі</string>
+    <string name="abc_activitychooserview_choose_application">Оберіть додаток</string>
     <string name="abc_search_hint">Пошук…</string>
     <string name="abc_searchview_description_clear">Очистити запити</string>
     <string name="abc_searchview_description_query">Пошукові запити</string>
@@ -342,22 +342,22 @@
     <string name="abc_shareactionprovider_share_with_application">Поділитися з %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="additional_permissions">Додаткові дозволи</string>
-    <string name="allPerms">Усі</string>
-    <string name="all_permissions">Усі дозволи</string>
+    <string name="allPerms">Всі</string>
+    <string name="all_permissions">Всі дозволи</string>
     <string name="app_permissions">Дозволи застосунку</string>
-    <string name="app_permissions_breadcrumb">Застосунки</string>
-    <string name="app_permissions_group_summary">Дозволено застосунків %1$d з %2$d</string>
+    <string name="app_permissions_breadcrumb">Додатки</string>
+    <string name="app_permissions_group_summary">Дозволено додатків %1$d з %2$d</string>
     <string name="current_permission_template">%1$s з %2$s</string>
     <string name="default_permission_description">виконувати невідомі дії</string>
     <string name="devicePerms">Доступ до пристрою</string>
     <string name="grant_confirm_question">Надати наступні дозволи? Буде надано доступ до:</string>
     <string name="grant_dialog_button_allow">Так</string>
     <string name="grant_dialog_button_deny">Ні</string>
-    <string name="install_confirm_question_no_perms">Інсталювати цей застосунок? Застосунок не потребує жодного спеціального дозволу.</string>
-    <string name="install_confirm_question_update">Інсталювати оновлення для цього існуючого застосунку? Ваші дані буде збережено. Оновлений застосунок отримає доступ до:</string>
-    <string name="install_confirm_question_update_no_perms">Інсталювати оновлення для цього існуючого застосунку? Ваші дані буде збережено. Застосунок не потребує жодного спеціального дозволу.</string>
-    <string name="install_confirm_question_update_system">Інсталювати оновлення для цього системного застосунку? Ваші дані буде збережено. Оновлений застосунок отримає доступ до:</string>
-    <string name="install_confirm_question_update_system_no_perms">Інсталювати оновлення для цього системного застосунку? Ваші дані буде збережено. Застосунок не потребує жодного спеціального дозволу.</string>
+    <string name="install_confirm_question_no_perms">Інсталювати цей Додаток? додаток не потребує жодного спеціального дозволу.</string>
+    <string name="install_confirm_question_update">Інсталювати оновлення для цього існуючого застосунку? Ваші дані буде збережено. Оновлений додаток отримає доступ до:</string>
+    <string name="install_confirm_question_update_no_perms">Інсталювати оновлення для цього існуючого застосунку? Ваші дані буде збережено. Додаток не потребує жодного спеціального дозволу.</string>
+    <string name="install_confirm_question_update_system">Інсталювати оновлення для цього системного застосунку? Ваші дані буде збережено. Оновлений додаток отримає доступ до:</string>
+    <string name="install_confirm_question_update_system_no_perms">Інсталювати оновлення для цього системного застосунку? Ваші дані буде збережено. Додаток не потребує жодного спеціального дозволу.</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_playback_controls_closed_captioning_disable">Вимкнути відключені титри</string>
@@ -369,7 +369,7 @@
     <string name="lb_playback_controls_more_actions">Інші дії</string>
     <string name="lb_playback_controls_pause">Пауза</string>
     <string name="lb_playback_controls_play">Відтворити</string>
-    <string name="lb_playback_controls_repeat_all">Повторювати усі</string>
+    <string name="lb_playback_controls_repeat_all">Повторювати всі</string>
     <string name="lb_playback_controls_repeat_none">Повтор увімк.</string>
     <string name="lb_playback_controls_repeat_one">Повторювати 1</string>
     <string name="lb_playback_controls_rewind">Перехід</string>
@@ -394,13 +394,13 @@
     <string name="never_ask_again">Більше не запитувати</string>
     <string name="newPerms">Нові</string>
     <string name="next">Далі</string>
-    <string name="no_apps">Немає застосунків</string>
+    <string name="no_apps">Немає додатків</string>
     <string name="no_new_perms">Це оновлення не потребує жодних нових дозволів</string>
     <string name="no_permissions">Немає дозволів</string>
-    <string name="old_sdk_deny_warning">Цей застосунок було розроблено для старої версії Android. Можлива некоректна робота застосунку.</string>
+    <string name="old_sdk_deny_warning">Цей додаток було розроблено для старої версії Android. Можлива некоректна робота застосунку.</string>
     <string name="orb_search_action">Пошук дій</string>
     <string name="other_permissions">Інші можливості застосунку</string>
-    <string name="permdesc_togglePermissions">Дозволяє власнику запускати користувацький інтерфейс для перемикання дозволів застосунків. Не є необхідним для безпечних застосунків.</string>
+    <string name="permdesc_togglePermissions">Дозволяє власнику запускати користувацький інтерфейс для перемикання дозволів додатків. Не є необхідним для безпечних додатків.</string>
     <string name="permission_request_title">Запит дозволу</string>
     <string name="permission_summary_enforced_by_policy">Примушені конфіденційністю</string>
     <string name="permission_title">Дозволи %1$s</string>
@@ -408,19 +408,19 @@
     <string name="permlab_togglePermissions">перемикати дозволи</string>
     <string name="privacyPerms">Конфеденційність</string>
     <string name="screen_overlay_button">Відкрити налаштування</string>
-    <string name="screen_overlay_message">Щоб змінити це налаштування дозволу, необхідно спочатку вимкнути накладання екрану у Налаштуваннях > Застосунки</string>
+    <string name="screen_overlay_message">Щоб змінити це налаштування дозволу, необхідно спочатку вимкнути накладання екрану у Налаштуваннях > Додатки</string>
     <string name="screen_overlay_title">Виявлене накладання екрану</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="system_warning">У випадку відхилення цього дозволу, основні функції пристою можуть функціонувати не належним чином</string>
-    <string name="uninstall_application_text_all_users">Видалити застосунок для <b>усіх</b> користувачів? Застосунок та його дані буде видалено для <b>усіх</b> користувачів пристрою.</string>
-    <string name="uninstall_application_text_user">Видалити цей застосунок для користувача %1$s?</string>
-    <string name="uninstall_blocked_device_owner">Цей застосунок потребує прав адміністратора та не може бути видалений</string>
-    <string name="uninstall_blocked_profile_owner">Цей застосунок необхідний для Вашого робочого профілю та не може бути видалений</string>
+    <string name="uninstall_application_text_all_users">Видалити додаток для <b>усіх</b> користувачів? Додаток та його дані буде видалено для <b>усіх</b> користувачів пристрою.</string>
+    <string name="uninstall_application_text_user">Видалити цей додаток для користувача %1$s?</string>
+    <string name="uninstall_blocked_device_owner">Цей додаток потребує прав адміністратора та не може бути видалений</string>
+    <string name="uninstall_blocked_profile_owner">Цей додаток необхідний для Вашого робочого профілю та не може бути видалений</string>
     <string name="uninstall_failed_device_policy_manager_of_user">Неможливо видалити, бо цей пакет є активним адміністратором пристрою для користувача %1$s</string>
-    <string name="unknown_apps_admin_dlg_text">Адміністратор не дозволяє інсталяцію застосунків, отриманих з невідомих джерел</string>
+    <string name="unknown_apps_admin_dlg_text">Адміністратор не дозволяє інсталяцію додатків, отриманих з невідомих джерел</string>
     <string name="v7_preference_off">Вимк.</string>
     <string name="v7_preference_on">Увімк.</string>
-	<string name="unknown_apps_dlg_text1">"На пристрої заблоковано інсталяцію застосунків з невідомих джерел. Ви можете вимкнути цю функцію у "</string>
+	<string name="unknown_apps_dlg_text1">"На пристрої заблоковано інсталяцію додатків з невідомих джерел. Ви можете вимкнути цю функцію у "</string>
     <string name="unknown_apps_dlg_text2">\"Налаштуваннях\"</string>
     <string name="unknown_apps_dlg_text3">.</string>
 </resources>

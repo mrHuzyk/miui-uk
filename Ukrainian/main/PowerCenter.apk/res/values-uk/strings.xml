@@ -131,9 +131,9 @@
     <string name="power_save_on_time_option_summary">По закінченні періоду пристрій повернеться в недавній режим</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_rank_title">Використання батареї</string>
-    <string name="power_consume_rank_software">Програма</string>
+    <string name="power_consume_rank_software">Додаток</string>
     <string name="power_consume_rank_hardware">Пристрій</string>
-    <string name="power_consume_total_software">Програми: %1$d%%</string>
+    <string name="power_consume_total_software">додатку: %1$d%%</string>
     <string name="power_consume_total_hardware">Пристрій: %1$d%%</string>
     <string name="power_consume_other">Інше</string>
     <string name="battery_desc_other_apps">Загальна потужність, яка використовується іншими програмами.</string>
@@ -284,9 +284,9 @@
     <string name="power_analysis_consume_title">Використання батареї</string>
     <string name="power_analysis_suggestion_need_optimize">Виявлено несправності</string>
     <string name="power_analysis_suggestion_no_issue">Батарея в порядку</string>
-    <string name="power_analyze_app_consume_detail">Перевірка програм, які споживають батарею ...</string>
+    <string name="power_analyze_app_consume_detail">Перевірка додатків, які споживають батарею ...</string>
     <string name="power_analyze_scaning_battery_status">Перевірка батареї…</string>
-    <string name="power_analyze_scaning_consume_apps">Перевірка програми, які споживають батарею</string>
+    <string name="power_analyze_scaning_consume_apps">Перевірка додатку, які споживають батарею</string>
     <string name="power_analyze_scaning_settings">Перевірка налаштувань…</string>
     <string name="power_auto_save_title">Автопереключення</string>
     <string name="power_battery_status">Статус батареї</string>
@@ -301,7 +301,7 @@
     <string name="power_deep_save_disconnect_lock_screen">Відключати мобільний інтернет, коли екран заблокований.</string>
     <string name="power_deep_save_gps_manage">GPS в фоновому режимі</string>
     <string name="power_deep_save_shutdown_on_time">Таймер живлення</string>
-    <string name="power_deep_save_summary">Фонові програми та екрану блокування</string>
+    <string name="power_deep_save_summary">Фонові додатку та екрану блокування</string>
     <string name="power_deep_save_title">Додатково</string>
     <string name="power_optimize_app_consume_abnormal">Високе споживання батареї</string>
     <string name="power_optimize_auto_catagory_title">Автоматично</string>
@@ -309,9 +309,9 @@
     <string name="power_optimize_battery_normal">Батарея в нормі</string>
     <string name="power_optimize_brightness">Яскравість екрану</string>
     <string name="power_optimize_catagory_fixed_title">Виправлено</string>
-    <string name="power_optimize_close_app">Закривати програми з високим споживанням живлення</string>
-    <string name="power_optimize_disable_app_autostart">Запобігання автозапуску програм</string>
-    <string name="power_optimize_disable_start_other_app">Запобігання відкриття програм іншими програмами</string>
+    <string name="power_optimize_close_app">Закривати додатку з високим споживанням живлення</string>
+    <string name="power_optimize_disable_app_autostart">Запобігання автозапуску додатків</string>
+    <string name="power_optimize_disable_start_other_app">Запобігання відкриття додатків іншими програмами</string>
     <string name="power_optimize_gps_background_manage">GPS в фоновому режимі</string>
     <string name="power_optimize_manual_catagory_title">Вручну</string>
     <string name="power_optimize_mobile_data_background_manage">Інтернет в фоновому режимі</string>
@@ -321,7 +321,7 @@
     <string name="power_optimize_sell_ad">Інформація про енергозбереження</string>
     <string name="power_optimize_start_cpu_manage">Продуктивність ЦП</string>
     <string name="power_rank_consume_abnormal">Виявлено високе споживання батареї</string>
-    <string name="power_rank_suggest_disable_gps">Спробуйте заборонити цій програмі використовувати GPS у фоновому режимі</string>
+    <string name="power_rank_suggest_disable_gps">Спробуйте заборонити цій додатку використовувати GPS у фоновому режимі</string>
     <string name="power_usage_background_control">Налаштування фонового режиму</string>
     <string name="power_usage_background_control_gps">GPS в фоновому режимі</string>
     <string name="power_usage_background_control_mobile_data">Інтернет в фоновому режимі</string>

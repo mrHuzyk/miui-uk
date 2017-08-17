@@ -2,7 +2,7 @@
 <resources>
     <string-array name="backup_dialog_content_type">
         <item>Параметри Wi-Fi</item>
-        <item>Усі застосунки</item>
+        <item>Всі додатки</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Браузер</item>
@@ -27,8 +27,8 @@
     </string-array>
     <string-array name="app_type_desc">
         <item>Дані</item>
-        <item>Застосунок</item>
-        <item>Застосунок і дані</item>
+        <item>Додаток</item>
+        <item>Додаток і дані</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Контакти</item>

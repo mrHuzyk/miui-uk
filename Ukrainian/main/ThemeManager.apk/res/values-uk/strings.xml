@@ -54,8 +54,8 @@
      <string name="account_info">Мій акаунт</string>
      <string name="account_name_not_login">Не авторизировано</string>
      <string name="account_unactivated">Mi акаунт не активований</string>
-     <string name="all_resources">Усі</string>
-     <string name="all_ringtone_resource">Усі</string>
+     <string name="all_resources">Всі</string>
+     <string name="all_ringtone_resource">Всі</string>
      <string name="app_name">Теми</string>
      <string name="apply_default_font_tip">Продовжити використовувати поточний шрифт?</string>
      <string name="apply_font_btn_exclude">Без шрифту</string>
@@ -204,7 +204,7 @@
      <string name="resource_comment_3_star">3</string>
      <string name="resource_comment_4_star">4</string>
      <string name="resource_comment_5_star">5</string>
-     <string name="resource_comment_all_comments">Усі</string>
+     <string name="resource_comment_all_comments">Всі</string>
      <string name="resource_comment_average_score">Оцінка</string>
      <string name="resource_comment_bad_comments">Погані</string>
      <string name="resource_comment_current_version">Поточна версія</string>
@@ -454,7 +454,7 @@
      <string name="theme_immediately_apply_tip">Застосувати відновлення теми?</string>
      <string name="theme_import_from_sdcard">Імпортувати тему</string>
      <string name="theme_is_external_priority_storage">Зберігати на SD карту</string>
-     <string name="theme_is_external_priority_storage_summary">Застосунок буде перезавантажено для застосування налаштувань</string>
+     <string name="theme_is_external_priority_storage_summary">Додаток буде перезавантажено для застосування налаштувань</string>
      <string name="theme_multiple_button_title_customize">Компоненти</string>
      <string name="theme_name">%1$s</string>
      <string name="theme_no">Скасувати</string>

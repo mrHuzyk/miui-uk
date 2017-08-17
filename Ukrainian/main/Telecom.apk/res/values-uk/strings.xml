@@ -45,14 +45,14 @@
     <string name="respond_via_sms_confirmation_format">Повідомлення відправлено %s</string>
     <string name="enable_account_preference_title">Виклики акаунтів</string>
     <string name="outgoing_call_not_allowed_user_restriction">Дозволені тільки екстрені виклики власником пристрою</string>
-    <string name="outgoing_call_not_allowed_no_permission">Ця програма не може здійснювати вихідні дзвінки без дозволу телефону</string>
+    <string name="outgoing_call_not_allowed_no_permission">Цей додаток не може здійснювати вихідні дзвінки без дозволу телефону</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Неправильний номер телефону</string>
     <string name="duplicate_video_call_not_allowed">Виклик не може бути доданий в даний момент</string>
     <string name="video_call_not_allowed_if_tty_enabled">Відключіть режим TTY для здійснення відеовикликів</string>
     <string name="no_vm_number">Відсутній номер голосової пошти</string>
     <string name="no_vm_number_msg">Немає збереженого номеру голосової пошти на SIM карті</string>
     <string name="add_vm_number_str">Додати номер</string>
-    <string name="change_default_dialer_dialog_title">Зміна програми телефону</string>
+    <string name="change_default_dialer_dialog_title">Зміна додатку телефону</string>
     <string name="change_default_dialer_with_previous_app_set_text">Використовувати за замовчуванням %1$s замість %2$s?</string>
     <string name="change_default_dialer_no_previous_app_set_text">Використовувати за замовчуванням %s?</string>
     <string name="test_account_0_label">Q Mobile</string>

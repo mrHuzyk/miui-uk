@@ -42,8 +42,8 @@
      <string name="provision_toast_timeout">Час в онлайні минув. Перевірте налаштування мережі.</string>
      <string name="recovery_power_need_plugged">Підключіть зарядний пристрій для оновлення</string>
      <string name="recovery_power_plugged_warning">Переконайтеся, що зарядний пристрій підключено до пристрою протягом всього оновлення</string>
-	<string name="alpha_apply">Подати заявку в програму бета-тестування</string>
-     <string name="alpha_cancel">Скасувати заявку в програму бета-тестування</string>
+	<string name="alpha_apply">Подати заявку в додаток бета-тестування</string>
+     <string name="alpha_cancel">Скасувати заявку в додаток бета-тестування</string>
      <string name="alpha_cancel_cancel">Відміна</string>
      <string name="alpha_cancel_confirm">Скасувати заявку?</string>
      <string name="alpha_cancel_ok">OK</string>
@@ -356,7 +356,7 @@
     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
     <string name="notification_auto_reboot_seccess_title">Пристрій оновлено автоматично</string>
     <string name="recovery_failed_button">ОК</string>
-    <string name="recovery_failed_msg">"На вашому пристрої недостатньо пам'яті для оновлення через Recovery. Спробуйте використовувати програму Mi PC Suite:
+    <string name="recovery_failed_msg">"На вашому пристрої недостатньо пам'яті для оновлення через Recovery. Спробуйте використовувати додаток Mi PC Suite:
 http://miui.su/mi-pc-suite"</string>
     <string name="recovery_failed_notification_msg">Використовуйте Mi PC Suite для оновлення</string>
     <string name="recovery_failed_title">Не можна увійти в Recovery</string>
@@ -412,7 +412,7 @@ http://miui.su/mi-pc-suite"</string>
     <string name="pm_root_acquired_rooting">Отримання ROOT доступу %s</string>
     <string name="pm_root_checking">Перевірка системної інформації…</string>
     <string name="pm_root_fail_button_retry">Повторити</string>
-    <string name="pm_root_fail_msg">Програма не може отримати ROOT доступ. Повторіть спробу.</string>
+    <string name="pm_root_fail_msg">Додаток не може отримати ROOT доступ. Повторіть спробу.</string>
     <string name="pm_root_fail_service_busy">Дочекайтеся завершення оновлення та повторіть спробу</string>
     <string name="pm_root_fail_title">Не вдається отримати ROOT доступ</string>
     <string name="pm_root_notification_download_title">Завантаження…</string>
@@ -420,9 +420,9 @@ http://miui.su/mi-pc-suite"</string>
     <string name="pm_root_success_title">ROOT доступ дозволено</string>
     <string name="root_acquired">Дозволити ROOT доступ</string>
     <string name="root_agree_check_box_title">Я розумію ризик ROOT доступу</string>
-    <string name="root_dangerous_msg">При увімкненому ROOT доступі ваші дані можуть бути в небезпеці, через дії шкідливих програм</string>
+    <string name="root_dangerous_msg">При увімкненому ROOT доступі ваші дані можуть бути в небезпеці, через дії шкідливих додатків</string>
     <string name="set_network_root_msg">Для отримання ROOT доступу увімкніть мережу Wi-Fi</string>
-    <string name="updater_service_busy_msg">Ця програма використовує службу оновлення, щоб отримати доступ до кореневої системи необхідних вихідних файлів.</string>
+    <string name="updater_service_busy_msg">Цей додаток використовує службу оновлення, щоб отримати доступ до кореневої системи необхідних вихідних файлів.</string>
     <string name="updater_service_busy_title">Служба оновлення зайнята</string>
 	<string name="notification_uncrypt_summary_hm">Натисніть, щоб перезавантажити пристрій</string>
     <string name="notification_uncrypt_title_hm">Необхідне перезавантаження</string>

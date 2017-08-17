@@ -128,7 +128,7 @@
     <string name="upgrae_miui_tip">Потрібно оновити прошивку MIUI</string>
     <string name="not_upgrade">Немає оновлень</string>
     <string name="upgrade">Оновити</string>
-    <string name="upgrae_skb_tip">Потрібно оновити версію віртуальної SIM. Перезапустіть програму.</string>
+    <string name="upgrae_skb_tip">Потрібно оновити версію віртуальної SIM. Перезапустіть додаток.</string>
     <string name="continued">Продовжити</string>
     <string name="reset">Вихід</string>
 	<string name="add_image_summary_text">Натисніть для завантаження %1$s</string>

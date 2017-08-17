@@ -77,7 +77,7 @@
     <string name="resource_select">Вибрати</string>
     <string name="android_ringtone_default_with_actual">Мелодія за замовчуванням (%1$s)</string>
     <string name="loading">Завантаження…</string>
-    <string name="app_name_which_call">Застосунок: %s</string>
+    <string name="app_name_which_call">Додаток: %s</string>
     <string name="app_version_which_call">Версія: %s</string>
     <string name="policy_name">Політика: %s</string>
     <string name="mibi_license">Угода з користувачем Mi Credit</string>
@@ -87,9 +87,9 @@
     <string name="call_record_or">або</string>
     <string name="call_record_sample_prefix_miui">Виклик</string>
     <string name="caller_info_name_delimiter">або</string>
-    <string name="first_back_long_press_message">"Ви хочете, щоб при тривалому натисканні клавіші \"Назад\" закривалося поточний застосунок і його служби? 
+    <string name="first_back_long_press_message">"Ви хочете, щоб при тривалому натисканні клавіші \"Назад\" закривалося поточний додаток і його служби? 
 Включіть цю можливість через налаштування клавіш."</string>
-    <string name="force_exit_message">Програму \"%1$s\" закрито</string>
+    <string name="force_exit_message">додаток \"%1$s\" закрито</string>
     <string name="lockscreen_access_pattern_cell_added">Додано комірку</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищений</string>
     <string name="lockscreen_access_pattern_detected">Ключ завершено</string>
@@ -125,7 +125,7 @@
     <string name="auto_start_warning_deny">Скасувати</string>
     <string name="key_btn_space">Пробіл</string>
     <string name="key_btn_ok">OK</string>
-    <string name="force_exit_skip_message">Застосунок \"%1$s\" є ключовим компонентом системи. Неможливо примусово завершити процес.</string>
+    <string name="force_exit_skip_message">Додаток \"%1$s\" є ключовим компонентом системи. Неможливо примусово завершити процес.</string>
     <string name="fm_record_smaple_prefix_miui">Запис FM</string>
     <string name="perm_send_push_dspt">Дозволити Push-повідомлення Xiaomi</string>
     <string name="perm_send_push_lab">Відправити Push-повідомлення</string>

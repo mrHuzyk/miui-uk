@@ -44,12 +44,12 @@
         <item quantity="many">Видалити діалоги? (%1$d)</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Вибрані діалоги мають спільні вкладення, видалити їх усі??</item>
-        <item quantity="zero">Вибрані діалоги мають спільні вкладення, видалити їх усі??</item>
+        <item quantity="other">Вибрані діалоги мають спільні вкладення, видалити їх всі??</item>
+        <item quantity="zero">Вибрані діалоги мають спільні вкладення, видалити їх всі??</item>
         <item quantity="one">Діалог має спільні вкладення, видалити його?</item>
-        <item quantity="two">Вибрані діалоги мають спільні вкладення, видалити їх усі??</item>
-        <item quantity="few">Вибрані діалоги мають спільні вкладення, видалити їх усі??</item>
-        <item quantity="many">Вибрані діалоги мають спільні вкладення, видалити їх усі??</item>
+        <item quantity="two">Вибрані діалоги мають спільні вкладення, видалити їх всі??</item>
+        <item quantity="few">Вибрані діалоги мають спільні вкладення, видалити їх всі??</item>
+        <item quantity="many">Вибрані діалоги мають спільні вкладення, видалити їх всі??</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Видалити чернетки з діалогів? (%1$d)</item>

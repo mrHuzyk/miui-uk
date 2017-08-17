@@ -25,7 +25,7 @@
     <string name="content_description_miui_version">MIUI 8</string>
     <string name="other_settings_auto_update">Автоматичне оновлення</string>
     <string name="other_settings_auto_update_summary">Автоматично завантажувати та встановлювати оновлення системи</string>
-    <string name="other_settings_upload_debug_log_summary">Діагностичні дані можуть містити інформацію про використання пристрою, системи та застосунків. Ці дані можуть використовуватися для виявлення, аналізу та вирішення проблем.</string>
+    <string name="other_settings_upload_debug_log_summary">Діагностичні дані можуть містити інформацію про використання пристрою, системи та додатків. Ці дані можуть використовуватися для виявлення, аналізу та вирішення проблем.</string>
     <string name="other_settings_upload_debug_log_title">Надсилання даних</string>
 	<string name="other_settings_mifg_online_content">Щоденні шпалери</string>
     <string name="other_settings_mifg_online_content_summary">Отримувати кожного деня нові шпалери для екрану блокування</string>
@@ -89,7 +89,7 @@
     <string name="content_description_complete">Готово</string>
     <string name="content_description_start">Почати</string>
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, застосунків і сервісів</string>
+    <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, додатків і сервісів</string>
     <string name="other_settings_permission">Дозволи сервісів MIUI</string>
     <string name="other_settings_permission_summary">Включити системні сервіси, які необхідні для коректної роботи дозволу</string>
 </resources>

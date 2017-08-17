@@ -64,14 +64,14 @@
     <string name="accessibility_wifi_three_bars">Три смужки сигналу Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Максимальний сигнал Wi-Fi.</string>
     <string name="process_kernel_label">ОС Android</string>
-    <string name="data_usage_uninstalled_apps">Видалені програми</string>
-    <string name="data_usage_uninstalled_apps_users">Видалені програми та користувачі</string>
+    <string name="data_usage_uninstalled_apps">Видалені додатку</string>
+    <string name="data_usage_uninstalled_apps_users">Видалені додатку та користувачі</string>
     <string name="tether_settings_title_usb">"Прив'язка USB"</string>
     <string name="tether_settings_title_wifi">Порт. точка дост.</string>
     <string name="tether_settings_title_bluetooth">"Прив'язка Bluetooth"</string>
     <string name="tether_settings_title_usb_bluetooth">"Прив'язка"</string>
     <string name="tether_settings_title_all">Режим модема</string>
-    <string name="managed_user_title">Усі робочі додатки</string>
+    <string name="managed_user_title">Всі робочі додатки</string>
     <string name="user_guest">Гість</string>
     <string name="unknown">Невідомо</string>
     <string name="running_process_item_user_label">Користувач: %1$s</string>
@@ -110,7 +110,7 @@
     <string name="category_work">Робота</string>
     <string name="development_settings_title">Параметри розробника</string>
     <string name="development_settings_enable">Увімкнути параметри розробника</string>
-    <string name="development_settings_summary">Установити параметри для розробки програми</string>
+    <string name="development_settings_summary">Установити параметри для розробки додатку</string>
     <string name="development_settings_not_available">Параметри розробника не доступні для цього користувача</string>
     <string name="vpn_settings_not_available">Цей користувач не може налаштовувати мережу VPN</string>
     <string name="tethering_settings_not_available">Цей користувач не може налаштовувати режим модема</string>
@@ -155,21 +155,21 @@
     <string name="debug_view_attributes">Увімкнути оцінку атрибуції переглядів</string>
     <string name="mobile_data_always_on_summary">Не вимикати мобільний Інтернет, навіть якщо ввімкнено Wi‑Fi (щоб швидше переходити між мережами).</string>
     <string name="adb_warning_title">Дозвол. налагодж. USB?</string>
-    <string name="adb_warning_message">Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп’ютером і пристроєм, встановлення програм на вашому пристрої без сповіщення та читання даних журналу.</string>
+    <string name="adb_warning_message">Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп’ютером і пристроєм, встановлення додатків на вашому пристрої без сповіщення та читання даних журналу.</string>
     <string name="adb_keys_warning_message">Скасувати доступ до налагодження USB для всіх комп’ютерів, які раніше отримали таке право?</string>
     <string name="dev_settings_warning_title">Дозволити налаштування розробки?</string>
-    <string name="dev_settings_warning_message">Ці налаштування застосовуються лише з метою розробки. Вони можуть спричиняти вихід з ладу або неправильне функціонування вашого пристрою чи програм у ньому.</string>
+    <string name="dev_settings_warning_message">Ці налаштування застосовуються лише з метою розробки. Вони можуть спричиняти вихід з ладу або неправильне функціонування вашого пристрою чи додатків у ньому.</string>
     <string name="verify_apps_over_usb_title">Встановлення через USB</string>
     <string name="verify_apps_over_usb_summary">Перевіряти безпеку додатків, установлених через ADB/ADT.</string>
     <string name="bluetooth_disable_absolute_volume_summary">Функція абсолютної гучності Bluetooth вимикається, якщо на віддалених пристроях виникають проблеми, як-от надто висока гучність або втрата контролю.</string>
     <string name="enable_terminal_title">Локальний термінал</string>
-    <string name="enable_terminal_summary">Увімк. програму-термінал, що надає локальний доступ до оболонки</string>
+    <string name="enable_terminal_summary">Увімк. додаток-термінал, що надає локальний доступ до оболонки</string>
     <string name="hdcp_checking_title">Перевірка HDCP</string>
     <string name="hdcp_checking_dialog_title">Порядок перевірки HDCP</string>
     <string name="debug_debugging_category">Налагодження</string>
     <string name="debug_app">Вибрати додаток для налагодження</string>
     <string name="debug_app_not_set">Не встановлено додаток для налагодження</string>
-    <string name="debug_app_set">Програма для налагодження: %1$s</string>
+    <string name="debug_app_set">Додаток для налагодження: %1$s</string>
     <string name="select_application">Вибір додатка</string>
     <string name="no_application">Нічого</string>
     <string name="wait_for_debugger">Зачекайте на налагоджувач</string>
@@ -247,7 +247,7 @@
     <string name="convert_to_file_encryption_done">Уже конвертовано в зашифрований файл</string>
     <string name="title_convert_fbe">Конвертація в зашифрований файл</string>
     <string name="convert_to_fbe_warning">"Конвертувати розділ даних у зашифрований файл.
- Застереження. Усі дані буде стерто.
+ Застереження. Всі дані буде стерто.
  Це альфа-версія функції. Вона може працювати неналежним чином.
  Щоб продовжити, натисніть \"Стерти та конвертувати…\"."</string>
     <string name="button_convert_fbe">Стерти та конвертувати…</string>
@@ -311,7 +311,7 @@
     <string name="abc_searchview_description_clear">Очистити запит</string>
     <string name="abc_searchview_description_submit">Надіслати запит</string>
     <string name="abc_searchview_description_voice">Голосовий пошук</string>
-    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати додаток</string>
     <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
     <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
     <string name="abc_shareactionprovider_share_with">Надіслати через</string>

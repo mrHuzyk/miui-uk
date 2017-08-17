@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Програма встановлення сертифіката</string>
+    <string name="app_name">Додаток встановлення сертифіката</string>
 	<string name="one_wapi_ascrt">Один сертифікат WAPI AS</string>
     <string name="one_wapi_usercrt">Один сертифікат користувача WAPI</string>
     <string name="pick_file_title">Виберіть сертифікат</string>

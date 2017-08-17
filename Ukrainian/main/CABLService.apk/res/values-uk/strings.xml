@@ -8,5 +8,5 @@
     <string name="cabl_levels_title">Рівні підсвічування</string>
     <string name="cabl_levels_summary">Зменшений рівень підсвічування сприяє зменшенню енергоспоживання, але рівень підсвічування буде нижче</string>
     <string name="cabl_info_default">Невідомо</string>
-    <string name="cabl_version_title">Версія програми</string>
+    <string name="cabl_version_title">Версія додатку</string>
 </resources>

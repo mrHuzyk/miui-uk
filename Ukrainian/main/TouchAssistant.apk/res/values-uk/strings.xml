@@ -4,7 +4,7 @@
      <string name="alipay_package">com.eg.android.AlipayGphone</string>
      <string name="app_name">Помічник натискань</string>
      <string name="app_not_installed">Не встановлено</string>
-     <string name="applications">Програми</string>
+     <string name="applications">додатку</string>
      <string name="category_others">Інше</string>
      <string name="category_setting">Налаштування</string>
      <string name="close_panel">Вимкнути помічник натискань</string>
@@ -42,8 +42,8 @@
      <string name="nfc_trans_card_not_in_use">Транспортну картку не активовано</string>
      <string name="not_working">%s (вимкнено)</string>
      <string name="open_panel">Увімкнути помічник натискань</string>
-     <string name="pay_entry_dialog_title_select">Оберіть програму</string>
-     <string name="pay_entry_dialog_title_setting">Оберіть програму для запуску</string>
+     <string name="pay_entry_dialog_title_select">Оберіть додаток</string>
+     <string name="pay_entry_dialog_title_setting">Оберіть додаток для запуску</string>
      <string name="pref_category_mipay">NFC ярлики</string>
      <string name="pref_category_others">Інше</string>
      <string name="pref_category_quick_pay">Швидкий платіж</string>

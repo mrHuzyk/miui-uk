@@ -37,32 +37,32 @@
         <item quantity="one">%d год.</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">Застосунки з автозапуском (%d)</item>
-        <item quantity="one">Застосунки з автозапуском (%d)</item>
+        <item quantity="other">Додатки з автозапуском (%d)</item>
+        <item quantity="one">Додатки з автозапуском (%d)</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">Застосунки без автозапуску (%d)</item>
-        <item quantity="one">Застосунки без автозапуску (%d)</item>
+        <item quantity="other">Додатки без автозапуску (%d)</item>
+        <item quantity="one">Додатки без автозапуску (%d)</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">Дозволів: %d</item>
         <item quantity="one">Дозволів: %d</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">Застосунків: %d</item>
-        <item quantity="one">Застосунків: %d</item>
+        <item quantity="other">Додатків: %d</item>
+        <item quantity="one">Додатків: %d</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
-        <item quantity="one">Застосунки з ROOT доступом(%d)</item>
+        <item quantity="other">Додатки з ROOT доступом (%d)</item>
+        <item quantity="one">Додатки з ROOT доступом(%d)</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
-        <item quantity="one">Застосунки з ROOT доступом (%d)</item>
+        <item quantity="other">Додатки з ROOT доступом (%d)</item>
+        <item quantity="one">Додатки з ROOT доступом (%d)</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Доступні оновлення застосунків: %d</item>
-        <item quantity="one">Доступні оновлення застосунків: %d</item>
+        <item quantity="other">Доступні оновлення додатків: %d</item>
+        <item quantity="one">Доступні оновлення додатків: %d</item>
     </plurals>
 	<plurals name="hint_similar_image_header_left">
        <item quantity="other">Груп: %d</item>
@@ -110,11 +110,11 @@
        <item quantity="many">Переглядів: %1$d</item>
     </plurals>
 	<plurals name="deepclean_app_summary">
-       <item quantity="other">Встановлено застосунків: %d</item>
-       <item quantity="one">Встановлено застосунків: %d</item>
+       <item quantity="other">Встановлено додатків: %d</item>
+       <item quantity="one">Встановлено додатків: %d</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-       <item quantity="other">Ви можете очистити кеш для %d застосунків</item>
+       <item quantity="other">Ви можете очистити кеш для %d додатків</item>
        <item quantity="one">Ви можете очистити кеш для %d застосунку</item>
     </plurals>
     <plurals name="deepclean_large_summary">
@@ -134,10 +134,10 @@
        <item quantity="one">Знайдено %d відео​</item>
     </plurals>
 	<plurals name="deepclean_install_info_desc1">
-       <item quantity="other">Встановлено %d застосунків</item>
-       <item quantity="one">Встановлена %d застосунок</item>
-       <item quantity="few">Встановлені %d застосунків</item>
-       <item quantity="many">Встановлено %d застосунків</item>
+       <item quantity="other">Встановлено %d додатків</item>
+       <item quantity="one">Встановлена %d додаток</item>
+       <item quantity="few">Встановлені %d додатків</item>
+       <item quantity="many">Встановлено %d додатків</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
        <item quantity="other">Видалити %d фото?</item>

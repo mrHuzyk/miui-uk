@@ -73,9 +73,9 @@
         <item quantity="one">Пароль повинен містити хоча б 1 небуквений символ</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">"Застосунків: %d 
+        <item quantity="other">"Додатків: %d 
 доступ до читання повідомлень"</item>
-        <item quantity="one">"Застосунків: %d 
+        <item quantity="one">"Додатків: %d 
 доступ до читання повідомлень"</item>
     </plurals>
     <plurals name="wrong_pin_code">
@@ -99,41 +99,41 @@
         <item quantity="one">Залишилося натискань для відправлення звіту про помилки: %1$d</item>
     </plurals>
 	<plurals name="manage_condition_providers_summary_nonzero">
-       <item quantity="other">Декілька застосунків (%d) задають умови</item>
-       <item quantity="one">%d застосунок задає умови</item>
+       <item quantity="other">Декілька додатків (%d) задають умови</item>
+       <item quantity="one">%d Додаток задає умови</item>
     </plurals>
 	<plurals name="status_bar_settings_disabled_header_title">
-       <item quantity="other">Застосунків без сповіщень: %s</item>
-       <item quantity="one">Застосунків без сповіщень: %s</item>
+       <item quantity="other">Додатків без сповіщень: %s</item>
+       <item quantity="one">Додатків без сповіщень: %s</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-       <item quantity="other">Застосунків зі сповіщенями: %s</item>
-       <item quantity="one">Застосунків зі сповіщенями: %s</item>
+       <item quantity="other">Додатків зі сповіщенями: %s</item>
+       <item quantity="one">Додатків зі сповіщенями: %s</item>
     </plurals>
 	<plurals name="auto_disable_screenbuttons_disabled_header_title">
-       <item quantity="other">Увімкнені для %d застосунків</item>
+       <item quantity="other">Увімкнені для %d додатків</item>
        <item quantity="one">Увімкнені для %d застосунку</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-       <item quantity="other">Вимкнені для %d застосунків</item>
+       <item quantity="other">Вимкнені для %d додатків</item>
        <item quantity="one">Вимкнені для %d застосунку</item>
     </plurals>
     <plurals name="domain_urls_apps_summary">
-       <item quantity="other">%d застосунків можуть відкривати свої підтримувані посилання</item>
-       <item quantity="zero">Немає застосунків, які можуть відкривати свої підтримувані посилання.</item>
-       <item quantity="one">%d застосунок може відкривати свої підтримувані посилання</item>
-       <item quantity="few">%d застосунок можуть відкривати свої підтримувані посилання</item>
-       <item quantity="many">%d застосунок можуть відкривати свої підтримувані посилання</item>
+       <item quantity="other">%d додатків можуть відкривати свої підтримувані посилання</item>
+       <item quantity="zero">Немає додатків, які можуть відкривати свої підтримувані посилання.</item>
+       <item quantity="one">%d Додаток може відкривати свої підтримувані посилання</item>
+       <item quantity="few">%d Додаток можуть відкривати свої підтримувані посилання</item>
+       <item quantity="many">%d Додаток можуть відкривати свої підтримувані посилання</item>
     </plurals>
     <plurals name="high_power_count">
        <item quantity="other">%d застосункам дозволено ігнорувати оптимізацію батареї</item>
        <item quantity="one">%d застосунку дозволено ігнорувати оптимізацію батареї</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-       <item quantity="other">"%1$d застосунків використовують пам'ять (%2$s)"</item>
-       <item quantity="one">"%1$d застосунок використовує пам'ять (%2$s)"</item>
-       <item quantity="few">"%1$d застосунків використовують пам'ять (%2$s)"</item>
-       <item quantity="many">"%1$d застосунків використовують пам'ять (%2$s)"</item>
+       <item quantity="other">"%1$d додатків використовують пам'ять (%2$s)"</item>
+       <item quantity="one">"%1$d Додаток використовує пам'ять (%2$s)"</item>
+       <item quantity="few">"%1$d додатків використовують пам'ять (%2$s)"</item>
+       <item quantity="many">"%1$d додатків використовують пам'ять (%2$s)"</item>
     </plurals>
     <plurals name="permissions_summary">
        <item quantity="other">Надається %d дозволів</item>

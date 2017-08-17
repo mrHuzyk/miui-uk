@@ -63,13 +63,13 @@
      <string name="lucky_result_title">Мені пощастить</string>
      <string name="wlan_change_protection_detail">Не перемикати на Wi-Fi автоматично при підключенні до мобільного інтернету</string>
      <string name="wlan_change_protection_title">Заборонити перемикання мережі</string>
-     <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів.</string>
+     <string name="anti_disturb_msg_detail">Вимкнути всі сповіщення, окрім вхідних викликів.</string>
      <string name="anti_disturb_msg_title">Не турбувати</string>
      <string name="app_name">Сервіс захисту</string>
      <string name="app_not_installed_toast">"App isn't installed on your device."</string>
      <string name="application_item_already_permission">Дозволено</string>
      <string name="application_item_disable">Заборонено</string>
-     <string name="auto_import_games">Усі ігри в одному місці</string>
+     <string name="auto_import_games">Всі ігри в одному місці</string>
      <string name="booster_suc">Прискорення увімкнено</string>
      <string name="boostering">Прискорення…</string>
      <string name="cancel_button">Скасувати</string>
@@ -95,7 +95,7 @@
      <string name="install_game_count">Обрано ігор: %d</string>
      <string name="loading">Завантаження…</string>
      <string name="main_toolbar_purchase">Поповнити</string>
-     <string name="man_add_application">Додавання програм до автозапуску</string>
+     <string name="man_add_application">Додавання додатків до автозапуску</string>
      <string name="miuishare_title_more">Ще</string>
      <string name="miuishare_title_share">Надіслати</string>
      <string name="miuishare_wechat_timeline_title">Моменти WeChat</string>
@@ -124,7 +124,7 @@
      <string name="other">Інші налаштування</string>
      <string name="pc_activity_title">Оптимізація батареї</string>
      <string name="pm_lable_name">Про ROOT-доступ</string>
-     <string name="power_autorun_apps_empty">Немає програм з автозапуском</string>
+     <string name="power_autorun_apps_empty">Немає додатків з автозапуском</string>
      <string name="privacy_declare_dialog_title">Умови користування</string>
      <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефону та інформація про оператора буде зашифрована і відправлена на сервер Xiaomi для отримання інформації про оплату</string>
      <string name="release_memory">Очищено ОЗП</string>

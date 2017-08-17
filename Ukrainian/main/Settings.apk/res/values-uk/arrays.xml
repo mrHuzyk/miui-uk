@@ -654,7 +654,7 @@
 		<item>Пароль конфіденційності</item>
         <item>Батьківський контроль</item>
         <item>Файли</item>
-        <item>Захист застосунків</item>
+        <item>Захист додатків</item>
         <item>Другий користувач</item>
      </string-array>
      <string-array name="data_usage_data_range">
@@ -993,7 +993,7 @@
      </string-array>
      <string-array name="screen_key_long_press_action">
         <item>Немає дій</item>
-        <item>Нещодавні застосунки</item>
+        <item>Нещодавні додатки</item>
         <item>Голосовий помічник</item>
         <item>Запустити Google Now</item>
         <item>Закрити поточний додаток</item>
@@ -1011,7 +1011,7 @@
         <item>Клавіша \"Назад\" зліва | Клавіша \"Меню\" справа</item>
      </string-array>
      <string-array name="screen_key_press_action">
-        <item>Нещодавні застосунки</item>
+        <item>Нещодавні додатки</item>
         <item>Показати меню</item>
      </string-array>
      <string-array name="screen_optimize_summary">

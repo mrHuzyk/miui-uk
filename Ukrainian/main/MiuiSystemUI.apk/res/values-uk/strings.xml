@@ -93,7 +93,7 @@
      <string name="accessibility_phone_signal_full">Надійний сигнал мережі</string>
      <string name="accessibility_phone_three_bars">Сигнал мережі: 3</string>
      <string name="accessibility_phone_two_bars">Сигнал мережі: 2</string>
-     <string name="accessibility_recent">Нещодавні застосунки</string>
+     <string name="accessibility_recent">Нещодавні додатки</string>
      <string name="accessibility_remove_notification">Видалити сповіщення</string>
      <string name="accessibility_ringer_silent">Режим \"Без звуку\"</string>
      <string name="accessibility_ringer_vibrate">Вибровідгук</string>
@@ -123,9 +123,9 @@
      <string name="battery_low_title">Підключіть зарядний пристрій</string>
      <string name="battery_low_why">Статистика</string>
      <string name="battery_profiles">Режими батареї</string>
-     <string name="block_notification_content_text">Вимкнути сповіщення для програми \"%1$s\"?</string>
+     <string name="block_notification_content_text">Вимкнути сповіщення для додатку \"%1$s\"?</string>
      <string name="block_notification_text">Приховати</string>
-     <string name="block_record_notification_more_text">%1$s, застосунків: %2$d</string>
+     <string name="block_record_notification_more_text">%1$s, додатків: %2$d</string>
      <string name="block_record_notification_text">%1$s. Натисніть для перегляду.</string>
      <string name="block_record_notification_title">Блокувати запис</string>
      <string name="bluetooth_a2dp_profile_summary_connected">"Під'єднано як медіа-пристрій"</string>
@@ -177,7 +177,7 @@
      <string name="bluetooth_tethered">Спільний модем доступний через Bluetooth</string>
      <string name="call_status_dialing">Виклик</string>
      <string name="call_status_ringing">Виклик</string>
-     <string name="camera_key_action_app_title">Відкрити застосунок</string>
+     <string name="camera_key_action_app_title">Відкрити додаток</string>
      <string name="camera_key_action_category_title">Дія клавіши \"MI\"</string>
      <string name="camera_key_action_none_title">Запуск камери</string>
      <string name="camera_key_action_setting_title">Клавіша \"MI\"</string>
@@ -189,7 +189,7 @@
      <string name="camera_key_action_shortcut_wake">Блокування</string>
      <string name="camera_key_action_toggle_title">Перемикач</string>
      <string name="certinstaller_package">com.android.certinstaller</string>
-     <string name="chooseUsbActivity">Виберіть застосунок для пристроїв USB</string>
+     <string name="chooseUsbActivity">Виберіть додаток для пристроїв USB</string>
      <string name="connected_via_passpoint">Підключено через %1$s</string>
      <string name="connected_via_wfa">Підключено через Wi-Fi помічника</string>
      <string name="data_usage_disabled_dialog">"Досягнути ліміт трафіка.
@@ -206,7 +206,7 @@
      <string name="disable_notification_summary">Не показувати сповіщення цього застосунка.</string>
      <string name="disable_notification_title">Блокування сповіщень</string>
      <string name="dismount_storage">Тільки зарядка</string>
-     <string name="dlg_confirm_kill_storage_users_text">При вимкнені режиму накопичувача деякі застосунки будуть недоступні</string>
+     <string name="dlg_confirm_kill_storage_users_text">При вимкнені режиму накопичувача деякі додатки будуть недоступні</string>
      <string name="dlg_confirm_kill_storage_users_title">Увімкнути USB накопичувач</string>
      <string name="dlg_error_title">USB операція невдала</string>
      <string name="dlg_ok">ОК</string>
@@ -246,7 +246,7 @@
      <string name="list_delimeter">", "</string>
      <string name="lland">L Land</string>
      <string name="lockscreen_carrier_default"> </string>
-     <string name="long_screenshot_not_support_msg">Поточне програма не підтримує довгі скріншоти</string>
+     <string name="long_screenshot_not_support_msg">Поточний додаток не підтримує довгі скріншоти</string>
      <string name="long_screenshot_out_of_memory_error">Помилка збереження. Скріншот занадто великий.</string>
      <string name="long_screenshot_processing">Обробка…</string>
      <string name="long_screenshot_stop">Зберегти</string>
@@ -275,7 +275,7 @@
      <string name="notification_header_title">Сповіщення</string>
      <string name="notification_hidden_text">Зміст приховано</string>
      <string name="notification_manager">Керування повідомленнями</string>
-     <string name="notification_manager_des">Налаштування повідомлень для кожної програми</string>
+     <string name="notification_manager_des">Налаштування повідомлень для кожної додатку</string>
      <string name="notification_otg_gamestick_in">Ігровий контроллер підключено</string>
      <string name="notification_otg_gamestick_out">Ігровий контроллер вимкнено</string>
      <string name="notification_otg_keyboard_in">Клавіатура підключена</string>
@@ -359,13 +359,13 @@ d MMMM yyyy"</string>
      <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
      <string name="status_bar_network_flow_warning_to_purchase">Сьогодні: %1$s | Перевищення: %2$s | Оплата ></string>
      <string name="status_bar_network_name_separator">|</string>
-     <string name="status_bar_no_recent_apps">Немає нещодавніх застосунків</string>
-     <string name="status_bar_notification_inspect_item_title">Про застосунок</string>
+     <string name="status_bar_no_recent_apps">Немає нещодавніх додатків</string>
+     <string name="status_bar_notification_inspect_item_title">Про додаток</string>
      <string name="status_bar_recent_guide_all">"Потягніть вгору для закриття
  вниз для блокування"</string>
      <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
      <string name="status_bar_recent_guide_top">Потягніть вгору для закриття</string>
-     <string name="status_bar_recent_inspect_item_title">Про застосунок</string>
+     <string name="status_bar_recent_inspect_item_title">Про додаток</string>
      <string name="status_bar_recent_memory_info1">Вільно %1$s з %2$s</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Натисніть для повернення в Диктофон</string>
@@ -419,7 +419,7 @@ d MMMM yyyy"</string>
      <string name="torch_opened">Ліхтарик відкритий</string>
      <string name="usb_accessory_confirm_prompt">Відкрити %1$s коли цей USB аксесуар підключений?</string>
      <string name="usb_accessory_permission_prompt">Дозволити застосунку %1$s доступ до USB-аксесуару?</string>
-     <string name="usb_accessory_uri_prompt">Немає встановлених застосунків працюючих з цим USB аксесуаром. Взнайте більше про цей пристрій на %1$s</string>
+     <string name="usb_accessory_uri_prompt">Немає встановлених додатків працюючих з цим USB аксесуаром. Взнайте більше про цей пристрій на %1$s</string>
      <string name="usb_debugging_always">Завжди дозволяти налагодження для цього ПК</string>
      <string name="usb_debugging_message">"Ключ RSA комп'ютера:
 %1$s"</string>

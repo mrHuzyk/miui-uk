@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Налаштування</string>
     <string name="search_label">Налаштування</string>
-    <string name="application_desc">Застосунок</string>
+    <string name="application_desc">Додаток</string>
     <string name="settings_description">Налаштування</string>
 	<string name="update_keywords">перевірити оновлення системи;оновлення MIUI</string>
 </resources>

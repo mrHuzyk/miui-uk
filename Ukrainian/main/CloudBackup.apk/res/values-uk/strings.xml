@@ -36,7 +36,7 @@
     <string name="backup_fail">Не вдалося скопіювати іконки Стільниці</string>
     <string name="backup_size">Розмір: %s</string>
     <string name="backup_success">Копіювання іконок Стільниці завершене</string>
-    <string name="backup_to_cloud">Резервне копіювання застосунків</string>
+    <string name="backup_to_cloud">Резервне копіювання додатків</string>
     <string name="button_cancel">"Скасувати"</string>
     <string name="button_delete">Видалити</string>
     <string name="button_next">Далі</string>
@@ -45,13 +45,13 @@
     <string name="cloud_app_check_data">Перевірка даних Mi Cloud…</string>
     <string name="cloud_app_current_device">Поточний пристрій</string>
     <string name="cloud_app_dont_restore">Налаштувати як новий пристрій</string>
-    <string name="cloud_app_no_data">Попередньо інстальовані застосунки не знайдено</string>
+    <string name="cloud_app_no_data">Попередньо інстальовані додатки не знайдено</string>
     <string name="cloud_app_no_network">"Немає підключення до мережі"</string>
     <string name="cloud_app_other_devices">Інші пристрої</string>
     <string name="cloud_app_restore_app_and_data">Налаштування пристрою</string>
-    <string name="cloud_app_restore_data">Особисті дані та попередньо інстальовані застосунки автоматично відображатимуться на пристрої</string>
+    <string name="cloud_app_restore_data">Особисті дані та попередньо інстальовані додатки автоматично відображатимуться на пристрої</string>
     <string name="cloud_app_restore_error">"Не вдалося відновити"</string>
-    <string name="cloud_app_restore_success">Застосунки відновлено</string>
+    <string name="cloud_app_restore_success">Додатки відновлено</string>
     <string name="cloud_app_restore_wifi_prompt">Щоб відновити з Mi Cloud, необхідно підключитися до мережі Wi-Fi.</string>
     <string name="cloud_back_up_task">Копіювання</string>
     <string name="cloud_restore_from_other_device">"Зупинити відновлення %s та видалити копію? Ви не зможете скасувати цю дію."</string>
@@ -96,7 +96,7 @@
     <string name="settings_backup">Налаштування системи</string>
     <string name="start_backup_to_micloud">Резервне копіювання до Mi Cloud</string>
     <string name="start_recover">Відновленняь %s</string>
-    <string name="wait_icon_download">Завантаження іконок застосунків</string>
+    <string name="wait_icon_download">Завантаження іконок додатків</string>
 	<string name="about_to_recover">Iнформація</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -112,7 +112,7 @@
 *\u0009\u0009\u0009\u0009Налаштування сповіщень
 *\u0009\u0009\u0009\u0009Налаштування режиму Не турбувати
 *\u0009\u0009\u0009\u0009Налаштування MIUI та системи
-Примітка: Дані інстальваних застосунків не будуть зберігатися у Mi Cloud."</string>
+Примітка: Дані інстальваних додатків не будуть зберігатися у Mi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Обрати час</string>
     <string name="cloud_back_up_frequence_long">Кожні 7 днів</string>
     <string name="cloud_back_up_frequence_short">Щодня</string>
@@ -129,19 +129,19 @@
     <string name="cloud_backup_detail_manage">Керування бекапом</string>
     <string name="cloud_backup_detail_manage_summary">Бекап: %1$s | Розмір: %2$s</string>
     <string name="cloud_backup_detail_state">Бекап Mi Cloud</string>
-    <string name="cloud_backup_detail_state_summary">Застосунки, стільниці та системні налаштування</string>
+    <string name="cloud_backup_detail_state_summary">Додатки, стільниці та системні налаштування</string>
     <string name="cloud_backup_detail_time">" | Последний бекап: %1$s"</string>
     <string name="confirm_restore">Відновити</string>
-    <string name="confirm_restore_summary">Стільницю буде перезавантажено та застосунки автоматично відновляться після підключення до Wi-Fi</string>
+    <string name="confirm_restore_summary">Стільницю буде перезавантажено та додатки автоматично відновляться після підключення до Wi-Fi</string>
     <string name="confirm_restore_title">Відновлення</string>
     <string name="query_restore_back_view">Бекап Mi Cloud</string>
-    <string name="query_restore_description">Відновити застосунки стільниці та налаштування, використовуючи цей бекап. Це замінить дані вже встановлених застосунків. Відсутні у бекапі застосунки буде переміщено на останню стільницю.</string>
-    <string name="query_restore_summary">Знайдено бекап Mi Cloud для цього пристрою. Відновити застосунки стільниці та налаштування або використати його як новий пристрій та видалити старий бекап з Mi Cloud?</string>
+    <string name="query_restore_description">Відновити додатки стільниці та налаштування, використовуючи цей бекап. Це замінить дані вже встановлених додатків. Відсутні у бекапі додатки буде переміщено на останню стільницю.</string>
+    <string name="query_restore_summary">Знайдено бекап Mi Cloud для цього пристрою. Відновити додатки стільниці та налаштування або використати його як новий пристрій та видалити старий бекап з Mi Cloud?</string>
     <string name="restore_data_summary">Необхідне підключення до мережі</string>
     <string name="restore_from_this_device">Відновити з цього бекапу</string>
     <string name="restore_home_screen_apps">Відновлення з Mi Cloud</string>
-    <string name="success_open_cloudbackup">Бекап увімкнено для застосунків стільниці</string>
-	<string name="backup_finished_notification_content">Бекап застосунків робочого столу, системних налаштувань, тощо.</string>
+    <string name="success_open_cloudbackup">Бекап увімкнено для додатків стільниці</string>
+	<string name="backup_finished_notification_content">Бекап додатків робочого столу, системних налаштувань, тощо.</string>
     <string name="cloud_backup_have_data">Знайдено бекап у Mi Cloud</string>
     <string name="cloud_backup_select_recover">Оберіть бекап з Mi Cloud</string>
 	<string name="account_error">Помилка акаунта</string>

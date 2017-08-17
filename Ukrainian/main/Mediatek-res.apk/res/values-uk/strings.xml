@@ -17,7 +17,7 @@
     <string name="retries_left">Залишилося: %d</string>
     <string name="invalid_imei">Неправильний IMEI</string>
     <string name="same_imei">Однаковий IMEI</string>
-    <string name="unable_launch_the_ap">Не вдається запустити програму</string>
+    <string name="unable_launch_the_ap">Не вдається запустити додаток</string>
     <string name="keyguard_password_enter_sim1_pin_code">Введіть PIN код для SIM1</string>
     <string name="keyguard_password_enter_sim2_pin_code">Введіть PIN код для SIM2</string>
     <string name="keyguard_password_wrong_sim1_pin_code">Неправильний PIN код для SIM1!</string>
@@ -38,7 +38,7 @@
     <string name="music_pause">Пауза</string>
     <string name="music_library">Бібліотека</string>
     <string name="music_no_songs">Немає пісень</string>
-    <string name="aerr_application_lowmem">Сховище телефону заповнене, програму зупинено. Звільніть місце й спробуйте ще раз</string>
+    <string name="aerr_application_lowmem">Сховище телефону заповнене, додаток зупинено. Звільніть місце й спробуйте ще раз</string>
     <string name="aerr_process_lowmem">Сховище телефону заповнене, обробка зупинена. Звільніть місце й спробуйте ще раз</string>
     <string name="free_memory_btn">Вільне місце</string>
     <string name="free_memory_text">"Мало пам\'яті, звільніть місце"</string>
@@ -103,9 +103,9 @@
  
  Спробуйте ще раз через %d сек."</string>
     <string name="criticallowtitle">Немає місця</string>
-    <string name="criticallowmessage">"Внутрішня пам\'ять заповнена, видаліть непотрібні файли, інакше програми можуть раптово завершити роботу"</string>
+    <string name="criticallowmessage">"Внутрішня пам\'ять заповнена, видаліть непотрібні файли, інакше додатку можуть раптово завершити роботу"</string>
     <string name="nq_sms_filter_title">Фільтр SMS</string>
-    <string name="nq_sms_filter_message">Ця програма може знімати гроші з Вашого рахунку. Продовжити?</string>
+    <string name="nq_sms_filter_message">Ця додаток може знімати гроші з Вашого рахунку. Продовжити?</string>
     <string name="nq_sms_filter_yes">Так</string>
     <string name="nq_sms_filter_no">Немає</string>
     <string name="ext_media_checking_notification_title_sd2">Підготовка SD карти</string>
@@ -203,10 +203,10 @@
     <string name="serviceUnknown">"Помилка з\'єднання або неправильний код MMI"</string>
     <string name="cfServiceNotForwarded">Не передано</string>
     <string name="permlab_receiveCbSms">Отримане CB SMS</string>
-    <string name="permdesc_receiveCbSms">Дозволити програмам одержувати й обробляти CB SMS. Шкідливі програми можуть відстежувати Ваші повідомлення або видаляти їх, не показуючи Вам</string>
+    <string name="permdesc_receiveCbSms">Дозволити програмам одержувати й обробляти CB SMS. Шкідливі додатку можуть відстежувати Ваші повідомлення або видаляти їх, не показуючи Вам</string>
     <string name="invalidPuk">Введіть 8 цифр</string>
     <string name="permlab_receiveDmRegisterSms">Отримана реєстрація DM SMS</string>
-    <string name="permdesc_receiveDmRegisterSms">Дозволити програмі одержувати й обробляти повідомлення DM SMS. Програми, крім DM програм, не повинні це використовувати</string>
+    <string name="permdesc_receiveDmRegisterSms">Дозволити додатку одержувати й обробляти повідомлення DM SMS. додатку, крім DM додатків, не повинні це використовувати</string>
     <string name="serviceClassVideo">Відео</string>
     <string name="VideoView_error_text_bad_file">Відео не може бути відтворене - поганий файл</string>
     <string name="VideoView_error_text_cannot_connect_to_server">Не вдається підключитися до серверу</string>
@@ -219,13 +219,13 @@
     <string name="MmrejectCause6">Виклик не дозволено MM #6</string>
     <string name="Videoview_error_text_invalid_connection">"Помилка з\'єднання (Помилка 403)"</string>
     <string name="undoAll">Скасувати всі</string>
-    <string name="deleteApp">Видалення програм</string>
+    <string name="deleteApp">Видалення додатків</string>
     <string name="deleteMail">Резервне копіювання пошти й видалення сховища</string>
     <string name="RejectCauseTitle">Відмова мережі</string>
     <string name="RestrictedChangedTitle_SIM1">Змінилося обмеження доступу SIM1</string>
     <string name="RestrictedChangedTitle_SIM2">Змінилося обмеження доступу SIM2</string>
 	 <string name="MMRejectCause13">Лише екстрені виклики</string>
-     <string name="aerr_application_lowstorage">Програма зупинена. Внутрішня пам\'ять закінчується. Потрібне очищення.</string>
+     <string name="aerr_application_lowstorage">Додаток зупинено. Внутрішня пам\'ять закінчується. Потрібне очищення.</string>
      <string name="aerr_process_lowstorage">Процес зупинений. Внутрішня пам\'ять закінчується. Потрібне очищення.</string>
      <string name="data_conn_only">Лише мобільный інтернет</string>
      <string name="deleteMails">Видалити пошту</string>
@@ -257,7 +257,7 @@
      <string name="oper_short_99997">AD1</string>
      <string name="oper_short_99999">AD</string>
      <string name="safe_media_volume_warning_title">Попередження</string>
-     <string name="sd_accessing_swtich_user_message">Усі незбережені дані в акаунті власника будуть втрачені</string>
+     <string name="sd_accessing_swtich_user_message">Всі незбережені дані в акаунті власника будуть втрачені</string>
      <string name="sd_accessing_swtich_user_title">Переключити користувача?</string>
      <string name="sdcard_default_path_change">Пам\'ять за замовчуванням змінена</string>
      <string name="sdcard_ready_title">SD карта готова</string>
@@ -322,7 +322,7 @@
      <string name="hdmi_mutex_call_content">HDMI недоступний під час здійснення виклику</string>
      <string name="media_info_audio_not_supported">Помилка відтворення аудіо</string>
      <string name="media_info_video_not_supported">Відео не підтримується</string>
-     <string name="permdesc_wake_device_sensorhub">Дозволяє програмі пробуджувати пристрій за допомогою датчика концентратора.</string>
+     <string name="permdesc_wake_device_sensorhub">Дозволяє додатку пробуджувати пристрій за допомогою датчика концентратора.</string>
      <string name="permlab_wake_device_sensorhub">Пропуждення пристрою</string>
      <string name="save_password_label">Прийняти</string>
      <string name="save_password_message">Запам\'ятати пароль?</string>

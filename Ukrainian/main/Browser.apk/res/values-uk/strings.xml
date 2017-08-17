@@ -76,7 +76,7 @@
      <string name="open_voice_permission">Включити дозволи</string>
      <string name="pref_check_security_url_summary_international">Для забезпечення кращої довідкової служби, дозвольте браузеру отримати доступ до посилань</string>
      <string name="pref_check_security_url_title_international">Отримувати посилання</string>
-     <string name="scanner_uninstalled_text">Для використання, встановіть програму Сканер</string>
+     <string name="scanner_uninstalled_text">Для використання, встановіть додаток Сканер</string>
      <string name="scanner_uninstalled_title">Сканер видалений</string>
      <string name="share_image_text">Мені сподобалося це зображення</string>
      <string name="show_check_security_url_check_tip_dialog_description_international">Щоб отримати відповідні рекомендації, дозвольте браузеру доступ до:</string>
@@ -277,7 +277,7 @@
      <string name="bookmark_action_bar_new_group_title">Нова група</string>
      <string name="bookmark_add_group_text_header">Додати обрані %1$d у групу</string>
      <string name="bookmark_add_to">Додати в</string>
-     <string name="bookmark_btn_select_all">Обрати усі</string>
+     <string name="bookmark_btn_select_all">Обрати всі</string>
      <string name="bookmark_btn_select_none">Скасувати вибір</string>
      <string name="bookmark_cannot_save_url">Неможливо додати до закладинок цю сторінку</string>
      <string name="bookmark_folder_needs_title">Ввести назву теки</string>
@@ -315,7 +315,7 @@
      <string name="bookmarks_root_folder">Коренева тека</string>
      <string name="bookmarks_search">Браузер</string>
      <string name="bottom_bar_tabs_long_click_down_tip_txt">Зруште вниз для закриття</string>
-     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Усі вкладки вже закриті</string>
+     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Всі вкладки вже закриті</string>
      <string name="bottom_bar_tabs_long_click_up_tip_txt">Зруште вверх для закриття</string>
      <string name="browserFrameFileErrorLabel">Проблема з файлом</string>
      <string name="browserFrameFormResubmitLabel" />
@@ -448,7 +448,7 @@
      <string name="defaultBookmarksUpButton">Закладинки</string>
      <string name="delete">Видалити</string>
      <string name="delete_bookmark">З закладинок</string>
-     <string name="delete_bookmark_group_warning">Видалити \"%s\"? Усі закладинки із цієї групи будуть видалені</string>
+     <string name="delete_bookmark_group_warning">Видалити \"%s\"? Всі закладинки із цієї групи будуть видалені</string>
      <string name="delete_bookmark_warning">Видалити закладку \"%s\"?</string>
      <string name="delete_download">Видалити</string>
      <string name="delete_folder">Видалити теку</string>
@@ -481,7 +481,7 @@
      <string name="document_download_title">Завантаження</string>
      <string name="document_open_file">Відкрити %s</string>
      <string name="document_open_message">Рекомендується використовувати WPS Office</string>
-     <string name="document_open_other">Інші застосунки</string>
+     <string name="document_open_other">Інші додатки</string>
      <string name="document_open_title">Відкрити</string>
      <string name="done">Готово</string>
      <string name="dont_remind_again">"Запам'ятати"</string>
@@ -500,7 +500,7 @@
      <string name="download_failed">Помилка завантаження</string>
      <string name="download_filter_all">Усе</string>
      <string name="download_filter_apk">Apk</string>
-     <string name="download_filter_application">Застосунки</string>
+     <string name="download_filter_application">Додатки</string>
      <string name="download_filter_audio">Музика</string>
      <string name="download_filter_image">Фото</string>
      <string name="download_filter_others">Інші</string>
@@ -588,7 +588,7 @@
      <string name="frontedit_add">Додати на стартову</string>
      <string name="general_set_default_browser_dialog_close_txt">Скасувати</string>
      <string name="general_set_default_browser_dialog_ok_txt">ОК</string>
-     <string name="general_set_default_browser_dialog_summary">Використовуйте MIUI застосунки для кращої продуктивності</string>
+     <string name="general_set_default_browser_dialog_summary">Використовуйте MIUI додатки для кращої продуктивності</string>
      <string name="general_set_default_browser_title">Браузер за замовчуванням</string>
      <string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
      <string name="geolocation_permissions_prompt_message">%s запитує Вашу геолокацію</string>
@@ -608,7 +608,7 @@
      <string name="gesture_two_fingers_slide_up_down">Свайп вверх і вниз двома пальцями, щоб відкрити і закрити вкладинку.</string>
      <string name="go_home">Домашня сторінка</string>
      <string name="go_supermarket_button">Відкрити</string>
-     <string name="go_supermarket_title">Використовуйте Mi Store для завантаження застосунків</string>
+     <string name="go_supermarket_title">Використовуйте Mi Store для завантаження додатків</string>
      <string name="gold_medals">Золоті медалі</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="goto_dot">Перейти</string>
@@ -714,8 +714,8 @@
      <string name="menu_theme_setting">Налаштування теми</string>
      <string name="menu_title_clear_all">Очистити всі</string>
      <string name="menu_title_open_file_management">Відкрити провідника</string>
-     <string name="menu_title_pause_all">Зупинити усі</string>
-     <string name="menu_title_resume_all">Запустити усі</string>
+     <string name="menu_title_pause_all">Зупинити всі</string>
+     <string name="menu_title_resume_all">Запустити всі</string>
      <string name="menu_view_download">Завантаження</string>
      <string name="miui_autologin_bar_error">Не вдається авторизуватися</string>
      <string name="miui_autologin_bar_title">Використовувати системний акаунт</string>
@@ -811,7 +811,7 @@
      <string name="multi_select_title">Вибрано: %1$s</string>
      <string name="name">Ярлик</string>
      <string name="nav_bottom_bar_back">Назад</string>
-     <string name="nav_bottom_bar_close_all">Закрити усі</string>
+     <string name="nav_bottom_bar_close_all">Закрити всі</string>
      <string name="nav_bottom_bar_new_tab">Нова вкладка</string>
      <string name="nav_screen_cancel_incognitotab">Вийти з режиму \"Інкогніто\"</string>
      <string name="nav_screen_container_tab_incognito">Інкогніто</string>
@@ -831,7 +831,7 @@
      <string name="new_tab">Нова вкладка</string>
      <string name="next_button_label">Далі</string>
      <string name="night_mode">Нічний режим</string>
-     <string name="no_app_open_document">Відсутній застосунок для відкриття цього файлу</string>
+     <string name="no_app_open_document">Відсутній додаток для відкриття цього файлу</string>
      <string name="no_matches">Немає збігів</string>
      <string name="no_space_alert_cancel">Пізніше</string>
      <string name="no_space_alert_clean">Очищення</string>
@@ -1187,7 +1187,7 @@
      <string name="search_hint">Пошук</string>
      <string name="search_keyword_browser">Браузер</string>
      <string name="search_label">Браузер</string>
-     <string name="search_path_browser">Налаштування > Системні програми > Браузер</string>
+     <string name="search_path_browser">Налаштування > Системні додатку > Браузер</string>
      <string name="search_s139">139</string>
      <string name="search_settings_description">Закладинки й історія пошуку</string>
      <string name="search_shipin">Відео</string>
@@ -1269,8 +1269,8 @@
      <string name="sub_sync_item_browser_title_useful_summary">Синхронізуати головну сторінку браузеру</string>
      <string name="sub_sync_item_browser_title_video">Синхронізація відео</string>
      <string name="sub_sync_item_browser_title_video_summary">Синхронізація списку недавно побаченого відео</string>
-     <string name="sub_sync_item_browser_title_webapp">Веб застосунки</string>
-     <string name="sub_sync_item_browser_title_webapp_summary">Синхронізувати дані веб застосунків</string>
+     <string name="sub_sync_item_browser_title_webapp">Веб додатки</string>
+     <string name="sub_sync_item_browser_title_webapp_summary">Синхронізувати дані веб додатків</string>
      <string name="suggest_access_appstore">Mi Маркет</string>
      <string name="suggest_access_btn_install">Встановити</string>
      <string name="suggest_access_btn_open">Відкрити</string>
@@ -1283,7 +1283,7 @@
      <string name="suggest_access_item_singer_pop">Популярних треків:%d</string>
      <string name="suggest_access_music">Mi Музика</string>
      <string name="suggest_item_delete_text">Видалити</string>
-     <string name="suggest_open_app_failed">Не вдається відкрити застосунок</string>
+     <string name="suggest_open_app_failed">Не вдається відкрити додаток</string>
      <string name="switch_proxy_dialog_msg">Виявлено мережеву атаку. Використовуйте додаток \"Безпека\" для сканування вірусів.</string>
      <string name="switch_proxy_dialog_title">Мережева атака</string>
      <string name="sync_item_browser_summary">Синхронізувати дані браузера</string>
@@ -1415,10 +1415,10 @@
      <string name="webapp_add_to_desktop">До стільниці</string>
      <string name="webapp_add_to_favorite_toast">Додано у обране</string>
      <string name="webapp_addtodeskpop_append">Додано</string>
-     <string name="webapp_app_name">Веб-маркет застосунків</string>
+     <string name="webapp_app_name">Веб-маркет додатків</string>
      <string name="webapp_bottom_bar_addtodesk">Додати до стільниці</string>
      <string name="webapp_bottom_bar_exit">Вихід</string>
-     <string name="webapp_dialog_title">Додати застосунок до стільниці</string>
+     <string name="webapp_dialog_title">Додати додаток до стільниці</string>
      <string name="webapp_menu_addtodesk">Додати до стільниці</string>
      <string name="webapp_menu_already_addtodesk">Вже додано до стільниці</string>
      <string name="webapp_menu_exit">Вихід</string>

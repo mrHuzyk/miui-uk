@@ -35,7 +35,7 @@
 	 <string name="ad_download">Встановити</string>
 	 <string name="download_error_download_file_not_exists">Файл не існує</string>
      <string name="Only_the_wifi">Доступно тільки при підключенні по Wi-Fi</string>
-     <string name="about">Про застосунок</string>
+     <string name="about">Про додаток</string>
      <string name="action_settings">Налаштування</string>
      <string name="ad_mark">Реклама</string>
      <string name="ad_title">Рекомендуємо завантажувати за допомогою %1$s </string>
@@ -47,8 +47,8 @@
      <string name="all_fileter" />
      <string name="all_share_files_content">Ці файли вже видалено</string>
      <string name="all_the_internet">Всі мережі</string>
-     <string name="apk_filter">Програми</string>
-     <string name="app_downloads">Завантаження програми \"%s\"</string>
+     <string name="apk_filter">додатку</string>
+     <string name="app_downloads">Завантаження додатку \"%s\"</string>
      <string name="app_label">Завантаження</string>
      <string name="app_name">Провідник</string>
      <string name="app_size">%1$s</string>
@@ -102,7 +102,7 @@
      <string name="dialog_insufficient_space_on_cache">Не можу закінчити завантаження. Недостатньо місця на внутрішніх носіях.</string>
      <string name="dialog_insufficient_space_on_external">Не можу закінчити завантаження. Недостатньо місця на зовнішніх накопичувачах.</string>
      <string name="dialog_media_not_found">Не можу скачати. Зовнішній носій не доступний.</string>
-     <string name="dialog_msg_disabled_net">Програмі \"%1$s\" заборонений доступ до Інтернету через поточну мережу</string>
+     <string name="dialog_msg_disabled_net">додатку \"%1$s\" заборонений доступ до Інтернету через поточну мережу</string>
      <string name="dialog_msg_recommend">Ви не зможете переглянути рекомендовані ресурси після відключення. Ви можете увімкнути завантаження лише по Wi-Fi для економії мобільного трафіку.</string>
      <string name="dialog_queued_body">Цей файл у черзі на завантаження</string>
      <string name="dialog_title_disabled_net">Доступ до Інтернету</string>
@@ -136,7 +136,7 @@
      <string name="download_list_open_xl_ok">OK</string>
      <string name="download_list_open_xl_title">Відкрити сервіс завантаження Xunlei</string>
      <string name="download_list_title_browser">Завантаження</string>
-     <string name="download_no_application">Немає програм для відкриття цього типу файлу</string>
+     <string name="download_no_application">Немає додатків для відкриття цього типу файлу</string>
      <string name="download_no_application_title">Не можу відкрити файл</string>
      <string name="download_num_size">Завантажень: %1$s | %2$s</string>
      <string name="download_paused">Завантаження припинене</string>
@@ -296,7 +296,7 @@
      <string name="rank_data_empty">Немає завантажень</string>
      <string name="rank_guide_confirm">Продовжити</string>
      <string name="rank_guide_content">Рейтинг популярних завантажень оновлюється щодня</string>
-     <string name="rank_guide_title">Популярні застосунки</string>
+     <string name="rank_guide_title">Популярні додатки</string>
      <string name="rebind_btn">Додати</string>
      <string name="recommend_downloading">Завантаження…</string>
      <string name="recommend_failed">Помилка</string>
@@ -350,7 +350,7 @@
      <string name="select_all">Вибрати все</string>
      <string name="select_operation_items">Вибрано: 0</string>
      <string name="select_sub_file_download">Обрати файл для завантаження</string>
-     <string name="select_subfile_all">Обрати усі</string>
+     <string name="select_subfile_all">Обрати всі</string>
      <string name="selected_count">Вибрано %1$d з %2$d</string>
      <string name="setting_close_debug">Режим налагодження вимкнено</string>
      <string name="setting_debug_fail">Помилка входу до режиму налагодження</string>

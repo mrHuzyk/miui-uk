@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="about">Про застосунок</string>
+     <string name="about">Про додаток</string>
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>
 	 
@@ -253,7 +253,7 @@
      <string name="about_app_name">Відеоплеєр</string>
      <string name="about_developer_label">Разробник</string>
      <string name="about_developer_name">Xiaomi Inc.</string>
-     <string name="about_title">Про застосунок</string>
+     <string name="about_title">Про додаток</string>
      <string name="about_version_label">Версія</string>
      <string name="account_auth_fail">Помилка аутентифікації акаунта</string>
      <string name="actor">Актор</string>
@@ -294,18 +294,18 @@
      <string name="all_media">Все відео</string>
      <string name="already_buy_vip">VIP вже придбано</string>
      <string name="app_charging_wifi_mode">Автооновлення</string>
-     <string name="app_charging_wifi_mode_summary">Автоматично оновлювати застосунок, коли підключено мережу Wi-Fi та пристрій знаходиться на зарядці</string>
+     <string name="app_charging_wifi_mode_summary">Автоматично оновлювати додаток, коли підключено мережу Wi-Fi та пристрій знаходиться на зарядці</string>
      <string name="app_latest_version">Немає нових версій</string>
      <string name="app_name">Відео</string>
      <string name="app_plugin_ready">Компонентів встановлено: %1$s</string>
      <string name="app_recommend">Рекомендовані</string>
      <string name="app_update_background">Оновлення застосунку в фоновому режимі</string>
      <string name="app_upgrade_hint">Натисніть для перегляду відео онлайн</string>
-     <string name="app_upgrade_title">Застосунок \"Відео\" оновлено</string>
+     <string name="app_upgrade_title">Додаток \"Відео\" оновлено</string>
      <string name="app_upgrade_version">Доступна нова версія</string>
      <string name="app_version">Версія застосунку</string>
      <string name="app_wifi_mode">Автооновлення через Wi-Fi</string>
-     <string name="app_wifi_mode_summary">Автоматичне оновлення застосунків за наявності активної мережі Wi-Fi</string>
+     <string name="app_wifi_mode_summary">Автоматичне оновлення додатків за наявності активної мережі Wi-Fi</string>
      <string name="area_colon">"Країна: "</string>
      <string name="area_unknown">Невідомо</string>
      <string name="authenticated_failed">Помилка аутентифікації</string>
@@ -498,14 +498,14 @@
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: Встановити програму -->
+     <!-- Original string: Встановити додаток -->
      <string name="hint_apk_download">Натисніть \"%1$s\" для встановлення застосунку</string>
-     <string name="hint_apk_download_format">Встановіть застосунок \"%1$s\"</string>
-     <string name="hint_apk_install">Завантажити застосунок</string>
+     <string name="hint_apk_download_format">Встановіть додаток \"%1$s\"</string>
+     <string name="hint_apk_install">Завантажити додаток</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
-     <!-- Original string: Завантажити і встановити нову версію програми: %1$s? -->
+     <!-- Original string: Завантажити і встановити нову версію додатку: %1$s? -->
      <string name="hint_apk_text_update">Завантажити і встановити нову версію застосунку?</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
@@ -577,7 +577,7 @@
      <string name="miwifi_app_download_title">Mi роутер</string>
      <string name="miwifi_app_update_button">Оновлення</string>
      <string name="miwifi_app_update_content">Ця функція потребує наявність роутера з версією 2.0 і вище</string>
-     <string name="miwifi_app_update_title">Оновити застосунок для роутера?</string>
+     <string name="miwifi_app_update_title">Оновити додаток для роутера?</string>
      <string name="month">.</string>
      <string name="more">Перейти %s</string>
      <string name="my">Локальні</string>
@@ -744,7 +744,7 @@
      <string name="passport_login_instead_reg">Використовувати цей номер</string>
      <string name="passport_login_instead_reg_with_email">Використовувати цей Email</string>
      <string name="passport_login_notice">Авторизація…</string>
-     <string name="passport_login_prompt">Один Mi акаунт. Усі Mi сервіси.</string>
+     <string name="passport_login_prompt">Один Mi акаунт. Всі Mi сервіси.</string>
      <string name="passport_login_short">Вхід</string>
      <string name="passport_login_title">Увійдіть до Мі акаунту</string>
      <string name="passport_login_using_other_ways"><u>Інші способи</u></string>
@@ -844,8 +844,8 @@
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2">Для входу до Mi акаунту потрібне підключення до інтернету</string>
      <string name="passport_xiaomi_account_sec_dspt2_vip">Для входу до Mi акаунту потрібне підключення до інтернету. Доступ до геолокації Mi Cloud буде увімкнено автоматично.</string>
-     <string name="path_develop_settings">Системні програми | Відео | Налаштування для розробників</string>
-     <string name="path_settings">Системні програми | Відео | Налаштування</string>
+     <string name="path_develop_settings">Системні додатку | Відео | Налаштування для розробників</string>
+     <string name="path_settings">Системні додатку | Відео | Налаштування</string>
      <string name="pause">Пауза</string>
      <string name="pay_record">Історія платежів</string>
      <string name="percent_status">%.1f%%</string>
@@ -874,7 +874,7 @@
      <string name="qiyi">iQiyi</string>
      <string name="rank">Топ</string>
      <string name="rank_title_movie">Відео</string>
-     <string name="receive_develop_summary">Отримувати оновлення застосунків, коли доступна нова тестова версія.</string>
+     <string name="receive_develop_summary">Отримувати оновлення додатків, коли доступна нова тестова версія.</string>
      <string name="receive_follow">Повідомлення про епізоди</string>
      <string name="receive_follow_summary">Повідомляти про вихід нових епізодів</string>
      <string name="receive_mipush">Push сповіщення</string>
@@ -892,7 +892,7 @@
      <string name="retry">Повторити</string>
      <string name="router">Mi-роутер</string>
      <string name="router_download_task_with">Завдань: %d</string>
-     <string name="router_update">Оновіть застосунок для Mi-роутера</string>
+     <string name="router_update">Оновіть додаток для Mi-роутера</string>
      <string name="score">Рейтинг</string>
      <string name="score_by">Оцінка: %s</string>
      <string name="score_douban">Окуляри Douban %1$s</string>
@@ -1000,7 +1000,7 @@
      <string name="use_cellular_offlinedownload_title">Мобільний інтернет</string>
      <string name="use_cellular_play_summary">Показувати сповіщення при завантаженні відео через мобільний інтернет</string>
      <string name="use_cellular_play_title">Сповіщення про трафік</string>
-     <string name="user_tab">Мій застосунок</string>
+     <string name="user_tab">Мій додаток</string>
      <string name="userdata_alert_content">При відтворенні відео через мобільний інтернет може стягуватися додаткова плата за трафік</string>
      <string name="userdata_alert_ok">ОК</string>
      <string name="userdata_alert_title">Попередження</string>
@@ -1011,7 +1011,7 @@
      <string name="video">Відео</string>
      <string name="video_app_update">Оновлення</string>
      <string name="video_bbs">Допомогти з розробкою</string>
-     <string name="video_bbs_url">Допомагайте розробляти і покращувати застосунок</string>
+     <string name="video_bbs_url">Допомагайте розробляти і покращувати додаток</string>
      <string name="video_count">Відео: %d</string>
      <string name="video_declare">Авториські права | Відмова від відповідальності</string>
      <string name="video_info_audio_bitrate_label">Бітрейт аудіо:</string>
@@ -1103,7 +1103,7 @@
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
      <!-- Original string: Встановлення завершено -->
-     <string name="vp_notify_apk_installed">Застосунок %1$s встановлено</string>
+     <string name="vp_notify_apk_installed">Додаток %1$s встановлено</string>
      <string name="vp_offline">Автономний режим</string>
      <string name="vp_offline_status_done">Завершено</string>
      <string name="vp_offline_status_dowloading">Завантаження…</string>
@@ -1134,7 +1134,7 @@
      <string name="vp_super_definition">Відмінне</string>
      <string name="vp_support_by">Підтримка: %1$s</string>
      <string name="vp_time_separator">/</string>
-     <string name="vp_toast_downloadapk">Завантаження застосунків у фоні…</string>
+     <string name="vp_toast_downloadapk">Завантаження додатків у фоні…</string>
      <string name="vp_unknown_source">Невідоме джерело</string>
      <string name="vp_using_16_9">16:9</string>
      <string name="vp_using_4_3">4:3</string>

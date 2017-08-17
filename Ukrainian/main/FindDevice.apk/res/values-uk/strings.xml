@@ -26,7 +26,7 @@
      <string name="enable_find_device_error">Не вдається увімкнути пошук пристрою. %1$s</string>
      <string name="enable_find_device_success">Пошук пристрою увімкнено</string>
      <string name="find_device">Пошук пристрою</string>
-     <string name="find_device_crash">Помилка програми</string>
+     <string name="find_device_crash">Помилка додатку</string>
      <string name="find_device_error_account_sys_timeout">Не вдається підключитися до Мi акаунту</string>
      <string name="find_device_error_account_unknown_error">Помилка Mi акаунта (%s)</string>
      <string name="find_device_error_network">Перевірте параметри мережі та повторіть спробу</string>

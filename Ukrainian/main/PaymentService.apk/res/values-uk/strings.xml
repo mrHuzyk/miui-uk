@@ -418,7 +418,7 @@
      <string name="mibi_progress_warning_check_with_contact">"Оплата ще не надійшла.
 Ми перевіримо його протягом двох робочих днів.
 Номер підтримки: 400-100-5678 (по Китаю)"</string>
-     <string name="mibi_progress_warning_waiting">Оплата еще не надійшла</string>
+     <string name="mibi_progress_warning_waiting">Оплата ще не надійшла</string>
      <string name="mibi_prompt_info_button_hint">Попередження (%d)</string>
      <string name="mibi_prompt_info_button_text">ОК</string>
      <string name="mibi_prompt_info_for_first_use">Mi Credit неможливо використовувати для покупки пристроїв на сайті mi.com</string>
@@ -433,7 +433,7 @@
      <string name="mibi_push_unset_alias_success">Прибрати нік при невдачній спробі \"%1$s\"</string>
      <string name="mibi_recharge_alipay_title">Alipay</string>
      <string name="mibi_recharge_grid_error_denomination">Сумма Mi Credits має бути від %1$s до %1$s</string>
-     <string name="mibi_recharge_grid_item_more">Еще</string>
+     <string name="mibi_recharge_grid_item_more">Ще</string>
      <string name="mibi_recharge_grid_mibi_picker_hint">Виберіть суму</string>
      <string name="mibi_recharge_grid_money_picker_hint">Виберіть суму</string>
      <string name="mibi_recharge_message_title">Повідомлення</string>
@@ -598,7 +598,7 @@
 	%d: 2 Original: 0 -->
      <!-- Original string: Введіть коректний розмір поповнення (%1$s~%2$s Ұ) -->
      <string name="recharge_grid_error_denomination">Введіть коректний розмір поповнення (%1$d~%2$d Ұ)</string>
-     <string name="recharge_grid_item_more">Еще</string>
+     <string name="recharge_grid_item_more">Ще</string>
      <string name="recharge_grid_mibi_picker_hint">Вибір суми</string>
      <string name="recharge_grid_money_picker_hint">Виберіть суму</string>
      <string name="recharge_grid_picker_hint">Вибір суми поповнення Mi Сredits</string>

@@ -52,10 +52,10 @@
     <string name="screen_on_proximity_sensor_title">Запобігання випадковим натисканням</string>
     <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину телефону</string>
     <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки \"Назад\"+\"Гучність +\"</string>
-    <string name="first_back_long_press_message">"Ви хочете, щоб при тривалому натисканні клавіші \"Назад\" поточний застосунок та його службу було закрито? 
+    <string name="first_back_long_press_message">"Ви хочете, щоб при тривалому натисканні клавіші \"Назад\" поточний додаток та його службу було закрито? 
 Увімкніть цю можливість через налаштування клавіш."</string>
-    <string name="force_exit_message">Застосунок \"%1$s\" закрито</string>
-    <string name="force_exit_skip_message">Застосунок \"%1$s\" є ключовим компонентом системи. Неможливо примусово завершити процес.</string>
+    <string name="force_exit_message">Додаток \"%1$s\" закрито</string>
+    <string name="force_exit_skip_message">Додаток \"%1$s\" є ключовим компонентом системи. Неможливо примусово завершити процес.</string>
     <string name="screen_button_notification_title">Клавіші відключено</string>
     <string name="screen_button_notification_text">Натисніть, щоб увімкнути</string>
     <string name="perm_send_push_dspt">Дозволити Push-повідомлення Xiaomi</string>

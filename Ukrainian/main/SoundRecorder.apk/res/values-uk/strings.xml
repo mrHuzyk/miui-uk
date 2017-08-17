@@ -51,7 +51,7 @@
      <string name="duration_format_minute">%s хв.</string>
      <string name="duration_format_second">%s сек.</string>
      <string name="empty_recognition_tip">Порожньо</string>
-     <string name="error_app_internal">Можливо, інший застосунок використовує мікрофон. Перевірте та повторіть наново.</string>
+     <string name="error_app_internal">Можливо, інший Додаток використовує мікрофон. Перевірте та повторіть наново.</string>
      <string name="error_app_internal_title">Помилка диктофона</string>
      <string name="error_file_access">Файл не існує або пошкоджений</string>
      <string name="error_filename_illegal_char">Назва файлу містить неприпустимі символи</string>
@@ -87,7 +87,7 @@
      <string name="notification_stopped">Запис завершений</string>
      <string name="notification_title_all_paused">Завантаження припинене</string>
      <string name="notification_warning">"Мало пам\'яті (залишилося %d хв.)"</string>
-     <string name="path_soundrecorder_setting">Системні програми | Диктофон</string>
+     <string name="path_soundrecorder_setting">Системні додатку | Диктофон</string>
      <string name="pause">Пауза</string>
      <string name="play_record">Відтворити</string>
      <string name="playback_delete_records">Видалити запис</string>
@@ -167,7 +167,7 @@
      <string name="second">%d сек.</string>
      <string name="send_to">Відправити</string>
      <string name="share">Надіслати</string>
-     <string name="share_dialog_title">Оберіть програму</string>
+     <string name="share_dialog_title">Оберіть додаток</string>
      <string name="sound_recorder_settings">Налаштування</string>
      <string name="speech_recognition_complete">Готово</string>
      <string name="speech_recognition_running_tip">В процесі</string>
@@ -193,8 +193,8 @@
      <string name="timer_format" formatted="false">%02d:%02d</string>
      <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
      <string name="toast_file_is_downloading">Файл завантажується…</string>
-     <string name="toast_max_record_time">Застосунок \"%1$s\" підтримує максимальний час запису: %2$s</string>
-     <string name="toast_uninstall_fileexplorer">Застосунок \"Провідник\" не встановлений</string>
+     <string name="toast_max_record_time">Додаток \"%1$s\" підтримує максимальний час запису: %2$s</string>
+     <string name="toast_uninstall_fileexplorer">Додаток \"Провідник\" не встановлений</string>
      <string name="view_list_of_recordings">Перегляд списку записів</string>
      <string name="wifi_recommended_body" formatted="false">"При завантаженні файлу (%s) можливо надмірне споживання мобільного трафіку. 
 

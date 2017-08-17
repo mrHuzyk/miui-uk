@@ -59,7 +59,7 @@
 <string name="nfc_enabled_dialog">Увімкнути NFC для використання сервісу?</string>
      <string name="no">Скасувати</string>
      <string name="ok">ОК</string>
-     <string name="permdesc_nfcReceiveEvent">Дозволяє програмі отримувати інформацію про процес платежу через NFC</string>
+     <string name="permdesc_nfcReceiveEvent">Дозволяє додатку отримувати інформацію про процес платежу через NFC</string>
      <string name="permlab_nfcReceiveEvent">Платежі NFC</string>
     <string name="android_beam">Android Beam</string>
 </resources>

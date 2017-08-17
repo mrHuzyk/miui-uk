@@ -99,7 +99,7 @@
 	<string-array name="call_barring_incoming_display_values">
        <item>Вимкнено</item>
        <item>Роумінг</item>
-       <item>Усі</item>
+       <item>Всі</item>
     </string-array>
     <string-array name="call_barring_outgoing_display_values">
        <item>Вимкнено</item>
@@ -118,7 +118,7 @@
        <item>лише 2G</item>
     </string-array>
     <string-array name="language_list_values">
-       <item>Усі мови</item>
+       <item>Всі мови</item>
        <item>Німецька</item>
        <item>Англійська</item>
        <item>Італійська</item>

@@ -61,7 +61,7 @@
     <string name="day_active_detail">Детальніше за день</string>
     <string name="alarm">Будильник</string>
     <string name="unlock_screen">Розблокування екрану</string>
-    <string name="about">Про програму</string>
+    <string name="about">Про додаток</string>
     <string name="unit_kilometer">" км"</string>
     <string name="unit_meter">" м"</string>
     <string name="unit_calorie">" ккал"</string>
@@ -334,7 +334,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="bind_qq_health">Синхронізація з QQ</string>
     <string name="start_weixin">Відкрити WeChat</string>
     <string name="start_weixin_not_installed">Запустити WeChat (не встановлено)</string>
-    <string name="action_pop_about">Про програму</string>
+    <string name="action_pop_about">Про додаток</string>
     <string name="find_bracelet">Пошук Mi Band</string>
     <string name="light_color">Колір індикатора</string>
     <string name="light_color_title">Колір індикатора для відображення прогресу</string>
@@ -424,7 +424,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
 Налаштування-> Конфіденційність-> Розблокування Bluetooth пристроєм"</string>
     <string name="unlock_screen_modify_unlock_v6">"Для зміни налаштувань блокування перейдіть в
 Налаштування-> Екран блокування-> Розблокування Bluetooth пристроєм"</string>
-    <string name="unlock_for_smartlock_tip">Для роботи функції, застосунок повинен бути активний у фоні</string>
+    <string name="unlock_for_smartlock_tip">Для роботи функції, додаток повинен бути активний у фоні</string>
     <string name="unlock_for_smartlock_tip_step1">1.Увійдіть у <b>Налаштування</b> - <b>Екран блокування</b></string>
     <string name="unlock_for_smartlock_tip_step2">2. Встановіть <b>спосіб блокування</b> (графічний, код або пароль)</string>
     <string name="unlock_for_smartlock_tip_step3">3. Натисніть <b>Розумне блокування</b> і налаштуйте функцію блокування.</string>
@@ -454,7 +454,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="unlock_screen_help_info3">Після перезавантаження пристрою спробуйте розблокувати його за допомогою Mi Band</string>
     <string name="unlock_screen_help_info0">Піднесіть Mi Band близько до телефону</string>
     <string name="unlock_screen_help_info1">Якщо телефон все ще заблокований, перезапустіть Bluetooth для перевірки виправлення проблеми.</string>
-    <string name="unlock_screen_help_info2">"Якщо ви не можете перезапустити Bluetooth, зайдіть у Налаштування->Екран блокування для відв'язування Mi Band. Потім зайдіть в застосунок Mi Band і налаштуйте блокування заново."</string>
+    <string name="unlock_screen_help_info2">"Якщо ви не можете перезапустити Bluetooth, зайдіть у Налаштування->Екран блокування для відв'язування Mi Band. Потім зайдіть в додаток Mi Band і налаштуйте блокування заново."</string>
     <string name="instruction_title">Інформація про Mi Band</string>
     <string name="instruction_tip_1">"Погляньте
 для перегляду
@@ -480,13 +480,13 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="gram">г</string>
     <string name="sync_to_server">Синхронізація…</string>
     <string name="unlock_screen_miui_version_low">Оновити поточну версію MIUI</string>
-    <string name="share_uninstall_client">Не вдається поділитися. Застосунок не встановлено.</string>
+    <string name="share_uninstall_client">Не вдається поділитися. додаток не встановлено.</string>
     <string name="setting_feedback_send">Надіслати</string>
     <string name="setting_feedback_hint">Введіть суть скарги/пропозиції (англійською)</string>
     <string name="setting_feedback_address">Контактна інформація</string>
     <string name="bluetooth">"Bluetooth "</string>
     <string name="setting_about_fw">"Версія прошивки: "</string>
-    <string name="setting_about_app">"Версія програми: "</string>
+    <string name="setting_about_app">"Версія додатку: "</string>
     <string name="stop">" "</string>
     <string name="start">" "</string>
     <string name="no_wear_bracelet">Сон ще не відслідковувався</string>
@@ -584,7 +584,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="confirm_lazy_day">Сьогодні не бажаєте займатися?</string>
     <string name="closed">Вимк.</string>
     <string name="birthday">День народження</string>
-    <string name="user_agreement_ux">Приєднатися до програми покращення якості UX</string>
+    <string name="user_agreement_ux">Приєднатися до додатку покращення якості UX</string>
     <string name="weight_dynamic_title">%1$s %2$s, вага %3$s%4$s</string>
     <string name="weight_dynamic_visitor_title">%1$s вага %2$s%3$s</string>
     <string name="weight_guest">Користувачі</string>
@@ -659,8 +659,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="connected_broadcast_disconnect_tips">Перед налаштування підключіть браслет</string>
     <string name="donot_have_band">Немає Mi Band?</string>
     <string name="sensor_hub_tip">"Відображення і підрахунок кроків працює за рахунок вбудованого сопроцесора (Sensor Hub). Після прив'язування браслету, ці дані будуть використані просто для довідки, і зберігатися у хмару не будуть."</string>
-    <string name="incomingcall_info_1">Це сповіщення примусить застосунок працювати в фоні постійно.</string>
-    <string name="incomingcall_info_2">"Заблокуйте застосунок Mi Band app і
+    <string name="incomingcall_info_1">Це сповіщення примусить додаток працювати в фоні постійно.</string>
+    <string name="incomingcall_info_2">"Заблокуйте додаток Mi Band app і
 додайте Mi Band у білий список сторонніх менеджерів якщо вони існують."</string>
     <string name="incomingcall_info_3">Додайте Mi Band у білий список сторонніх менеджерів якщо вони існують.</string>
     <string name="incoming_call_notify_closed">Сповіщення про вхідний виклик вимкнено</string>
@@ -707,7 +707,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="daily_sport_report_week_info">"Пройдено кроків: %1$s
 Збережено галонів газу: %2$s"</string>
     <string name="del_family_member">Видалити користувача?</string>
-    <string name="del_family_member_content">Усі записи будуть видалені</string>
+    <string name="del_family_member_content">Всі записи будуть видалені</string>
     <string name="add_family_member">Додати користувача</string>
     <string name="delete_family_member">Видалити користувача</string>
     <string name="daily_sport_report_notify">Сьогодні пройдено: %s. Відмінно!</string>

@@ -28,7 +28,7 @@
         <item>CMCC Smart SMS</item>
      </string-array>
 	<string-array name="wild_msg_sync_options">
-       <item>Усі повідомлення</item>
+       <item>Всі повідомлення</item>
        <item>Обрані SIM-карти</item>
     </string-array>
 	<string-array name="entries_mms_validity_period">

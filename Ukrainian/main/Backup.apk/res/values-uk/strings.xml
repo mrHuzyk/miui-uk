@@ -5,7 +5,7 @@
 	 <string name="trans_intro_desc_2">Скасуйте передачу, вийдіть з Mi Mover та почніть спочатку. Під час нової передачі дубльовані файли будуть перезаписані.</string>
      <string name="trans_intro_desc_3">Mi Mover використовує Wi-Fi для передачі файлів. Проте, Ви можете використовувати мобільний інтернет.</string>
      <string name="trans_intro_desc_4">"Для створення пакетів перенесення використовується пам'ять на старих пристроях. Перед початком передачі переконайтеся, що є не менше 500 МБ - 1 ГБ місця на старому телефоні."</string>
-     <string name="trans_intro_desc_5">Є кілька причин: проблеми сумісності версій програм та додатків, проблеми з мережею, проблеми сумісності, специфічні для конкретного пристрою, і т.д.</string>
+     <string name="trans_intro_desc_5">Є кілька причин: проблеми сумісності версій додатків та додатків, проблеми з мережею, проблеми сумісності, специфічні для конкретного пристрою, і т.д.</string>
      <string name="trans_intro_desc_6">"Деякі профілі додатків (ел. Банкінг, фінанси і т.д.) пов'язані з певним пристроєм з міркувань безпеки. Спробуйте очистити дані додатка або перевстановити його на новий пристрій."</string>
      <string name="trans_intro_desc_7">Дані додатків та чатів WeChat можуть не повністю передаватися за допомогою Mi Mover. Перейдіть в налаштування WeChat і вийдіть зі свого облікового запису, щоб отримати більше шансів на успішну передачу.</string>
      <string name="trans_intro_desc_account">З міркувань безпеки Вам необхідно знову увійти в обліковий запис (наприклад, Mi аккаунт, Exchange, Google і т.д.) на новому пристрої</string>
@@ -38,9 +38,9 @@
      <string name="account_summary">" (акаунти та інші дані користувача)"</string>
      <string name="already_enable_encrypt">Шифрування включене</string>
      <string name="app_name">Бекап</string>
-     <string name="apps_and_data_item_desc">Програми та дані</string>
+     <string name="apps_and_data_item_desc">додатку та дані</string>
      <string name="auto_backup">Автобекап</string>
-     <string name="auto_backup_all_user_apps">Усі застосунки</string>
+     <string name="auto_backup_all_user_apps">Всі додатки</string>
      <string name="auto_backup_choose">Обрані елементи</string>
      <string name="auto_backup_choose_empty">Немає бекапів</string>
      <string name="auto_backup_choose_title">Автостворення бекапу</string>
@@ -48,12 +48,12 @@
      <string name="auto_backup_only_wifi">Тільки по Wi-Fi</string>
      <string name="auto_backup_open">Бекап за розкладом</string>
      <string name="auto_backup_progress">Створення бекапа…</string>
-     <string name="auto_backup_select_user_apps">Вибір застосунків</string>
-     <string name="auto_backup_selected_user_apps">Обрані застосунки</string>
+     <string name="auto_backup_select_user_apps">Вибір додатків</string>
+     <string name="auto_backup_selected_user_apps">Обрані додатки</string>
      <string name="auto_backup_setting">Бекап</string>
      <string name="auto_backup_system_data">Система</string>
      <string name="auto_backup_time">Час створення бекапу</string>
-     <string name="auto_backup_user_data">Застосунки</string>
+     <string name="auto_backup_user_data">Додатки</string>
      <string name="backup">Бекап</string>
      <string name="backup_data">Бекап</string>
      <string name="backup_delete">Видалити</string>
@@ -67,7 +67,7 @@
      <string name="backup_hint">Не виключайте телефон</string>
      <string name="backup_hint_onpad">Не вимикайте пристрій</string>
      <string name="backup_is_running">Створення бекапа…</string>
-     <string name="backup_items_app_tailer">" (дані  застосунків) "</string>
+     <string name="backup_items_app_tailer">" (дані  додатків) "</string>
      <string name="backup_items_sysdata_tailer">" (системні дані) "</string>
      <string name="backup_new">Новий</string>
      <string name="backup_progress">Створення бекапу…</string>
@@ -95,7 +95,7 @@
      <string name="cancel_backup">Скасувати</string>
      <string name="cancel_restore">Скасувати</string>
      <string name="click_to_view">Натисніть для перегляду</string>
-     <string name="cloud_app_name">Застосунки</string>
+     <string name="cloud_app_name">Додатки</string>
      <string name="cloud_backup_hint">Необхідно авторизуватися для створення бекапу онлайн</string>
      <string name="cloud_backup_login">Увійти в Mi акаунт</string>
      <string name="cloud_backup_window_title">Бекап Mi Cloud</string>
@@ -151,7 +151,7 @@
      <string name="feature_title_call_log">Виклики</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Завантаження…</string>
-     <string name="files_backup_info">"Усі файли на внутрішній пам'яті"</string>
+     <string name="files_backup_info">"Всі файли на внутрішній пам'яті"</string>
      <string name="findlost_contact">Відновити контакти</string>
      <string name="findlost_contact_online">Онлайн відновлення контактів</string>
      <string name="guarded_mode_dialog_backup_message">Резервне копіювання недоступне у гостьовому режимі</string>
@@ -175,7 +175,7 @@
      <string name="local_select_files">"Внутрішня пам'ять"</string>
      <string name="local_select_image">Фото</string>
      <string name="local_select_sysdata">Налаштування системи</string>
-     <string name="local_select_userapp">Застосунок</string>
+     <string name="local_select_userapp">Додаток</string>
      <string name="local_select_video">Відео</string>
      <string name="menu_patch_delete">Видалити бекапи</string>
      <string name="miliao_account_guide">Створіть Mi акаунт і насолоджуйтеся всіма сервісами Xiaomi</string>
@@ -223,7 +223,7 @@
      <string name="restore_launcher_layout_hit">Відновити настроювання робочого стола</string>
      <string name="restore_progress">Відновлення…</string>
      <string name="restore_report">Журнал відновлення</string>
-     <string name="restore_telephony_hit">Процес відновлення перезавантажить застосунок \"Телефон\"</string>
+     <string name="restore_telephony_hit">Процес відновлення перезавантажить додаток \"Телефон\"</string>
      <string name="retry">Повторити</string>
      <string name="reverse_all">" Зняти вибір "</string>
      <string name="router_backup_hint">Не вимикайте телефон</string>
@@ -251,7 +251,7 @@
      <string name="size_kilo_byte">Кб</string>
      <string name="size_mega_byte">Мб</string>
      <string name="sms_title">Повідомлення</string>
-     <string name="software_backup_info">Дані застосунків</string>
+     <string name="software_backup_info">Дані додатків</string>
      <string name="start_backup">Почати</string>
      <string name="start_restore">Відновити</string>
      <string name="state_mounting">"Підключення до пам'яті роутера…"</string>
@@ -266,7 +266,7 @@
      <string name="task_backup_cancel_progress">Зупинка процесу…</string>
      <string name="task_backup_finished_local">"Створення бекапа завершене "</string>
      <string name="task_canceled">Скасоване</string>
-     <string name="task_canceled_all_local">Усі завдання скасовані</string>
+     <string name="task_canceled_all_local">Всі завдання скасовані</string>
      <string name="task_canceled_local">Скасоване (%s завершене)</string>
      <string name="task_cloud_backup_cancel_dialog">Створення бекапа не завершене. Скасувати процес?</string>
      <string name="task_failed">Помилка</string>
@@ -295,7 +295,7 @@
      <string name="trans_backingup_no_items">Синхронізація…</string>
      <string name="trans_calculating">Сканування…</string>
      <string name="trans_calculating_app_sd_size">Розрахування розміру. Скановано: %s</string>
-     <string name="trans_calculating_base_size">Розрахунок розміру застосунків</string>
+     <string name="trans_calculating_base_size">Розрахунок розміру додатків</string>
      <string name="trans_cancel_confirm">Скасувати передачу?</string>
      <string name="trans_cancelling">Скасування…</string>
      <string name="trans_connect_failed_message">Помилка підключення. Спробуйте знову, або перезавантажте обидва пристрої.</string>
@@ -306,7 +306,7 @@
      <string name="trans_detail_category_account">Акаунти та контакти</string>
      <string name="trans_detail_category_files">Файли</string>
      <string name="trans_detail_category_sysdata">Дані системи</string>
-     <string name="trans_detail_category_userdata">Застосунки</string>
+     <string name="trans_detail_category_userdata">Додатки</string>
      <string name="trans_device_disconnected">Пристрій вимкнено</string>
      <string name="trans_generate_qr_code_failed">Помилка створення QR-коду</string>
      <string name="trans_main_tutor">Передача будь-якого файлу на новий пристрій</string>

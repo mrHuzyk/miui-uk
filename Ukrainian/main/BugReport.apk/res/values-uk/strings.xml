@@ -25,7 +25,7 @@
      <string name="action_confirm">Вибрати</string>
      <string name="action_submit">Відправити</string>
      <string name="announcement">Попередження</string>
-     <string name="app_empty">Немає завантажених застосунків</string>
+     <string name="app_empty">Немає завантажених додатків</string>
      <string name="app_label">Звіти</string>
      <string name="app_name">Звіти</string>
      <string name="app_title">Звіти</string>
@@ -67,7 +67,7 @@
      <string name="discard_draft_dialog_content">Звіт змінений. Натисніть \"ОК\" для видалення чернетки</string>
      <string name="discard_draft_dialog_title">Видалити чернетку</string>
      <string name="err_type">Тип звіту</string>
-     <string name="err_type_app">Застосунки</string>
+     <string name="err_type_app">Додатки</string>
      <string name="err_type_appstore">Mi маркет</string>
      <string name="err_type_bluetooth">Bluetooth</string>
      <string name="err_type_camera">Камера</string>
@@ -76,7 +76,7 @@
      <string name="err_type_more">Ще</string>
      <string name="err_type_mysuggestion">Пропозиції</string>
      <string name="err_type_mysuggestion_summary">Поділіться з нами своїми ідеями</string>
-     <string name="err_type_nonsystemapp">Застосунки</string>
+     <string name="err_type_nonsystemapp">Додатки</string>
      <string name="err_type_power_consuming">Споживання</string>
      <string name="err_type_reboot">Перезаван.</string>
      <string name="err_type_signal">Мережа</string>
@@ -269,7 +269,7 @@
      <string name="network_unavailable_dialog_button_ok">ОК</string>
      <string name="network_unavailable_dialog_content">Ваш звіт буде відправлений, як тільки мережа буде доступна</string>
      <string name="network_unavailable_dialog_title">Інтернет недоступний</string>
-     <string name="non_system_app_select">Застосунки</string>
+     <string name="non_system_app_select">Додатки</string>
      <string name="nonsystemapp_description">Опишіть проблему (англійською)</string>
      <string name="nothing">--</string>
      <string name="open_feedback_main">Ще</string>
@@ -289,7 +289,7 @@
      <string name="pull_to_refresh_refreshing_label">Оновлення…</string>
      <string name="pull_to_refresh_release_label">Відпустіть, щоб оновити</string>
      <string name="reboot_problem1">Не вдається перезавантажити</string>
-     <string name="reboot_problem2">Пристрій довільно перезавантажується при використанні деяких застосунків</string>
+     <string name="reboot_problem2">Пристрій довільно перезавантажується при використанні деяких додатків</string>
      <string name="refresh">Оновити</string>
      <string name="related_question_answer_details">"Пов'язані помилки"</string>
      <string name="reply">Повтор</string>
@@ -331,7 +331,7 @@
      <string name="title_frequent_question_feedback_main">FAQ</string>
      <string name="title_hot_problem">Відомі помилки</string>
      <string name="title_mi_family">Mi родина</string>
-     <string name="title_nonsystem_app">Застосунки</string>
+     <string name="title_nonsystem_app">Додатки</string>
      <string name="title_same_question_feedback_main">Схожі помилки на форумі MIUI</string>
      <string name="title_system_app">Система</string>
      <string name="toast_description_required">Звіт не може бути порожнім</string>

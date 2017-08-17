@@ -10,7 +10,7 @@
     <string name="my_program">Локально</string>
     <string name="more">Більше</string>
     <string name="loading_hint">Завантаження...</string>
-    <string name="click_to_play">Немає програм для відтворення</string>
+    <string name="click_to_play">Немає додатків для відтворення</string>
     <string name="not_login">Ви не увійшли</string>
     <string name="presonal_center">Налаштування акаунту</string>
     <string name="local_list_item_history">Історія</string>
@@ -63,10 +63,10 @@
     <string name="no_display_history_text">Історія відсутня</string>
     <string name="favorite">В улюблені</string>
     <string name="unfavorite">З улюблених</string>
-    <string name="like_channel">Такі програми, як %1$s</string>
+    <string name="like_channel">Такі додатку, як %1$s</string>
     <string name="buffering">Буферизація…</string>
-    <string name="no_program">Немає програм</string>
-    <string name="first_program">Перша програма</string>
+    <string name="no_program">Немає додатків</string>
+    <string name="first_program">Перший додаток</string>
     <string name="device_connected">Підключено</string>
     <string name="device_not_connected">Немає підключення</string>
     <string name="bluetooth_device">Bluetooth пристрій</string>
@@ -83,7 +83,7 @@
     <string name="priority_storage">"Використання зовнішньої пам'яті"</string>
     <string name="priority_storage_summary">Автоматично завантажувати до зовнішньої SD-карти</string>
     <string name="play_quality_toast">Будь ласка, оберіть якість відтворення</string>
-    <string name="app_to_share">Виберіть застосунок для розшарення</string>
+    <string name="app_to_share">Виберіть додаток для розшарення</string>
     <string name="share_text_other">%1$s,поділитися програмою.%2$s.</string>
     <string name="share_text">через MiuiРадіо[Qingting FM]</string>
     <string name="share_button">Поділитися</string>
@@ -102,7 +102,7 @@
     <string name="impunity_declaration_negative_text">Вихід</string>
 	<string name="action_item_delete">Видалити</string>
 	<string name="confirm_delete_history_text">Видалити обрані елементи?</string>
-	<string name="local_program">Локальні програми</string>
+	<string name="local_program">Локальні додатку</string>
 	<string name="no_download_text">Не завантажувати</string>
 	<string name="FMRecording_reach_storage_threshold">Запис зупинений. Недостатньо місця на SD карті</string>
     <string name="access_sd_fail">Неможливо одержати доступ до SD карти</string>
@@ -126,7 +126,7 @@
     <string name="batch_download">Пакетне завантаження</string>
     <string name="batch_download_start_toast">Очікування завантаження</string>
     <string name="button_text_stop">Зупинити</string>
-    <string name="channel_off">Програма вже не існує</string>
+    <string name="channel_off">Додаток вже не існує</string>
     <string name="context_menu_item_delete">Видалити</string>
     <string name="context_menu_item_edit">Змінити</string>
     <string name="context_menu_item_favorite">Додати у вибрані</string>
@@ -153,7 +153,7 @@
     <string name="fm_has_turned_off">Радіо виключене</string>
     <string name="fm_tune_timeout_msg">Спробуйте перезавантажити телефон</string>
     <string name="fmradio_clear_confirm_msg">Збережені станції будуть видалені. Продовжити сканування?</string>
-    <string name="fmtx_autoselect_name">Усі вибрані станції будуть видалені</string>
+    <string name="fmtx_autoselect_name">Всі вибрані станції будуть видалені</string>
     <string name="frequency_already_exist">Частота вже існує</string>
     <string name="frequency_mhz_fomart">%s МГц</string>
     <string name="frequency_out_of_range">Частота поза діапозоном (%1$s~%2$s)</string>
@@ -234,7 +234,7 @@
     <string name="settings_menu">Налаштування</string>
     <string name="settings_revert_confirm_msg">Вибрані станції будуть видалені</string>
     <string name="settings_revert_defaults_title">Скинути налаштування радіо?</string>
-    <string name="similar_programs">Схожі програми</string>
+    <string name="similar_programs">Схожі додатку</string>
     <string name="spaceIsLow_content">SD карта заповнена</string>
     <string name="stat_notif_frequency">%1$s Мгц</string>
     <string name="stat_notif_tx_frequency">FM частота: %1$s</string>

@@ -9,12 +9,12 @@
      <string name="settings_ad_loading_unavailable">Проблема при завантаженні</string>
 	<string name="ime_privacy_policy">Оберіть клавіатуру</string>
     <string name="loading">Завантаження…</string>
-    <string name="app_name_which_call">Застосунок: %s</string>
+    <string name="app_name_which_call">Додаток: %s</string>
     <string name="app_version_which_call">Версія: %s</string>
     <string name="policy_name">Політика: %s</string>
     <string name="mibi_license">Умови користування Mi Credit</string>
     <string name="license_host_unreachable">Не вдається підключитись до мережі. Для перегляду інформації перейдіть: %s</string>
-    <string name="permdesc_accessDrm">Дозволяє програмі отримати доступ до захисту DRM</string>
+    <string name="permdesc_accessDrm">Дозволяє додатку отримати доступ до захисту DRM</string>
     <string name="open_wifi_connect_title">"Під'єднатись до %1$s"</string>
     <string name="open_wifi_connect_summary">Натисніть для перегляду</string>
     <string name="settings_license_activity_title">Ліцензії з відкритим вихідним кодом</string>

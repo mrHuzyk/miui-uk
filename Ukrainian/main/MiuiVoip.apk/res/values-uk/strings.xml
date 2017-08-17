@@ -25,7 +25,7 @@
     <string name="voip_call_setting">Безкоштовний виклик VoIP</string>
     <string name="voip_call_saved">Ви спілкувались безкоштовно впродовж %d хвилин.</string>
     <string name="net_singal_tips">Якість звязку VoIP: %1$s</string>
-    <string name="pref_group_about_title">Про програму</string>
+    <string name="pref_group_about_title">Про додаток</string>
     <string name="pref_key_version_title">Версія</string>
     <string name="show_dev_on">Можливості для розробників відкриті</string>
     <string name="show_nondev_on">Можливості для розробників закриті</string>
@@ -158,7 +158,7 @@
 	<string name="mx_choose_sim_dlg_title">Виберіть номер телефону для активації викликів VoIP</string>
 	<string name="notification_activate_failed">Не вдається активувати VoIP</string>
 	 <string name="user_agreement">Політика конфіденційності</string>
-	 <string name="app_name_which_call">Програма: %s</string>
+	 <string name="app_name_which_call">Додаток: %s</string>
      <string name="app_shortcut">Mi VoIP</string>
      <string name="app_version_which_call">Версія: %s</string>
      <string name="contact_list_loading">Завантаження…</string>
@@ -184,7 +184,7 @@
      <string name="voip_about_gif_desc">Здійснюйте безкоштовні виклики Mi VoIP зі списку дзвінків або профілю контактів</string>
      <string name="voip_about_net_desc">При здійсненні дзвінка Mi VoIP використовується менше 400 кБ передачі даних за хвилину</string>
      <string name="voip_about_net_title">Мобільний трафік</string>
-     <string name="voip_about_support_desc">Якщо у співрозмовника немає Mi пристрою, він може встановити програму для інтернет викликів від Weihui і спілкуватися з вами безкоштовно.</string>
+     <string name="voip_about_support_desc">Якщо у співрозмовника немає Mi пристрою, він може встановити додаток для інтернет викликів від Weihui і спілкуватися з вами безкоштовно.</string>
      <string name="voip_about_support_title">VoIP на будь-якому пристрої</string>
      <string name="voip_support_net_tips">Використовуйте мережу Wi-Fi, 3G або інший високошвидкісний інтернет для якісного з\'єднання Mi VoIP.</string>
      <string name="mx_dspt_provision_3">Mi виклики дозволяють здійснювати безкоштовні дзвінки і відеодзвінки іншим користувачам MIUI. Може стягуватися оплата оператором за використання мобільного інтернету і за надсилання SMS для підтвердження вашого номера. Політика конфіденційності</string>

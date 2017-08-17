@@ -19,11 +19,11 @@
 	<string name="cert_tips">Вам необхідно встановити сертифікат на пристрій для забезпечення безпеки вашого оточення</string>
 	<string name="cert_title">Встановлення цифрового сертифікату</string>
 	<string name="cert_verify_fail_tips">Помилка перевірки сертифікату</string>
-	<string name="confirm_finish">Платіж не був завершений, вийти з програми?</string>
-	<string name="confirm_finish_install_cert">Встановлення сертифікату ще не завершено, вийти з програми?</string>
+	<string name="confirm_finish">Платіж не був завершений, вийти з додатку?</string>
+	<string name="confirm_finish_install_cert">Встановлення сертифікату ще не завершено, вийти з додатку?</string>
 	<string name="confirm_install_hint">Поради встановлення</string>
-	<string name="confirm_update">"Для забезпечення безпеки ваших угод, необхідно оновити програму. \n\nНатисніть кнопку ОК, щоб оновити."</string>
-	<string name="confirm_update_must">"Для забезпечення безпеки ваших угод, програму потрібно оновити. \n\nНатисніть кнопку ОК, щоб оновити."</string>
+	<string name="confirm_update">"Для забезпечення безпеки ваших угод, необхідно оновити додаток. \n\nНатисніть кнопку ОК, щоб оновити."</string>
+	<string name="confirm_update_must">"Для забезпечення безпеки ваших угод, додаток потрібно оновити. \n\nНатисніть кнопку ОК, щоб оновити."</string>
 	<string name="cont">Продовжити</string>
 	<string name="ensure">Визначити</string>
 	<string name="error_dialog">Помилка</string>

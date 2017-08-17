@@ -59,7 +59,7 @@
     <string name="print_write_error_message">Не вдалося записати до файлу</string>
     <string name="savetopdf_button">Зберегти у форматі PDF</string>
     <string name="summary_template">Загальна інформація. Кількість копій: %1$s. Формат паперу: %2$s</string>
-    <string name="template_all_pages">Усі %1$s</string>
+    <string name="template_all_pages">Всі %1$s</string>
     <string name="template_page_range">Діапазон %1$s</string>
 	<string name="label_duplex">Двусторонній</string>
 </resources>

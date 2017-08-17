@@ -72,7 +72,7 @@
      <string name="accessibility_zoom_control">Наближення</string>
      <string name="albums">Альбоми</string>
      <string name="aperture">Діафрагма</string>
-     <string name="app_details">Інформація про застосунок:</string>
+     <string name="app_details">Інформація про додаток:</string>
      <string name="audio_focus_exit_button_text">Вимкнути голосовий фокус</string>
      <string name="auto">Авто</string>
      <string name="bg_replacement_message">"Встановіть телефон нерухомо. 
@@ -106,7 +106,7 @@
      <string name="confirm_location_title">Зберігати дані геолокації</string>
      <string name="confirm_recording_fail_calling_alert">Неможливо почати запис під час виклику</string>
      <string name="confirm_recording_fail_low_power">Заряд батареї повинен бути не менше 3%</string>
-     <string name="confirm_recording_fail_recorder_busy_alert">Можливо, інші застосунки використовують мікрофон.</string>
+     <string name="confirm_recording_fail_recorder_busy_alert">Можливо, інші додатки використовують мікрофон.</string>
      <string name="confirm_recording_fail_title">Помилка запису</string>
      <string name="confirm_restore_message">Відновити налаштування за замовчуванням?</string>
      <string name="confirm_restore_title">Скидання налаштувань</string>
@@ -261,7 +261,7 @@
      <string name="pano_review_saving_indication_str">Збереження…</string>
      <string name="pano_too_fast_prompt">Занадто швидко</string>
      <string name="path">Шлях</string>
-     <string name="path_settings">Системні програми | Камера | Налаштування</string>
+     <string name="path_settings">Системні додатку | Камера | Налаштування</string>
      <string name="people">Люди</string>
      <string name="pref_advance_settings">Додатково</string>
      <string name="pref_advanced_functions">Розширені налаштування</string>
@@ -670,7 +670,7 @@
      <string name="scan_qrcode">Сканування QR коду</string>
      <string name="search_settings">Налаштування камери;Якість;Якість фото;Зберігати місцезнаходження;Місцезнаходження на фото;Розпізнавання обличчя;Звук камери</string>
      <string name="secure_access_web_url">Відкрити в браузері</string>
-     <string name="see_app_details">Інформація про застосунок</string>
+     <string name="see_app_details">Інформація про додаток</string>
      <string name="see_qrcode_detals">Докладніше</string>
      <string name="select_all">Вибрати все</string>
      <string name="select_image">Вибрати фото</string>
@@ -757,7 +757,7 @@
      <string name="videocamera_settings_label">Налаштування відеокамери</string>
      <string name="visit_cloud_album">Переглянути хмарний альбом</string>
      <string name="wait">Завантаження…</string>
-     <string name="web_url_apk_warning">Застосунок QR коду може містити шкідливі ресурси. Для безпечного завантаження застосунка використовуйте Mi-Маркет або Google Play.</string>
+     <string name="web_url_apk_warning">Додаток QR коду може містити шкідливі ресурси. Для безпечного завантаження застосунка використовуйте Mi-Маркет або Google Play.</string>
      <string name="web_url_warning">Сайт QR коду може містити шкідливі файли. Для безпечного завантаження сайту використовуйте MIUI браузер</string>
      <string name="website_details">Інформація про сайт:</string>
      <string name="wechat_details">Інформація Wechat:</string>

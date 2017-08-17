@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">Про застосунок</string>
+    <string name="about">Про додаток</string>
     <string name="account_unactivated">Акаунт не активовано</string>
     <string name="act_find_city_hint">Пошук з 2400 міст (Chinese/Pinyin)</string>
     <string name="act_find_city_hot_title">Популярні міста</string>
@@ -42,7 +42,7 @@
     <string name="app_name">Асистент</string>
     <string name="app_no_sktq">Намає фактів</string>
     <string name="app_nohave_net">Немає підключення до інтернету</string>
-    <string name="app_not_found">Застосунок не знайдений</string>
+    <string name="app_not_found">Додаток не знайдений</string>
     <string name="app_off">Вимк..</string>
     <string name="app_ok">ОК</string>
     <string name="app_on">Увімк.</string>
@@ -132,7 +132,7 @@
     <string name="loading_resource_detail_fail">Помилка завантаження.</string>
     <string name="loading_resource_detail_info">Завантаження...</string>
     <string name="local_category">Телефон</string>
-    <string name="menu_about">Про застосунок</string>
+    <string name="menu_about">Про додаток</string>
     <string name="menu_cycle">Прогноз погоди</string>
     <string name="menu_detail">Детальніше</string>
     <string name="menu_long_press_launch">Довго натисніть МЕНЮ, щоб запустити</string>
@@ -158,7 +158,7 @@
     <string name="music_search_cancelled">Пошук музики скасований</string>
     <string name="music_search_failed">Нема результатів</string>
     <string name="music_search_unsupport">Функція вимагає останньої версії MIUI</string>
-    <string name="need_tts_set">Потрібно зробити застосунок движком за замовчуванням. Встановити?</string>
+    <string name="need_tts_set">Потрібно зробити додаток движком за замовчуванням. Встановити?</string>
     <string name="net_comment">Відгуки</string>
     <string name="net_not_connected">"Інтернет з'єднання відсутнє"</string>
     <string name="net_recommend">Рекомендуємо: %1$s</string>
@@ -174,7 +174,7 @@
     <string name="not_launch_while_calling">Асистент недоступний під час виклику</string>
     <string name="not_remind">Не нагадувати знову</string>
     <string name="not_understand">Помилка розпізнання, повторіть спробу</string>
-    <string name="not_uninstall_system_app">Неможливо видалити системний застосунок</string>
+    <string name="not_uninstall_system_app">Неможливо видалити системний додаток</string>
     <string name="online_category">Онлайн</string>
     <string name="online_no_network">"Не вдалось підключитися до мережі"</string>
     <string name="online_search_hint">Пошук онлайн ресурсів</string>

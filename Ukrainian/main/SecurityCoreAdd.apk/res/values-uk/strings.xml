@@ -48,7 +48,7 @@
      <string name="PrivacyContactDes1">Приватні повідомлення та контакти</string>
      <string name="PrivacyContactDes2">Якщо Ви використовуєте приватні повідомлення в режимі першого користувача, ці повідомлення будуть доступні в режимі другого користувача разом з контактами.</string>
      <string name="add_finger_print">Додати відбиток</string>
-     <string name="appData">Встановлені програми</string>
+     <string name="appData">Встановлені додатку</string>
      <string name="app_name">Ключовий компонент безпеки</string>
      <string name="back">Назад</string>
      <string name="cancelClosePassword">Скасувати</string>
@@ -70,7 +70,7 @@
      <string name="complete_setting_title">Налаштування завершене</string>
      <string name="confirm">ОК</string>
      <string name="confirmClose">Відключити</string>
-     <string name="confirmCloseSpaceDes">Ви не зможете увійти в режим другого користувача після його видалення. Усі дані будуть переміщені або видалені.</string>
+     <string name="confirmCloseSpaceDes">Ви не зможете увійти в режим другого користувача після його видалення. Всі дані будуть переміщені або видалені.</string>
      <string name="confirmDelete">Видалити</string>
      <string name="confirmSecondSpacePassword">Введіть пароль другого користувача</string>
      <string name="confirm_main_space_password">Введіть пароль першого користувача</string>
@@ -105,7 +105,7 @@
      <string name="err_delete_contacts">Не вдається видалити контакти</string>
      <string name="err_delete_files">Не вдається видалити файли</string>
      <string name="err_delete_photos">Не вдається видалити фото</string>
-     <string name="err_switch_apps">Не вдається перемістити програми</string>
+     <string name="err_switch_apps">Не вдається перемістити додатку</string>
      <string name="err_switch_contacts">Не вдається перемістити контакти</string>
      <string name="err_switch_files">Не вдається перемістити файли</string>
      <string name="err_switch_photos">Не вдаєтсья перемістити фото</string>
@@ -127,8 +127,8 @@
      <string name="guide_setting_guide_title">Майстер налаштування</string>
      <string name="hidden_app">Другий користувач</string>
      <string name="imageData">Фото</string>
-     <string name="import_application">Імпорт програм</string>
-     <string name="import_application_desc">"Імпорт програм з пам'яті першого користувача"</string>
+     <string name="import_application">Імпорт додатків</string>
+     <string name="import_application_desc">"Імпорт додатків з пам'яті першого користувача"</string>
      <string name="import_contacts">Імпорт контактів</string>
      <string name="import_contacts_desc">"Імпорт контактів з пам'яті першого користувача"</string>
      <string name="import_contacts_suc">Імпорт завершено</string>
@@ -230,11 +230,11 @@
      <string name="start_new_fingerprint">Новий відбиток</string>
      <string name="start_new_fingerprint_tips">Використовуйте відбиток для входу до режиму другого користувача</string>
      <string name="start_setting_guide_desc_title">Майстер налаштування</string>
-     <string name="summary_switch_apps_settings">Оберіть програми, які будуть доступні для другого користувача.</string>
+     <string name="summary_switch_apps_settings">Оберіть додатку, які будуть доступні для другого користувача.</string>
      <string name="sure_to_use">ОК</string>
      <string name="switchDataSummary">Переміщення даних між користувачами</string>
-     <string name="switch_apps_settings">Налаштування програм</string>
-     <string name="switch_data_app">Перенос даних програм</string>
+     <string name="switch_apps_settings">Налаштування додатків</string>
+     <string name="switch_data_app">Перенос даних додатків</string>
      <string name="switch_data_settings">"Пам'ять"</string>
      <string name="switch_failed">Не вдається перемістити</string>
      <string name="switch_file_success">Файли успішно переміщені</string>
@@ -260,7 +260,7 @@
      <string name="title_choose_app_status">Тип використання</string>
      <string name="title_switch_file">"Видалити ці файли з пам'яті першого користувача?"</string>
      <string name="title_switch_photo">"Видалити ці фото з пам'яті першого користувача?"</string>
-     <string name="transferApp">"програми з пам'яті другого користувача будуть переміщені в пам'ять першого. Всі дані програм будуть видалені."</string>
+     <string name="transferApp">"додатку з пам'яті другого користувача будуть переміщені в пам'ять першого. Всі дані додатків будуть видалені."</string>
      <string name="transferContact">"Контакти з пам'яті другого користувача будуть переміщені в пам'ять першого"</string>
      <string name="transferDataConfirm">Інші елементи будуть видалені</string>
      <string name="transferDataConfirmDes">Ви не зможете відновити елементи після їх видалення</string>
@@ -270,18 +270,18 @@
      <string name="transferMessage">"Повідомлення з пам'яті другого користувача будуть переміщенні в пам'ять першого"</string>
      <string name="tryNow">Почати</string>
      <string name="wating">Завантаження…</string>
-     <string name="xspace_chocie">Інші програми</string>
+     <string name="xspace_chocie">Інші додатку</string>
      <string name="xspace_creating">Клонування програми…</string>
-     <string name="xspace_description">Клонування програм для використання їх нарізно. Програми мають спеціальну піктограму на робочому столі.</string>
-     <string name="xspace_header">Клоновані програми</string>
+     <string name="xspace_description">Клонування додатків для використання їх нарізно. додатку мають спеціальну піктограму на робочому столі.</string>
+     <string name="xspace_header">Клоновані додатку</string>
      <string name="xspace_install_completed">Піктограму додано на робочий стіл</string>
      <string name="xspace_install_failed">Не вдається створити</string>
      <string name="xspace_installing">Встановлення…</string>
      <string name="xspace_introduce">Рекомендації</string>
-     <string name="xspace_label">Клоновані програми</string>
+     <string name="xspace_label">Клоновані додатку</string>
      <string name="xspace_loading_msg">Завантаження програм…</string>
      <string name="xspace_uninstall_completed">Клонований додаток видалено</string>
      <string name="xspace_uninstall_dialog_content">Будуть видалені всі дані</string>
-     <string name="xspace_uninstall_dialog_title">Видалити клоновану програму?</string>
+     <string name="xspace_uninstall_dialog_title">Видалити клоновану додаток?</string>
      <string name="xspace_uninstalling">Видалення…</string>
 </resources>

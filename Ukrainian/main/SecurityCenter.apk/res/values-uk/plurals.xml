@@ -166,10 +166,10 @@
         <item quantity="one">Все виглядає добре</item>
      </plurals>
      <plurals name="cache_check_content">
-        <item quantity="other">Захищено %d застосунків</item>
-        <item quantity="one">Захищено %d застосунок</item>
-        <item quantity="few">Захищено %d застосунки</item>
-        <item quantity="many">Захищено %d застосунків</item>
+        <item quantity="other">Захищено %d додатків</item>
+        <item quantity="one">Захищено %d додаток</item>
+        <item quantity="few">Захищено %d додатки</item>
+        <item quantity="many">Захищено %d додатків</item>
      </plurals>
      <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Через %1$d хвилин</item>
@@ -178,58 +178,58 @@
         <item quantity="many">Через %1$d хвилин</item>
      </plurals>
      <plurals name="deep_clean_data_connection_disable">
-        <item quantity="other">%1$d застосунків без доступу до інтернету у фоновому режимі</item>
-        <item quantity="one">%1$d застосунок без доступу до інтернету у фоновому режимі</item>
-        <item quantity="few">%1$d застосунки без доступу до інтернету у фоновому режимі</item>
-        <item quantity="many">%1$d застосунків без доступу до інтернету у фоновому режимі</item>
+        <item quantity="other">%1$d додатків без доступу до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d додаток без доступу до інтернету у фоновому режимі</item>
+        <item quantity="few">%1$d додатки без доступу до інтернету у фоновому режимі</item>
+        <item quantity="many">%1$d додатків без доступу до інтернету у фоновому режимі</item>
      </plurals>
      <plurals name="deep_clean_data_connection_enable">
-        <item quantity="other">%1$d застосунків з доступом до інтернету у фоновому режимі</item>
-        <item quantity="one">%1$d застосунок з доступом до інтернету у фоновому режимі</item>
-        <item quantity="few">%1$d застосунки з доступом до інтернету у фоновому режимі</item>
-        <item quantity="many">%1$d застосунків з доступом до інтернету у фоновому режимі</item>
+        <item quantity="other">%1$d додатків з доступом до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d додаток з доступом до інтернету у фоновому режимі</item>
+        <item quantity="few">%1$d додатки з доступом до інтернету у фоновому режимі</item>
+        <item quantity="many">%1$d додатків з доступом до інтернету у фоновому режимі</item>
      </plurals>
      <plurals name="deep_clean_gps_disable">
-        <item quantity="other">%1$d застосунків без доступу до GPS</item>
-        <item quantity="one">%1$d застосунок без доступу до GPS</item>
-        <item quantity="few">%1$d застосунки без доступу до GPS</item>
-        <item quantity="many">%1$d застосунків без доступу до GPS</item>
+        <item quantity="other">%1$d додатків без доступу до GPS</item>
+        <item quantity="one">%1$d додаток без доступу до GPS</item>
+        <item quantity="few">%1$d додатки без доступу до GPS</item>
+        <item quantity="many">%1$d додатків без доступу до GPS</item>
      </plurals>
      <plurals name="deep_clean_gps_enable">
-        <item quantity="other">%1$d застосунків з доступом до GPS</item>
-        <item quantity="one">%1$d застосунок з доступом до GPS</item>
-        <item quantity="few">%1$d застосунки з доступом до GPS</item>
-        <item quantity="many">%1$d застосунків з доступом до GPS</item>
+        <item quantity="other">%1$d додатків з доступом до GPS</item>
+        <item quantity="one">%1$d додаток з доступом до GPS</item>
+        <item quantity="few">%1$d додатки з доступом до GPS</item>
+        <item quantity="many">%1$d додатків з доступом до GPS</item>
      </plurals>
      <plurals name="find_applications">
-        <item quantity="other">Пошук застосунків: %d</item>
-        <item quantity="one">Пошук застосунку: %d</item>
+        <item quantity="other">Пошук додатків: %d</item>
+        <item quantity="one">Пошук додатку: %d</item>
      </plurals>
      <plurals name="found_apps_title">
-        <item quantity="other">Знайдено %d застосунків</item>
-        <item quantity="one">Знайдено %d застосунок</item>
-        <item quantity="few">Знайдено %d застосунки</item>
-        <item quantity="many">Знайдено %d застосунків</item>
+        <item quantity="other">Знайдено %d додатків</item>
+        <item quantity="one">Знайдено %d додаток</item>
+        <item quantity="few">Знайдено %d додатки</item>
+        <item quantity="many">Знайдено %d додатків</item>
      </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">Дозволів: %d</item>
         <item quantity="one">Дозволів: %d</item>
      </plurals>
      <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">Застосунки без автозапуску (%d)</item>
-        <item quantity="one">Застосунки без автозапуску (%d)</item>
+        <item quantity="other">Додатки без автозапуску (%d)</item>
+        <item quantity="one">Додатки без автозапуску (%d)</item>
      </plurals>
      <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">Застосунки з автозапуском (%d)</item>
-        <item quantity="one">Застосунки з автозапуском (%d)</item>
+        <item quantity="other">Додатки з автозапуском (%d)</item>
+        <item quantity="one">Додатки з автозапуском (%d)</item>
      </plurals>
      <plurals name="hints_get_root_disable_title">
-        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
-        <item quantity="one">Застосунки з ROOT доступом (%d)</item>
+        <item quantity="other">Додатки з ROOT доступом (%d)</item>
+        <item quantity="one">Додатки з ROOT доступом (%d)</item>
      </plurals>
      <plurals name="hints_get_root_enable_title">
-        <item quantity="other">Застосунки з ROOT доступом (%d)</item>
-        <item quantity="one">Застосунки з ROOT доступом(%d)</item>
+        <item quantity="other">Додатки з ROOT доступом (%d)</item>
+        <item quantity="one">Додатки з ROOT доступом(%d)</item>
      </plurals>
      <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">"%d загроз, "</item>
@@ -250,26 +250,26 @@
         <item quantity="many">Запускалося %d днів тому</item>
      </plurals>
      <plurals name="hints_permission_apps_count">
-        <item quantity="other">Застосунків: %d</item>
-        <item quantity="one">Застосунків: %d</item>
+        <item quantity="other">Додатків: %d</item>
+        <item quantity="one">Додатків: %d</item>
      </plurals>
      <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d застосунків без доступу до інтернету у роумінгу</item>
-        <item quantity="one">%d застосунок без доступу до інтернету у роумінгу</item>
-        <item quantity="few">%d застосунки без доступу до інтернету у роумінгу</item>
-        <item quantity="many">%d застосунків без доступу до інтернету у роумінгу</item>
+        <item quantity="other">%d додатків без доступу до інтернету у роумінгу</item>
+        <item quantity="one">%d додаток без доступу до інтернету у роумінгу</item>
+        <item quantity="few">%d додатки без доступу до інтернету у роумінгу</item>
+        <item quantity="many">%d додатків без доступу до інтернету у роумінгу</item>
      </plurals>
      <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d застосунків з доступом до інтернету у роумінгу</item>
-        <item quantity="one">%d застосунок з доступом до інтернету у роумінгу</item>
-        <item quantity="few">%d застосунки з доступом до інтернету у роумінгу</item>
-        <item quantity="many">%d застосунків з доступом до інтернету у роумінгу</item>
+        <item quantity="other">%d додатків з доступом до інтернету у роумінгу</item>
+        <item quantity="one">%d додаток з доступом до інтернету у роумінгу</item>
+        <item quantity="few">%d додатки з доступом до інтернету у роумінгу</item>
+        <item quantity="many">%d додатків з доступом до інтернету у роумінгу</item>
      </plurals>
      <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">Знайдено %d застосунків</item>
-        <item quantity="one">Знайдено %d застосунок</item>
-        <item quantity="few">Знайдено %d застосунки</item>
-        <item quantity="many">Знайдено %d застосунків</item>
+        <item quantity="other">Знайдено %d додатків</item>
+        <item quantity="one">Знайдено %d додаток</item>
+        <item quantity="few">Знайдено %d додатки</item>
+        <item quantity="many">Знайдено %d додатків</item>
      </plurals>
      <plurals name="hints_scan_result_danger">
         <item quantity="other">%d загроз</item>
@@ -284,28 +284,28 @@
         <item quantity="many">%d загроз</item>
      </plurals>
      <plurals name="hints_traffic_disable_title">
-        <item quantity="other">%d застосунків з відстеженням трафіку</item>
-        <item quantity="one">%d застосунок з відстеженням трафіку</item>
-        <item quantity="few">%d застосунки з відстеженням трафіку</item>
-        <item quantity="many">%d застосунків з відстеженням трафіку</item>
+        <item quantity="other">%d додатків з відстеженням трафіку</item>
+        <item quantity="one">%d додаток з відстеженням трафіку</item>
+        <item quantity="few">%d додатки з відстеженням трафіку</item>
+        <item quantity="many">%d додатків з відстеженням трафіку</item>
      </plurals>
      <plurals name="hints_traffic_enable_title">
-        <item quantity="other">%d застосунків без відстеження трафіку</item>
-        <item quantity="one">%d застосунок без відстеження трафіку</item>
-        <item quantity="few">%d застосунки без відстеження трафіку</item>
-        <item quantity="many">%d застосунків без відстеження трафіку</item>
+        <item quantity="other">%d додатків без відстеження трафіку</item>
+        <item quantity="one">%d додаток без відстеження трафіку</item>
+        <item quantity="few">%d додатки без відстеження трафіку</item>
+        <item quantity="many">%d додатків без відстеження трафіку</item>
      </plurals>
      <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d застосунків з економією трафіку</item>
-        <item quantity="one">%d застосунок з економією трафіку</item>
-        <item quantity="few">%d застосунки з економією трафіку</item>
-        <item quantity="many">%d застосунків з економією трафіку</item>
+        <item quantity="other">%d додатків з економією трафіку</item>
+        <item quantity="one">%d додаток з економією трафіку</item>
+        <item quantity="few">%d додатки з економією трафіку</item>
+        <item quantity="many">%d додатків з економією трафіку</item>
      </plurals>
      <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d застосунків без економії трафіку</item>
-        <item quantity="one">%d застосунок без економії трафіку</item>
-        <item quantity="few">%d застосунки без економії трафіку</item>
-        <item quantity="many">%d застосунків без економії трафіку</item>
+        <item quantity="other">%d додатків без економії трафіку</item>
+        <item quantity="one">%d додаток без економії трафіку</item>
+        <item quantity="few">%d додатки без економії трафіку</item>
+        <item quantity="many">%d додатків без економії трафіку</item>
      </plurals>
      <plurals name="hints_traffic_saving_need_optimize">
         <item quantity="other">Без стиснення: %d</item>
@@ -343,22 +343,22 @@
         <item quantity="other">Завантажено %1$d користувачами</item>
      </plurals>
      <plurals name="notification_apps">
-        <item quantity="other">%d застосунків містять загрозу конфіденційності</item>
-        <item quantity="one">%d застосунок містить загрозу конфіденційності</item>
-        <item quantity="few">%d застосунки містять загрозу конфіденційності</item>
-        <item quantity="many">%d застосунків містять загрозу конфіденційності</item>
+        <item quantity="other">%d додатків містять загрозу конфіденційності</item>
+        <item quantity="one">%d Додаток містить загрозу конфіденційності</item>
+        <item quantity="few">%d Додатки містять загрозу конфіденційності</item>
+        <item quantity="many">%d додатків містять загрозу конфіденційності</item>
      </plurals>
      <plurals name="number_locked">
-        <item quantity="other">%d застосунків заблоковані</item>
-        <item quantity="one">%d застосунок заблоковано</item>
-        <item quantity="few">%d застосунки заблоковані</item>
-        <item quantity="many">%d застосунків заблоковані</item>
+        <item quantity="other">%d додатків заблоковані</item>
+        <item quantity="one">%d додаток заблоковано</item>
+        <item quantity="few">%d додатки заблоковані</item>
+        <item quantity="many">%d додатків заблоковані</item>
      </plurals>
      <plurals name="number_to_lock">
-        <item quantity="other">%d застосунків не заблоковані</item>
-        <item quantity="one">%d застосунок не заблоковано</item>
-        <item quantity="few">%d застосунки не заблоковані</item>
-        <item quantity="many">%d застосунків не заблоковані</item>
+        <item quantity="other">%d додатків не заблоковані</item>
+        <item quantity="one">%d додаток не заблоковано</item>
+        <item quantity="few">%d додатки не заблоковані</item>
+        <item quantity="many">%d додатків не заблоковані</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d балів</item>
@@ -415,20 +415,20 @@
         <item quantity="many">Оптимізовано %d елементів</item>
      </plurals>
      <plurals name="search_app_count_txt">
-        <item quantity="other">Пошук %d застосунків</item>
+        <item quantity="other">Пошук %d додатків</item>
         <item quantity="one">Пошук %d зпстосунку</item>
-        <item quantity="few">Пошук %d застосунків</item>
-        <item quantity="many">Пошук %d застосунків</item>
+        <item quantity="few">Пошук %d додатків</item>
+        <item quantity="many">Пошук %d додатків</item>
      </plurals>
      <plurals name="search_app_count_txt_na">
-        <item quantity="other">Пошук застосунків: %d</item>
+        <item quantity="other">Пошук додатків: %d</item>
         <item quantity="one">Пошук застосунку: %d</item>
      </plurals>
      <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d захищених застосунків очікують очищення</item>
-        <item quantity="one">%d захищена застосунок очікує очищення</item>
-        <item quantity="few">%d захищених застосунки очікують очищення</item>
-        <item quantity="many">%d захищених застосунків очікують очищення</item>
+        <item quantity="other">%d захищених додатків очікують очищення</item>
+        <item quantity="one">%d захищений додаток очікує очищення</item>
+        <item quantity="few">%d захищених додатки очікують очищення</item>
+        <item quantity="many">%d захищених додатків очікують очищення</item>
      </plurals>
      <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Видалено %d вірусів</item>
@@ -443,22 +443,22 @@
         <item quantity="many">%s загроз платежам</item>
      </plurals>
      <plurals name="sp_monitored_apps_count">
-        <item quantity="other">Захищено %s платіжних застосунків</item>
-        <item quantity="one">Захищено %s платіжний застосунок</item>
-        <item quantity="few">Захищено %s платіжних застосунків</item>
-        <item quantity="many">Захищено %s платіжних застосунків</item>
+        <item quantity="other">Захищено %s платіжних додатків</item>
+        <item quantity="one">Захищено %s платіжний Додаток</item>
+        <item quantity="few">Захищено %s платіжних додатків</item>
+        <item quantity="many">Захищено %s платіжних додатків</item>
      </plurals>
      <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">Не захищено %s платіжних застосунків</item>
-        <item quantity="one">Не захищено %s платіжний застосунок</item>
-        <item quantity="few">Не захищено %s платіжних застосунків</item>
-        <item quantity="many">Не захищено %s платіжних застосунків</item>
+        <item quantity="other">Не захищено %s платіжних додатків</item>
+        <item quantity="one">Не захищено %s платіжний Додаток</item>
+        <item quantity="few">Не захищено %s платіжних додатків</item>
+        <item quantity="many">Не захищено %s платіжних додатків</item>
      </plurals>
      <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s застосунків захищено</item>
-        <item quantity="one">%s застосунок захищено</item>
-        <item quantity="few">%s застосунків захищено</item>
-        <item quantity="many">%s застосунків захищено</item>
+        <item quantity="other">%s додатків захищено</item>
+        <item quantity="one">%s Додаток захищено</item>
+        <item quantity="few">%s додатків захищено</item>
+        <item quantity="many">%s додатків захищено</item>
      </plurals>
      <plurals name="sp_settings_exception_count">
         <item quantity="other">%d елементів</item>
@@ -467,8 +467,8 @@
         <item quantity="many">%d елементів</item>
      </plurals>
      <plurals name="summary_app_update">
-        <item quantity="other">Доступні оновлення застосунків: %d</item>
-        <item quantity="one">Доступні оновлення застосунків: %d</item>
+        <item quantity="other">Доступні оновлення додатків: %d</item>
+        <item quantity="one">Доступні оновлення додатків: %d</item>
      </plurals>
      <plurals name="system_check_content">
         <item quantity="other">Захищено %1$d елементів</item>

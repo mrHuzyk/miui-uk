@@ -88,7 +88,7 @@
     <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Вмикання/вимикання Bluetooth (%1$s)</string>
     <string name="HIPS_Perm_AutoStart">Автозапуск</string>
     <string name="HIPS_Perm_AutoStart_Desc">Автозапуск застосунку</string>
-    <string name="HIPS_Perm_AutoStart_Hint">Автозапуск застосунків (%1$s)</string>
+    <string name="HIPS_Perm_AutoStart_Hint">Автозапуск додатків (%1$s)</string>
     <string name="HIPS_Perm_Notification">Сповіщення</string>
     <string name="HIPS_Perm_Notification_Desc">Використання сповіщень</string>
     <string name="HIPS_Perm_Notification_Hint">Використання сповіщень(%1$s)</string>
@@ -166,11 +166,11 @@
     <string name="Generic_Configuration">Настроювання</string>
     <string name="Generic_UserApp">Завантажені (%d)</string>
     <string name="Generic_SystemApp">Системні (%d)</string>
-    <string name="Generic_SystemApp_Label">Системний застосунок</string>
+    <string name="Generic_SystemApp_Label">Системний додаток</string>
     <string name="Generic_MonitoredApp">Керовані (%1$d)</string>
     <string name="Generic_TrustedApp">Довірені (%1$d)</string>
-    <string name="Generic_ShowSystemApp">Показати системні програми</string>
-    <string name="Generic_HideSystemApp">Приховати системні програми</string>
+    <string name="Generic_ShowSystemApp">Показати системні додатки</string>
+    <string name="Generic_HideSystemApp">Приховати системні додатки</string>
     <string name="Generic_Loading">Завантаження…</string>
     <string name="Generic_Operating">У процесі…</string>
     <string name="Generic_Canceling">Скасування…</string>
@@ -188,7 +188,7 @@
     <string name="Generic_Update">Відновлення застосунку</string>
     <string name="Generic_Shortcut">Контекстне меню</string>
     <string name="HIPS_SecurityPrompt_Caption">Попередження</string>
-    <string name="HIPS_SecurityPrompt_Title">"Програма \"%1$s\" запитує:
+    <string name="HIPS_SecurityPrompt_Title">"Додаток \"%1$s\" запитує:
 %2$s 
 
 Дозволити доступ?"</string>
@@ -205,13 +205,13 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Використовуйте з обережністю!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Дозволити застосунку \"%1$s\" отримувати ROOT доступ?</string>
     <string name="Dashboard_Perm">Дозволи</string>
-    <string name="Dashboard_App">Застосунки</string>
+    <string name="Dashboard_App">Додатки</string>
     <string name="Dashboard_Log">Журнали</string>
-    <string name="Dashboard_Perm_Header">Застосунків: %1$d</string>
+    <string name="Dashboard_Perm_Header">додатків: %1$d</string>
     <string name="Dashboard_Perm_Header_Disabled">Керування доступом відключене</string>
     <string name="Dashboard_Perm_SU_Switch">Дозвіл ROOT доступу</string>
     <string name="Dashboard_Perm_SU">Керування ROOT доступом</string>
-    <string name="Dashboard_Perm_SU_Desc">Контроль застосунків з ROOT доступом (%1$d)</string>
+    <string name="Dashboard_Perm_SU_Desc">Контроль додатків з ROOT доступом (%1$d)</string>
     <string name="Dashboard_Perm_SU_Disabled">ROOT доступ неактивний в стабільній версії MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT доступ недоступний</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Дозвіл ROOT прав може призвести до нестабільної роботи системи, до втрати особистих і системних даних, а також до ушкодження пристрою.
@@ -219,20 +219,20 @@
 в стабільній версії MIUI ROOT права недоступні. Будь ласка, використовуйте версію MIUI для розроблювачів"</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачати MIUI</string>
     <string name="Dashboard_Perm_HIPS_Switch">Керування дозволами</string>
-    <string name="Dashboard_Perm_HIPS">Керування доступом застосунків</string>
-    <string name="Dashboard_Perm_HIPS_Desc">Контроль застосунків (%1$d)</string>
-    <string name="Dashboard_Perm_HIPS_Desc2">Контроль застосунків (%1$d)</string>
+    <string name="Dashboard_Perm_HIPS">Керування доступом додатків</string>
+    <string name="Dashboard_Perm_HIPS_Desc">Контроль додатків (%1$d)</string>
+    <string name="Dashboard_Perm_HIPS_Desc2">Контроль додатків (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Disabled">Керування дозволами відключене</string>
     <string name="Dashboard_Perm_HIPS_Risky">Дозволи з ризиком (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Дозволи (%1$d)</string>
     <string name="Dashboard_Perm_AutoStart">Автозавантаження</string>
-    <string name="Dashboard_Perm_AutoStart_Desc">Увімкнення або вимкнення автозавантаження застосунків</string>
+    <string name="Dashboard_Perm_AutoStart_Desc">Увімкнення або вимкнення автозавантаження додатків</string>
     <string name="Dashboard_HIPS_Disable_Title">Монітор доступу</string>
     <string name="Dashboard_HIPS_Disable_Content">"Відключення функції може піддати систему небезпеці.
 продовжити?"</string>
     <string name="Dashboard_Su_Enable_Title">Дозволи ROOT</string>
     <string name="Dashboard_Su_Enable_Content">"Включення цієї функції дозволить застосункам запитувати доступ до системи від імені адміністратора.
-увага: застосунки з ROOT доступом можуть викликати нестабільність у роботі системи, а також втрату особистих даних.
+увага: додатки з ROOT доступом можуть викликати нестабільність у роботі системи, а також втрату особистих даних.
 
 ви впевнені, що хочете включити ROOT доступ?"</string>
     <string name="Dashboard_Log_Clear_Title">Очистити журнали</string>
@@ -241,8 +241,8 @@
     <string name="Privacy_AppPerm_Count">Дозволи: %1$d</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d дозволи &lt;font color=#478800>довірені&lt;/font></string>
     <string name="Privacy_App_Trust">Запрос дозволів</string>
-    <string name="Privacy_App_Trust_Summary_Off">Повідомляти, коли цей застосунок буде запитувати доступ до системи.</string>
-    <string name="Privacy_App_Trust_Summary_On">Повідомляти, коли цей застосунок буде запитувати доступ до системи.</string>
+    <string name="Privacy_App_Trust_Summary_Off">Повідомляти, коли цей додаток буде запитувати доступ до системи.</string>
+    <string name="Privacy_App_Trust_Summary_On">Повідомляти, коли цей додаток буде запитувати доступ до системи.</string>
     <string name="Privacy_App_Manage">Подробиці</string>
     <string name="Privacy_App_Uninstall">Видалення</string>
     <string name="Privacy_App_Log">Журнали</string>
@@ -255,20 +255,20 @@
     <string name="SysOpt_Boost_Receiver">Фонові</string>
     <string name="SysOpt_Boost_AutoStart_Group">Автозавантаження</string>
     <string name="SysOpt_Boost_AutoStart">Дозволи автозавантаження</string>
-    <string name="Su_Enable_Dialog">Застосунок \"%1$s\" намагається одержати ROOT доступ</string>
+    <string name="Su_Enable_Dialog">Додаток \"%1$s\" намагається одержати ROOT доступ</string>
     <string name="Su_Unavailable">Права адміністратора не доступні в стабільній версії MIUI. Встановіть щотижневу версію (для розробників).</string>
-    <string name="Su_Package_Forbidden">Застосунок \"%1$s\" не має ROOT доступ</string>
-    <string name="permisson_reject_notice_toast_text">Програма \"%1$s\" не має: %2$s</string>
+    <string name="Su_Package_Forbidden">Додаток \"%1$s\" не має ROOT доступ</string>
+    <string name="permisson_reject_notice_toast_text">Додаток \"%1$s\" не має: %2$s</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Дозволити зараз (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Заборонити зараз (%d)</string>
     <string name="Dashboard_Perm_Autostart">Автозавантаження</string>
-    <string name="Dashboard_Perm_Autostart_Desc">Включення або вимикання автозавантаження застосунків</string>
-    <string name="Generic_Hidesystemapp">Сховати системні застосунки</string>
+    <string name="Dashboard_Perm_Autostart_Desc">Включення або вимикання автозавантаження додатків</string>
+    <string name="Generic_Hidesystemapp">Сховати системні додатки</string>
     <string name="Generic_Invalidinput">Некоректне введення</string>
     <string name="Generic_Monitoredapp">Керовані (%1$d)</string>
-    <string name="Generic_Showsystemapp">Показати системні застосунки</string>
+    <string name="Generic_Showsystemapp">Показати системні додатки</string>
     <string name="Generic_Systemapp">Системні (%d)</string>
-    <string name="Generic_Systemapp_Label">Системний застосунок</string>
+    <string name="Generic_Systemapp_Label">Системний додаток</string>
     <string name="Generic_Trustedapp">Довірені(%1$d)</string>
     <string name="Generic_Userapp">Завантажені (%d)</string>
     <string name="HIPS_Group_Dataprivacy">Конфіденційність</string>
@@ -335,7 +335,7 @@
     <string name="HIPS_Securityprompt_ROOT_Step6">Дозволити застосунку \"%1$s\" одержувати ROOT доступ?</string>
     <string name="HIPS_Securityprompt_Reject">Скасування (%d)</string>
     <string name="HIPS_Securityprompt_Remember">"Запам'ятати"</string>
-    <string name="HIPS_Securityprompt_Title">"Застосунок \"%1$s\" запитує:
+    <string name="HIPS_Securityprompt_Title">"Додаток \"%1$s\" запитує:
 %2$s 
 
 дозволити доступ?"</string>

@@ -5,7 +5,7 @@
 	 <string name="refuse_to_share_as_pic_because_of_content">Ця замітка занадто велика, щоб поділитися</string>
      <string name="refuse_to_share_as_pic_because_of_loading">Дочекайтеся завантаження замітки та повторіть</string>
 	 <string name="db_downgrade_clear_button">Очистити дані додатку</string>
-     <string name="db_downgrade_clear_date_reminder">Для переходу на іншу версію MIUI необхідно очистити даних програми замітки. Переконайтеся, що Ви зберегли свої замітки в Mi Cloud.</string>
+     <string name="db_downgrade_clear_date_reminder">Для переходу на іншу версію MIUI необхідно очистити даних додатку замітки. Переконайтеся, що Ви зберегли свої замітки в Mi Cloud.</string>
 	 <string name="note_description_content">"Нотатки - відмінний інструмент для запису Ваших ідей. Вони мають вбудовані нагадування та синхронізує об'єкти з Mi Cloud, щоб отримати доступ до них в будь-якому місці та в будь-який час. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій</string>
      <string name="note_description_title">Про нотатки</string>
 	 <string name="action_folder_description">Перегляд папок</string>
@@ -75,8 +75,8 @@
      <string name="dlg_desc_confirm_alarm_silent">Сигнал будильника відтворюватися не буде, коли на телефоні виключений звук</string>
      <string name="dlg_hide_message">Переміщення в приватні…</string>
      <string name="dlg_info_creating_message">Створення повідомлення…</string>
-     <string name="dlg_message_password_reset">Приватні нотатки будуть захищені паролем конфіденційності, який також буде використовуватись для приватних повідомлень, фото, контактів, програм і подібних даних.</string>
-     <string name="dlg_message_set_password">Пароль буде використовуватись для програм, фото, прихованих папок и подібних даних.</string>
+     <string name="dlg_message_password_reset">Приватні нотатки будуть захищені паролем конфіденційності, який також буде використовуватись для приватних повідомлень, фото, контактів, додатків і подібних даних.</string>
+     <string name="dlg_message_set_password">Пароль буде використовуватись для додатків, фото, прихованих папок и подібних даних.</string>
      <string name="dlg_message_use_privacy_password">Приватні нотатки будуть захищені паролем конфіденційності</string>
      <string name="dlg_move_message">Перенесення…</string>
      <string name="dlg_privacy_message">Перенесення до приватних…</string>
@@ -148,7 +148,7 @@
      <string name="notelist_menu_new">Нова нотатка</string>
      <string name="notelist_string_info">…</string>
      <string name="notify_alarm_title">Нагадування</string>
-     <string name="permdesc_accessNote">Шкідливі застосунки можуть використовувати цей дозвіл для доступу до вашої особистої інформації</string>
+     <string name="permdesc_accessNote">Шкідливі додатки можуть використовувати цей дозвіл для доступу до вашої особистої інформації</string>
      <string name="permlab_accessNote">Доступ до нотаток</string>
      <string name="pref_desc_alarm_when_silent">Відтворення сигналу в режимі \"Без звуку\"</string>
      <string name="pref_desc_skip_confirm_for_quick_delete">Не показувати підтвердження при видаленні нотатки свайпом двома пальцями вверх</string>
@@ -169,7 +169,7 @@
      <string name="search_hint">Пошук нотаток</string>
      <string name="search_keyword_notes">Нотатки;Memo;Нагадування</string>
      <string name="search_label">Пошук нотаток</string>
-     <string name="search_path_notes">Системні програми | Нотатки</string>
+     <string name="search_path_notes">Системні додатку | Нотатки</string>
      <string name="search_setting_description">Текст у нотатках</string>
      <string name="select_account_prompt">Синхронізація нотаток</string>
      <string name="sina_share_fail">Помилка надсилання</string>

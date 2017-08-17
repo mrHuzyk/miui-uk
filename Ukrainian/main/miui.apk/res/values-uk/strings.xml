@@ -18,7 +18,7 @@
      <string name="address">Адреса</string>
      <string name="afternoon">PM</string>
      <string name="am">AM</string>
-     <string name="app_name_which_call">Застосунок %s</string>
+     <string name="app_name_which_call">Додаток %s</string>
      <string name="app_version_which_call">Версія: %s</string>
      <string name="birthday">День народження</string>
      <string name="check_phone_error_title">Синхронізація відключена</string>

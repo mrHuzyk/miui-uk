@@ -62,8 +62,8 @@
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Вимкнено</item>
-        <item>Усі</item>
-        <item>Усі, крім радіо</item>
+        <item>Всі</item>
+        <item>Всі, крім радіо</item>
         <item>лише ядро</item>
     </string-array>
     <string-array name="select_logpersist_summaries">

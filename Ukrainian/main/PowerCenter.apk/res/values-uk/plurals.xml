@@ -25,28 +25,28 @@
 		<item quantity="many">Через %1$d хвилин</item>
     </plurals>
     <plurals name="deep_clean_data_connection_enable">
-        <item quantity="other">%1$d програм з доступом до інтернету у фоновому режимі</item>
-        <item quantity="one">%1$d програма з доступом до інтернету у фоновому режимі</item>
-		<item quantity="few">%1$d програми з доступом до інтернету у фоновому режимі</item>
-		<item quantity="many">%1$d програм з доступом до інтернету у фоновому режимі</item>
+        <item quantity="other">%1$d додатків з доступом до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d додаток з доступом до інтернету у фоновому режимі</item>
+		<item quantity="few">%1$d додатку з доступом до інтернету у фоновому режимі</item>
+		<item quantity="many">%1$d додатків з доступом до інтернету у фоновому режимі</item>
     </plurals>
     <plurals name="deep_clean_data_connection_disable">
-        <item quantity="other">%1$d програм без доступу до інтернету у фоновому режимі</item>
-        <item quantity="one">%1$d програма без доступу до інтернету у фоновому режимі</item>
+        <item quantity="other">%1$d додатків без доступу до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d додаток без доступу до інтернету у фоновому режимі</item>
 		<item quantity="few">%1$d ппрограми без доступу до інтернету у фоновому режимі</item>
-		<item quantity="many">%1$d програм без доступу до інтернету у фоновому режимі</item>
+		<item quantity="many">%1$d додатків без доступу до інтернету у фоновому режимі</item>
     </plurals>
     <plurals name="deep_clean_gps_enable">
-        <item quantity="other">%1$d програм з доступом до GPS</item>
-        <item quantity="one">%1$d програма з доступом до GPS</item>
-		<item quantity="few">%1$d програми з доступом до GPS</item>
-		<item quantity="many">%1$d програм з доступом до GPS</item>
+        <item quantity="other">%1$d додатків з доступом до GPS</item>
+        <item quantity="one">%1$d додаток з доступом до GPS</item>
+		<item quantity="few">%1$d додатку з доступом до GPS</item>
+		<item quantity="many">%1$d додатків з доступом до GPS</item>
     </plurals>
     <plurals name="deep_clean_gps_disable">
-        <item quantity="other">%1$d програм без доступу до GPS</item>
-        <item quantity="one">%1$d програма без доступу до GPS</item>
-		<item quantity="few">%1$d програми без доступу до GPS</item>
-		<item quantity="many">%1$d програм без доступу до GPS</item>
+        <item quantity="other">%1$d додатків без доступу до GPS</item>
+        <item quantity="one">%1$d додаток без доступу до GPS</item>
+		<item quantity="few">%1$d додатку без доступу до GPS</item>
+		<item quantity="many">%1$d додатків без доступу до GPS</item>
     </plurals>
     <plurals name="power_optimize_fix_prompt">
         <item quantity="other">Виправлено %d елементів</item>
@@ -55,9 +55,9 @@
 		<item quantity="many">Виправлено %d елементів</item>
     </plurals>
     <plurals name="search_app_count_txt">
-        <item quantity="other">Пошук %d програм</item>
-        <item quantity="one">Пошук %d програми</item>
-		<item quantity="few">Пошук %d програм</item>
-		<item quantity="many">Пошук %d програм</item>
+        <item quantity="other">Пошук %d додатків</item>
+        <item quantity="one">Пошук %d додатку</item>
+		<item quantity="few">Пошук %d додатків</item>
+		<item quantity="many">Пошук %d додатків</item>
     </plurals>
 </resources>

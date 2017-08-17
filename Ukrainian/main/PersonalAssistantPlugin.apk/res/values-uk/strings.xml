@@ -10,9 +10,9 @@
      <string name="calendar_parent">Календар</string>
      <string name="card_name">Візитівка</string>
      <string name="card_parent">WeChat</string>
-     <string name="corpus_description_apps">Встановлені програми</string>
-     <string name="corpus_hint_apps">Пошук програм</string>
-     <string name="corpus_label_apps">Програма</string>
+     <string name="corpus_description_apps">Встановлені додатку</string>
+     <string name="corpus_hint_apps">Пошук додатків</string>
+     <string name="corpus_label_apps">Додаток</string>
      <string name="cta_desc">Інформація про затори</string>
      <string name="cta_negative">Пізніше</string>
      <string name="cta_positive">Увімкнути</string>

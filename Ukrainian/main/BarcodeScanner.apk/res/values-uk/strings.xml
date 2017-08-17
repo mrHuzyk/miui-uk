@@ -51,7 +51,7 @@
     <string name="copy_text_success">Текст скопійований</string>
     <string name="success_message_import_from_account">Імпорт завершений</string>
     <string name="web_url_warning">"Зв'язаний сайт може містити погрозу безпеки"</string>
-    <string name="web_url_apk_warning">Цей застоснок з невідомого джерела й може являти загрозу безпеки. Рекомендується встановлювати застосунки тільки з надійних джерел</string>
+    <string name="web_url_apk_warning">Цей застоснок з невідомого джерела й може являти загрозу безпеки. Рекомендується встановлювати додатки тільки з надійних джерел</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_pwd">Пароль:</string>
     <string name="wifi_security">Безпека:</string>

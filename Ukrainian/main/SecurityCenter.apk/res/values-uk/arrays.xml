@@ -80,7 +80,7 @@
         <item>Екран блокування</item>
         <item>Батьківський контроль</item>
         <item>Файли</item>
-        <item>Блокування застосунків</item>
+        <item>Блокування додатків</item>
      </string-array>
      <string-array name="date_of_app">
         <item>Вчора (мобільний інтернет)</item>

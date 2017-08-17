@@ -687,7 +687,7 @@
     <string name="stk_cc_ss_to_dial_error">SS запит перетворений в DIAL запит.</string>
     <string name="stk_cc_ss_to_ss_error">SS запит перетворений в новий SS запит.</string>
     <string name="stk_cc_ss_to_ussd_error">SS запит перетворений в USSD запит.</string>
-	<string name="activity_not_found">Застосунок не встановлено</string>
+	<string name="activity_not_found">Додаток не встановлено</string>
     <string name="addConferenceMemeberText">Додати учасника</string>
     <string name="add_conference_member_limit">Можна додати тільки один номер за раз</string>
     <string name="add_member_msg">"Введіть ім'я або номер"</string>
@@ -822,7 +822,7 @@
     <string name="jeejen_card_title_in_call" />
     <string name="jeejen_card_title_on_hold" />
     <string name="labelCFC">Скасувати всі переадресації</string>
-    <string name="lable_all_incoming">Усі вхідні виклики</string>
+    <string name="lable_all_incoming">Всі вхідні виклики</string>
     <string name="lable_all_out_except">Вих. міжнар. виклики, крім НМСОП</string>
     <string name="lable_all_outgoing">Всі вихідні виклики</string>
     <string name="lable_all_outgoing_international">Вих.міжнародні виклики</string>
@@ -830,7 +830,7 @@
     <string name="lable_disable">Відключено</string>
     <string name="lable_enable">Увімкнено</string>
     <string name="lable_incoming_calls_except">Вхідні виклики в роумінгу</string>
-    <string name="lable_sim_not_ready">Застосунок не готовий або не підтримується</string>
+    <string name="lable_sim_not_ready">Додаток не готовий або не підтримується</string>
     <string name="manual_select_dialog_msg">Мобільний телефон не буде автоматично обирати оператора в режимі ручного вибору. Іноді необхідно буде заново обрати, або повернутися в автоматичний режим вибору якщо пристрій втратить мережу обраного оператора. Ми рекомендуємо вам використовувати \"Обирати автоматично\". Обрати мережу власноруч?</string>
     <string name="manual_select_title">Обрати мережу власноруч</string>
     <string name="memberStatus">Статус</string>

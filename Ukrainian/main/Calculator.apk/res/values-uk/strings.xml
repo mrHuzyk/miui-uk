@@ -70,7 +70,7 @@
      <string name="word_figure_dot">Крапка</string>
      <string name="younger_brother">Мл. брат</string>
      <string name="younger_sister">Мл. сестра</string>
-	 <string name="preference_about_calculator">Про програму</string>
+	 <string name="preference_about_calculator">Про додаток</string>
      <string name="preference_alert_follow_wechat">Скопіюйте та вставте у WeChat</string>
      <string name="preference_alert_follow_wechat_button">Копіювати</string>
      <string name="preference_check_update_title">Перевірка оновлень</string>
@@ -86,7 +86,7 @@
      <string name="preference_use_degress_summary">Використовувати розрахунок кутів у інженерному калькуляторі</string>
      <string name="preference_use_degress_title">Розрахунок кутів</string>
      <string name="xiaomi_bytes_unit">%1$s б</string>
-     <string name="xiaomi_connect_download_manager_fail">Неможливо запустити програму \"Завантаження\"</string>
+     <string name="xiaomi_connect_download_manager_fail">Неможливо запустити додаток \"Завантаження\"</string>
      <string name="xiaomi_external_storage_unavailable">"Пам'ять недоступна"</string>
      <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
      <string name="xiaomi_megabytes_unit">%1$s Мб</string>

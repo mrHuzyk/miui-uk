@@ -73,7 +73,7 @@
      <string name="all_sync_item_open">Всі дані</string>
      <string name="antispam_sync">Налаштування режиму \"Не турбувати\"</string>
      <string name="app_name">Mi Cloud</string>
-     <string name="app_sync_off">Синхр. застосунків вимкнена</string>
+     <string name="app_sync_off">Синхр. додатків вимкнена</string>
      <string name="apple_10gb">20 Гб</string>
      <string name="apple_cloud">Сервіс Apple Cloud</string>
      <string name="apple_cloud_eng">iCloud</string>
@@ -96,13 +96,13 @@
      <string name="close_cloud_app_backup_cancel">Відміна</string>
      <string name="close_cloud_app_backup_close">Закрити</string>
      <string name="close_cloud_app_backup_local_backup">Створити бекап</string>
-     <string name="close_cloud_app_backup_message">Функція бекапа застосунків буде видалена 1 травня 2015 року</string>
+     <string name="close_cloud_app_backup_message">Функція бекапа додатків буде видалена 1 травня 2015 року</string>
      <string name="close_cloud_app_backup_notification_message">Натисніть для перегляду</string>
      <string name="close_cloud_app_backup_notification_title">Mi Cloud</string>
      <string name="close_cloud_app_backup_title">Попередження</string>
-     <string name="cloud_app_back_up_quit_notification_content1">Функція бекапа застосунків буде видалена 1 травня 2015 року. Збережіть дані сторонніх застосунків за допомогою локального бекапа.</string>
+     <string name="cloud_app_back_up_quit_notification_content1">Функція бекапа додатків буде видалена 1 травня 2015 року. Збережіть дані сторонніх додатків за допомогою локального бекапа.</string>
      <string name="cloud_app_back_up_quit_notification_content2">Синхронізація контактів, повідомлень, фото та інших даних буде працювати як і раніше.</string>
-     <string name="cloud_app_back_up_quit_notification_content3">Бекап застосунків</string>
+     <string name="cloud_app_back_up_quit_notification_content3">Бекап додатків</string>
      <string name="cloud_back_up_button_ok">ОК</string>
      <string name="cloud_back_up_close_info">Бекап даних робочого столу</string>
      <string name="cloud_back_up_date_format">HH:mm d MMMM yyyy</string>
@@ -126,7 +126,7 @@
      <string name="cloud_space_upgrade_title">Отримайте місце</string>
      <string name="cloud_storage_full">Пам\'ять Mi Cloud</string>
      <string name="cloud_storage_is_full">заповнено</string>
-     <string name="cloud_sync_setting_summary_standard">Звичайний: синхронізувати фото, відео, повідомлення, дані застосунків і фото контактів по Wi-Fi, а інші дані через мобільний інтернет</string>
+     <string name="cloud_sync_setting_summary_standard">Звичайний: синхронізувати фото, відео, повідомлення, дані додатків і фото контактів по Wi-Fi, а інші дані через мобільний інтернет</string>
      <string name="cloud_sync_setting_summary_wlan">Wi-Fi: синхронізувати всі дані тільки через Wi-Fi підключення</string>
      <string name="cloudservice_new_sync">Синхронізація %s з Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Синхронізація даних, пошук пристрою та інше</string>
@@ -200,7 +200,7 @@
      <string name="google_cloud_eng">Google Drive</string>
      <string name="google_cloud_price">143 юаня на рік</string>
      <string name="header_cloud_backup_settings">Бекап та відновлення</string>
-     <string name="header_cloud_restore_summary">Перевстановити застосунки, відновити розташування стільниці та системні налаштування з бекапу у Mi Cloud</string>
+     <string name="header_cloud_restore_summary">Перевстановити додатки, відновити розташування стільниці та системні налаштування з бекапу у Mi Cloud</string>
      <string name="header_data_and_synchronization">Дані синхронізації</string>
      <string name="header_find_device_settings">Пошук пристрою</string>
      <string name="header_other_settings">Інші налаштування</string>
@@ -317,11 +317,11 @@
      <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />
-     <string name="micloud_full_influence_dspt">"Всі Ваші фото, відео, нотатки і застосунки будуть збережені в хмарі. 
+     <string name="micloud_full_influence_dspt">"Всі Ваші фото, відео, нотатки та додатки будуть збережені в хмарі. 
 
 Таким чином, при втраті або пошкодженні пристрою, всі дані будуть у безпеці.
 
-Якщо хмара заповнена, старі дані нікуди не дінуться. Але додавання нових даних (фото, відео, нотатки, застосунки тощо) буде неможливим.
+Якщо хмара заповнена, старі дані нікуди не дінуться. Але додавання нових даних (фото, відео, нотатки, додатки тощо) буде неможливим.
 
 Щоб додати нові дані, необхідно буде або очистити старі файли, або купити додаткове місце в хмарі."</string>
      <string name="micloud_full_influence_title">Хмара заповнена…</string>
@@ -533,10 +533,10 @@ ID Вашого пристрою буде зашифровано і відпра
      <string name="settings_backup_title">Бекап системних налаштувань</string>
      <string name="share_cancel">Відправка скасована</string>
      <string name="share_failed">Помилка відправки</string>
-     <string name="share_miliao_not_installed">Застосунок \"MiTalk\" не встановлений</string>
+     <string name="share_miliao_not_installed">Додаток \"MiTalk\" не встановлений</string>
      <string name="share_success">Відправка завершена</string>
-     <string name="share_weibo_not_installed">Застосунок \"Weibo\" не встановлений</string>
-     <string name="share_weixin_not_installed">Застосунок \"Wechat\" не встановлений</string>
+     <string name="share_weibo_not_installed">Додаток \"Weibo\" не встановлений</string>
+     <string name="share_weixin_not_installed">Додаток \"Wechat\" не встановлений</string>
      <string name="short_cut_desc">Додати іконку Mi Cloud на робочий стіл?</string>
      <string name="sina_share_fail">Не вдається відправити</string>
      <string name="sina_share_fail_content_repeat">Вміст вже існує</string>

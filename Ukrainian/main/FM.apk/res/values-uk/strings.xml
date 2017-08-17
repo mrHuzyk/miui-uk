@@ -91,7 +91,7 @@
     <string name="fm_command_failed_title">Помилка операції</string>
     <string name="fm_command_timeout_title">Час вичерпано</string>
     <string name="fm_tune_timeout_msg">Спробуйте перезавантажити телефон</string>
-    <string name="fmtx_autoselect_name">Усі вибрані станції будуть видалені</string>
+    <string name="fmtx_autoselect_name">Всі вибрані станції будуть видалені</string>
     <string name="frequency_already_exist">Частота вже існує</string>
     <string name="frequency_out_of_range">Частота поза діапозоном (%1$s~%2$s)</string>
     <string name="frequency_should_not_null">Частота не може бути порожньою</string>

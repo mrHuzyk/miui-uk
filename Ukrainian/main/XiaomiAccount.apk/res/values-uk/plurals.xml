@@ -18,8 +18,8 @@
         <item quantity="one">Оновлено контактів: %s</item>
      </plurals>
      <plurals name="view_all_apps">
-        <item quantity="other">Показати всі %d програм</item>
-        <item quantity="one">Показати %d програму</item>
+        <item quantity="other">Показати всі %d додатків</item>
+        <item quantity="one">Показати %d додаток</item>
      </plurals>
      <plurals name="view_all_browsers">
         <item quantity="other">Показати всі %d браузерів</item>

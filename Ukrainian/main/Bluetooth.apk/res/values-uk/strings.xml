@@ -27,7 +27,7 @@
     <string name="miui_transfer_inbound_title">Вхідні</string>
     <string name="miui_transfer_outbound_title">Вихідні</string>
     <string name="permlab_bluetoothShareManager">Доступ до диспетчера завантаження</string>
-    <string name="permdesc_bluetoothShareManager">Застосунок отримає доступ до диспетчера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів</string>
+    <string name="permdesc_bluetoothShareManager">Додаток отримає доступ до диспетчера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів</string>
     <string name="permlab_bluetoothWhitelist">Білий список доступу пристрою Bluetooth</string>
     <string name="permdesc_bluetoothWhitelist">Дозволяє застосункам тимчасовий дуступ до білого списку Bluetooth пристрою. Дозволяє відправляти пристроям файли без підтвердження користувача.</string>
     <string name="permlab_handoverStatus">Отримувати передачі BT мовлення</string>
@@ -82,7 +82,7 @@
     <string name="upload_fail_cancel">Закрити</string>
     <string name="bt_error_btn_ok">ОК</string>
     <string name="unknown_file">Невідомий файл</string>
-    <string name="unknown_file_desc">Немає застосунків для роботи з файлами цього типу</string>
+    <string name="unknown_file_desc">Немає додатків для роботи з файлами цього типу</string>
     <string name="not_exist_file">Немає файлу</string>
     <string name="not_exist_file_desc">Файл не існує</string>
     <string name="enabling_progress_title">Почекайте…</string>
@@ -113,7 +113,7 @@
     <string name="inbound_history_title">Вхідні передачі</string>
     <string name="outbound_history_title">Вихідні передачі</string>
     <string name="no_transfers">Немає даних</string>
-    <string name="transfer_clear_dlg_msg">Усі елементи будуть видалені зі списку</string>
+    <string name="transfer_clear_dlg_msg">Всі елементи будуть видалені зі списку</string>
     <string name="outbound_noti_title">Bluetooth: файли відправлені</string>
     <string name="inbound_noti_title">Bluetooth: файли прийняті</string>
     <string name="noti_caption">Вдало: %1$s, невдало: %2$s</string>
@@ -167,7 +167,7 @@
     <string name="Errortoomanyrequests">Обробляється занадто багато запитів. Повторіть спробу пізніше.</string>
     <string name="deleteall_record">Видалити всі записи</string>
     <string name="localphonename">Моя назва</string>
-    <string name="permdesc_bluetoothsharemanager">Застосунок одержить доступ до диспетчера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів</string>
+    <string name="permdesc_bluetoothsharemanager">Додаток одержить доступ до диспетчера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів</string>
     <string name="permdesc_bluetoothwhitelist">Дозволяє застосункам тимчасовий дуступ до білого списку Bluetooth пристрою. Дозволяє пристроям відправляти файли без підтвердження користувача</string>
     <string name="permdesc_handoverstatus">Дозволяє одержувати інформацію статусу передачі Bluetooth</string>
     <string name="permlab_bluetoothsharemanager">Доступ до диспетчера завантаження</string>

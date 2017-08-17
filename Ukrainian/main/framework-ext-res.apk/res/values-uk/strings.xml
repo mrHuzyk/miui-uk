@@ -106,8 +106,8 @@
      <string name="memory_clear_result">%1$s очищено | %2$s доступно</string>
      <string name="miui">MIUI</string>
      <string name="package_delete_confirm_step_1">Видалити \"%s\"?</string>
-     <string name="package_delete_confirm_step_2">Видалення цієї програми може вплинути на роботу системи</string>
-     <string name="package_delete_confirm_step_3">Програму буде видалено з усіма даними</string>
+     <string name="package_delete_confirm_step_2">Видалення цієї додатку може вплинути на роботу системи</string>
+     <string name="package_delete_confirm_step_3">додаток буде видалено з усіма даними</string>
      <string name="paste">Вставити</string>
      <string name="perm_send_push_dspt">Дозволити Мі-push-повідомлення</string>
      <string name="perm_send_push_lab">Надіслати push-повідомлення</string>
@@ -189,5 +189,5 @@
      <string name="turn_off">Викнути</string>
      <string name="unknown_caller">Невідомий номер</string>
      <string name="user_switching_dialog_text">Перемикання…</string>
-     <string name="xspace_resolver_activity_title">Оберіть застосунок</string>
+     <string name="xspace_resolver_activity_title">Оберіть додаток</string>
 </resources>

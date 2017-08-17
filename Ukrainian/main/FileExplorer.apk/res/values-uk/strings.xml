@@ -129,7 +129,7 @@
      <string name="adding_upload_tasks">Додавання файлів</string>
      <string name="album_creator">Автор: %s</string>
      <string name="album_name">Щоденна добірка: %s</string>
-     <string name="all_topic">Усі теми</string>
+     <string name="all_topic">Всі теми</string>
      <string name="already_liked">Вже додані до обраних</string>
      <string name="already_signin_description">Вхід можна робити раз у день, спробуйте завтра :)</string>
      <string name="app_name">Провідник</string>
@@ -192,7 +192,7 @@
      <string name="category_favorite">Вибране</string>
      <string name="category_file">Файли</string>
      <string name="category_files">Файли</string>
-     <string name="category_installed_app">Програми</string>
+     <string name="category_installed_app">додатку</string>
      <string name="category_kuaipan">KuaiPan</string>
      <string name="category_log">Журнали</string>
      <string name="category_midrive">Mi Drive</string>
@@ -343,7 +343,7 @@
      <string name="empty_comment">Відгук не може бути пустим</string>
      <string name="empty_file_download">Неможливо завантажити пустий файл</string>
      <string name="empty_file_upload">Неможливо завантажити пустий файл</string>
-     <string name="enable_documentsui">Потрібно включити \"%s\" в налаштуваннях програм</string>
+     <string name="enable_documentsui">Потрібно включити \"%s\" в налаштуваннях додатків</string>
      <string name="enable_sd_card">"У даний момент SD карта підключена до комп'ютера. 
 щоб бачити її вміст, відключіть режим USB накопичувача"</string>
      <string name="enable_usb">Підключити USB пристрій</string>
@@ -417,7 +417,7 @@
      <string name="homepage_tab_category">Категорії</string>
      <string name="homepage_tab_file_view">Пристрій</string>
      <string name="homepage_tab_recent">Нещодавні</string>
-     <string name="hot_app">Популярні застосунки</string>
+     <string name="hot_app">Популярні додатки</string>
      <string name="hot_comments">Популярні відгуки</string>
      <string name="hot_sticker">Популярні стікери</string>
      <string name="hot_video">Популярні відео</string>
@@ -493,7 +493,7 @@
      <string name="make_private">Додати до прихованих</string>
      <string name="make_private_msg_1">Приховати цей файл?</string>
      <string name="make_private_msg_2">Приховати ці файли?</string>
-     <string name="make_private_msg_3">Усі файли у цій теці буде приховано</string>
+     <string name="make_private_msg_3">Всі файли у цій теці буде приховано</string>
      <string name="male">Чоловіча</string>
      <string name="megabyteShort">Мб</string>
      <string name="menu_item_cleanup">Очищення</string>
@@ -540,7 +540,7 @@
      <string name="migrate_runing">Пересування файлів…</string>
      <string name="migrate_success_cancel">Скасувати</string>
      <string name="migrate_success_confirm">Почати</string>
-     <string name="migrate_success_msg">Усі ваші файли KuaiPan пересунуто до Mi Drive</string>
+     <string name="migrate_success_msg">Всі ваші файли KuaiPan пересунуто до Mi Drive</string>
      <string name="migrate_success_title">Пересування закінчено</string>
      <string name="migrate_update_confirm">Почати</string>
      <string name="migrate_update_msg">KuaiPan оновлено до Mi Drive</string>
@@ -563,12 +563,12 @@
      <string name="msg_notify_setting">Налаштування сповіщень</string>
      <string name="msg_set_password">Задайте пароль</string>
      <string name="multi_select_title">Обране: %1$s</string>
-     <string name="my_app">Дані застосунків</string>
+     <string name="my_app">Дані додатків</string>
      <string name="my_app_desc" />
      <string name="my_bak">Бекап</string>
      <string name="my_bak_desc" />
      <string name="my_bakup">Бекап</string>
-     <string name="my_bakup_app">Застосунки</string>
+     <string name="my_bakup_app">Додатки</string>
      <string name="my_bakup_app_desc" />
      <string name="my_bakup_doc">Документи</string>
      <string name="my_bakup_doc_desc" />
@@ -611,7 +611,7 @@
      <string name="new_function_str">Завантажені стікери WeChat тепер можуть колекціонуватися автоматично</string>
      <string name="new_function_title_str">Про стікери WeChat</string>
      <string name="no">Немає</string>
-     <string name="no_apk">Немає програм</string>
+     <string name="no_apk">Немає додатків</string>
      <string name="no_app_tags">Порожньо</string>
      <string name="no_comment">Немає відгуків</string>
      <string name="no_display_file">"Неможливо відобразити %1$s"</string>
@@ -637,7 +637,7 @@
      <string name="no_topic_found">Теми не знайдено</string>
      <string name="no_wifi">Немає мережі Wi-Fi</string>
      <string name="no_wifi_hint">"Немає Wi-Fi з'єднання"</string>
-     <string name="not_installed_documentsui">Програма \"Документи\" не встановлена</string>
+     <string name="not_installed_documentsui">Додаток \"Документи\" не встановлена</string>
      <string name="notif_server_starting">Синхронізація включена</string>
      <string name="notif_title">FTP мережа активна</string>
      <string name="notification_content_hint">Натисніть для перегляду</string>
@@ -764,7 +764,7 @@
      <string name="phone_storage_image_title">Зображення: </string>
      <string name="phone_storage_info_str">Вільно %1$s із %2$s</string>
      <string name="phone_storage_other_title">Інше: </string>
-     <string name="phone_storage_size_tip">"Значення об'єму вільної пам'яті в програмі може відрізнятися від системного"</string>
+     <string name="phone_storage_size_tip">"Значення об'єму вільної пам'яті в додатку може відрізнятися від системного"</string>
      <string name="phone_storage_total">Всього</string>
      <string name="phone_storage_video_title">Відео: </string>
      <string name="phone_storage_zip_title">Архіви: </string>
@@ -837,7 +837,7 @@
      <string name="sdcard_available">Вільно: %1$s</string>
      <string name="sdcard_total">Всього: %1$s</string>
      <string name="search_activity_hint">Введіть ключове слово</string>
-     <string name="search_app">Застосунки</string>
+     <string name="search_app">Додатки</string>
      <string name="search_app_more">Ще</string>
      <string name="search_category">Тип</string>
      <string name="search_description">Пошук всіх файлів</string>
@@ -914,10 +914,10 @@
      <string name="share_title_09">Рекомендую переглянути: %s</string>
      <string name="share_title_1">Я знайшов крутий стікер!</string>
      <string name="share_to">Надіслати</string>
-     <string name="share_youliao1">Оновіть програму для перегляду інших епізодів</string>
-     <string name="share_youliao2">Оновіть програму для перегляду інших епізодів</string>
-     <string name="share_youliao3">Оновіть програму для перегляду інших епізодів</string>
-     <string name="share_youliao4">Оновіть програму для перегляду інших епізодів</string>
+     <string name="share_youliao1">Оновіть додаток для перегляду інших епізодів</string>
+     <string name="share_youliao2">Оновіть додаток для перегляду інших епізодів</string>
+     <string name="share_youliao3">Оновіть додаток для перегляду інших епізодів</string>
+     <string name="share_youliao4">Оновіть додаток для перегляду інших епізодів</string>
      <string name="shared_sticker_network_permission_tip">Не вдається підключитися до інтернету</string>
      <string name="shared_sticker_page_no_file">Помилка підключення до інтернету</string>
      <string name="shared_sticker_str">Відправлене Мі фанатами</string>
@@ -946,7 +946,7 @@
      <string name="stay_awake_summary">Не переводити пристрій в режим сну при використанні FTP</string>
      <string name="stay_awake_title">Не виключати екран</string>
      <string name="stop_server">Зупинити</string>
-     <string name="storage_cloned_app">"Пам'ять клонованих програм"</string>
+     <string name="storage_cloned_app">"Пам'ять клонованих додатків"</string>
      <string name="storage_info">Вільно: %1$s</string>
      <string name="storage_info_detail">Вільно: %1$s | Усього: %1$s</string>
      <string name="storage_internal">"Внутрішня пам'ять"</string>
@@ -968,7 +968,7 @@
      <string name="system_video_control_tip">Показувати популярні відео</string>
      <string name="tab_category">Категорії</string>
      <string name="tab_claim">Бронювання</string>
-     <string name="tab_common_app">Програми</string>
+     <string name="tab_common_app">додатку</string>
      <string name="tab_discover">Огляд</string>
      <string name="tab_expand">Онлайн</string>
      <string name="tab_follow">Підписки</string>
@@ -986,17 +986,17 @@
      <string name="tab_ranking_list">Рейтинг</string>
      <string name="tab_recommend_video">Рекомендації</string>
      <string name="tab_remote_video">Популярні</string>
-     <string name="tab_source">Застосунки</string>
+     <string name="tab_source">Додатки</string>
      <string name="tab_storage">"Пам'ять"</string>
      <string name="tab_sys_size">"Загальна пам'ять"</string>
      <string name="tag_weixin_video">Короткі відео</string>
      <string name="terabyteShort">Тб</string>
      <string name="tip">Попередження</string>
      <string name="title_album">Альбоми</string>
-     <string name="title_app_tags">Програми</string>
+     <string name="title_app_tags">додатку</string>
      <string name="title_enable_documentsui">Включіть \"Документи\"</string>
      <string name="title_expire_video">Спливання терміну</string>
-     <string name="title_more_source">Iнші програми</string>
+     <string name="title_more_source">Iнші додатку</string>
      <string name="title_recent">Недавні</string>
      <string name="title_report_video">Звіт</string>
      <string name="title_select_volume">Гучність</string>
@@ -1088,7 +1088,7 @@
      <string name="user_guide_kuaipan_copy">Ви можете завантажувати будь-які файли в Kuaipan</string>
      <string name="user_guide_kuaipan_lable">Kuaipan</string>
      <string name="user_guide_more_login">Інші способи авторизації</string>
-     <string name="user_guide_other_version">Авторизуйтеся з вашого Mi акаунта (%1$s) та завантажте застосунок з сайту mi.kuaipan.cn</string>
+     <string name="user_guide_other_version">Авторизуйтеся з вашого Mi акаунта (%1$s) та завантажте додаток з сайту mi.kuaipan.cn</string>
      <string name="user_guide_save_file">Надійне зберігання файлів</string>
      <string name="user_guide_summary">Короткий огляд</string>
      <string name="user_guide_upload_to_kuaipan">Зберігайте файли з пристрою у Kuaipan.</string>
@@ -1163,7 +1163,7 @@
      <string name="video_parse_btn">Почати</string>
      <string name="video_parse_error_repeated">Не завантажуйте подібні відео</string>
      <string name="video_parse_error_unknown">Цей сервіс відео недоступний</string>
-     <string name="video_parse_hint">Доступні програми: WeChat, Weibo, Youku.</string>
+     <string name="video_parse_hint">Доступні додатку: WeChat, Weibo, Youku.</string>
      <string name="video_parse_success">Перевірка завершена</string>
      <string name="video_parse_timeout">Час очікування минув</string>
      <string name="video_parsing_btn">Перевірка…</string>
@@ -1229,7 +1229,7 @@
      <string name="year_month_day_format">d MMMM yyyy</string>
      <string name="yes">Так</string>
      <string name="yesterday">вчора</string>
-     <string name="youliao_ad_msg">Програму оновлено</string>
+     <string name="youliao_ad_msg">додаток оновлено</string>
      <string name="youliao_ad_title">Популярні відео оновлено</string>
      <string name="youliao_ad_update">Оновити</string>
      <string name="youliao_dialog_msg">Популярні відео \"Youliao\" оновлено</string>
