@@ -40,7 +40,7 @@
     <string name="main_secondary_message_traffic_used_noleisure">%s перевищення | додатковий трафік недоступний</string>
     <string name="main_alert_message_month_limit_error">Введено невірну межу трафіку</string>
     <string name="firewall_activity_lable">Обмеження трафіку додатків</string>
-    <string name="firewall_applist">Застосунка</string>
+    <string name="firewall_applist">Додатку</string>
     <string name="firewall_rule_group_title_mobile">2G/3G</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Сторонні</string>

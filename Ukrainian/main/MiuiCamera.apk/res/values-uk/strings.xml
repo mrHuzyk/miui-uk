@@ -757,7 +757,7 @@
      <string name="videocamera_settings_label">Налаштування відеокамери</string>
      <string name="visit_cloud_album">Переглянути хмарний альбом</string>
      <string name="wait">Завантаження…</string>
-     <string name="web_url_apk_warning">Додаток QR коду може містити шкідливі ресурси. Для безпечного завантаження застосунка використовуйте Mi-Маркет або Google Play.</string>
+     <string name="web_url_apk_warning">Додаток QR коду може містити шкідливі ресурси. Для безпечного завантаження додатку використовуйте Mi-Маркет або Google Play.</string>
      <string name="web_url_warning">Сайт QR коду може містити шкідливі файли. Для безпечного завантаження сайту використовуйте MIUI браузер</string>
      <string name="website_details">Інформація про сайт:</string>
      <string name="wechat_details">Інформація Wechat:</string>

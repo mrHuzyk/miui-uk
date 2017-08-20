@@ -315,7 +315,7 @@
      <string name="transformation_type_rotate">Обертання</string>
      <string name="transformation_type_stack">Каскад</string>
      <string name="uninstall">Видалити</string>
-     <string name="uninstall_dialog_message">Буде видалено всі дані застосунка</string>
+     <string name="uninstall_dialog_message">Буде видалено всі дані додатку</string>
      <string name="uninstall_dialog_title_format">Видалити \"%s\"?</string>
      <string name="uninstall_dialog_title_multi_format" formatted="false">Видалити додаток \"%s\" і ще %d?</string>
      <string name="uninstall_result_failed">Не вдалося видалити додаток \"%s\"</string>
@@ -324,7 +324,7 @@
      <string name="uninstall_result_succeeded">Додаток видалено</string>
      <string name="uninstall_result_two_failed">Не вдалося видалити додаток \"%s\" і 1 інше</string>
      <string name="uninstall_with_xspace_dialog_message">Клонований додаток буде видалено з усіма даними</string>
-     <string name="uninstall_xspace_dialog_message">Будуть очищені всі дані клонованого застосунка</string>
+     <string name="uninstall_xspace_dialog_message">Будуть очищені всі дані клонованого додатку</string>
      <string name="uninstall_xspace_dialog_title_format">Видалити клон \"%s\"?</string>
      <string name="unknown_artist_name">Невідомий виконавець</string>
      <string name="unnamed_folder_name">Без імені</string>

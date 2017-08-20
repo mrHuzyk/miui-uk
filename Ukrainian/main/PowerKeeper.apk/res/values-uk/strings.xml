@@ -100,7 +100,7 @@
      <string name="full_screen_exit">Вийти із повноекранного режиму</string>
      <string name="google_base_app_install_choice">\"%s\" запитує Google Service Framework для нормальної роботи додатків. Завантажити та встановити?</string>
      <string name="hide_mode">Фоновий режим</string>
-     <string name="hide_mode_desc">При увімкненні цієї функції застосунка в фоновому режимі не зможуть використовувати Інтернет та GPS</string>
+     <string name="hide_mode_desc">При увімкненні цієї функції додатку в фоновому режимі не зможуть використовувати Інтернет та GPS</string>
      <string name="hide_mode_desc_title">Опис</string>
      <string name="hide_mode_ultimate_desc">Режим енергозбереження включений. Фоновий режим буде намагатися обмежити і заморозити всі фонові додатки</string>
      <string name="high">Продуктивність</string>

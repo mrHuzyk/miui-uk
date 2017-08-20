@@ -1154,7 +1154,7 @@
      <string-array name="usage_stats_display_order_types">
         <item>Час використання</item>
         <item>Кількість запусків</item>
-        <item>Назва застосунка</item>
+        <item>Назва додатку</item>
      </string-array>
      <string-array name="usb_configuration_titles">
         <item>@string/usb_use_charging_only</item>

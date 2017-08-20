@@ -180,7 +180,7 @@
     <string name="privacy_relative">Небезпечні дозволи</string>
     <string name="other_relative">Інші дозволи</string>
     <string name="perm_notice">Сповіщення безпеки</string>
-    <string name="trust_switch_dialog_msg">Система не буде запитувати вашого дозволу на будь-які дії цього застосунка</string>
+    <string name="trust_switch_dialog_msg">Система не буде запитувати вашого дозволу на будь-які дії цього додатку</string>
     <string name="auto_startup_dialog_msg">Система дозволить застосунку запускатися автоматично</string>
     <string name="low_risk_perms">Дозволи низького ризику</string>
     <string name="high_risk_perms">Дозволи високого ризику</string>
@@ -230,7 +230,7 @@
     <string name="install_confirm_question">Інсталювати цей додаток?</string>
     <string name="install_failed">Додаток не інстальовано</string>
     <string name="install_failed_invalid_apk">Файл ушкоджений</string>
-    <string name="install_failed_inconsistent_certificates">Підпис оновлення не збігається з підписом встановленого застосунка. Перед інсталяцією видаліть стару версію</string>
+    <string name="install_failed_inconsistent_certificates">Підпис оновлення не збігається з підписом встановленого додатку. Перед інсталяцією видаліть стару версію</string>
     <string name="install_failed_older_sdk">Цей пакет підтримується лише в системі Android більш пізніх версій</string>
     <string name="install_failed_cpu_abi_incompatible">Процесор телефону не підтримує цього застосунку</string>
     <string name="install_failed_file_not_found">Зазначений пакет вилучено до завершення інсталяції</string>
@@ -260,11 +260,11 @@
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Додаток не знайдений</string>
     <string name="app_not_found_dlg_text">Додаток не був знайдений у списку інстальованих додатків</string>
-    <string name="uninstall_application_title">Видалення застосунка</string>
+    <string name="uninstall_application_title">Видалення додатку</string>
     <string name="uninstall_update_title">Видалення оновлення</string>
-    <string name="uninstall_activity_text">\"%1$s\" є частиною обраного застосунка</string>
+    <string name="uninstall_activity_text">\"%1$s\" є частиною обраного додатку</string>
     <string name="uninstall_application_text">Додаток буде вилучено</string>
-    <string name="uninstall_update_text">Буде відновлено вихідну версію застосунка</string>
+    <string name="uninstall_update_text">Буде відновлено вихідну версію додатку</string>
     <string name="uninstalling">Видалення…</string>
     <string name="uninstall_done">Видалення завершене</string>
     <string name="uninstall_failed">Помилка при видаленні</string>

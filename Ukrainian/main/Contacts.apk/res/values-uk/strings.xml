@@ -1156,7 +1156,7 @@
      <string name="qrcode_detail_menu_scan">Сканувати QR код</string>
      <string name="qrcode_editor_flash">QR код оновлений</string>
      <string name="qrcode_editor_flash_failed">Помилка оновлення QR коду</string>
-     <string name="quickcontact_missing_app">Немає застосунка для виконання цієї дії</string>
+     <string name="quickcontact_missing_app">Немає додатку для виконання цієї дії</string>
      <string name="quit_dialog_confirm_message">"Ви не маєте об'єднаних контактів"</string>
      <string name="quit_dialog_confirm_title">"Вийти з режиму об'єднання?"</string>
      <string name="rcs_account_type_title">Акаунт конвергентних мереж</string>

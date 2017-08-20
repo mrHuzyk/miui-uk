@@ -1347,7 +1347,7 @@
      <string name="impunity_declaration_ignore">"Запам'ятати"</string>
      <string name="impunity_declaration_positive_text">Продовжити</string>
      <string name="impunity_declaration_settings">Запитувати доступ до інтернету</string>
-     <string name="impunity_declaration_summary">Запит доступу до інтернету при кожному запуску застосунка</string>
+     <string name="impunity_declaration_summary">Запит доступу до інтернету при кожному запуску додатку</string>
      <string name="impunity_declaration_title">Попередження</string>
      <string name="in_home_page_long_press_photo_setting_secret_photo">Утримайте на фото в галереї, потім оберіть пункт \"В секретний альбом\", щоб скрити фото.</string>
      <string name="initial_cloud_button_text">Почати використання</string>

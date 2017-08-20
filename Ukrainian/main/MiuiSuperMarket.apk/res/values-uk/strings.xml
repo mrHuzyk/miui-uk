@@ -226,7 +226,7 @@
     <string name="install_storage_not_enough">Встановлення не завершене. Недостатньо пам\'яті</string>
     <string name="install_patch_fail">Оновлення не вдалося. Завантажте повторно пакет</string>
     <string name="install_fail">Помилка встановлення</string>
-    <string name="system_app_sign_not_match_fail">Помилка встановлення. Несумісний підпис застосунка</string>
+    <string name="system_app_sign_not_match_fail">Помилка встановлення. Несумісний підпис додатку</string>
     <string name="remove_package_fail">Помилка встановлення. Перевищений час очікування</string>
     <string name="expansion_fail">Не вдається завантажити файл</string>
     <string name="no_network">Мережа недоступна</string>
@@ -297,7 +297,7 @@
     <string name="install_google_base_message">“%1$s” для запуску потрібні сервіси Google</string>
     <string name="upgrade_all_title">Оновити всі</string>
     <string name="upgrade_all_description">Оновити додатки: %1$s і %2$s?</string>
-    <string name="expansion_confirm_title">Розширений пакет застосунка</string>
+    <string name="expansion_confirm_title">Розширений пакет додатку</string>
     <string name="expansion_confirm_message">Цей додаток містить розширений пакет, встановлення може зайняти тривалий час</string>
     <string name="delete_confirm">Видалити обрані додатки: %1$s?</string>
     <string name="delete_confirm_system_app">Видалити обрані додатки: %1$s? У системному розділі: %2$s.</string>
@@ -337,8 +337,8 @@
     <string name="favorite_delete_success">Успішно видалене з вибраного</string>
     <string name="favorite_delete_fail">Помилка видалення з вибраного</string>
     <string name="favorite_account_need_activitied">Ваш акаунт не активований, активувати зараз?</string>
-    <string name="favorite_account_need_login">Авторизуватися для додавання застосунка до вибраного?</string>
-    <string name="favorite_cancel_acount_need_login">Авторизуватися для видалення застосунка з вибраного?</string>
+    <string name="favorite_account_need_login">Авторизуватися для додавання додатку до вибраного?</string>
+    <string name="favorite_cancel_acount_need_login">Авторизуватися для видалення додатку з вибраного?</string>
     <string name="favorite_no_network">Інтернет недоступний. Неможливо додати до вибраного.</string>
     <string name="favorite_cancel_no_network">Інтернет недоступний. Неможливо видалити з вибраного</string>
     <string name="favorite_login_hint">Увійдіть в Mi акаунт, щоб додати додатки до вибраного.</string>

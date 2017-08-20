@@ -719,7 +719,7 @@
      <string name="general_preference_text_zoom_small">Нормальний</string>
      <string name="general_preference_text_zoom_tiny">Дрібний</string>
      <string name="generic_attachment_problem">Не вдалося прикріпити файл</string>
-     <string name="get_database_exception">Застаріла база даних. Очистіть дані застосунка.</string>
+     <string name="get_database_exception">Застаріла база даних. Очистіть дані додатку.</string>
      <string name="gmail_acceleration">Використовувати проксі для доступу до аккаунту Gmail</string>
      <string name="gmail_login_confirm_to_use_proxy">Використовувати проксі сервер для доступу до вашого профілю Gmail?</string>
      <string name="gmail_login_failed_non_proxy_title">Помилка доступу до серверу Gmail</string>

@@ -755,13 +755,13 @@
      <string name="user_notice_button_exit">Вихід</string>
      <string name="user_notice_button_ok">ОК</string>
      <string name="user_notice_declaration_ignore">"Запам'ятати"</string>
-     <string name="user_notice_message">Перед використанням необхідно прийняти %1$s и %2$s. Для роботи застосунка необхідне підключення до мережі.</string>
+     <string name="user_notice_message">Перед використанням необхідно прийняти %1$s и %2$s. Для роботи додатку необхідне підключення до мережі.</string>
      <string name="user_notice_online_agreement">Продовжуючи, Ви погоджуєтеся з %1$s та %2$s. Для нормальної роботи застосунку необхідне підключення до мережі. Продовжити?</string>
      <string name="user_notice_online_ok">Продовжити</string>
      <string name="user_notice_online_title">Повідомлення</string>
      <string name="user_notice_title">Сповіщення користувача</string>
      <string name="user_notification">Сповіщення користувача</string>
-     <string name="user_notification_descrip">Показувати сповіщення щоразу під час запуску застосунка</string>
+     <string name="user_notification_descrip">Показувати сповіщення щоразу під час запуску додатку</string>
      <string name="view_all_matches">Переглянути усе</string>
      <string name="view_event_calendar_label">Календар:</string>
      <string name="view_event_organizer_label">Організатор:</string>
