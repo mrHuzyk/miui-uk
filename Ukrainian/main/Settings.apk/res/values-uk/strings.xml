@@ -47,6 +47,7 @@
      <string name="status_bar_settings_user_fold_summary">"Всі неважливі сповіщення з'являться в окремій папці"</string>
      <string name="three_gesture_down">Трьома пальцями вниз</string>
      <string name="turn_on_torch">Увімкнути ліхтарик</string>
+	 <string name="lockscreen_magazine">Щоденні шпалери</string>
 	 
 	 <string name="application_permissions">Дозволи додатку</string>
      <string name="bluetooth_filter_device_display">Показувати всі</string>
@@ -71,7 +72,6 @@
      <string name="search_menu_title">Пошук</string>
      <string name="wifi_eap_info_reconnect">Помилка авторизації. Повторіть!</string>
      <string name="wifi_info_reconnect">Помилка паролю. Повторіть спробу!</string>
-	 
 	 <string name="add_new">Додати</string>
      <string name="add_rule">Додати правило</string>
      <string name="alarm_stop">Будильник може припинити режим без звуку</string>

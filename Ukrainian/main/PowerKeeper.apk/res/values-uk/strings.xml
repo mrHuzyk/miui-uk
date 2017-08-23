@@ -16,6 +16,13 @@
      <string name="switch_to_test_server_sucess">Switch to the test server successfully</string>
      <string name="update_profile_failture_not_connect_wifi">Оновлення не вдалося. Немає Wi-Fi мережі.</string>
      <string name="update_profile_sucess">Оновлення з сервера успішне</string>
+	 <string name="base_info">Основна інфорамація</string>
+     <string name="cloud_addr_info">HideMode cloud info</string>
+     <string name="cloud_china_addr">Оновлення даних кит. серверу</string>
+     <string name="cloud_international_addr">Оновлення даних міжнародного серверу</string>
+     <string name="cloud_staging_addr">Оновлення даних проміжного серверу</string>
+     <string name="lasttime_applist_cloud">Оновлення додатків:</string>
+     <string name="lasttime_feature_cloud">Оновлення функцій:</string>
 	 
 	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
      <string name="warm_configure">Конфігурація</string>
