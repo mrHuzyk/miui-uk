@@ -8,6 +8,7 @@
      <string name="menu_more">Ще</string>
      <string name="menu_trans_effect">Ефекти</string>
      <string name="widget_quick_function">Швидкі функції</string>
+	 <string name="no_space_toast">Немає місця</string>
 	 
 	 <string name="gadget_clock_14_label">Годинник 4x1</string>
      <string name="launcher_not_exist">Робочий стіл зупинений. Поверніться додому і спробуйте ще раз.</string>

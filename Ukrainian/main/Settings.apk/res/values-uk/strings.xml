@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="popup_window">Дозволити спливаючі вікна</string>
+	 
 	 <string name="max_aspect_settings_all_app_display_loading">Зачекайте…</string>
      <string name="restrict_max_aspect_ratio_title">Запропонуйте відключити макс. співвідношення сторін</string>
      <string name="screen_max_aspect_ratio_desc">Чи може додаток відображатися в повноекранному режимі</string>
@@ -48,7 +50,6 @@
      <string name="three_gesture_down">Трьома пальцями вниз</string>
      <string name="turn_on_torch">Увімкнути ліхтарик</string>
 	 <string name="lockscreen_magazine">Щоденні шпалери</string>
-	 
 	 <string name="application_permissions">Дозволи додатку</string>
      <string name="bluetooth_filter_device_display">Показувати всі</string>
      <string name="bluetooth_filter_device_filter">Тільки типовий</string>

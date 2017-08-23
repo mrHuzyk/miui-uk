@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="abort_backup_confirm">Скасувати створення бекапа?</string>
+     <string name="backup_security_tips_message">Можливо, деякі додатки не можуть бути скопійовані або відновлені</string>
+     <string name="backup_security_tips_title">Бекап може не працювати</string>
+     <string name="btn_got_it">OK</string>
+     <string name="trans_security_tips_message">Деякі додатки не підтримують Mi Mover</string>
+     <string name="trans_security_tips_title">Сумісність Mi Mover</string>
+	 
+	 <string name="abort_backup_confirm">Скасувати створення бекапа?</string>
 	 <string name="trans_intro_desc_2">Скасуйте передачу, вийдіть з Mi Mover та почніть спочатку. Під час нової передачі дубльовані файли будуть перезаписані.</string>
      <string name="trans_intro_desc_3">Mi Mover використовує Wi-Fi для передачі файлів. Проте, Ви можете використовувати мобільний інтернет.</string>
      <string name="trans_intro_desc_4">"Для створення пакетів перенесення використовується пам'ять на старих пристроях. Перед початком передачі переконайтеся, що є не менше 500 МБ - 1 ГБ місця на старому телефоні."</string>
@@ -29,7 +35,6 @@
      <string name="trans_intro_title_new">На новому телефоні:</string>
      <string name="trans_intro_title_old">На старому телефоні:</string>
      <string name="trans_intro_title_private">Прихований альбом:</string>
-	 
 	 <string name="total_size">, %s</string>
 	 <string name="feature_title_antispam">Чорний список</string>
      <string name="abort_restore_confirm">Зупинити відновлення?</string>

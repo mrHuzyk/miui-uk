@@ -2,6 +2,32 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="auto_clean_close">Автоматичне очищення вимкнено</string>
+     <string name="best_booster_status">Тепер краща швидкість гри</string>
+     <string name="card_main_deepclean_qq_title">Очищення QQ</string>
+     <string name="free_send_net_booster">Підвищення швидкості мережі</string>
+     <string name="free_send_net_booster_tip">Насолоджуйтесь плавною грою з безкоштовним підвищенням швидкості мережі</string>
+     <string name="net_booster">Підвищення швидкості мережі</string>
+     <string name="net_booster_expire_notification">Підвищення швидкості мережі скоро закінчиться</string>
+     <string name="net_booster_expire_notification_tip">Залишилось %d дн. до завершення послуги підвищення швидкості мережі. Оновіть, щоб уникнути проблем зі швидкістю мережі.</string>
+     <string name="net_booster_overdue_notification">Закінчується підвищення швидкості мережі</string>
+     <string name="net_booster_overdue_notification_tip">Підвищення швидкості мережі скоро закінчиться. Оновити?</string>
+     <string name="net_booster_tip">"Увімкніть Підвищення швидкості мережі, щоб зробити Wi-Fi з'єднання більш стабільним та зменшити затримку мережі"</string>
+     <string name="net_booster_title">Підвищення швидкості мережі</string>
+     <string name="net_boosting">Підвищення швидкості…</string>
+     <string name="net_overdue">Сесія закінчилася</string>
+     <string name="receive_now">Отримати</string>
+     <string name="release_meminfo">Очистити %d МБ</string>
+     <string name="renew_now">Оновити</string>
+     <string name="still_retain_btn">Залишити</string>
+     <string name="tab_gift">Подарунки</string>
+     <string name="tab_guide">Керівництво</string>
+     <string name="wifi_optizition_loading">Увімкнення поліпшення швидкості мережі Xunyou…</string>
+     <string name="wifi_optizition_tip">"Увімкніть Підвищення швидкості мережі, щоб зробити Wi-Fi з'єднання більш стабільним. Буде використано невелику кількість мобільного трафіку."</string>
+     <string name="wifi_optizition_title">Підвищення швидкості Wi-Fi</string>
+     <string name="wlan_booster">Підвищення швидкості Wi-Fi</string>
+     <string name="xunyou_pay_webview">Служба Xunyou</string>
+	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>
      <string name="applock_bind_account_title">Скидання паролю</string>
@@ -40,7 +66,6 @@
      <string name="uninstall_danagerous_desc">\"%s\" може нашкодити пристрою</string>
      <string name="uninstall_danagerous_msg">\"%s\" може призвести до пошкодження пристрою, знизити його продуктивність або викликати перезавантаження</string>
      <string name="uninstall_danagerous_title">Видалення шкідливих додатків</string>
-	 
 	 <string name="app_manager_pref_ads">Рекомендації</string>
 	 <string name="install">Встановити</string>
 	 <string name="app_manager_app_ifno_version">Версія додатку</string>

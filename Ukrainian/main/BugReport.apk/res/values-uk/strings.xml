@@ -9,6 +9,7 @@
      <string name="mobile_data_note_dialog_title">Попередження трафіку</string>
 	 <string name="feedback_contact_info_hint">Номер телефону/Пошта</string>
      <string name="module_google_apps">Додатки Google</string>
+	 <string name="feedback_select_modem_log">Додати журнал модема</string>
 	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
