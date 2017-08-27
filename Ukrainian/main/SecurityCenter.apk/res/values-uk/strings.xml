@@ -27,6 +27,7 @@
      <string name="wifi_optizition_title">Підвищення швидкості Wi-Fi</string>
      <string name="wlan_booster">Підвищення швидкості Wi-Fi</string>
      <string name="xunyou_pay_webview">Служба Xunyou</string>
+	 <string name="do_clean">Очистка…</string>
 	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>
