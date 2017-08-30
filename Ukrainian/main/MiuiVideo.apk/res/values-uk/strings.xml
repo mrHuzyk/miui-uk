@@ -4,6 +4,11 @@
      <string name="about">Про додаток</string>
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>
+	 <string name="toast_downloading">Завантаження:</string>
+     <string name="toast_start_download">Початок завантаження:</string>
+     <string name="ui_card_banner_btn_download">Завантажити</string>
+     <string name="ui_card_banner_btn_downloading">Завантаження</string>
+     <string name="ui_card_banner_btn_open">Відкрити</string>
 	 
 	 <string name="vp_device_list_seaching">&lt;Немає пристрою для трансляції></string>
 	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>

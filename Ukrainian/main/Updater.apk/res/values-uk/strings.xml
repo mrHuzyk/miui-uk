@@ -11,6 +11,20 @@
      <string name="home_dialog_positive_button">Перезавантажити</string>
      <string name="home_dialog_title">MIUI 9</string>
      <string name="post_sina">Пост в Sina Weibo</string>
+	 <string name="exo_controls_fastforward_description">Перемотування вперед</string>
+     <string name="exo_controls_next_description">Наступний трек</string>
+     <string name="exo_controls_pause_description">Пауза</string>
+     <string name="exo_controls_play_description">Відтворити</string>
+     <string name="exo_controls_previous_description">Попередній трек</string>
+     <string name="exo_controls_rewind_description">Перемотування назад</string>
+     <string name="exo_controls_stop_description">Зупинити</string>
+     <string name="keywords_auto_setting">Автопоновлення;Автозавантаження;Автоматичне встановлення</string>
+     <string name="keywords_updater">Оновлення;Перевірка оновлень;Версія;Список змін</string>
+     <string name="keywords_updater_settings">"Оновлення;Перевірка оновлень;Версія;Список змін;Зворотній зв'язок"</string>
+     <string name="path_updater_settings">Налаштування/Пристрій/MIUI</string>
+     <string name="resource_auto_setting">Автопоновлення</string>
+     <string name="resource_updater">Оновлення</string>
+     <string name="resource_updater_settings">Оновлення</string>
 	 
 	<string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Це відео не діє для потокової передачі на цей пристрій</string>

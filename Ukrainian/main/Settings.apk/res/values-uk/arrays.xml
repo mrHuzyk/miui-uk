@@ -5,6 +5,11 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="status_bar_show_carrier_entries">
+        <item>Показувати на екрані блокування і панелі сповіщень</item>
+        <item>Завжди показувати</item>
+        <item>Не показувати</item>
+     </string-array>
 	 <string-array name="silent_mode_duration_text">
         <item>Завжди</item>
         <item>30 хв.</item>

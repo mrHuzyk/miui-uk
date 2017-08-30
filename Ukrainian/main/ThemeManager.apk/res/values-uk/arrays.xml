@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Розваги</item>
+        <item>Пейзаж</item>
+        <item>Зоряне небо</item>
+        <item>Ботаніка</item>
+        <item>Тварини</item>
+    </string-array>
+</resources>

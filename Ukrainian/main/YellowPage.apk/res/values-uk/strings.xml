@@ -2,7 +2,11 @@
 <resources>
     <string name="app_label">Жовті сторінки</string>
 	<string name="data_error_w">Виникла помилка</string>
-	
+	<string name="turn_on_online_antispam_enable">Увімкнути</string>
+     <string name="turn_on_online_antispam_summary">Увімкніть визначення номерів, щоб дізнатися невідомі номера</string>
+     <string name="turn_on_online_antispam_title">Визначення номерів</string>
+     <string name="turn_on_smart_antispam_summary">Завантажувати та ідентифікувати невідомі номери з історії викликів і текстових повідомлень</string>
+	 
 	<string name="express_install_cainiao_description">%s вимагає встановлення Cainiao. Встановити зараз?</string>
      <string name="express_install_delivery_service">Служби доставки</string>
      <string name="express_install_open_locker">Один крок для відкриття шафки</string>

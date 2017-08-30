@@ -20,6 +20,8 @@
      <string name="content_desc_activity_main_more_settings">Інші налаштування</string>
      <string name="forecast_vedio_visible_setting_string">Відео погода</string>
 	 <string name="activity_minute_rain_location_fail_msg">Локалізація не вдалася. Місцезнаходження на карті за замовчуванням - Пекін.</string>
+	 <string name="dislike_alert_dialog_title">Чому Ви не хочете бачити цей контент?</string>
+     <string name="thanku_for_feedback">Дякуємо за відгук. Ви можете повторно відкрити погодне відео на сторінці налаштувань.</string>
 	 
 	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
      <string name="xiaomi_weather_description_title">Про погоду</string>

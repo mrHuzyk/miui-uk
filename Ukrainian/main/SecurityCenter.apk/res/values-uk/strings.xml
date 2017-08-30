@@ -28,6 +28,10 @@
      <string name="wlan_booster">Підвищення швидкості Wi-Fi</string>
      <string name="xunyou_pay_webview">Служба Xunyou</string>
 	 <string name="do_clean">Очистка…</string>
+	 <string name="app_manager_back">Назад</string>
+     <string name="traffic_setting_fragment_city">Місто</string>
+     <string name="traffic_setting_fragment_province">Провінція</string>
+	 <string name="access_control_app_is_launching">Додаток запускається</string>
 	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>

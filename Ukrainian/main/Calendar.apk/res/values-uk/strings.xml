@@ -6,6 +6,7 @@
      <string name="global_football_final">ФІНАЛ</string>
      <string name="global_football_no_match">На сьогоднішній день футбольних матчів не заплановано</string>
 	 <string name="agenda_month_empty_hint">Немає подій сьогодні</string>
+	 <string name="app_name">Загальна</string>
 	 
      <string name="load_more_hint">Оновити події %1$d</string>
      <string name="no_events_hint">Немає подій</string>

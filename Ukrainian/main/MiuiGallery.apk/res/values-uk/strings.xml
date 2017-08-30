@@ -10,7 +10,13 @@
      <string name="search_setting_title">Пошук фото в галереї</string>
      <string name="search_title_album">Альбом</string>
      <string name="search_title_suggestion">Пропозиції</string>
-
+    <string name="photo_editor_remover">Стерти</string>
+     <string name="remover_edit_type_free">Обєкти</string>
+     <string name="remover_edit_type_line">Лінії</string>
+     <string name="remover_erase_aera_too_big">Область стирання занадто велика</string>
+     <string name="remover_menu_processing">Обробка…</string>
+     <string name="search_title_more">Ще</string>
+	 
 	 <string name="collage_choose">Виберіть фото</string>
      <string name="collage_margin_text">Грань</string>
      <string name="collage_mirror">Дзеркально</string>

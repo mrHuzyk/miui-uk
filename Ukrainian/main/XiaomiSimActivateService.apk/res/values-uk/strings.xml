@@ -2,7 +2,13 @@
 <resources>
     <string name="app_name">Обліковий запис Mi</string>
 	<string name="activate_feature_mi_roaming">Mi Roaming</string>
-	
+	<string name="phone_get_processing">Отримання…</string>
+     <string name="phone_get_text">Дозволяєте %1$s отримати Ваш номер телефону: %2$s</string>
+     <string name="phone_get_title">Згодні %1$s отримати номер телефону</string>
+     <string name="phone_verify_processing">Перевірка…</string>
+     <string name="phone_verify_text">Ви згодні с %1$s щоб підтвердити номер телефону. %1$s не отримає Ваш номер телефону, просто перевірить відповідність.</string>
+     <string name="phone_verify_title">Дозволяєте %1$s перевіряти номер телефону</string>
+	 
 	<string name="activate_history_canceled_overview">Активацію SIM-карти було скасовано. Активацію запущено \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Активацію SIM-карти %2$d було скасовано. Активацію  запущено \"%1$s\".</string>
      <string name="activate_history_multisim_success_overview">SIM-карта %2$d активована. Активацію запущено \"%1$s\".</string>

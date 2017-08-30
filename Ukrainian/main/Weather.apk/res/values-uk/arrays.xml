@@ -5,6 +5,10 @@
         <item>Радимо</item>
         <item>Не радимо</item>
      </string-array>
+	 <string-array name="dislike_alert_dialog_selectitems">
+        <item>Не цікаво</item>
+        <item>Низька якість контенту</item>
+     </string-array>
 	 <string-array name="pollution_level_desc_arr">
         <item>Відмінне</item>
         <item>Хороше</item>

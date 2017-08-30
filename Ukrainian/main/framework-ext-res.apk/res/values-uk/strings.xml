@@ -23,6 +23,9 @@
      <string name="miui_screen_ratio_hint_go_to_settings">Перейдіть в Налаштування</string>
      <string name="miui_screen_ratio_hint_message">Цей додаток дозволено запускати в повноекранному режимі, що може привести до його неправильного відображення. Ви можете змінити це в налаштуваннях > Додатково > Кнопки</string>
      <string name="miui_screen_ratio_hint_ok">OK</string>
+	 <string name="switch_brand_desc_tv">Послуги безпеки надаються Graphite</string>
+     <string name="switch_desc_tv">Два простори. один пристрій.</string>
+     <string name="switching_tv">Перемикання…</string>
 	 
 	 <string name="miui_upgrading_notification_title">"Оновлення системи...
 Деякі функції можуть бути недоступні."</string>

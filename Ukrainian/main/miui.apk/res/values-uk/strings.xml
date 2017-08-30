@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+<string name="clearable_edittext_clear_description">Очистити</string>
+
      <string name="abc_action_bar_home_description">Додому</string>
 	 <string name="actionbar_button_up_description">Назад</string>
      <string name="actionbar_immersion_button_more_description">Ще</string>

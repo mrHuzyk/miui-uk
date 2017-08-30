@@ -10,6 +10,15 @@
 	 <string name="feedback_contact_info_hint">Номер телефону/Пошта</string>
      <string name="module_google_apps">Додатки Google</string>
 	 <string name="feedback_select_modem_log">Додати журнал модема</string>
+	 <string name="bugreport_tool_log_dumping_desc">Займе близько хвилини</string>
+     <string name="bugreport_tool_log_dumping_title">Створення звіту про помилку</string>
+     <string name="modem_tool_log_dumping_desc">Натисніть іконку, щоб зупинити</string>
+     <string name="modem_tool_log_dumping_title">Зняття журналу модему</string>
+     <string name="modem_tool_log_finish_desc">Журнал збережений в %s</string>
+     <string name="modem_tool_log_finish_title">Журнал модему знятий</string>
+     <string name="toast_screenshot_too_large">Неможливо завантажити файли більше 100 МБ</string>
+	 <string name="feedback_delete_images">Видалити картинку</string>
+     <string name="feedback_submit_hint_gone">Закрити повідомлення</string>
 	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
