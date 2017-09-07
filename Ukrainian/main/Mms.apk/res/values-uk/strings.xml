@@ -5,6 +5,12 @@
 	 <string name="sqlite_disk_full">База даних або диск заповнені</string>
      <string name="sqlite_low_memory">"Мало пам'яті"</string>
 	 <string name="message_queued_second_space">Неможливо відправити повідомлення. Перевірте налаштування мережі.</string>
+	 <string name="add_miui_contact">Mi карта</string>
+     <string name="pref_sms_storage_title">Сховище</string>
+     <string name="pref_summary_auto_delete">Видаляти старі повідомлення по досягненню лііміту</string>
+     <string name="pref_title_auto_delete">Видаляти старі повідомлення</string>
+     <string name="pref_title_mms_retrieval_during_international_roaming">Завантажувати MMS-контент в інтернаціональному роумінгу</string>
+     <string name="pref_title_mms_retrieval_during_national_roaming">Завантажувати MMS-контент в національному роумінгу</string>
 	 
 	 <string name="pref_show_photo_word_summary">Автоматично призначати зображення контактам без них</string>
      <string name="title_show_photo_word">Призначати фото</string>

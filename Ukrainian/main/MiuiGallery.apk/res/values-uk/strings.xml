@@ -16,6 +16,7 @@
      <string name="remover_erase_aera_too_big">Область стирання занадто велика</string>
      <string name="remover_menu_processing">Обробка…</string>
      <string name="search_title_more">Ще</string>
+	 <string name="error_download_tip">Не вдалося завантажити</string>
 	 
 	 <string name="collage_choose">Виберіть фото</string>
      <string name="collage_margin_text">Грань</string>

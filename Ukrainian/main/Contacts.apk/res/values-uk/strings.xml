@@ -15,6 +15,8 @@
 	 <string name="add_field_toast">Більше полів для додавання</string>
      <string name="calllog_call_note_menu">Нотатки виклику</string>
      <string name="calllog_call_record_menu">Записані виклики</string>
+	 <string name="sim_export_error">SIM-карта не готова. Будь ласка, спробуйте пізніше.</string>
+     <string name="toast_start_intent_failed">Відсутній додаток для обробки</string>
 	 
 	 <string name="option_delete_batch_contacts">Пакетне видалення</string>
 	 <string name="preference_other">Різне</string>

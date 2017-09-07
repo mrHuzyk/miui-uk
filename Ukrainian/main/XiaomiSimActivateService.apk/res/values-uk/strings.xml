@@ -6,8 +6,9 @@
      <string name="phone_get_text">Дозволяєте %1$s отримати Ваш номер телефону: %2$s</string>
      <string name="phone_get_title">Згодні %1$s отримати номер телефону</string>
      <string name="phone_verify_processing">Перевірка…</string>
-     <string name="phone_verify_text">Ви згодні с %1$s щоб підтвердити номер телефону. %1$s не отримає Ваш номер телефону, просто перевірить відповідність.</string>
+     <string name="phone_verify_text">%1$s не отримає Ваш номер телефону, просто перевірить відповідність.</string>
      <string name="phone_verify_title">Дозволяєте %1$s перевіряти номер телефону</string>
+	 <string name="agree">OK</string>
 	 
 	<string name="activate_history_canceled_overview">Активацію SIM-карти було скасовано. Активацію запущено \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Активацію SIM-карти %2$d було скасовано. Активацію  запущено \"%1$s\".</string>
@@ -19,7 +20,7 @@
     <string name="activate_feature_mms_sync">Синхронізація SMS</string>
     <string name="activate_feature_mx">Хмарні повідомлення</string>
     <string name="activate_phone_failed_notif_title">Помилка активації сервісів Mi Cloud</string>
-    <string name="activate_phone_failed_notif_title_msim">Помилка активації сервісів Mi Cloud для SIM карти %s</string>
+    <string name="activate_phone_failed_notif_title_msim">Помилка активації сервісів Mi Cloud для SIM карти %d</string>
     <string name="activate_popup_confirm_failed_phone_error">Повтор</string>
     <string name="activate_popup_confirm_failed_query_info">Повтор</string>
     <string name="activate_popup_confirm_failed_receive_sms">Повтор</string>
@@ -84,7 +85,7 @@
     <string name="activate_status_desc_wait_for_sms_fail">Не вдається отримати SMS для активації</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS для активації отримано</string>
     <string name="activate_status_title_activating">Активація SIM карти</string>
-    <string name="activate_status_title_activating_msim">Активація SIM карти %s</string>
+    <string name="activate_status_title_activating_msim">Активація SIM карти %d...</string>
     <string name="sim_unactivated_title">Вашу SIM-карту не було активовано</string>
     <string name="activate">Активувати</string>
     <string name="accept">OK</string>
@@ -115,9 +116,9 @@
      <string name="activate_feature_register_xiaomi_account">Нлаштування Mi акаунта</string>
      <string name="activate_feature_verify_mx_token">Перевірка Mi акаунта</string>
      <string name="activate_phone_cancel_notif_title">Активація SIM-карти скасована</string>
-     <string name="activate_phone_cancel_notif_title_msim">Активація SIM-карти %s скасована</string>
+     <string name="activate_phone_cancel_notif_title_msim">Активація SIM-карти %d скасована</string>
      <string name="activate_phone_success_notif_title">SIM-карту активовано</string>
-     <string name="activate_phone_success_notif_title_msim">SIM-карту %s активовано</string>
+     <string name="activate_phone_success_notif_title_msim">SIM-карту %d активовано</string>
      <string name="activate_status_desc_completed_with_sms_sent">SMS для активації SIM-карти надіслано</string>
      <string name="activate_feature_live_talk">Пакет поповнення</string>
      <string name="activate_popup_confirm_error_device_id">Повтор</string>

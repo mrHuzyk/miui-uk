@@ -2,6 +2,7 @@
 <resources>
     <string name="phoneAppLabel">Телефон</string>
 	<string name="package_not_available">\"%s\" недоступний</string>
+	<string name="card_title_answering_time_out">Неможливо відповісти на дзвінок. Повторіть спробу.</string>
 	
 	<string name="card_title_answering">Відповідь на виклик</string>
      <string name="card_title_answering_fail">Неможливо відповісти на дзвінок. Повторіть спробу.</string>

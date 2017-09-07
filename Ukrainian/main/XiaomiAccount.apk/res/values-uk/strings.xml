@@ -5,6 +5,14 @@
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>
      <string name="find_device_prompt_message">Поточний пристрій заблоковано. Повідомлення: %1$s.</string>
+	 <string name="bind_safe_phone_msg">Додати безпечний телефон для наступного входу</string>
+     <string name="mi_vip_info">Мій VIP</string>
+     <string name="passport_instant_login">Увійти</string>
+     <string name="passport_sync_account_data">Синхронізація даних акаунта</string>
+     <string name="passport_user_id_notice">ID акаунта: %s</string>
+     <string name="passport_user_reg_region">Країна/Регіон</string>
+     <string name="passport_user_reg_region_warning">Ви не зможете змінити країну/регіон після створення акаунта</string>
+     <string name="vip_settings_info">VIP центр</string>
 	 
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>

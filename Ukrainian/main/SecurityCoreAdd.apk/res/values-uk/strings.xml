@@ -12,6 +12,28 @@
      <string name="gms_title">Сервіси Google Play</string>
      <string name="gpg_message">Потрібнен доступ до Google Play Ігор</string>
      <string name="gpg_title">Google Play Ігри</string>
+	 <string name="create_second_space">Успішно створено</string>
+     <string name="guide_start_ads_text">Абсолютно новий рівень безпеки</string>
+     <string name="guide_start_text">Два простори. Один пристрій.</string>
+     <string name="has_created_second_space">"Тепер Ви можете відкрити другий простір.
+Один пристрій. два простори."</string>
+     <string name="input_space_finger">Встановити</string>
+     <string name="input_space_password">Встановити</string>
+     <string name="privacy_password_fingerprint_dialog_message">Помістіть палець на сканер</string>
+     <string name="privacy_password_fingerprint_dialog_title">Відскануйте свій відбиток</string>
+     <string name="set_space_finger">Встановити відбиток</string>
+     <string name="set_space_finger_sub_text_suc">Відбиток додано</string>
+     <string name="set_space_password">Встановити пароль</string>
+     <string name="show_decktop_quick_switch_icon">Ярлик перемикання</string>
+     <string name="show_decktop_quick_switch_icon_detail">Показувати ярлик перемикання в першому просторі</string>
+     <string name="show_noti_from_owner">Сповіщення</string>
+     <string name="show_noti_from_owner_detail">Показувати сповіщення з іншого простору</string>
+     <string name="show_noti_quick_switch_icon">Іконка простору</string>
+     <string name="show_noti_quick_switch_icon_detail">Показувати іконку перемикання простору в панелі сповіщень</string>
+     <string name="skip">Пропустити</string>
+     <string name="space_finger_sub_text">Встановіть відбиток пальця другого простору для швидкого перемикання</string>
+     <string name="xspace_account">Клоновані додатки 2</string>
+     <string name="xspace_setting_label">Налаштування 2</string>
 	 
 	 <string name="can_not_delete_when_calling">Неможливо видалити простір під час виклику</string>
      <string name="can_not_switch_when_calling">Неможливо перемикатися між просторами під час виклику</string>
