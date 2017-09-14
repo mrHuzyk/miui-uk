@@ -21,7 +21,29 @@
      <string name="spellchecker_switch_title">Увімкнути перевірку орфографії</string>
      <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Після відключення пароля блокування, збережені відбитки пальців будуть видалені. Ви не зможете розблокувати пристрій, використовуючи відбиток пальця.</string>
 	 <string name="search_input_hint">Пошук налаштувань</string>
-	  
+	 <string name="check_importance">Важливість</string>
+     <string name="statusbar_permission_desc">Дозволи доступні тільки для важливих сповіщень</string>
+     <string name="unimportant">Неважливі</string>
+	 <string name="add_back_fingerprint_instruction_msg">Помістіть палець на сканер</string>
+     <string name="add_fingerprint_edge_instruction_msg">Помістіть палець так, щоб сканер міг зберегти краї відбитка пальця</string>
+     <string name="add_fingerprint_edge_instruction_title">Злегка перемістіть палець</string>
+     <string name="add_front_fingerprint_instruction_msg">Сканер відбитків пальців знаходиться на задній панелі пристрою</string>
+     <string name="setup_add_fingerprint_failed_retry_text">Не вдалося додати відбиток</string>
+     <string name="setup_choose_unlock_fingerprint_msg">Перед додаванням відбитку встановіть блокування екрану</string>
+     <string name="setup_choose_unlock_mixed_password_color_normal"><Data>&lt;font color=#000000>Пароль&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Пароль&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixpassword_title">Встановити пароль</string>
+     <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_password_color_pressed"><Data>&lt;font color=#009dff>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_password_msg">Введіть 4 цифри</string>
+     <string name="setup_choose_unlock_password_title">Встановити PIN</string>
+     <string name="setup_choose_unlock_pattern_color_normal"><Data>&lt;font color=#000000>Шаблон&lt;/font></Data></string>
+     <string name="setup_choose_unlock_pattern_color_pressed"><Data>&lt;font color=#009dff>Шаблон&lt;/font></Data></string>
+     <string name="setup_choose_unlock_pattern_title">Намалюйте ключ розблокування</string>
+     <string name="setup_choose_unlock_type_title">Встановити пароль</string>
+     <string name="setup_password_back">Назад</string>
+     <string name="setup_password_confirm">OK</string>
+	 
 	 <string name="max_aspect_settings_all_app_display_loading">Зачекайте…</string>
      <string name="restrict_max_aspect_ratio_title">Запропонуйте відключити макс. співвідношення сторін</string>
      <string name="screen_max_aspect_ratio_desc">Чи може додаток відображатися в повноекранному режимі</string>

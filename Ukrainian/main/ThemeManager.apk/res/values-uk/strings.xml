@@ -26,6 +26,8 @@
      <string name="wallpaper_settings_loading_text">Завантаження</string>
      <string name="wallpaper_settings_no_history">Історії немає</string>
      <string name="wallpaper_settings_pad_more_page_title">Інші шпалери</string>
+	 <string name="online_precust_asphalt">Asphalt</string>
+     <string name="online_precust_peach_blossom">Peach blossom</string>
 	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>

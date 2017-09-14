@@ -28,7 +28,10 @@
      <string name="micloud_find_device_verify_progress">Реактивація Пошуку пристрою…</string>
 	 <string name="micloud_main_query_again">Черга</string>
      <string name="micloud_main_resume_sync_soon">Скоро відновиться</string>
-	 
+	 <string name="sync_dspt_entrance_provision_network">
+Для нормальної роботи додатку потрібне підключення до мережі. Синхронізація даних може використовувати мобільний інтернет або включати Wi-Fi.</string>
+</resources>
+     
 	 <string name="micloud_detail_not_syncable">Не синхр.</string>
      <string name="micloud_main_error_activated_fail">Активуйте SIM-карту</string>
      <string name="micloud_main_error_network_disallowed">Переконайтеся, що є доступ до мережі</string>

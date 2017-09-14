@@ -27,6 +27,7 @@
      <string name="restoring_file_tile">Відновлення файлів: %d </string>
      <string name="total_space">Всього місця: %s</string>
      <string name="try_again">Натисніть для повтору</string>
+	 <string name="restore_data_title">Відновити дані</string>
 	 
 	<string name="can_not_backup_in_lite_mode">Неможливо створити бекап в Простому режимі</string>
     <string name="can_not_restore_in_lite_mode">Неможливо відновити дані в Простому режимі</string>

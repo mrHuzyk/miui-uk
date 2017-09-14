@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome">Ласкаво просимо!</string>
+	<string name="item_fingerprint">Відбиток пальця</string>
+     <string name="item_lock_screen_password">Тільки пароль блокування</string>
+     <string name="language_settings">Налаштування мови</string>
+	 
 	<string name="application_permissions">Дозволи додатку</string>
      <string name="fail_to_generate_qr_code">Не вдалось створити QR код. Повторно зайдіть на цю сторінку.</string>
      <string name="other_settings_taplus">Taplus</string>

@@ -4,6 +4,9 @@
      <string name="accessibility_airplane_mode">Режим польоту</string>
 	 <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard не підтримує багатовіконний режим. Вихід.</string>
 	 <string name="call_status_holding">Утримання</string>
+	 <string name="accessibility_brightness_slider">Регулятор яскравості</string>
+     <string name="accessibility_search_scanner">Сканер</string>
+     <string name="accessibility_settings">Налаштування</string>
 	 
 	 <string name="accessibility_desc_recent_apps">Огляд</string>
      <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>

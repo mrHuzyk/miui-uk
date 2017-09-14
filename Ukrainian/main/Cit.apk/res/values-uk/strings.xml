@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cit_label">Інженерне меню</string>
+	<string name="audio_spk_cal_wait">Калібрування, зачекайте...</string>
+     <string name="audio_spk_def">Калібрування динаміка, зачекайте</string>
+     <string name="battery_info">Інформація про батарею</string>
+     <string name="title_open_short_pixel">відкрити короткий піксель</string>
+     <string name="title_spi">spi</string>
+	 
 	<string name="cit_hardware_info_summary">Зачекайте ... Рендеринг інформації про обладнання цього пристрою</string>
      <string name="cit_hardware_info_title">Дані про прилад</string>
      <string name="cit_tool_radio_infor">Інформація про радіо</string>

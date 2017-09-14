@@ -13,6 +13,11 @@
      <string name="passport_user_reg_region">Країна/Регіон</string>
      <string name="passport_user_reg_region_warning">Ви не зможете змінити країну/регіон після створення акаунта</string>
      <string name="vip_settings_info">VIP центр</string>
+	 <string name="passport_no">Ні</string>
+     <string name="passport_quick_register">Зареєструватися</string>
+     <string name="passport_set_password_no_phone_msg">"Щоб захистити свої дані, прив'яжіть номер телефону"</string>
+     <string name="passport_sync_account_data_failed_warning">Дані облікового запису затримуються і вхід буде виконаний тільки з ID. Якщо Ви використовували ел. пошту/телефон, зачекайте кілька хвилин.</string>
+     <string name="passport_yes">Так</string>
 	 
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>

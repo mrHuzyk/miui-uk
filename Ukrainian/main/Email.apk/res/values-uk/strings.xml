@@ -21,6 +21,17 @@
      <string name="search_bar_text">Пошук пошти, відправника</string>
      <string name="topic_merge_summary">Режим організації за темами</string>
      <string name="update_to_wps_mail">Додаткові можливості, оновлення до WPS-пошти</string>
+	 <string name="account_setup_basics_login_gmail_without_proxy">Використовувати зараз приєднані до мережі</string>
+     <string name="default_signature_2">Відправлено з мого %s</string>
+     <string name="oauth_login_usr_proxy">Вхід через проксі-сервер</string>
+     <string name="open_calendar_and_contacts_permission">Активуйте дозвіл для календаря та контактів в системних налаштуваннях</string>
+     <string name="open_external_storage_and_calendar_permission">Активуйте дозвіл для зовнішнього сховища та календаря в системних налаштуваннях</string>
+     <string name="open_external_storage_and_contacts_and_calendar_permission">Активуйте дозволу для зовнішнього сховища, календаря та контактів в системних налаштуваннях</string>
+     <string name="open_external_storage_and_contacts_permission">Активуйте дозвіл для зовнішнього сховища та контактів в налаштуваннях системи</string>
+     <string name="sync_contacts_fail_per_content">Застосуйте для вирішення контактів. Натисніть, щоб застосувати.</string>
+     <string name="sync_contacts_fail_per_title">Синхронізація контактів невдале</string>
+     <string name="sync_contacts_fail_permission">Синхронізація контактів невдале. Немає доступу до контактів. Увімкніть в налаштування телефону - управління правами.</string>
+     <string name="sync_contacts_req_per_ignored">Доступ до контактів не увімкнено і синхронізація недоступна</string>
 	 
 	 <string name="account_failure">Збій облікового запису</string>
      <string name="changepw_dialog_tips_please_clikc_btn">Перевірте код через %s та спробуйте ще раз</string>

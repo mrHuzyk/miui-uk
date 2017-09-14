@@ -33,6 +33,9 @@
      <string name="traffic_setting_fragment_province">Провінція</string>
 	 <string name="access_control_app_is_launching">Додаток запускається</string>
 	 <string name="button_text_forbid_now">Заборонити</string>
+	 <string name="network_test_speed">Тест швидкості Wi-Fi</string>
+	 <string name="traffic_setting_fragment_default">Обрано</string>
+     <string name="traffic_setting_fragment_operator_setting">Налаштування оператора</string>
 	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>

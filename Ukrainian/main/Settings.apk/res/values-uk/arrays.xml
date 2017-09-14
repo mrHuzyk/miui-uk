@@ -5,6 +5,16 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="check_importance_entries">
+        <item>Рекомендоване</item>
+        <item>Важливе</item>
+        <item>Неважливе</item>
+     </string-array>
+     <string-array name="check_importance_summary">
+        <item>Рекомендоване. Неважливі сповіщення будуть відображатися в окремій папці.</item>
+        <item>Сповіщення будуть відображатися в панелі сповіщень</item>
+        <item>Всі сповіщення будуть відображатися в окремій папці</item>
+     </string-array>
 	 <string-array name="status_bar_show_carrier_entries">
         <item>Показувати на екрані блокування і панелі сповіщень</item>
         <item>Завжди показувати</item>
