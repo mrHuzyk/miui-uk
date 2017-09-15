@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Action_Accept">ОК</string>
+	<string name="permission_warning_template_ask">Надати %1$s наступні дозволи?</string>
+	
 	<string name="HIPS_Perm_get_installed_apps">Інформація про додатки</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">отримувати інформацію про додатки, встановлених на цьому пристрої</string>
     <string name="HIPS_Action_Prompt">Із запитом</string>

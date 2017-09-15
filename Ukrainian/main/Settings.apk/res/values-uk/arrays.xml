@@ -5,6 +5,12 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="vip_mode_text">
+        <item>Всі</item>
+        <item>Контакти</item>
+        <item>Вибрані контакти</item>
+        <item>Ні</item>
+     </string-array>
 	 <string-array name="check_importance_entries">
         <item>Рекомендоване</item>
         <item>Важливе</item>

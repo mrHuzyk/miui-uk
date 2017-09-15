@@ -18,6 +18,11 @@
      <string name="passport_set_password_no_phone_msg">"Щоб захистити свої дані, прив'яжіть номер телефону"</string>
      <string name="passport_sync_account_data_failed_warning">Дані облікового запису затримуються і вхід буде виконаний тільки з ID. Якщо Ви використовували ел. пошту/телефон, зачекайте кілька хвилин.</string>
      <string name="passport_yes">Так</string>
+	 <string name="passport_continue">Продовжити</string>
+     <string name="passport_login_recycle_account_no">Ні</string>
+     <string name="passport_login_recycle_account_yes">Так</string>
+     <string name="passport_reg_recycle_account_no">Ні</string>
+     <string name="passport_reg_recycle_account_yes">Так</string>
 	 
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>
