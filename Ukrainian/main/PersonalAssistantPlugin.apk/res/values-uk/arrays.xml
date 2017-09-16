@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_status_detail">
+        <item>В дорозі</item>
+        <item>Відправлення</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>В дорозі</item>
+        <item>Відправлення</item>
+        <item>Доставлено</item>
+        <item>Невідомо</item>
+        <item>Отриманий</item>
+        <item>Відхилений</item>
+        <item>Повернений</item>
+        <item>Невідомо</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Ніч</item>
+        <item>Рано-вранці</item>
+        <item>Ранок</item>
+        <item>Полудень</item>
+        <item>По полудню</item>
+        <item>Пізній вечір</item>
+        <item>Вечір</item>
+    </string-array>
+    <string-array name="icon_pkg">
+        <item>music</item>
+        <item>map</item>
+        <item>taxiuber</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Повітря %1$s</item>
+        <item>Повітря %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>помірний</item>
+        <item>тяжкий</item>
+        <item>严重</item>
+    </string-array>
+</resources>

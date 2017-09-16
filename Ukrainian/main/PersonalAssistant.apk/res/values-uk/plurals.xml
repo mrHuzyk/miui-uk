@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Видалити %s елем. з платежів?</item>
+        <item quantity="one">Видалити %s елем. з платежів?</item>
+     </plurals>
+     <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Обрано: %s</item>
+        <item quantity="one">Обрано: %s</item>
+     </plurals>
+	<plurals name="time_minute_ago">
+        <item quantity="other">%d хв. назад</item>
+        <item quantity="one">%d хв. назад</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d год. назад</item>
+        <item quantity="one">%d год. назад</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Видалити %s елем. з обраного?</item>
+        <item quantity="one">Видалити %s елем. з обраного?</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Обрано: %s</item>
+        <item quantity="one">Обрано: %s</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Отмечено %s елем. як важливі</item>
+        <item quantity="one">Отмечено %s елем. як важливі</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">За %d хв.</item>
+        <item quantity="one">За %d хв.</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">За %d год.</item>
+        <item quantity="one">За %d год.</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Через %d дн.</item>
+        <item quantity="one">Через %d дн.</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d год.</item>
+        <item quantity="one">%d год.</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+</resources>
