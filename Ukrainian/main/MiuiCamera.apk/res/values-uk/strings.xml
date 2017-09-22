@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="toast_burst_snap_finished_summary">Серійна зйомка завершена. Зроблено %1$s фото.</string>
+	 
 	 <string name="confirm_install_scanner_message">Сканер дозволяє сканувати QR коди, штрих коди та багато іншого. Для установки підключення до мережі не потрібно.</string>
      <string name="confirm_install_scanner_title">Встановіть сканер</string>
      <string name="install_confirmed">Встановити</string>

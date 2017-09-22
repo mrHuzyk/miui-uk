@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="advanced">Додаткова панель</string>
+	 <string name="global_network_confirm_content">Для нормальної роботи конвертера валют потрібне підключення до мережі</string>
+	 
 	 <string name="description_content">Крім основних функцій, калькулятор також працює як багатофункціональний конвертер, іпотечний та податковий калькулятор. Перед видаленням переконайтеся, що Ви зможете обійтися без цих функцій.</string>
      <string name="description_title">Про калькулятор</string>
 	 <string name="cal_paste">Вставити</string>

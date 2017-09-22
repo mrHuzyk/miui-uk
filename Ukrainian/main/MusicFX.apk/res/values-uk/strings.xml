@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MusicFX</string>
+	<string name="new_app_name">Еквалайзер</string>
     <string name="no_effects">Ефекти недоступні</string>
     <string name="main_toggle_effects_title">Аудіоефекти</string>
     <string name="eq_dialog_title">Еквалайзер</string>

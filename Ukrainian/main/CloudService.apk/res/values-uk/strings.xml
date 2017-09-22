@@ -2,6 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="confirm_delete">Видалити</string>
+     <string name="confirm_save">Залишити</string>
+     <string name="secret_photo">Приховані фото</string>
+     <string name="wipe_secret_photo_dialog_title">Приховані фото не синхронізовані</string>
+	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>
      <string name="cloud_find_device_on">Увмк.</string>

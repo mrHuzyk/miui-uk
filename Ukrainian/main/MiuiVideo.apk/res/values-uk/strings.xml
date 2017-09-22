@@ -9,6 +9,7 @@
      <string name="ui_card_banner_btn_download">Завантажити</string>
      <string name="ui_card_banner_btn_downloading">Завантаження</string>
      <string name="ui_card_banner_btn_open">Відкрити</string>
+	 <string name="share_device_video">Поділитися</string>
 	 
 	 <string name="vp_device_list_seaching">&lt;Немає пристрою для трансляції></string>
 	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>

@@ -7,6 +7,10 @@
         <item quantity="few">%d записи чорного списку</item>
         <item quantity="many">%d записів чорного списку</item>
      </plurals>
+	 <plurals name="dirty_secretphoto_count">
+        <item quantity="other">Несинхронізовані приховані фото: %d. Виконайте вихід після синхронізації, щоб зберегти їх. Інакше вони будуть видалені.</item>
+        <item quantity="one">Несинхронізоване приховане фото: %d. Виконайте вихід після синхронізації, щоб зберегти його. Інакше воно буде видалене.</item>
+     </plurals>
 	 <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Продовження синхронізації через %d год.</item>
         <item quantity="one">Продовження синхронізації через %d год.</item>

@@ -11,6 +11,9 @@
      <string name="pref_title_auto_delete">Видаляти старі повідомлення</string>
      <string name="pref_title_mms_retrieval_during_international_roaming">Завантажувати MMS-контент в інтернаціональному роумінгу</string>
      <string name="pref_title_mms_retrieval_during_national_roaming">Завантажувати MMS-контент в національному роумінгу</string>
+	 <string name="conversation_listitem_avatar">Аватар</string>
+     <string name="ex_type_guide">Інформація</string>
+     <string name="open_edit_sms_panel">Відкрити панель редагування</string>
 	 
 	 <string name="pref_show_photo_word_summary">Автоматично призначати зображення контактам без них</string>
      <string name="title_show_photo_word">Призначати фото</string>
