@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_airplane_mode">Режим польоту</string>
 	 <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard не підтримує багатовіконний режим. Вихід.</string>
@@ -7,6 +6,7 @@
 	 <string name="accessibility_brightness_slider">Регулятор яскравості</string>
      <string name="accessibility_search_scanner">Сканер</string>
      <string name="accessibility_settings">Налаштування</string>
+	 <string name="block_notification_desc">Сповіщеня додатки більше не будуть відображатися. Ви можете змінити це в налаштуваннях.</string>
 	 
 	 <string name="accessibility_desc_recent_apps">Огляд</string>
      <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>

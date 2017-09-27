@@ -2,7 +2,11 @@
 <resources>
     <string name="app_name">Mi Drive</string>
 	<string name="source_file_missing">Файл відсутній</string>
-	
+	<string name="request_permission_msg">Для нормальної роботи додатку, дозвольте Mi Drive доступ до вашого облікового запису</string>
+     <string name="request_permission_title">Потрібні дозволи</string>
+     <string name="xiaomi_drive_description_content">"Mi Drive це онлайн-сховище, яке дозволяє зберігати файли в мережі та звільняти пам'ять на пристрої. Припинити використання Mi Drive?"</string>
+     <string name="xiaomi_drive_description_title">Про додаток Mi Drive</string>
+	 
     <string name="wangpan_root_path">Мій диск</string>
     <string name="file_loading">Завантаження…</string>
     <string name="load_err">Не вдається завантажити</string>

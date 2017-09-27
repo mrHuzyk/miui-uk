@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
 	 <string name="hybrid_webpage_not_available">Веб-сторінка недоступна</string>
@@ -17,7 +16,7 @@
      <string name="calllog_call_record_menu">Записані виклики</string>
 	 <string name="sim_export_error">SIM-карта не готова. Будь ласка, спробуйте пізніше.</string>
      <string name="toast_start_intent_failed">Відсутній додаток для обробки</string>
-	 
+	 <string name="unknown_details_add_to_contact">Існуючий</string>
 	 <string name="option_delete_batch_contacts">Пакетне видалення</string>
 	 <string name="preference_other">Різне</string>
      <string name="preference_show_yellowpage_tab_description">Функція жовті сторінки може працювати некоректно, після її відключення</string>

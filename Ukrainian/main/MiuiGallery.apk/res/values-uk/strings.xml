@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Import">Імпорт</string>
 	 <string name="people_mark_mode_title">Обрано \"%s\"</string>
@@ -17,6 +16,32 @@
      <string name="remover_menu_processing">Обробка…</string>
      <string name="search_title_more">Ще</string>
 	 <string name="error_download_tip">Не вдалося завантажити</string>
+	 <string name="app_is_launching">Запуск %s…</string>
+     <string name="app_is_launching_common">Запуск додатку…</string>
+     <string name="photo_editor_navigator_download_network_metered_msg">Для завантаження %s потрібно близько 4 МБ мобільного трафіку. Завантажити зараз?</string>
+     <string name="photo_editor_navigator_download_network_metered_title">Попередження трафіку</string>
+     <string name="photo_editor_navigator_module_download_failed">Помилка завантаження %s</string>
+     <string name="photo_editor_navigator_module_download_now">Завантажити</string>
+     <string name="photo_editor_navigator_module_download_success">Завантажено</string>
+     <string name="photo_editor_navigator_module_download_wait_wlan">Очікування Wi-Fi</string>
+     <string name="photo_editor_navigator_module_downloading">Завантаження %s…</string>
+     <string name="photo_editor_navigator_need_download">Підключіться до мережі для завантаження %s</string>
+	 <string name="search_failed_mark_feedback_false_negative">Не вдалося додати</string>
+     <string name="search_failed_mark_feedback_false_positive">Не вдалося видалити</string>
+     <string name="search_feedback_contribute">Додати фото в базу даних AI алгоритмів</string>
+     <string name="search_feedback_false_negative_text">Додати фото в \"%s\"?</string>
+     <string name="search_feedback_false_negative_title">Вибрані елементи \"%s\"</string>
+     <string name="search_feedback_false_positive_text">Видалити фото з \"%s\"?</string>
+     <string name="search_feedback_false_positive_title">Схоже, це “%s”</string>
+     <string name="search_feedback_likely_check_title">Перевірити</string>
+     <string name="search_feedback_likely_title">Схоже, на фото \"%s\"</string>
+     <string name="search_feedback_task_finish_title">Натисніть, щоб отримати нагороду!</string>
+     <string name="search_feedback_task_progress">%1$d/%2$d</string>
+     <string name="search_feedback_task_request_award_failed">Помилка. Будь ласка, спробуйте пізніше.</string>
+     <string name="search_feedback_task_requesting_award">Отримання нагороди…</string>
+     <string name="search_mark_feedback_all_false_negative_title">Всі \"%s\"</string>
+     <string name="search_mark_feedback_false_negative_title">OK</string>
+     <string name="search_mark_feedback_false_positive_title">Виправити</string>
 	 
 	 <string name="collage_choose">Виберіть фото</string>
      <string name="collage_margin_text">Грань</string>

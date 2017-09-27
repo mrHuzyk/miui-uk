@@ -11,6 +11,8 @@
      <string name="select_logpersist_title">Зберігати дані журналів</string>
      <string name="wifi_no_internet_no_reconnect">Немає доступу до мережі. Не буде відновлено автоматично.</string>
 	 <string name="unlike">Ні, дякую</string>
+	 <string name="dlg_msg_unoffical">Неможливо встановити системний додаток з неофіційного джерела</string>
+     <string name="dlg_msg_unoffical_ok">OK</string>
 	 
 	<string name="miui_message_staging_0">Встановлення додатку   </string>
      <string name="miui_message_staging_1">Встановлення додатку.  </string>

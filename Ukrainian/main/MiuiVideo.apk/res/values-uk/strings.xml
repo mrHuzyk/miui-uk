@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="about">Про додаток</string>
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
@@ -10,6 +9,12 @@
      <string name="ui_card_banner_btn_downloading">Завантаження</string>
      <string name="ui_card_banner_btn_open">Відкрити</string>
 	 <string name="share_device_video">Поділитися</string>
+	 <string name="url_access_failed">Адрес недоступний. Зверніться в службу підтримки клієнтів.</string>
+     <string name="v_video_category">Категорія</string>
+     <string name="v_video_history">Історія</string>
+     <string name="v_video_offline">Локально</string>
+     <string name="vip_agreement">Угода Vip сервісу</string>
+     <string name="vp_plugin_download_retry">Автоматичне встановлення плагіна не вдалося. Спробувати встановити вручну?</string>
 	 
 	 <string name="vp_device_list_seaching">&lt;Немає пристрою для трансляції></string>
 	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>

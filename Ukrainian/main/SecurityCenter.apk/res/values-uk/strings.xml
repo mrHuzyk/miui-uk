@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
 	 <string name="auto_clean_close">Автоматичне очищення вимкнено</string>
@@ -36,6 +35,8 @@
 	 <string name="network_test_speed">Тест швидкості Wi-Fi</string>
 	 <string name="traffic_setting_fragment_default">Обрано</string>
      <string name="traffic_setting_fragment_operator_setting">Налаштування оператора</string>
+	 <string name="back_app_name">Back App lock</string>
+     <string name="back_modifypassword">Back Change password</string>
 	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>

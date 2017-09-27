@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="setup_choose_unlock_mixed_password">Пароль</string>
+     <string name="setup_choose_unlock_password">PIN-код</string>
+     <string name="setup_choose_unlock_pattern">Шаблон</string>
+	 <string name="launch_recents">Недавні додатки</string>
+	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>
      <string name="bt_rarely_used_device_title">Рідко використовувані пристрої (%d)</string>
@@ -43,7 +47,6 @@
      <string name="setup_choose_unlock_type_title">Встановити пароль</string>
      <string name="setup_password_back">Назад</string>
      <string name="setup_password_confirm">OK</string>
-	 
 	 <string name="max_aspect_settings_all_app_display_loading">Зачекайте…</string>
      <string name="restrict_max_aspect_ratio_title">Запропонуйте відключити макс. співвідношення сторін</string>
      <string name="screen_max_aspect_ratio_desc">Чи може додаток відображатися в повноекранному режимі</string>

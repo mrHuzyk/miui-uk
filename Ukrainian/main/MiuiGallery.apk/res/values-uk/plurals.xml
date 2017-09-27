@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">%1$d фото додано в \"%2$s\" та в базу даних</item>
+        <item quantity="one">%1$d фото додано в \"%2$s\" та в базу даних</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">%1$d фото видалено з \"%2$s\" та додано в базу даних</item>
+        <item quantity="one">%1$d фото видалено з \"%2$s\" та додано в базу даних</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">%1$d фото додано в \"%2$s\"</item>
+        <item quantity="one">%1$d фото додано в \"%2$s\"</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">%1$d фото видалено з \"%2$s\"</item>
+        <item quantity="one">%1$d фото видалено з \"%2$s\"</item>
+     </plurals>
+	 
 	 <plurals name="add_to_secret_successful">
         <item quantity="other">%1$d фото додано в особистий альбом</item>
         <item quantity="one">%1$d фото додано в особистий альбом</item>

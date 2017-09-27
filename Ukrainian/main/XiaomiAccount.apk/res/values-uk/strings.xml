@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device_info">Про пристрій</string>
+	 
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>
      <string name="find_device_prompt_message">Поточний пристрій заблоковано. Повідомлення: %1$s.</string>
@@ -23,7 +23,7 @@
      <string name="passport_login_recycle_account_yes">Так</string>
      <string name="passport_reg_recycle_account_no">Ні</string>
      <string name="passport_reg_recycle_account_yes">Так</string>
-	 
+	 <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>можливо&lt;/font> Ваш номер. Це Ваш Mi акаунт?</string>
 	 <string name="mipay_identitiy_no">Ні</string>
      <string name="mipay_indentity_done">Готово</string>
 	 <string name="account_mibi_center">Центр Mibi</string>

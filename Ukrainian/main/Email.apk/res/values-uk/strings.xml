@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="confirm_delete_attachment">Видалити вкладення?</string>
+     <string name="system_security_open_error">Не вдалося налаштувати центр безпеки. Надайте дозволи в налаштуваннях телефону.</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_close">Немає дозволу на доступ до календаря та контактів. Вони не можуть бути синхронізовані.</string>
+     <string name="toastbar_calendar_permission_switch_close">Немає дозволу на доступ до календаря. Він не може бути синхронізований.</string>
+     <string name="toastbar_contacts_permission_switch_close">Немає дозволу на доступ до контактів. Вони не можуть бути синхронізовані.</string>
+     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Синхронізація календаря та контактів вимкнена</string>
+     <string name="toastbar_local_calendar_sync_switch_close">Синхронізація календаря вимкнена</string>
+     <string name="toastbar_local_contacts_sync_swtich_close">Синхронізація контактів вимкнена</string>
+	 
 	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
      <string name="account_settings_preference_head_icon">Показувати фото відправників</string>
      <string name="account_settings_preference_notify">Замітка</string>
@@ -32,7 +40,6 @@
      <string name="sync_contacts_fail_per_title">Синхронізація контактів невдале</string>
      <string name="sync_contacts_fail_permission">Синхронізація контактів невдале. Немає доступу до контактів. Увімкніть в налаштування телефону - управління правами.</string>
      <string name="sync_contacts_req_per_ignored">Доступ до контактів не увімкнено і синхронізація недоступна</string>
-	 
 	 <string name="account_failure">Збій облікового запису</string>
      <string name="changepw_dialog_tips_please_clikc_btn">Перевірте код через %s та спробуйте ще раз</string>
      <string name="dialog_system_auto_sync_account_no_open">Синхронізація облікового запису не включена, і повідомлення не синхронізуються автоматично</string>

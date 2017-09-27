@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
+	<string name="HIPS_Perm_External_Storage">Доступ до файлів та їх зміна</string>
+     <string name="HIPS_Perm_Location">Отримувати інформацію про місцерозсташування</string>
+     <string name="HIPS_Perm_PhoneID">Отримувати інформацію про пристрій</string>
+     <string name="HIPS_Perm_Settings">Змінювати системні налаштування</string>
+     <string name="HIPS_Perm_WIFI_Connectivity">Змінювати стан Wi-Fi</string>
+     <string name="HIPS_Perm_background_start_activity">Запуск в фоні</string>
+     <string name="HIPS_Perm_get_accounts">Доступ до акаунтів на пристрої</string>
+     <string name="HIPS_Perm_get_installed_apps">Отримувати інформацію про встановлені додатки</string>
+     <string name="btn_goto_grant">Перейти</string>
+     <string name="description_content">Mi Drop забезпечує передачу файлів. Перед видаленням додатку переконайтеся, що можете обійтися без нього.</string>
+     <string name="description_title">Про додаток Mi Drop</string>
+     <string name="request_permission_msg">Mi Drop потрібно %s. Надайте дозвіл.</string>
+     <string name="request_permission_title">Надайте дозвіл</string>
+     <string name="split_comma">,</string>
+	 
 	<string name="receiver_apk_file_current_multi">Отримання додатків: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_apk_file_current_single">Отримання додатків: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_audio_file_current_multi">Отримання аудіо: %2$d​ | Відправник: %1$s​​…</string>

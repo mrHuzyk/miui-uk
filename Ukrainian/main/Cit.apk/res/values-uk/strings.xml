@@ -6,6 +6,7 @@
      <string name="battery_info">Інформація про батарею</string>
      <string name="title_open_short_pixel">відкрити короткий піксель</string>
      <string name="title_spi">spi</string>
+	 <string name="nfc_disable_tip">Увімкніть функцію NFC</string>
 	 
 	<string name="cit_hardware_info_summary">Зачекайте ... Рендеринг інформації про обладнання цього пристрою</string>
      <string name="cit_hardware_info_title">Дані про прилад</string>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Очікування %1$d файлів…</item>
+        <item quantity="one">Очікування %1$d файлу…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d файлів від %1$s</item>
+        <item quantity="one">%2$d файл від %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Отримання %2$d файлів від %1$s…</item>
+        <item quantity="one">Отримання %2$d файлу від %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d зображень від %1$s</item>
+        <item quantity="one">%2$d зображення від %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Отримання %2$d зображень від %1$s…</item>
+        <item quantity="one">Отримання %2$d зображення від %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d треків від %1$s</item>
+        <item quantity="one">%2$d трек від %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Отримання %2$d треків від %1$s…</item>
+        <item quantity="one">Отримання %2$d трека %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d відео від %1$s</item>
+        <item quantity="one">%2$d відео від %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Отримання %2$d відео від %1$s…</item>
+        <item quantity="one">Отримання %2$d відео від %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d додатків від %1$s</item>
+        <item quantity="one">%2$d додаток від %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Отримання %2$d додатків від %1$s…</item>
+        <item quantity="one">Отримання %2$d додаток від %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Отримання файлів: %1$s…</item>
+        <item quantity="one">Отримання файлу: %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s файлів не передано</item>
+        <item quantity="one">%1$s файл не передано</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">%1$s файлів отримано</item>
+        <item quantity="one">Отримано %1$s файл</item>
+    </plurals>
+</resources>
