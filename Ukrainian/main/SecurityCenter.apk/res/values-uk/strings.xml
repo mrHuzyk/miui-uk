@@ -37,6 +37,12 @@
      <string name="traffic_setting_fragment_operator_setting">Налаштування оператора</string>
 	 <string name="back_app_name">Back App lock</string>
      <string name="back_modifypassword">Back Change password</string>
+	 <string name="antivirus_main_activity_back">Назад з перевірки безпеки</string>
+     <string name="data_booster_desc">"Деактивувати інші SIM для стабільного з'єднання"</string>
+     <string name="data_booster_title">"Стабілізувати з'єднання"</string>
+     <string name="game_anti_disturb_msg">Режим не турбувати в іграх</string>
+     <string name="gamebooster_main_activity_back">Назад з прискорення ігор</string>
+     <string name="xunyou_server_expired">Сесія закінчилася</string>
 	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>

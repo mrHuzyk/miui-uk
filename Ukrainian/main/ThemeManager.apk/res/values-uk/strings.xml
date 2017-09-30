@@ -28,6 +28,16 @@
      <string name="wallpaper_settings_pad_more_page_title">Інші шпалери</string>
 	 <string name="online_precust_asphalt">Asphalt</string>
      <string name="online_precust_peach_blossom">Peach blossom</string>
+	 <string name="online_precust_animal">Тварини</string>
+     <string name="online_precust_building">Будівлі</string>
+     <string name="online_precust_cartoon">Мультфільми</string>
+     <string name="online_precust_creative">Креативні</string>
+     <string name="online_precust_entertainment">Розваги</string>
+     <string name="online_precust_lifestyle">Життя</string>
+     <string name="online_precust_plant">Рослини</string>
+     <string name="online_precust_scenery">Декорації</string>
+     <string name="online_precust_starry_sky">Небо</string>
+     <string name="region_not_support">На жаль, теми не підтримуються у вашому регіоні</string>
 	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>
