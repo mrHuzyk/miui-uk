@@ -42,7 +42,7 @@
     <string name="start">Почати</string>
     <string name="low_battery_title">Низький заряд батареї</string>
     <string name="low_battery">Зарядіть телефон перед початком запису</string>
-	<string name="battery_not_allowed">Неможливо розпочати запис, коли заряд батареї мнее 3%. Зарядіть Батарею більше 20%.</string>
+	<string name="battery_not_allowed" formatted="false">Неможливо розпочати запис, коли заряд батареї мнее 3%. Зарядіть Батарею більше 20%.</string>
     <string name="low_memory_title">Нема місця</string>
     <string name="low_memory">Доступно менше 200 МБ вільного місця. Ви можете записати відео не більше 10 хвилин.</string>
 	<string name="memory_not_allowed">"Недостатньо пам'яті для запису екрану. Звільніть пам'ять і спробуйте ще раз."</string>
