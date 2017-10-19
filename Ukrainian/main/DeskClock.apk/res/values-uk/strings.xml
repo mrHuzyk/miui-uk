@@ -292,7 +292,7 @@
      <string name="tomorrow">Завтра</string>
      <string name="turn_off_a_repeat_alarm">Вимкнути повторення будильника</string>
      <string name="turn_off_this_repeat_alarm">Вимкнути повторення цього будильника</string>
-     <string name="upcoming_alarm">" майбутній будильник"</string>
+     <string name="upcoming_alarm">Майбутній будильник %s</string>
      <string name="upcoming_alarm_hint">Ви можете вимкнути його завчасно</string>
      <string name="vibrate_pref_summary">Вібрувати при сигналі</string>
      <string name="vibrate_when_ringing">Вібрувати при сигналі</string>

@@ -12,7 +12,7 @@
 	 <string name="default_screen_preview_title">Робочий стіл за замовчуванням</string>
      <string name="menu_default_screen_preview">Робочий стіл за замовчуванням</string>
 	 
-	 <string name="gadget_clock_14_label">Годинник 4x1</string>
+	 <string name="gadget_clock_14_label">Годинник</string>
      <string name="launcher_not_exist">Робочий стіл зупинений. Поверніться додому і спробуйте ще раз.</string>
      <string name="screen_locked_toast">Розташування на екрані заблоковано</string>
      <string name="add_screen">Додати екранну клавішу</string>
@@ -134,15 +134,15 @@
      <string name="free_style_edit_tab_free_component">Компоненти</string>
      <string name="free_style_edit_tab_shortcut">Ярлики</string>
      <string name="free_style_edit_tab_widget">Віджети</string>
-     <string name="free_style_enter_tip">Потягніть двома пальцями вниз, щоб перейти до стільниці Mi Space.</string>
-     <string name="free_style_exit_tip">Потягніть двома пальцями вгору, щоб вийти з стільниці Mi Space.</string>
+     <string name="free_style_enter_tip">Потягніть двома пальцями вниз, щоб перейти до стільниці Mi Space</string>
+     <string name="free_style_exit_tip">Потягніть двома пальцями вгору, щоб вийти з стільниці Mi Space</string>
      <string name="free_style_londing_text">Завантаження...</string>
      <string name="gadget_calculator_label">Калькулятор</string>
      <string name="gadget_calendar_label">Календар</string>
      <string name="gadget_clear_button_label">Очищення ОЗП</string>
-     <string name="gadget_clock_12_label">Годинник 2x1</string>
-     <string name="gadget_clock_22_label">Годинник 2x2</string>
-     <string name="gadget_clock_24_label">Годинник 4x2</string>
+     <string name="gadget_clock_12_label">Годинник</string>
+     <string name="gadget_clock_22_label">Годинник</string>
+     <string name="gadget_clock_24_label">Годинник</string>
      <string name="gadget_clock_label">Годинник</string>
      <string name="gadget_error_text">Не вдалося завантажити віджет</string>
      <string name="gadget_google_search_label">Пошук Google</string>
