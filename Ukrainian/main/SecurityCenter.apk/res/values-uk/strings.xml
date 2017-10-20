@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="international_Ad">Реклама</string>
+	 <string name="app_manager_clear_cache">Очистити кеш</string>
+     <string name="app_manager_defaults_setting">За замовчуванням</string>
+     <string name="app_manager_disable_dlg_text">Якщо відключити цей додаток, може бути порушена робота інших додатків</string>
+     <string name="app_manager_disable_dlg_title">Відключити додаток?</string>
+     <string name="app_manager_disable_text">Вимкнути</string>
+     <string name="app_manager_disabled">Вимкнено</string>
+     <string name="app_manager_enable_text">Увімкнути</string>
+     <string name="app_manager_enabled">Увімкнено</string>
+     <string name="app_manager_globel_other_perm_title">Інші дозволи</string>
+     <string name="app_manager_globel_perm_summary">Управління дозволами додатків</string>
+     <string name="app_manager_globel_perm_title">Дозволи додатку</string>
+     <string name="app_manager_reset_app_preferences">Скинути налаштування додатків</string>
+     <string name="app_manager_reset_app_preferences_button">Скинути додатки</string>
+     <string name="app_manager_reset_app_preferences_desc">"Це скине всі налаштування для:
+
+ "<li>Вимкнених додатків</li>"
+ "<li>Вимкнення сповіщень додатків</li>"
+ "<li>Додатків за замовчуванням</li>"
+ "<li>Обмежень фонових даних додатків</li>"
+
+ Дані додатків втрачені не будуть."</string>
+     <string name="app_manager_reset_app_preferences_title">Скинути налаштування додатків?</string>
+     <string name="app_manager_uninstall_protected_dlg_msg">Видалення системного додатку може перешкодити роботі деяких компонентів MIUI. Продовжити?</string>
+     <string name="app_manager_uninstall_protected_dlg_title">Видалення системного додатку</string>
+     <string name="sc_system_risk_fix_info_xspace">Ризик не може бути виправлений. Для виправлення змініть простір.</string>
+	 <string name="forbid_autobright_title">Вик. яскравість екрану</string>
+     <string name="game_booster_jump_webview">Зачекайте…</string>
+     <string name="game_booster_tab_top">Топ</string>
+     <string name="game_bootser_tab_settings">Налаштування прискорення ігор</string>
+     <string name="gamebooster_lowbattery_notification_summary">Зарядіть пристрій перед його вимкненням</string>
+     <string name="gamebooster_lowbattery_notification_title">Батарея менш 5%%</string>
+     <string name="gs_call_handsfree">Відповідь на дзвінки</string>
+     <string name="gs_call_handsfree_mute">Режим без звуку</string>
+     <string name="gs_forbid_autosync">Обмеження фонової синхронізації</string>
+     <string name="keywords_gamebooster">Ігри;Гра;продуктивність;Прискорення ігор</string>
+     <string name="path_gamebooster">Системні додатки/Безпека/Прискорення ігор</string>
+     <string name="resource_gamebooster">Прискорення ігор</string>
+     <string name="thermal_tips_message">Ігри в продуктивному режимі можуть викликати проблеми з перегрівом пристрої</string>
+     <string name="thermal_tips_title">Увага</string>
+	 
 	 <string name="auto_clean_close">Автоматичне очищення вимкнено</string>
      <string name="best_booster_status">Тепер краща швидкість гри</string>
      <string name="card_main_deepclean_qq_title">Очищення QQ</string>
@@ -43,7 +84,6 @@
      <string name="game_anti_disturb_msg">Режим не турбувати в іграх</string>
      <string name="gamebooster_main_activity_back">Назад з прискорення ігор</string>
      <string name="xunyou_server_expired">Сесія закінчилася</string>
-	 
 	 <string name="access_control_failed_need_to_unlock_nofingerprint">Потрібно пароль для відкриття додатків</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо зчитати відбиток пальця</string>
      <string name="applock_bind_account_title">Скидання паролю</string>
@@ -184,7 +224,6 @@
      <string name="vpn_unbale_get_phonenum">Неможливо отримати номери телефонів з використанням призначеного трафіку</string>
      <string name="wlan_change_protection_detail">Не перемикатися на Wi-Fi мережу при підключенні до мобільного інтернету</string>
      <string name="wlan_change_protection_title">Запобігати перемикання мереж</string>
-	 
 	 <string name="activate_fingerprint_dialog_message">Цей відбиток не активний. Введіть пароль, щоб активувати цей відбиток.</string>
      <string name="activate_fingerprint_dialog_title">Введіть пароль</string>
      <string name="app_manager_app_power">"Викор. батареї: "</string>

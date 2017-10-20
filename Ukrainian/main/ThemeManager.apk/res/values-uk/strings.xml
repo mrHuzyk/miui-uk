@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
 	 <string name="account_id_not_login">Натисніть, щоб увійти</string>
 	 <string name="card_data_request_error">Запит даних закінчився. Повторіть пізніше.</string>
@@ -38,6 +37,9 @@
      <string name="online_precust_scenery">Декорації</string>
      <string name="online_precust_starry_sky">Небо</string>
      <string name="region_not_support">На жаль, теми не підтримуються у вашому регіоні</string>
+	 <string name="current_version_incompatible">Несумісна версія</string>
+     <string name="hide_free">"Приховати безкоштовні "</string>
+     <string name="hide_incompatible">"Приховати несумісні "</string>
 	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>

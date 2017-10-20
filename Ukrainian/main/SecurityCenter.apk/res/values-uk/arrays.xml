@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="alarm_repeat_type">
         <item>Одноразово</item>
@@ -21,6 +20,7 @@
         <item>"Використання пам'яті"</item>
         <item>Використання трафіку</item>
         <item>Використання батареї</item>
+		<item>Час встановлення</item>
      </string-array>
 	 <string-array name="sort_type">
         <item>Статус</item>
@@ -29,6 +29,7 @@
         <item>"Використання пам'яті"</item>
         <item>Використання трафіку</item>
         <item>Використання батареї</item>
+		<item>Час встановлення</item>
      </string-array>
 	 <string-array name="sms_report_type">
         <item>Використання трафіку</item>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="action_bar_delete">Видалити</string>
 	 <string name="change_cloud_addr">Змінити адрес хмари</string>
@@ -23,6 +22,8 @@
      <string name="cloud_staging_addr">Оновлення даних проміжного серверу</string>
      <string name="lasttime_applist_cloud">Оновлення додатків:</string>
      <string name="lasttime_feature_cloud">Оновлення функцій:</string>
+	 <string name="nonui_mode_config_description">Не вмикати екран при сповіщення, відключити світлодіод, сканер відбитків та тач, коли пристрій знаходиться в кишені</string>
+     <string name="nonui_mode_config_title">Не інтерактивний режим</string>
 	 
 	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
      <string name="warm_configure">Конфігурація</string>

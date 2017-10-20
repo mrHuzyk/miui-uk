@@ -4,6 +4,7 @@
      <string name="add_game">Додати</string>
 	 <string name="gb_alipays_can_not_complete">Неможливо виконати платіж. Встановіть для продовження.</string>
      <string name="gb_weixinpay_can_not_complete">Неможливо виконати платіж. Встановіть для продовження.</string>
+	 <string name="xunyou_pay_webview">Сервіси Xunyou</string>
 	 
 	 <string name="install_sucess">%s встановлено</string>
      <string name="more_game">Інші ігри</string>

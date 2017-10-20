@@ -4,6 +4,10 @@
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="add_secret_ensure_message">
+        <item quantity="other">Приховати ці файли?</item>
+        <item quantity="one">Приховати цей файл?</item>
+     </plurals>
 	 <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d фото додано в \"%2$s\" та в базу даних</item>
         <item quantity="one">%1$d фото додано в \"%2$s\" та в базу даних</item>

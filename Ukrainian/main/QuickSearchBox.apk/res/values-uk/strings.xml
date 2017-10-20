@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Пошук</string>
 	 <string name="mi_account">Mi акаунт</string>
@@ -23,6 +22,11 @@
      <string name="launcher_entrance_prompt_button">OK</string>
      <string name="launcher_entrance_prompt_content">Ви можете відключити цю функцію в налаштуваннях</string>
      <string name="launcher_entrance_prompt_title">Проведіть вгору по екрану, щоб відкрити пошук</string>
+	 <string name="barcode_description">Сканер</string>
+     <string name="clear_input_description">Очистити історію</string>
+     <string name="delete_description">Видалити</string>
+     <string name="search_description">Змінити пошукову систему</string>
+     <string name="settings_icon_description">Налаштування</string>
 	 
 	 <string name="mobile_network_settings">Увімкнути мобільний інтернет</string>
 	 <string name="clear_history_cancel">Скасування</string>

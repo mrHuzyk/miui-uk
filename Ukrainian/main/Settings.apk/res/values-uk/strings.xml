@@ -5,6 +5,8 @@
      <string name="setup_choose_unlock_password">PIN-код</string>
      <string name="setup_choose_unlock_pattern">Шаблон</string>
 	 <string name="launch_recents">Недавні додатки</string>
+	 <string name="thememanager_not_found">Не вдалося відкрити теми. Переконайтеся, що додаток встановлено.</string>
+	 <string name="no_account_found">Немає додатків, що дозволяють додавати акаунти</string>
 	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>

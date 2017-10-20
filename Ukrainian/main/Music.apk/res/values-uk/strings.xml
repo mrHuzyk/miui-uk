@@ -14,6 +14,10 @@
 	 <string name="no_system_cropper_find">Система не має додатку для обрізки зображення</string>
 	 <string name="toast_new_playlist_name_no_enter">"Кнопка 'Enter' була видалена"</string>
      <string name="toast_new_playlist_name_too_long">"Занадто довге ім'я плейлиста"</string>
+	 <string name="filter_size_unit">%d КБ</string>
+     <string name="nowplaying_circle_style">Стиль анімації</string>
+     <string name="nowplaying_circle_style_rainbow">Випадкова</string>
+     <string name="nowplaying_circle_style_wave">Хвиля</string>
 	 
 	 <string name="local_header_title">Локальна музика</string>
 	  <string name="vip_after_tomorrow_auto_renew_message">Ваша підписка на музику буде автоматично оновлена ​​післязавтра. Переконайтеся, що у Вас досить Mi Credits для завершення цього платежу.</string>

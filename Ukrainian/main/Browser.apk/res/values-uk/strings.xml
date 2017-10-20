@@ -18,6 +18,33 @@
 	 <string name="voice_close_description">Закрити</string>
      <string name="voice_start_description">Почати</string>
      <string name="voice_stop_description">Зупинити</string>
+	 <string name="action_menu_request_desktop_site">Повна версія сайту</string>
+     <string name="action_menu_request_desktop_site_off">Запит повної версії сайту вимкнено</string>
+     <string name="action_menu_request_desktop_site_on">Увімкнено запит повної версії сайту</string>
+     <string name="action_menu_text_bookmark_add_off">Немає сторінки для додавання</string>
+     <string name="add_pwa_to_homescreen">Додати це на головний екран?</string>
+     <string name="agree_permissions_request">OK</string>
+     <string name="cancle_sync_cloud_tabs">Скасувати синхронізацію</string>
+     <string name="contextmenu_openlink_in_browser">Відкрити в браузері</string>
+     <string name="empty_cloud_tab_login_hint">Немає хмарних вкладок</string>
+     <string name="empty_cloud_tab_logout_hint">"Увійдіть в Mi аккаунт.
+ Тут будуть відображатися вкладки, відкриті на інших пристроях."</string>
+     <string name="finish_sync_cloud_tabs">Синхронізація завершена</string>
+     <string name="ignore_add_pwa_dialog_today">Не показувати сьогодні</string>
+     <string name="permission_notification">відправляти Вам сповіщення</string>
+     <string name="permissions_prompt_message">"%s хоче "</string>
+     <string name="pref_accept_quicklink_push">Сповіщення стартової сторінки</string>
+     <string name="pwa_app_name">Веб-додатки</string>
+     <string name="quicklink_push_confirm_message">Сповіщення стартової сторінки будуть вимкнені</string>
+     <string name="refuse_permissions_request">Відміна</string>
+     <string name="suggest_access_item_app_mark">ДОДАТКИ</string>
+     <string name="suggest_access_item_book_mark">КНИГИ</string>
+     <string name="suggest_access_item_mina_mark">СЕРВІСИ</string>
+     <string name="suggest_access_item_music_mark">МУЗИКА</string>
+     <string name="suggest_access_item_site_mark">САЙТИ</string>
+     <string name="suggest_access_item_video_mark">ВІДЕО</string>
+     <string name="suggest_access_item_website_mark">ВЕБ-САЙТИ</string>
+     <string name="sync_cloud_tabs">Синхронізувати</string>
 	 
 	 <string name="miuichromium_error_page_description_no_connection" formatted="false">"Не вдалося підключитися до мережі через слабкого сигналу або неправильної конфігурації мережі. Перевірте %s1налаштування мережі%s2 та повторіть. "</string>
      <string name="miuichromium_error_page_problem_access_denied">Доступ до %s0 був відхилений</string>

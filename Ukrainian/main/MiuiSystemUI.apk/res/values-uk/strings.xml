@@ -7,6 +7,9 @@
      <string name="accessibility_search_scanner">Сканер</string>
      <string name="accessibility_settings">Налаштування</string>
 	 <string name="block_notification_desc">Сповіщеня додатки більше не будуть відображатися. Ви можете змінити це в налаштуваннях.</string>
+	 <string name="search_hint">Пошук на пристрої...</string>
+	 <string name="description_image_button_answer">Відповісти</string>
+     <string name="description_image_button_reject">Відхилити</string>
 	 
 	 <string name="accessibility_desc_recent_apps">Огляд</string>
      <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>

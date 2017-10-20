@@ -7,6 +7,10 @@
      <string name="global_football_no_match">На сьогоднішній день футбольних матчів не заплановано</string>
 	 <string name="agenda_month_empty_hint">Немає подій сьогодні</string>
 	 <string name="app_name">Загальна</string>
+	 <string name="email_install_hint">Додаток пошти видалено. Після повторного встановлення, Ви можете відновити обліковий запис календаря або додати новий.</string>
+     <string name="install_email_app">Встановіть додаток пошти</string>
+     <string name="install_email_finished">Додаток пошти встановлено</string>
+     <string name="installing_email">Встановлення...</string>
 	 
      <string name="load_more_hint">Оновити події %1$d</string>
      <string name="no_events_hint">Немає подій</string>

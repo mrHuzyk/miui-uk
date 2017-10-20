@@ -19,6 +19,9 @@
      <string name="toast_screenshot_too_large">Неможливо завантажити файли більше 100 МБ</string>
 	 <string name="feedback_delete_images">Видалити картинку</string>
      <string name="feedback_submit_hint_gone">Закрити повідомлення</string>
+	 <string name="customer_service_apply">Запросити сервіс обслуговування</string>
+     <string name="customer_service_complain">Повідомити про сервіс обслуговування</string>
+     <string name="customer_service_station">Адреси сервісів</string>
 	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>
