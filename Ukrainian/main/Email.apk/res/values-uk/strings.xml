@@ -9,6 +9,8 @@
      <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Синхронізація календаря та контактів вимкнена</string>
      <string name="toastbar_local_calendar_sync_switch_close">Синхронізація календаря вимкнена</string>
      <string name="toastbar_local_contacts_sync_swtich_close">Синхронізація контактів вимкнена</string>
+	 <string name="account_setup_basics_mi_mail_login_help">Вхід виконано. Перевірте SMS та активуйте посилання для відправки та отримання пошти!</string>
+     <string name="meeting_responded_failed">Помилка відповіді</string>
 	 
 	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
      <string name="account_settings_preference_head_icon">Показувати фото відправників</string>

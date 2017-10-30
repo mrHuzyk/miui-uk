@@ -8,6 +8,15 @@
      <string name="function_open_error_title">Не вдалося увімкнути “%s”</string>
      <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
      <string name="smart_assistant_enter_tip">Помічник MIUI</string>
+	 <string name="payment_dialog_chooser_cancel">Відміна</string>
+     <string name="payment_dialog_chooser_message_footer">Всі дані про витрати, отримані системою, будуть зашифровані та збережені на телефоні</string>
+     <string name="payment_dialog_chooser_message_header">Виберіть джерело інформації</string>
+     <string name="payment_dialog_chooser_ok">OK</string>
+     <string name="payment_dialog_chooser_title">Мої витрати</string>
+     <string name="payment_dialog_chooser_toast">Необхідне хоча б одне джерело інформації про витрати</string>
+     <string name="payment_dialog_notice_ok">OK</string>
+     <string name="payment_dialog_notice_title">Інформація</string>
+     <string name="payment_user_notice_bar_text">Інструкції з використання</string>
 	 
     <string name="settings">Налаштування</string>
     <string name="xiaomi_search_label">Пошук</string>

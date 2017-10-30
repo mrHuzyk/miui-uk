@@ -40,6 +40,15 @@
 	 <string name="current_version_incompatible">Несумісна версія</string>
      <string name="hide_free">"Приховати безкоштовні "</string>
      <string name="hide_incompatible">"Приховати несумісні "</string>
+	 <string name="find_more_theme">Більше тем</string>
+     <string name="online_precust_abstract">Abstract</string>
+     <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>
+     <string name="online_precust_forest_stories">Forest Stories</string>
+     <string name="online_precust_geometry">Geometry</string>
+     <string name="online_precust_mi_note2">Mi Note 2</string>
+     <string name="online_precust_paper_world">Paper World</string>
+     <string name="online_precust_tiny">Tiny</string>
+     <string name="present_official_themes">Підбірка офіційних тим</string>
 	 
 	 <string name="title_my_miwallpaper_resource">Мої живі шпалери</string>
 	 <string name="uid_change_dialog_message">"Ви видалили оновлення. Перезавантажте пристрій, щоб користуватися темами."</string>

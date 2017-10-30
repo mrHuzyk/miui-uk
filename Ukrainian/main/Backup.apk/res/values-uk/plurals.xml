@@ -16,4 +16,36 @@
         <item quantity="other">Обрано: %1$d</item>
         <item quantity="one">Обрано: %1$d</item>
     </plurals>
+	<plurals name="backup_items_app_tailer">
+        <item quantity="other">дані додатків: %d</item>
+        <item quantity="one">дані додатку: %d</item>
+     </plurals>
+     <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">дані системи: %d</item>
+        <item quantity="one">дані системи: %d</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Імпортовано: %d | "</item>
+        <item quantity="one">"Імпортовано: %d | "</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d не вдалося</item>
+        <item quantity="one">%d не вдалося</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+        <item quantity="other">Імпортовано і відновлено елементів: %d</item>
+        <item quantity="one">Імпортовано і відновлено елементів: %d</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+        <item quantity="other">%d елем. відновлено</item>
+        <item quantity="one">%d елем. відновлено</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+        <item quantity="other">елем.</item>
+        <item quantity="one">елем.</item>
+     </plurals>
+     <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d елем.</item>
+        <item quantity="one">%1$s | %2$d елем.</item>
+     </plurals>
 </resources>

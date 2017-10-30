@@ -15,6 +15,7 @@
      <string name="v_video_offline">Локально</string>
      <string name="vip_agreement">Угода Vip сервісу</string>
      <string name="vp_plugin_download_retry">Автоматичне встановлення плагіна не вдалося. Спробувати встановити вручну?</string>
+	 <string name="v_video_mine">Моє відео</string>
 	 
 	 <string name="vp_device_list_seaching">&lt;Немає пристрою для трансляції></string>
 	 <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>відповісти &lt;/font>%s</string>

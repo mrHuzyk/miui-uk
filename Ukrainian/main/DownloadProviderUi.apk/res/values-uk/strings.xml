@@ -15,6 +15,10 @@
      <string name="megabyteShort">МБ</string>
      <string name="petabyteShort">ПБ</string>
      <string name="terabyteShort">ТБ</string>
+	 <string name="menu_back">Назад</string>
+     <string name="menu_des_more">Ще</string>
+     <string name="menu_des_vip">VIP</string>
+     <string name="menu_vip_unbind">"Відв'язати"</string>
 	 
 	 <string name="dialog_speed_cancel">Відміна</string>
      <string name="dialog_speed_msg">Використання мобільного інтернету для тестування мережі може споживати багато трафіку. Продовжити?</string>

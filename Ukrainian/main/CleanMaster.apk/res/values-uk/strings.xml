@@ -18,6 +18,15 @@
      <string name="wechat_qq_chat_files">Історія чату</string>
      <string name="wechat_qq_normal_files">Сміття</string>
 	 <string name="international_Ad">Реклама</string>
+	 <string name="cd_back">Назад</string>
+     <string name="cd_check_box_checked">Обрано</string>
+     <string name="cd_check_box_middle">Частково обрано</string>
+     <string name="cd_check_box_unchecked">Не обрано</string>
+     <string name="cd_list_item_collapse">Приховано</string>
+     <string name="cd_list_item_expanded">Розкрито</string>
+     <string name="cd_percent">відсоток</string>
+     <string name="cd_settings">Налаштування</string>
+     <string name="cd_sort_type">Тип сортування</string>
 	 
 	 <string name="engine_init">Ініціалізація…</string>
 	 <string name="app_description_content">Cleaner знаходить сміття на пристрої та звільняє місце. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій.</string>

@@ -4,6 +4,11 @@
         <item>В дорозі</item>
         <item>Відправлення</item>
     </string-array>
+	<string-array name="payment_chooser">
+        <item>SMS </item>
+        <item>WeChat</item>
+        <item>AliPay</item>
+     </string-array>
     <string-array name="express_status_all">
         <item>В дорозі</item>
         <item>Відправлення</item>

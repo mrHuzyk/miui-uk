@@ -3,6 +3,7 @@
 <resources>
      <string name="CFActivate">Активувати</string>
 	 <string name="carrier_info">Інформація про оператора</string>
+	 <string name="path_call_advanced_settings_title">Системні додатки/Телефон/Додаткові налаштування</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

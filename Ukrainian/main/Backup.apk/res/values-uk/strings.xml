@@ -14,7 +14,104 @@
 Потім натисніть [Підключити], щоб створити QR код."</string>
      <string name="trans_operate_reconnect_old_tips">"Дочекайтеся повідомлення на старому телефоні \"Пристрій відключено\".
 Потім натисніть [Підключити], щоб створити QR код."</string>
-
+     <string name="button_import">Імпортувати</string>
+     <string name="cancel_moving_dialog_message">Припинити імпорт?</string>
+     <string name="cancel_moving_dialog_title">Зупинка імпорту</string>
+     <string name="close_twice_auth_btn">Вимкнути</string>
+     <string name="close_twice_auth_note">"Примітка:
+Після створення нового запиту безпеки та підтвердження дати народження функція двоетапної аутентифікації буде вимкнена. Якщо Ви не бачите варіант вимкнення даної функції на сторінці облікового запису Apple ID, то вимкнути її неможливо.</string>
+     <string name="close_twice_auth_operation">"Доступ з комп'ютера:
+https://appleid.apple.com/#!&amp;page=signin для вимкнення"</string>
+     <string name="close_twice_auth_step_1">1. Увійдіть в Apple аккаунт</string>
+     <string name="close_twice_auth_step_2">2. У розділі «Безпека» натисніть «Змінити»</string>
+     <string name="close_twice_auth_step_3">3. Натисніть Вимкнути двоетапну аутентифікацію. Натисніть ще раз для підтвердження.</string>
+     <string name="close_twice_auth_steps">Вимкніть двоетапну аутентифікацію:</string>
+     <string name="close_twice_auth_tutor">Вимкнення двоетапної аутентифікації</string>
+     <string name="comma_seperator">","</string>
+     <string name="connect_wifi">Увімкніть Wi-Fi</string>
+     <string name="connect_wifi_tip">Мережу вимкнено. Імпорт даних з iCloud потребує Wi-Fi.</string>
+     <string name="disable_encrypt_description">Не шифрувати</string>
+     <string name="enable_encrypt_description">Шифрувати</string>
+     <string name="hsa_code_null">Введіть перевірочний код</string>
+     <string name="hsa_input_hint">Введіть перевірочний код</string>
+     <string name="hsa_input_tip">У Вашому iCloud ID увімкнено двоетапна аутентифікація. Введіть перевірочний код.</string>
+     <string name="hsa_send_again">Відправити ще раз</string>
+     <string name="hsa_send_again_countdown">Відправити ще раз (%ds)</string>
+     <string name="hsa_send_failed">Неможливо відправити код перевірки. Повторіть пізніше.</string>
+     <string name="hsa_sending">Відправлення…</string>
+     <string name="hsa_tip_message">"1. Повідомлення, що містить код перевірки, буде відправлено на телефон, пов'язаний з iCloud
+2. Вимкніть двоетапну аутентифікацію, якщо не вдається перевірити"</string>
+     <string name="hsa_tip_message_shutdown_hsa">Як вимкнути двоетапну аутентифікацію</string>
+     <string name="hsa_tip_message_with_device">"1. Повідомлення, що містить код перевірки, буде відправлено на телефон %s пов'язаний з iCloud
+2. Вимкніть двоетапну аутентифікацію, якщо не вдається перевірити"</string>
+     <string name="hsa_tip_title">Порада:</string>
+     <string name="hsa_title">Двоетапна аутентифікація</string>
+     <string name="hsa_verify_failed">Двоетапна аутентифікація не вдалася</string>
+     <string name="hsa_verify_failed_message">Двоетапна аутентифікація не вдалася. Ви можете повторити або вимкнути двоетапну аутентифікацію.</string>
+     <string name="hsa_verify_retry">Повтор</string>
+     <string name="hsa_verify_shutdown">Вимкнути</string>
+     <string name="icloud_backup_tip">Увійдіть в iCloud ID зі старого пристрою Apple</string>
+     <string name="icloud_how_to_backup_tip_steps">"1. Увійдіть в налаштування на iOS пристрої, а потім виберіть iCloud
+2. Увімкніть контакти
+3. Виберіть «Фотографії» і увімкніть iCloud Photo Library "</string>
+     <string name="icloud_how_to_backup_tip_summary">Для імпорту даних з iOS необхідно спочатку завантажити дані зі старого пристрою в iCloud</string>
+     <string name="icloud_how_to_backup_tip_title">Порада:</string>
+     <string name="icloud_login_title">Вхід в iCloud</string>
+     <string name="icloud_need_sync">"Для імпорту даних з iOS
+необхідно спочатку завантажити дані зі старого пристрою в iCloud"</string>
+     <string name="icloud_need_wifi_message">Щоб імпортувати дані з iCloud, потрібно Wi-Fi для входу та завантаження даних</string>
+     <string name="icloud_need_wifi_title">Потрібно Wi-Fi</string>
+     <string name="import_again">Імпортувати знову</string>
+     <string name="import_data_from_icloud">Імпорт даних з iCloud</string>
+     <string name="import_tip_summary">Через сумісності підтримуються тільки контакти та фотографії. Спочатку необхідно завантажити дані зі старого пристрою в iCloud.</string>
+     <string name="import_tip_title">Порада:</string>
+     <string name="loading_data">Завантаження даних</string>
+     <string name="login">Вхід</string>
+     <string name="login_failed">Неможливо увійти. Будь ласка, спробуйте ще раз.</string>
+     <string name="logining">Завантаження…</string>
+     <string name="name_password_not_consistent">"Неправильне ім'я користувача або пароль"</string>
+     <string name="notif_icloud_canceled_summary">Скасовано</string>
+     <string name="notif_icloud_canceling_summary">Скасування…</string>
+     <string name="notif_icloud_import_title">Імпорт даних з iCloud</string>
+     <string name="notif_icloud_loaded_summary">Очікування завантаження даних</string>
+     <string name="notif_icloud_loading_summary">Завантаження даних…</string>
+     <string name="notif_icloud_logining">Завантаження iCloud ID зі старого пристрою Apple…</string>
+     <string name="notif_icloud_need_wifi_summary">Очікування Wi-Fi</string>
+     <string name="notif_icloud_saved_summary">Імпорт завершено</string>
+     <string name="notif_icloud_saving_summary">Відновлення даних…</string>
+     <string name="notif_trans_auto_reconnecting_content">Ви можете скасувати поточне завдання, якщо це необхідно</string>
+     <string name="notif_trans_auto_reconnecting_title">"З'єднання було перервано. Автоматичне підключення…"</string>
+     <string name="password">Пароль</string>
+     <string name="password_null">Пароль не може бути порожнім</string>
+     <string name="pause">Пауза</string>
+     <string name="platform_chooser_item_android">Імпорт з Android</string>
+     <string name="platform_chooser_item_ios">Імпорт Apple</string>
+     <string name="platform_chooser_title">Виберіть старий пристрій</string>
+     <string name="save_finish_with_failing_items">"Імпорт перерваний. Деякі дані були передані,
+деякі дані необхідно імпортувати знову."</string>
+     <string name="saving_data">"Імпорт з iCloud.
+Не вимикайте та не перемикайте Wi-Fi."</string>
+     <string name="saving_data_no_time">Відновлення даних</string>
+     <string name="saving_data_space_low">"Недостатньо місця.
+Очистіть хоча б %s."</string>
+     <string name="select_empty">Виберіть елементи для імпорту</string>
+     <string name="select_item_contacts">Контакти</string>
+     <string name="select_item_empty_summary">Немає вмісту</string>
+     <string name="select_item_photos">Фото</string>
+     <string name="select_item_summary_loading">Завантаження даних…</string>
+     <string name="select_item_summary_wait">Дочекайтеся завантаження даних</string>
+     <string name="trans_button_cancel">Скасування</string>
+     <string name="trans_device_auto_reconnecting">Пристрій відключено. Автоматичне підключення…</string>
+     <string name="trans_disconnected_tips_message">Віддалений пристрій відключено. Підключіться вручну або скасуйте завдання, якщо це необхідно.</string>
+     <string name="trans_disconnected_tips_title">Віддалений пристрій відключено</string>
+     <string name="trans_intro_desc_1">На пристрої Xiaomi підключіться до Wi-Fi. Натисніть \"Отримати\", а потім виберіть \"Пристрій Apple\". Увійдіть в iCloud та імпортуйте дані.</string>
+     <string name="trans_intro_desc_8">Дані додатків і історія чату WeChat можуть бути не повністю передані за допомогою Mi Mover. Перейдіть в налаштування WeChat та вийдіть зі свого облікового запису, щоб збільшити шанси на успішну передачу.</string>
+     <string name="trans_intro_question_9">9. Які елементи не можуть бути передані?</string>
+     <string name="trans_wlan_tips_message">Не вимикайте та не перемикайте Wi-Fi під час передачі даних. В іншому випадку процес може перерватися.</string>
+     <string name="trans_wlan_tips_title">Не вимикайте та не перемикайте Wi-Fi</string>
+     <string name="user_name">Apple ID або пошта</string>
+     <string name="user_name_null">"Ім'я користувача не може бути порожнім"</string>
+	 
 	 <string name="abort_backup_confirm">Скасувати створення бекапа?</string>
 	 <string name="trans_intro_desc_2">Скасуйте передачу, вийдіть з Mi Mover та почніть спочатку. Під час нової передачі дубльовані файли будуть перезаписані.</string>
      <string name="trans_intro_desc_3">Mi Mover використовує Wi-Fi для передачі файлів. Проте, Ви можете використовувати мобільний інтернет.</string>

@@ -32,8 +32,9 @@
      <string name="show_noti_quick_switch_icon_detail">Показувати іконку перемикання простору в панелі сповіщень</string>
      <string name="skip">Пропустити</string>
      <string name="space_finger_sub_text">Встановіть відбиток пальця другого простору для швидкого перемикання</string>
-     <string name="xspace_account">Клоновані додатки 2</string>
-     <string name="xspace_setting_label">Налаштування 2</string>
+     <string name="xspace_account">Клоновані додатки</string>
+     <string name="xspace_setting_label">Налаштування</string>
+	 <string name="fingerprint_number_upper_limit">Занадто багато невдалих спроб розблокування</string>
 	 
 	 <string name="can_not_delete_when_calling">Неможливо видалити простір під час виклику</string>
      <string name="can_not_switch_when_calling">Неможливо перемикатися між просторами під час виклику</string>

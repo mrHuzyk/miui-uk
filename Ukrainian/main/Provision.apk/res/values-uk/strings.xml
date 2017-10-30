@@ -4,6 +4,9 @@
 	<string name="item_fingerprint">Відбиток пальця</string>
      <string name="item_lock_screen_password">Тільки пароль блокування</string>
      <string name="language_settings">Налаштування мови</string>
+	 <string name="accessibility_enabled">Доступність увімкнена</string>
+     <string name="continue_to_enable_accessibility">Продовжуйте утримувати два пальця, щоб увімкнути доступність</string>
+     <string name="enable_accessibility_canceled">Доступність скасована</string>
 	 
 	<string name="application_permissions">Дозволи додатку</string>
      <string name="fail_to_generate_qr_code">Не вдалось створити QR код. Повторно зайдіть на цю сторінку.</string>
