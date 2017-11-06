@@ -7,6 +7,18 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="number_masked">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="number_masked_text">
+        <item quantity="other">Приховані сповіщення: %d</item>
+        <item quantity="one">Приховані сповіщення: %d</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+        <item quantity="other">Видимі сповіщення: %d</item>
+        <item quantity="one">Видимі сповіщення: %d</item>
+     </plurals>
 	 <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Залишилось %d дн. до закінчення послуги підвищення швидкості мережі. Оновіть підписку, щоб уникнути проблем зі швидкістю мережі.</item>
         <item quantity="one">Залишилось %d дн. до закінчення послуги підвищення швидкості мережі. Оновіть підписку, щоб уникнути проблем зі швидкістю мережі.</item>

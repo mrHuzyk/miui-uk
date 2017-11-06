@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_bind_prompt">"Перенесення даних користувача
 перенос даних може зайняти деякий час,
@@ -24,6 +23,34 @@
      <string name="permission_denial">Не вдалося отримати доступ до файлів. Дозвольте провіднику доступ до файлів в налаштуваннях.</string>
      <string name="permission_required">Не вдалося отримати доступ до файлів. Дозволити провіднику доступ до файлів в налаштуваннях.</string>
      <string name="unknown_error">Виникла невідома помилка. Зачекайте і спробуйте ще раз.</string>
+	 <string name="apk_installing">Встановлення...</string>
+     <string name="cancel_text">Відміна</string>
+     <string name="exo_controls_fastforward_description">Перемотка вперед</string>
+     <string name="exo_controls_next_description">Наст. трек</string>
+     <string name="exo_controls_pause_description">Пауза</string>
+     <string name="exo_controls_play_description">Відтворити</string>
+     <string name="exo_controls_previous_description">Пред. трек</string>
+     <string name="exo_controls_rewind_description">Перемотка назад</string>
+     <string name="exo_controls_stop_description">Стоп</string>
+     <string name="install_btn_download_install_text">Встановлення додатку</string>
+     <string name="install_btn_download_not_install_text">Встановіть додаток для перегляду відео</string>
+     <string name="install_btn_not_download_not_install_text">Встановіть додаток для перегляду відео</string>
+     <string name="install_btn_not_downloading_text">Встановлення додатку</string>
+     <string name="install_text">Встановити</string>
+     <string name="install_xk_data_check_message">Необхідно 7 МБ трафіку. Завантажити?</string>
+     <string name="install_xk_look_more_title">Встановлення додатку!</string>
+     <string name="install_xk_now_message">Встановіть додаток для перегляду відео!!!</string>
+     <string name="install_xk_now_title">Встановіть додаток</string>
+     <string name="more_hot_text">Більше відео</string>
+     <string name="net_error_text">Помилка мережі</string>
+     <string name="video_play_btn">Відт.</string>
+     <string name="video_play_count">%s р.</string>
+     <string name="video_play_count_more">%s ще</string>
+     <string name="video_replay_btn">Повтор</string>
+     <string name="video_retry_btn">Натисніть для повтору</string>
+	 <string name="download_notification_title_text">Завантаження додатку</string>
+     <string name="install_xk_app">Встановити XK</string>
+     <string name="open_xk_app">Відкрити XK</string>
 	 
      <string name="a_week_share_rank">Щотижневий рейтинг</string>
 	 <string name="overwrite_msg">\"%s\" вже існує. Натисніть для заміни.</string>

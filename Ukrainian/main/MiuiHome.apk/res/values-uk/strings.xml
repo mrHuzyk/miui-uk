@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_not_found">Додаток не знайдено</string>
 	 <string name="menu_auto_fill">Автозаповнення</string>
@@ -11,6 +10,7 @@
 	 <string name="no_space_toast">Немає місця</string>
 	 <string name="default_screen_preview_title">Робочий стіл за замовчуванням</string>
      <string name="menu_default_screen_preview">Робочий стіл за замовчуванням</string>
+	 <string name="action_add_to_workspace">Додати в робочий простір</string>
 	 
 	 <string name="gadget_clock_14_label">Годинник</string>
      <string name="launcher_not_exist">Робочий стіл зупинений. Поверніться додому і спробуйте ще раз.</string>

@@ -13,6 +13,10 @@
      <string name="dialog_tip_limit">Попереджати при завантаженні файлу більш %s</string>
      <string name="dialog_tip_limit0">Попереджати кожен раз</string>
      <string name="dialog_tip_no_limit">Не попереджати</string>
+	 <string name="channel_active">Завантажити</string>
+     <string name="channel_complete">Завантаження завершено</string>
+     <string name="channel_insufficient_space">Недостатньо місця</string>
+     <string name="channel_waiting">Очікування</string>
 	 
     <string name="dialog_insufficient_space_on_cache">"Не вистачає пам'яті на внутрішній пам'яті"</string>
     <string name="auto_restart_under_wifi">Автоматично завантажити файл через Wi-Fi</string>

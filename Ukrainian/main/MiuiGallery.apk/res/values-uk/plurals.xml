@@ -4,6 +4,42 @@
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Видалити %d файлів з всіх пристроїв та Mi Cloud?</item>
+        <item quantity="one">Видалити %d файл з всіх пристроїв та Mi Cloud?</item>
+     </plurals>
+     <plurals name="delete_media_from_local">
+        <item quantity="other">Видалити %d файлів?</item>
+        <item quantity="one">Видалити %d файл?</item>
+     </plurals>
+     <plurals name="delete_media_from_this_album_and_cloud_msg">
+        <item quantity="other">Видалити %d файлів з цього альбому та Mi Cloud?</item>
+        <item quantity="one">Видалити %d файл з цього альбому та Mi Cloud?</item>
+     </plurals>
+     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Видалити %d фото з всіх пристроїв та Mi Cloud?</item>
+        <item quantity="one">Видалити це фото з всіх пристроїв та Mi Cloud?</item>
+     </plurals>
+     <plurals name="delete_photo_from_local">
+        <item quantity="other">Видалити %d фото?</item>
+        <item quantity="one">Видалити це фото?</item>
+     </plurals>
+     <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Видалити %d фото з цього альбому та Mi Cloud?</item>
+        <item quantity="one">Видалити це фото з цього альбому та Mi Cloud?</item>
+     </plurals>
+     <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Видалити %d відео з всіх пристроїв та Mi Cloud?</item>
+        <item quantity="one">Видалити це відео з всіх пристроїв та Mi Cloud?</item>
+     </plurals>
+     <plurals name="delete_video_from_local">
+        <item quantity="other">Видалити %d відео?</item>
+        <item quantity="one">Видалити це відео?</item>
+     </plurals>
+     <plurals name="delete_video_from_this_album_and_cloud_msg">
+        <item quantity="other">Видалити %d відео з цього альбому та Mi Cloud?</item>
+        <item quantity="one">Видалити це відео з цього альбому та Mi Cloud?</item>
+     </plurals>
 	 <plurals name="add_secret_ensure_message">
         <item quantity="other">Приховати ці файли?</item>
         <item quantity="one">Приховати цей файл?</item>

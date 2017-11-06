@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="ac_mask_all_apps">Приховати для всіх додатків</string>
+     <string name="ac_unmask_all_apps">Показати для всіх додатків</string>
+     <string name="app_manager_as_dlg_msg">"Додатки з автозапуском можуть використовувати більше пам'яті та батареї. Дозволити автозапуск?"</string>
+     <string name="app_manager_as_dlg_title">Увага</string>
+     <string name="app_manager_default_cleared">Очищено</string>
+     <string name="app_manager_has_not_data">Немає даних</string>
+     <string name="app_manager_memory">"Пам'ять"</string>
+     <string name="notification_masked_item">Приховування сповіщень</string>
+     <string name="notification_masked_subtitle">Приховувати сповіщення блокованих додатків</string>
+     <string name="status_bar_network_flow_content">Сьогодні: %1$s | Залишилось: %2$s</string>
+     <string name="status_bar_network_flow_content_not_setting">Сьогодні: %1$s | За місяць: %2$s</string>
+     <string name="status_bar_network_flow_exceed_content">Сегодня: %1$s | Перевищено: &lt;font color=%2$s>%3$s&lt;/font></string>
+     <string name="status_bar_network_flow_phone_balance">"   Баланс телефону: %1$s "</string>
+     <string name="status_bar_network_flow_purchase">"   Купити >"</string>
+     <string name="status_bar_network_flow_setup_data_plan">"   Налаштувати трафік >"</string>
+     <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
+     <string name="suggest_app_tolock_masked">Сповіщення приховані</string>
+     <string name="suggest_app_tolock_unmasked">Сповіщення видимі</string>
+	 <string name="already_close_gamebooster">Прискорення ігор вимкнено</string>
+     <string name="boost_stop">Вимкнути прискорення</string>
+     <string name="databooster_tips_message">Увімкніть, щоб обмежити всі SIM-карти, крім SIM інтернету. Вимкніть цю функцію, якщо виникнуть помилки в іграх.</string>
+     <string name="databooster_tips_title">Увага</string>
+     <string name="forbid_autobright_summary">Не змінювати яскравість екрану</string>
+     <string name="game_booster_close">Прискорення швидкості ігор вимкнено</string>
+     <string name="xunyou_net_booster">Прискорення мережі</string>
+     <string name="xunyou_net_booster_detail">Використовуйте сервіс прискорення Xunyou для ігор</string>
+	 <string name="more_lock">Ще</string>
+	 <string name="free_send_net_booster_busniess">Отримайте безкоштовне прискорення</string>
+     <string name="free_send_net_booster_busniess_tip">Натисніть, щоб отримати</string>
+     <string name="game_ad_recommendation">Всі грають</string>
+	 
 	 <string name="international_Ad">Реклама</string>
 	 <string name="app_manager_clear_cache">Очистити кеш</string>
      <string name="app_manager_defaults_setting">За замовчуванням</string>
@@ -41,7 +72,6 @@
      <string name="resource_gamebooster">Прискорення ігор</string>
      <string name="thermal_tips_message">Ігри в продуктивному режимі можуть викликати проблеми з перегрівом пристрої</string>
      <string name="thermal_tips_title">Увага</string>
-	 
 	 <string name="auto_clean_close">Автоматичне очищення вимкнено</string>
      <string name="best_booster_status">Тепер краща швидкість гри</string>
      <string name="card_main_deepclean_qq_title">Очищення QQ</string>

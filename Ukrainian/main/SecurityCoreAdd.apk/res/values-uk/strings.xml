@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Активувати</string>
+	 <string name="dialog_title">Увага</string>
+     <string name="optimize_now">Оптимізувати</string>
+	 
 	 <string name="support_desc">Послуги безпеки надані Graphite</string>
 	 <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
      <string name="search_result_text">Не вдалося знайти додатки</string>

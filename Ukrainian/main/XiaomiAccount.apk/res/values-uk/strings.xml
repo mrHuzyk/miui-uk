@@ -2,6 +2,7 @@
 <resources>
      <string name="about_device_info">Про пристрій</string>
 	 <string name="talkback_scan_barcode">Сканувати QR код</string>
+	 <string name="account_notification_message">Ідентифікація Mi акаунту минула. Будь-ласка, увійдіть знову!</string>
 	 
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>

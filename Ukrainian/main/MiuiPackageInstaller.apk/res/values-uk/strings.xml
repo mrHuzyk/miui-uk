@@ -13,6 +13,11 @@
 	 <string name="unlike">Ні, дякую</string>
 	 <string name="dlg_msg_unoffical">Неможливо встановити системний додаток з неофіційного джерела</string>
      <string name="dlg_msg_unoffical_ok">OK</string>
+	 <string name="anonymous_source_continue">Продовжити</string>
+     <string name="anonymous_source_warning">увага! Встановлюючи цей додаток, Ви несете відповідальність за будь-які збитки, завдані телефону, або втрати даних, які можуть виникнути в результаті його використання.</string>
+     <string name="external_sources_settings">Налаштування</string>
+     <string name="untrusted_external_source_warning">Для вашої безпеки, заборонена встановлення невідомих додатків з цього джерела</string>
+     <string name="wear_app_channel">Встановлення/видалення додатків для годин</string>
 	 
 	<string name="miui_message_staging_0">Встановлення додатку   </string>
      <string name="miui_message_staging_1">Встановлення додатку.  </string>
