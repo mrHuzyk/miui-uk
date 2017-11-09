@@ -3542,7 +3542,8 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="powersave_mode_settings_summary">Налаштування економії батареї</string>
      <string name="ppp_number">ppp_number</string>
      <string name="pref_button_light">Підсвічування клавіш</string>
-     <string name="pref_button_light_summary">Підсвічування клавіш \"Меню\", \"Назад\", \"Додому\"</string>
+     <string name="pref_button_light_summary">Підсвічування клавіш Меню, %1$si Назад</string>
+	 <string name="pref_button_light_summary_sub">"Додому, "</string>
      <string name="pref_edge_handgrip">Край корпусу</string>
      <string name="pref_operational_key">Клавіші</string>
      <string name="pref_volume_launch_camera_summary">Запуск камери подвійним натисканням клавіші гучності вниз</string>
