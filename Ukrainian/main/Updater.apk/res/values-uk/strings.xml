@@ -25,6 +25,8 @@
      <string name="resource_auto_setting">Автопоновлення</string>
      <string name="resource_updater">Оновлення</string>
      <string name="resource_updater_settings">Оновлення</string>
+	 <string name="accessibility_image">Зображення</string>
+     <string name="accessibility_video">Відео</string>
 	 
 	<string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Це відео не діє для потокової передачі на цей пристрій</string>

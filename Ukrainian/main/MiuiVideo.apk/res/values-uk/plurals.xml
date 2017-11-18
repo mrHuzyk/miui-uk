@@ -4,6 +4,26 @@
         <item quantity="other">Коментарів: %d</item>
         <item quantity="one">Коментарів: %d</item>
     </plurals>
+	<plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Прискорення субтитрів на %.1f секунд</item>
+        <item quantity="one">Прискорення субтитрів на %.1f секунду</item>
+        <item quantity="few">Прискорення субтитрів на %.1f секунди</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Затримка субтитрів на %.1f секунд</item>
+        <item quantity="one">Затримка субтитрів на %.1f секунду</item>
+        <item quantity="few">Затримка субтитрів на %.1f секунди</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Розмір: %.2f КБ</item>
+        <item quantity="one">Розмір: %.2f КБ</item>
+        <item quantity="few">Розмір: %.2f КБ</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+    </plurals>
     <plurals name="comment_sub_count">
         <item quantity="other">%d відповідей</item>
         <item quantity="one">%d відповідь</item>

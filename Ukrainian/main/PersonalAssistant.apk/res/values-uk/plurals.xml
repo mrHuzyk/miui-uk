@@ -4,6 +4,24 @@
         <item quantity="other">Видалити %s елем. з платежів?</item>
         <item quantity="one">Видалити %s елем. з платежів?</item>
      </plurals>
+	 <plurals name="mins_ago">
+        <item quantity="other">%1$d хв. назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d год. назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дн. назад</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d| кроків</item>
+        <item quantity="zero">%d| кроків</item>
+        <item quantity="one">%d| крок</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Через %d дн.</item>
+        <item quantity="one">Через %d дн.</item>
+    </plurals>
      <plurals name="payment_record_menu_select_num">
         <item quantity="other">Обрано: %s</item>
         <item quantity="one">Обрано: %s</item>

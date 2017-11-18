@@ -7,6 +7,11 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="luckymoney_sound">
+        <item>Без звуку</item>
+        <item>Золоті монети</item>
+        <item>Червоний пакет</item>
+     </string-array>
 	 <string-array name="title_app_info">
         <item>Джерело встановлення</item>
         <item>Час встановлення</item>

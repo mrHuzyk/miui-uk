@@ -14,6 +14,10 @@
 	 <string name="conversation_listitem_avatar">Аватар</string>
      <string name="ex_type_guide">Інформація</string>
      <string name="open_edit_sms_panel">Відкрити панель редагування</string>
+	 <string name="dialog_message_sms_report">Спам-повідомлення та інформація відправника будуть завантажені в MIUI. Вони будуть використовуватися тільки для поліпшення спам-фільтрів.</string>
+     <string name="pref_summary_allow_upload_message_info">Спам-повідомлення та інформація відправника будуть завантажені в MIUI</string>
+     <string name="pref_title_allow_upload_message_info">Завантажувати спам-повідомлення</string>
+     <string name="sms_report">Повідомити про спам</string>
 	 
 	 <string name="pref_show_photo_word_summary">Автоматично призначати зображення контактам без них</string>
      <string name="title_show_photo_word">Призначати фото</string>

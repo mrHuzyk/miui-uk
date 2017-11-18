@@ -31,6 +31,15 @@
 	 <string name="free_send_net_booster_busniess">Отримайте безкоштовне прискорення</string>
      <string name="free_send_net_booster_busniess_tip">Натисніть, щоб отримати</string>
      <string name="game_ad_recommendation">Всі грають</string>
+	 <string name="app_manager_advanced_setting">Додаткові налаштування</string>
+     <string name="app_manager_allow">Так</string>
+     <string name="app_manager_disabled_by_admin">Вимкнено адміністратором</string>
+     <string name="app_manager_install_other_app">Встановлення додатків з невідомих джерел</string>
+     <string name="app_manager_not_allow">Ні</string>
+     <string name="dialog_no_longer_alert">Більше не відображати</string>
+     <string name="sp_background_risk_dialog_summary_wifi_approve">Ви підключені до громадської Wi-Fi мережі, яка може бути небезпечною. Переконайтеся, що Ваш платіж захищений до його завершення.</string>
+     <string name="sp_background_risk_dialog_title_wifi_approve">Громадська Wi-Fi мережа</string>
+	 <string name="safepay_alert_dialog_button_fix">Виправити</string>
 	 
 	 <string name="international_Ad">Реклама</string>
 	 <string name="app_manager_clear_cache">Очистити кеш</string>

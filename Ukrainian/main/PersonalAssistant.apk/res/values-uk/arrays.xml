@@ -5,7 +5,26 @@
         <item>Кілометри заторів</item>
         <item>Кілометри повільні</item>
         <item>Будівництво доріг</item>
+    </string-array>	
+	<string-array name="express_status_all">
+        <item>В дорозі</item>
+        <item>Відправлення</item>
+        <item>Доставлено</item>
+        <item>Невідомо</item>
+        <item>Отримано</item>
+        <item>Відхилено</item>
+        <item>Повернено</item>
+        <item>Невідомо</item>
+     </string-array>
+     <string-array name="express_status_detail">
+        <item>В дорозі</item>
+        <item>Відправлення</item>
     </string-array>
+	<string-array name="payment_chooser">
+        <item>SMS </item>
+        <item>WeChat</item>
+        <item>AliPay</item>
+     </string-array>
     <string-array name="map_title">
         <item>Неправильна подорож</item>
         <item>Існує серйозне перевантаження</item>
@@ -13,9 +32,12 @@
         <item>Немає очевидних заторів</item>
         <item>Існує незвичайний трафік</item>
     </string-array>
+	<string-array name="sms_exclude_category">
+        <item>Погашення</item>
+     </string-array>
     <string-array name="keyword_recommend_unit">
-        <item>要</item>
-        <item>只要</item>
+        <item>Бажають</item>
+        <item>Мають</item>
     </string-array>
     <string-array name="day_time_space">
         <item>Середина ночі</item>
@@ -37,10 +59,10 @@
     <string-array name="aqi_title_append">
         <item>%1$s</item>
         <item>%1$s</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
+        <item>%1$s забруднення</item>
     </string-array>
     <string-array name="aqi_title">
         <item>优</item>
@@ -58,8 +80,8 @@
     <string-array name="express_watched_app_filter">
         <item>Носії:</item>
         <item>Номер накладної:</item>
-        <item>信息来源：</item>
-        <item>物流信息：</item>
+        <item>Джерело：</item>
+        <item>Компанія：</item>
     </string-array>
     <string-array name="stock_color_schema">
         <item>Червоний - вгору, зелений - вниз</item>

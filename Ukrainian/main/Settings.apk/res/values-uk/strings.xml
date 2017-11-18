@@ -8,6 +8,8 @@
 	 <string name="thememanager_not_found">Не вдалося відкрити теми. Переконайтеся, що додаток встановлено.</string>
 	 <string name="no_account_found">Немає додатків, що дозволяють додавати акаунти</string>
 	 <string name="miui_updater">Оновлення</string>
+	 <string name="lock_screen_secure_after_timeout_immediately_never">Ніколи не вимагати пароль</string>
+     <string name="pick_up_gesture_wakeup_title">Пробудження підняттям</string>
 	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>

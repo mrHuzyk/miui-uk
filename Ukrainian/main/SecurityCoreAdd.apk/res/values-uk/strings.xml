@@ -3,6 +3,16 @@
      <string name="Active">Активувати</string>
 	 <string name="dialog_title">Увага</string>
      <string name="optimize_now">Оптимізувати</string>
+	 <string name="remove_user_click_message">"* Якщо у Вас немає важливих предметів у другому просторі, %s"</string>
+     <string name="remove_user_click_message_action">Ви можете видалити другий простір та перезавантажити пристрій</string>
+     <string name="sdcardfs_dialog_title">Важливе оновлення</string>
+     <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 має нову файлову систему. Старі дані можуть бути несумісні з нею. Щоб оновити, перемістіть елементи з другого простору, перезавантажте пристрій та знову створіть його.
+Без оновлення, клоновані додатки можуть працювати неправильно."</string>
+     <string name="sdcradfs_dialog_in_owner_title">Другий простір</string>
+     <string name="sdcradfs_dialog_in_sec_message">"Щоб оновити, Ви повинні видалити другий простір, а потім створити його знову. Перенесіть дані з другого місця в перше місце та перезавантажте пристрій, щоб завершити оновлення.
+Без оновлення, клоновані додатки можуть працювати неправильно."</string>
+     <string name="sdcradfs_dialog_in_sec_title">Важливе оновлення</string>
+     <string name="space_created_success">Другий простір створено</string>
 	 
 	 <string name="support_desc">Послуги безпеки надані Graphite</string>
 	 <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>

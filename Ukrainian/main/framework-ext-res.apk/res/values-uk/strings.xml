@@ -26,6 +26,7 @@
 	 <string name="switch_brand_desc_tv">Послуги безпеки надаються Graphite</string>
      <string name="switch_desc_tv">Два простори. один пристрій.</string>
      <string name="switching_tv">Перемикання…</string>
+	 <string name="autofill">Автозаповнення</string>
 	 
 	 <string name="miui_upgrading_notification_title">"Оновлення системи...
 Деякі функції можуть бути недоступні."</string>

@@ -4,6 +4,8 @@
 перенос даних може зайняти деякий час,
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
      <string name="support_mtp">MTP буде підтримуватися найближчим часом</string>
+	 <string name="search_guid_hint">Пошук файлу</string>
+	 
 	 <string name="cannot_send">Неможливо відправити файли з зовнішнього сховища</string>
      <string name="clock_in">Перевірка…</string>
      <string name="connection_lost">Вимкнений</string>

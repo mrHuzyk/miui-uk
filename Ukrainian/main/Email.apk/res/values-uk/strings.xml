@@ -11,6 +11,22 @@
      <string name="toastbar_local_contacts_sync_swtich_close">Синхронізація контактів вимкнена</string>
 	 <string name="account_setup_basics_mi_mail_login_help">Вхід виконано. Перевірте SMS та активуйте посилання для відправки та отримання пошти!</string>
      <string name="meeting_responded_failed">Помилка відповіді</string>
+	 <string name="account_settings_mail_check_frequency_dialog_title">Вам необхідно оновити вручну, щоб синхронізувати листи</string>
+     <string name="account_settings_mail_check_frequency_dialog_title_eas">Якщо Ви змінюєте на ручний, Вам необхідно вручну оновити синхронізацію повідомлень та календаря</string>
+     <string name="account_settings_preference_att_save_path">Розташування за замовчуванням для вкладень</string>
+     <string name="back">Назад</string>
+     <string name="eml_parse_message">Повільне розширення файлів електронної пошти, будь ласка, зачекайте…</string>
+     <string name="failed_parse_eml_file">Не вдалося виконати дозвіл електронної пошти. Будь ласка, спробуйте ще.</string>
+     <string name="file_defailt_save_path">Вкладення за замовчуванням зберігаються в папці %s. Ви можете змінити папку в налаштуваннях.</string>
+     <string name="file_default_save_path_title">Розташування за замовчуванням для вкладень</string>
+     <string name="file_save_path_dialog_cancel">OK</string>
+     <string name="file_save_path_dialog_ok">Змінити</string>
+     <string name="hide_password">Приховати пароль</string>
+     <string name="navigation_menu">Меню навігації</string>
+     <string name="show_password">Показати пароль</string>
+     <string name="system_root_path">"Налаштування внутрішньої пам'яті"</string>
+     <string name="toast_bar_send_fail_remind">Неможливо відправити лист. Він збережений в папці «Вихідні».</string>
+	 <string name="select_path">Виберіть шлях</string>
 	 
 	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
      <string name="account_settings_preference_head_icon">Показувати фото відправників</string>

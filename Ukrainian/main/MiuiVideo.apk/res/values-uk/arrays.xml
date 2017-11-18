@@ -5,6 +5,45 @@
         <item>Все краще</item>
         <item>Мої кращі</item>
      </string-array>
+	 <string-array name="lang_detect">
+        <item>Китайський</item>
+        <item>Китайський (трад.)</item>
+        <item>Англійський</item>
+        <item>Корейський</item>
+        <item>Японський</item>
+        <item>Французький</item>
+     </string-array>
+     <string-array name="lang_fast_detect">
+        <item></item>
+        <item>Німецький</item>
+        <item>Англійський</item>
+        <item>Іспанський</item>
+        <item>Грецький</item>
+        <item>Французький</item>
+        <item>Хорвацький</item>
+        <item>Італьянський</item>
+        <item>Китайський (трад.)</item>
+        <item>Польський</item>
+        <item>Португальский</item>
+        <item>Русский</item>
+        <item>Румунський</item>
+        <item>Шведський</item>
+        <item>Арабський</item>
+        <item>Китайський</item>
+        <item>Японський</item>
+        <item>Корейський</item>
+        <item>Персидський</item>
+        <item>Фінський</item>
+        <item>Норвежський</item>
+     </string-array>
+     <string-array name="lang_fast_internal_language">
+        <item>Англійський та китайський</item>
+        <item>Китайський та англійський</item>
+     </string-array>
+     <string-array name="lang_fast_internal_language_codes">
+        <item>Англійський - китайський</item>
+        <item>Китайський - англійський</item>
+     </string-array>
      <string-array name="channel_featured_tabs">
         <item>Кращі</item>
         <item>Топ</item>
