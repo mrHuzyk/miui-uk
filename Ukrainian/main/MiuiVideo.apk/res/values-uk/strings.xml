@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about">Про додаток</string>
+	 <string name="common_agree">OK</string>
+     <string name="common_cancel">Відміна</string>
+     <string name="no_network_tips">Ця функція тимчасово недоступна. Немає мережі.</string>
+     <string name="null_video_uri">Невірне посилання на відео</string>
+	 <string name="v_click_to_refresh_video">Оновити</string>
+     <string name="v_video_local">Локальне</string>
+	 
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>
 	 <string name="toast_downloading">Завантаження:</string>

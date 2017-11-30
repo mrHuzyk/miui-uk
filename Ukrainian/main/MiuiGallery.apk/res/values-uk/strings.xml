@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="grant_permission_unlock_and_set">Розблокувати та встановити</string>
+     <string name="search_feedback_task_complete">Всі завдання завершені</string>
+     <string name="search_feedback_user_notice">Я прочитав і згоден з %s</string>
+     <string name="search_feedback_user_policy">Політикою конфіденційності AI алгоритму</string>
+     <string name="title_tip">Порада</string>
+	 
 	 <string name="add_secret_ensure_title">Приховати</string>
      <string name="collage_poster_global_cat_text">Cute pets</string>
      <string name="collage_poster_global_city_text">Архітектура</string>
@@ -50,7 +56,6 @@
      <string name="sticker_words">Words</string>
      <string name="sync_not_allow_cta_title">Немає доступу до мережі</string>
      <string name="try_again_later">Повторіть пізніше</string>
-	 
 	 <string name="people_mark_mode_title">Обрано \"%s\"</string>
      <string name="people_mark_mode_title_no_mark_name">Виберіть людину</string>
      <string name="search_request_open">Приєднатися до тестування</string>

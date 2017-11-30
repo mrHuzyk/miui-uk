@@ -18,6 +18,8 @@
      <string name="external_sources_settings">Налаштування</string>
      <string name="untrusted_external_source_warning">Для вашої безпеки, заборонена встановлення невідомих додатків з цього джерела</string>
      <string name="wear_app_channel">Встановлення/видалення додатків для годин</string>
+	 <string name="user_is_not_allowed_dlg_text">Поточному користувачеві не дозволяється виконувати це видалення</string>
+     <string name="user_is_not_allowed_dlg_title">Заборонено</string>
 	 
 	<string name="miui_message_staging_0">Встановлення додатку   </string>
      <string name="miui_message_staging_1">Встановлення додатку.  </string>

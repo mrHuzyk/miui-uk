@@ -6,6 +6,24 @@
      <string name="confirm_save">Залишити</string>
      <string name="secret_photo">Приховані фото</string>
      <string name="wipe_secret_photo_dialog_title">Приховані фото не синхронізовані</string>
+	 <string name="ks_certificate_udpate_time">Оновлення сертифікату</string>
+     <string name="ks_certificate_version">Номер сертифікату</string>
+     <string name="ks_download_certificate">Завантажити сертифікат</string>
+     <string name="ks_download_success">Завантажено</string>
+     <string name="ks_fingerprint_payment">Платежі відбитками</string>
+     <string name="ks_fingerprint_status">Статус платежу</string>
+     <string name="ks_name_alipay">Alipay</string>
+     <string name="ks_name_fido">FIDO</string>
+     <string name="ks_name_soter">WeChat</string>
+     <string name="ks_status_available">Доступний</string>
+     <string name="ks_status_unavailable">Недоступний</string>
+     <string name="ks_update_certificate">Сертифікат</string>
+     <string name="ks_update_fail">Не вдалося завантажити</string>
+     <string name="ks_update_fail_code">Не вдалося завантажити сертифікат. Код помилки: %d</string>
+     <string name="ks_update_fail_no_network">Не вдалося підключитися до мережі. Повторіть спробу.</string>
+     <string name="ks_update_fail_request_timeout">Час підключення минув. Зачекайте та спробуйте ще раз.</string>
+     <string name="ks_update_success">Оновлено</string>
+     <string name="ks_update_wait">Зачекайте…</string>
 	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>

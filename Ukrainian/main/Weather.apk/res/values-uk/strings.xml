@@ -22,6 +22,16 @@
 	 <string name="activity_minute_rain_location_fail_msg">Локалізація не вдалася. Місцезнаходження на карті за замовчуванням - Пекін.</string>
 	 <string name="dislike_alert_dialog_title">Чому Ви не хочете бачити цей контент?</string>
      <string name="thanku_for_feedback">Дякуємо за відгук. Ви можете повторно відкрити погодне відео на сторінці налаштувань.</string>
+	 <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
+     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
+     <string name="pull_fresh_updated">Оновлено</string>
+     <string name="pull_fresh_updating">Оновлення</string>
+     <string name="real_time_sunrise">Схід %1$s</string>
+     <string name="real_time_sunset">Захід%1$s</string>
+     <string name="temperature_unit_C">%1$s℃</string>
+     <string name="temperature_unit_F">%1$s℉</string>
+     <string name="updated_a_moment_ago">Оновлено хвилин тому</string>
+     <string name="updating">Оновлення...</string>
 	 
 	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
      <string name="xiaomi_weather_description_title">Про погоду</string>

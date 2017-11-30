@@ -5,6 +5,11 @@
         <item>Використовувати для другого користувача</item>
         <item>Використовувати для обох користувачів</item>
     </string-array>
+	<string-array name="choose_ask_type">
+        <item>Запитувати</item>
+        <item>Додаток за замовчуванням</item>
+        <item>Додаток другого простору</item>
+     </string-array>
     <string-array name="switch_apps_title_confirms">
         <item>Дані додатку будуть очищені</item>
         <item>Дані додатку будуть очищені</item>

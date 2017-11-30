@@ -22,6 +22,11 @@
 	 <string name="customer_service_apply">Запросити сервіс обслуговування</string>
      <string name="customer_service_complain">Повідомити про сервіс обслуговування</string>
      <string name="customer_service_station">Адреси сервісів</string>
+	 <string name="feedback_choose_third_app_name">Вибрати додаток</string>
+     <string name="feedback_description_hint">Опишіть проблему, з якою Ви зіткнулися</string>
+     <string name="feedback_status_submit_attachment">Вкладення відправлено</string>
+     <string name="select_system_app_tag">Вибрати теги</string>
+	 <string name="toast_log_too_large">Не вдалося завантажити. Файл занадто великий.</string>
 	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>

@@ -10,6 +10,19 @@
 	 <string name="search_hint">Пошук на пристрої...</string>
 	 <string name="description_image_button_answer">Відповісти</string>
      <string name="description_image_button_reject">Відхилити</string>
+	 <string name="accessibility_desc_app_allow_block">Сповіщення %1$s можуть бути приховані</string>
+     <string name="accessibility_desc_app_unallow_block">Не можна приховати сповіщення: %1$s</string>
+     <string name="accessibility_desc_block_notification">Приховати сповіщення</string>
+     <string name="accessibility_desc_cancel_block">Не приховувати</string>
+     <string name="accessibility_desc_check_block_notification">Вибрано сповіщень %1$s</string>
+     <string name="accessibility_desc_confirm_block">Приховати</string>
+     <string name="accessibility_desc_details_page">%1$s сторінка відомостей</string>
+     <string name="accessibility_desc_notification_shade">Панель сповіщень</string>
+     <string name="accessibility_desc_quick_settings">Швидкі налаштування</string>
+     <string name="accessibility_desc_reconfirm_block">Приховати зараз?</string>
+     <string name="accessibility_desc_select_block_notification">Виберіть сповіщення, щоб приховати</string>
+     <string name="accessibility_desc_uncheck_block_notification">Зняти %1$s сповіщень</string>
+     <string name="accessibility_desc_weather_temperature">Погода %1s градусів</string>
 	 
 	 <string name="accessibility_desc_recent_apps">Огляд</string>
      <string name="accessibility_recents_all_items_dismissed">Всі останні додатки відхилено</string>

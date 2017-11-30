@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
 	 <string name="qq_cache_files">Кеш QQ</string>
@@ -450,9 +449,9 @@
      <string name="no_network_btn">Повторити</string>
      <string name="notification_summary_after_auto_cleanup">Видалено сміття: %s.</string>
      <string name="notification_summary_of_apps_cleanup">"Додатки, що не використовуються, займають %s пам'яті присторою"</string>
-     <string name="notification_summary_of_garbage_cleanup">Виявлене сміття: %s</string>
+     <string name="notification_summary_of_garbage_cleanup">Натисніть, щоб звільнити місце</string>
      <string name="notification_title_of_apps_cleanup">Додатки, що не використовуються</string>
-     <string name="notification_title_of_garbage_cleanup">Повідомлення про сміття</string>
+     <string name="notification_title_of_garbage_cleanup">%s файлів сміття</string>
      <string name="notify_when">"Сповіщувати, коли об'єм сміття перевищує 100 Мб."</string>
      <string name="ok">ОК</string>
      <string name="open">Увімкнути</string>

@@ -4,6 +4,10 @@
         <item quantity="other">Останні %d дн.</item>
         <item quantity="one">Останні %d дн.</item>
      </plurals>
+	 <plurals name="transfer_prompt">
+        <item quantity="other">Відтворення через %1$d с.</item>
+        <item quantity="one">Відтворення через %1$d с.</item>
+     </plurals>
 	 <plurals name="video_subtitle_last_message">
        <item quantity="other">Залишилося %d хв.</item>
        <item quantity="one">Залишилася %d хв.</item>

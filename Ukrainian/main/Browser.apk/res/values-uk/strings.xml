@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="action_menu_text_drop">Вийти</string>
+     <string name="bookmark_move_to">Перемістити в</string>
+     <string name="check_security_tip_privacy_policy">Політика конфіденційності</string>
+     <string name="check_security_tip_user_agreement">Угода користувача </string>
+     <string name="delete_bookmark_action_warning">Видалити закладки?</string>
+     <string name="go_back_descirption">Повернутися назад</string>
+     <string name="nav_bottom_bar_close_description">Закрити</string>
+     <string name="nav_screen_incognito_message">"Історія переглядів та пошуки не буде збережено в режимі інкогніто.
+Файли, які Ви завантажуєте, та додаваємі закладки будуть збережені."</string>
+     <string name="nav_screen_incognito_time">Нову сторінка буде створено автоматично через %s с.</string>
+     <string name="nav_screen_incognito_title">Режим інкогніто</string>
+     <string name="sequence_bookmark_description">Зміна послідовності закладок</string>
+     <string name="soft_toast_see_view">Перегляд</string>
+     <string name="suggest_access_item_yellow_mark">Жовті сторінки</string>
+     <string name="transfer_prompt_0">Відтворити відео</string>
+     <string name="transfer_restart">Повторити</string>
+     <string name="video_doenload_complete">Відео завантажено</string>
+	 
 	 <string name="qr_description">Сканувати QR код</string>
      <string name="voice_description">Голосовий пошук</string>
 	 <string name="at_miui_browser">\@Mi Браузер</string>
@@ -45,7 +62,6 @@
      <string name="suggest_access_item_video_mark">ВІДЕО</string>
      <string name="suggest_access_item_website_mark">ВЕБ-САЙТИ</string>
      <string name="sync_cloud_tabs">Синхронізувати</string>
-	 
 	 <string name="miuichromium_error_page_description_no_connection" formatted="false">"Не вдалося підключитися до мережі через слабкого сигналу або неправильної конфігурації мережі. Перевірте %s1налаштування мережі%s2 та повторіть. "</string>
      <string name="miuichromium_error_page_problem_access_denied">Доступ до %s0 був відхилений</string>
      <string name="miuichromium_error_page_problem_cache_miss">Ця сторінка не може бути завантажена з кешу</string>

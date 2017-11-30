@@ -3,6 +3,14 @@
      <string name="about_device_info">Про пристрій</string>
 	 <string name="talkback_scan_barcode">Сканувати QR код</string>
 	 <string name="account_notification_message">Ідентифікація Mi акаунту минула. Будь-ласка, увійдіть знову!</string>
+	 <string name="action_add_phone">"Прив'язати номер телефону"</string>
+     <string name="action_update_phone">Змінити номер телефону</string>
+     <string name="identity">Ідентифікація</string>
+     <string name="no_phone">Немає телефону</string>
+     <string name="phone_num_use_for">Номер телефону використовується для:</string>
+     <string name="set_success">Встановлено</string>
+     <string name="sign_in">Увійти</string>
+     <string name="update_phone_notice">Змінити налаштування безпеки</string>
 	 
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>

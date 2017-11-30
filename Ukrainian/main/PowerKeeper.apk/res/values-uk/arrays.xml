@@ -6,6 +6,10 @@
         <item>Режим читання</item>
         <item>Режим медіа</item>
     </string-array>
+	<string-array name="power_mode_entries">
+        <item>Продуктивність</item>
+        <item>Баланс</item>
+     </string-array>
 	<string-array name="thermal_entries">
         <item>За замовчуванням</item>
         <item>Продуктивність</item>

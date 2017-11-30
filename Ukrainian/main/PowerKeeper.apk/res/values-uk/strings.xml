@@ -24,6 +24,10 @@
      <string name="lasttime_feature_cloud">Оновлення функцій:</string>
 	 <string name="nonui_mode_config_description">Не вмикати екран при сповіщення, відключити світлодіод, сканер відбитків та тач, коли пристрій знаходиться в кишені</string>
      <string name="nonui_mode_config_title">Не інтерактивний режим</string>
+	 <string name="performance_category">Продуктивність</string>
+     <string name="power_center">Батарея</string>
+     <string name="power_mode">Налаштування батареї</string>
+     <string name="power_usage">Використання батареї</string>
 	 
 	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
      <string name="warm_configure">Конфігурація</string>
