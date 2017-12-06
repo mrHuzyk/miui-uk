@@ -11,6 +11,18 @@
 	 <string name="lock_screen_secure_after_timeout_immediately_never">Ніколи не вимагати пароль</string>
      <string name="pick_up_gesture_wakeup_title">Пробудження підняттям</string>
 	 <string name="fingerprint_payment">Платежі відбитками</string>
+	 <string name="infinity_display_settings">Повноекранний режим</string>
+     <string name="infinity_display_slogan">Подальше зростання недослідженою технології</string>
+     <string name="infinity_display_title">Повноекранний режим</string>
+     <string name="model_name">Назва моделі</string>
+     <string name="music_dirac_mode_reduction_noise">Зменшити шум Type C</string>
+	 <string name="bluetooth_wake">Прокидання з аудіо Bluetooth</string>
+     <string name="settings_notify_need_backup">Створіть резервну копію своїх налаштувань в Mi Cloud, щоб отримати до них доступ після заміни пристрою</string>
+     <string name="settings_notify_phone_recycled">Ваш номер телефону був видалений. Натисніть, щоб додати ще один номер телефону.</string>
+     <string name="split_screen">Увійти в багатовіконний режим</string>
+     <string name="suggestion_for_phone_recycled">Додайте інший номер телефону</string>
+     <string name="system_shortcut_wake">Пробудження ярликами кнопок</string>
+     <string name="voice_helper_title">Голосовий помічник</string>
 	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>

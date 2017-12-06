@@ -3,6 +3,18 @@
 <resources>
      <string name="advanced">Додаткова панель</string>
 	 <string name="global_network_confirm_content">Для нормальної роботи конвертера валют потрібне підключення до мережі</string>
+	 <string name="angle">deg</string>
+     <string name="arccos">arccos</string>
+     <string name="arcsin">arcsin</string>
+     <string name="arctan">arctan</string>
+     <string name="cancel">Відміна</string>
+     <string name="install">Встановити</string>
+     <string name="install_scanner_to_continued_use">Додаток сканер видалено. Завантажити та встановити його?</string>
+     <string name="minusOne">-1</string>
+     <string name="radian">rad</string>
+     <string name="reciprocal">1/X</string>
+     <string name="scanner_had_been_uninstalled">Сканер видалений</string>
+     <string name="secondFunction">2nd</string>
 	 
 	 <string name="description_content">Крім основних функцій, калькулятор також працює як багатофункціональний конвертер, іпотечний та податковий калькулятор. Перед видаленням переконайтеся, що Ви зможете обійтися без цих функцій.</string>
      <string name="description_title">Про калькулятор</string>

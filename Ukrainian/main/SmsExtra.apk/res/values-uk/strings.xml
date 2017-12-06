@@ -14,4 +14,5 @@
      <string name="packages_select_sim_cards_title">Виберіть SIM-карту</string>
      <string name="sim1">SIM 1</string>
      <string name="sim2">SIM 2</string>
+	 <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

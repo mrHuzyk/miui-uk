@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="miuishare_app_name">Відправлення MIUI</string>
+	<string name="function_qq_new_shuoshuo">Пост</string>
+     <string name="msp_secure_key_at">at</string>
+	 <string name="card_expand_note_clear">Очистити</string>
+     <string name="card_expand_note_dialog_button">OK</string>
+     <string name="card_expand_note_dialog_message">Нова нотатка створюється кожен раз, коли Ви натискаєте \"Зберегти\"</string>
+     <string name="card_expand_note_dialog_title">Збереження нотаток</string>
+     <string name="card_expand_note_toast_clear_null">Замітка очищена</string>
+     <string name="card_expand_note_toast_save_done">Збережено в замітки</string>
+     <string name="card_expand_note_toast_save_dup">Збережено</string>
+     <string name="cta_dialog_text_all">Перед використанням додатку, Ви повинні прочитати та погодитися з %1$s \"Угодою користувача\" %2$s та %3$s \"Політикою конфіденційності\" %4$s. Також потрібне підключення до мережі та доступ до служб визначення місцезнаходження. Ви згодні?</string>
+     <string name="didi_taximeter">Розрахувати вартість таксі</string>
+     <string name="express_open_locker">Відкрити</string>
+     <string name="express_pickup_code">Код: %s</string>
+     <string name="express_schedule_delivery">Очікувані доставки</string>
+     <string name="favorite_title_limit">Введіть до 40 символів</string>
+     <string name="favorite_title_modify">Змінити</string>
+     <string name="memory_clear_nothing_result">Нема пам'яті для очищення</string>
+     <string name="memory_clear_result">%1$s очищено</string>
+	 
 	<string name="access_change_text" formatted="false">Замінити %d на %d?</string>
      <string name="access_select">Вибрано: %s</string>
      <string name="access_unselect">Не вибрано: %s</string>

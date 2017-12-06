@@ -4,6 +4,14 @@
         <item quantity="other">Елементів: %d</item>
         <item quantity="one">Елементів: %d</item>
     </plurals>
+	<plurals name="custom_progress">
+        <item quantity="other">%d ел.</item>
+        <item quantity="one">%d ел.</item>
+     </plurals>
+     <plurals name="total_num">
+        <item quantity="other">%d ел. |</item>
+        <item quantity="one">%d ел. |</item>
+     </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>

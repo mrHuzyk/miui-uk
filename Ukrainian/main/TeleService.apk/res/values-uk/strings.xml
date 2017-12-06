@@ -4,6 +4,11 @@
      <string name="CFActivate">Активувати</string>
 	 <string name="carrier_info">Інформація про оператора</string>
 	 <string name="path_call_advanced_settings_title">Системні додатки/Телефон/Додаткові налаштування</string>
+	 <string name="other_available_phone_accounts">Інші доступні акаунти</string>
+     <string name="preferred_phone_account">Переважний аккаунт</string>
+     <string name="sim_accounts">Контакти SIM-карти</string>
+     <string name="volte_switch_not_support_summary2">VoLTE дзвінки можуть не підтримуватись оператором</string>
+	 <string name="miui_notification_network_selection_text" formatted="false">SIM %s. Обрана мережа недоступна. (%s)</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

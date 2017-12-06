@@ -6,6 +6,10 @@
      <string name="request_permission_title">Потрібні дозволи</string>
      <string name="xiaomi_drive_description_content">"Mi Drive це онлайн-сховище, яке дозволяє зберігати файли в мережі та звільняти пам'ять на пристрої. Припинити використання Mi Drive?"</string>
      <string name="xiaomi_drive_description_title">Про додаток Mi Drive</string>
+	 <string name="drive_low_memory_description_content">"Недостатньо місця. Очистити пам'ять?"</string>
+     <string name="drive_low_memory_description_title">Попередження</string>
+     <string name="drive_low_memory_description_toast">"Недостатньо місця. Очистіть пам'ять після використання Mi Drive."</string>
+     <string name="drive_low_memory_positive_content">Очистити</string>
 	 
     <string name="wangpan_root_path">Мій диск</string>
     <string name="file_loading">Завантаження…</string>

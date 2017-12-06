@@ -28,6 +28,7 @@
      <string name="power_center">Батарея</string>
      <string name="power_mode">Налаштування батареї</string>
      <string name="power_usage">Використання батареї</string>
+	 <string name="sleep_config_enhance_description_non_nfc">Кожен раз, коли Ви спите MIUI буде закривати фонові додатки, обмежувати Bluetooth, GPS, Wi-Fi, мобільний інтернет та ввімкнення екрану для сповіщень</string>
 	 
 	 <string name="scenario_policies_warmcontrol">Керування нагрівом</string>
      <string name="warm_configure">Конфігурація</string>

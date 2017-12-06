@@ -40,6 +40,11 @@
      <string name="sp_background_risk_dialog_summary_wifi_approve">Ви підключені до громадської Wi-Fi мережі, яка може бути небезпечною. Переконайтеся, що Ваш платіж захищений до його завершення.</string>
      <string name="sp_background_risk_dialog_title_wifi_approve">Громадська Wi-Fi мережа</string>
 	 <string name="safepay_alert_dialog_button_fix">Виправити</string>
+	 <string name="call_oversea_block">Блокувати дзвінки з-за кордону</string>
+     <string name="fw_oversea">Блокувати дзвінки з-за кордону</string>
+     <string name="fw_oversea_content">Блокувати дзвінки з іноземних номерів</string>
+     <string name="st_call_intercept_oversea">Блокувати дзвінки з-за кордону</string>
+     <string name="st_confirm_dialog_summary_oversea_call">Увімкніть, щоб блокувати всі дзвінки з іноземних номерів</string>
 	 
 	 <string name="international_Ad">Реклама</string>
 	 <string name="app_manager_clear_cache">Очистити кеш</string>

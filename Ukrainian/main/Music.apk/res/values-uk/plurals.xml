@@ -7,6 +7,10 @@
         <item quantity="few">Видалити %d плейлиста?</item>
         <item quantity="many">Видалити %d плейлистів?</item>
      </plurals>
+	 <plurals name="Nassociate_songs">
+        <item quantity="other">Зіставлення альбому та тексту (%1$d/%2$d треків)</item>
+        <item quantity="one">Зіставлення альбому та тексту (%1$d/%2$d трек)</item>
+     </plurals>
 	 <plurals name="Nrecognize_switch_off_alert_message">
         <item quantity="other">Оптимізація альбому та тексту відключена. Ви хочете повернути оптимізовану інформацію, альбому та тексту %d пісень?</item>
         <item quantity="one">Оптимізація альбому та тексту відключена. Ви хочете повернути оптимізовану інформацію, альбому та тексту %d пісні?</item>

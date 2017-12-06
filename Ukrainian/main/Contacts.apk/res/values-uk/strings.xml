@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
+	 <string name="back_description">Назад</string>
+     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+     <string name="contact_import_methods_dialog_title">Виберіть тип імпорту</string>
+     <string name="contacts_unavailable_import_from_old_device">Зі старого телефону</string>
+     <string name="contacts_unavailable_import_sim_contacts">SIM-карта</string>
+     <string name="import_sim_contacts_hint_title">Щоб імпортувати контакти з SIM-карти</string>
+	 
 	 <string name="hybrid_webpage_not_available">Веб-сторінка недоступна</string>
      <string name="t9_search_empty_create_contact">Новий контакт</string>
      <string name="t9_search_empty_edit_contact">Додати в контакти</string>

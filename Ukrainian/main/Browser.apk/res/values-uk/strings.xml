@@ -18,7 +18,32 @@
      <string name="transfer_prompt_0">Відтворити відео</string>
      <string name="transfer_restart">Повторити</string>
      <string name="video_doenload_complete">Відео завантажено</string>
-	 
+	 <string name="cloud_tabs_sync_off">Синхрон. вимкнена</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Неможливо відкрити сторінку. Доступ блокується %s0.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"Неможливо відкрити сторінку. %s0 перериває з'єднання."</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Неможливо відкрити сторінку. %s0 уникає підключення.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"Неможливо відкрити сторінку. З'єднання було скинуто."</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Неможливо відкрити сторінку. Невірне посилання.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">Неможливо відкрити сторінку. %s0 в даний час недоступний.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"Неможливо відкрити сторінку. %s0 перенаправляє небезпечним способом."</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Сайт недоступний. Цей сайт в мережі має той же URL-адресу, що і зовнішній сайт.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Сайт недоступний. Не вдалося знайти DNS-адрес %s0."</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Сайт недоступний. Невірний IP-адрес або номер порту.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Сайт недоступний. %s0 не відповідає занадто довго.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"Сайт недоступний. %s0 використовує небезпечний номер порту."</string>
+     <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">"З'єднання було перервано. Екран був заблокований."</string>
+     <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">"З'єднання було перервано через зміну мережі"</string>
+     <string name="miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Не вдалося знайти файл. Можливо, він був переміщений або видалений.</string>
+     <string name="miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Не вдалося підключитися до мережі. Перевірте проксі-сервер або адресу проксі-сервера.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_connection_closed">"Ця сторінка не працює. %s0 перериває з'єднання."</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_empty_response">Ця сторінка не працює. %s0 не відправив ніяких даних.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">Ця сторінка не працює. %s0 відправляє невірну відповідь.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">Ця сторінка не працює. %s0 перенаправляє Вас занадто багато разів.</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Цей сайт не може забезпечити безпечне з'єднання. %s0 не прийняв Ваш сертифікат."</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Цей сайт не може забезпечити безпечне з'єднання. %s0 не відповідає стандартам безпеки."</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Цей сайт не може забезпечити безпечне з'єднання. %s0 відправляє невірну відповідь."</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Цей сайт не може забезпечити безпечне з'єднання. %s0 використовує непідтримуваний протокол."</string>
+
 	 <string name="qr_description">Сканувати QR код</string>
      <string name="voice_description">Голосовий пошук</string>
 	 <string name="at_miui_browser">\@Mi Браузер</string>

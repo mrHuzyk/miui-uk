@@ -38,8 +38,8 @@
      <string name="online_precust_starry_sky">Небо</string>
      <string name="region_not_support">На жаль, теми не підтримуються у вашому регіоні</string>
 	 <string name="current_version_incompatible">Несумісна версія</string>
-     <string name="hide_free">"Приховати безкоштовні "</string>
-     <string name="hide_incompatible">"Приховати несумісні "</string>
+     <string name="hide_free">"Приховати безкоштовні %1$s"</string>
+     <string name="hide_incompatible">"Приховати несумісні %1$s"</string>
 	 <string name="find_more_theme">Більше тем</string>
      <string name="online_precust_abstract">Abstract</string>
      <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>

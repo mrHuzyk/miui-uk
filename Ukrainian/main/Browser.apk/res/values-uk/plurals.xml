@@ -4,6 +4,10 @@
         <item quantity="other">Останні %d дн.</item>
         <item quantity="one">Останні %d дн.</item>
      </plurals>
+	 <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Нова сторінка буде створена автоматично через %d с.</item>
+        <item quantity="one">Нова сторінка буде створена автоматично через %d с.</item>
+     </plurals>
 	 <plurals name="transfer_prompt">
         <item quantity="other">Відтворення через %1$d с.</item>
         <item quantity="one">Відтворення через %1$d с.</item>

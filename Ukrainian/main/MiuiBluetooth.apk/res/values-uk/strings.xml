@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Miui Bluetooth</string>
+	 <string name="bluetooth_device_context_unpair">"Відв'язати"</string>
+	 
      <string name="device_picker">Bluetooth пристрою</string>
      <string name="bluetooth_preference_scan_title">Пошук пристроїв</string>
 	 <string name="bluetooth_preference_connected_devices">Під\'єднані пристрої</string>
