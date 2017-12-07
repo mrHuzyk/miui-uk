@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="app_manager_cache_size">Кеш</string>
+     <string name="app_manager_clear_all_data">Очистити всі дані</string>
+     <string name="app_manager_clear_dlg_title">Очистити дані</string>
+     <string name="app_manager_code_size">Розмір додатку</string>
+     <string name="app_manager_comuting_size">Зачекайте…</string>
+     <string name="app_manager_data_size">Дані користувача </string>
+     <string name="app_manager_dlg_clear_cache_title">Очистити кеш?</string>
+     <string name="app_manager_not_support_uninstall">Неможливо вилучити ці додатки</string>
+     <string name="app_manager_support_uninstall">Ви можете видалити ці додатки</string>
+     <string name="app_manager_total_size">Всього</string>
+	 
 	 <string name="ac_mask_all_apps">Приховати для всіх додатків</string>
      <string name="ac_unmask_all_apps">Показати для всіх додатків</string>
      <string name="app_manager_as_dlg_msg">"Додатки з автозапуском можуть використовувати більше пам'яті та батареї. Дозволити автозапуск?"</string>
@@ -45,7 +56,6 @@
      <string name="fw_oversea_content">Блокувати дзвінки з іноземних номерів</string>
      <string name="st_call_intercept_oversea">Блокувати дзвінки з-за кордону</string>
      <string name="st_confirm_dialog_summary_oversea_call">Увімкніть, щоб блокувати всі дзвінки з іноземних номерів</string>
-	 
 	 <string name="international_Ad">Реклама</string>
 	 <string name="app_manager_clear_cache">Очистити кеш</string>
      <string name="app_manager_defaults_setting">За замовчуванням</string>

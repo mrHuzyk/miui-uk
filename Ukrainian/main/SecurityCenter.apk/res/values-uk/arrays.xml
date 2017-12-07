@@ -24,6 +24,7 @@
         <item>Частота використання</item>
         <item>"Використання пам'яті"</item>
 		<item>Час встановлення</item>
+		<item>Додатки, які можна видалити</item>
      </string-array>
 	 <string-array name="sort_type">
         <item>Статус</item>
@@ -31,6 +32,7 @@
         <item>Частота використання</item>
         <item>"Використання пам'яті"</item>
 		<item>Час встановлення</item>
+		<item>Видаляємі додатки</item>
      </string-array>
 	 <string-array name="sms_report_type">
         <item>Використання трафіку</item>

@@ -5,6 +5,16 @@
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
      </string-array>
+	 <string-array name="default_not_chrome_regions">
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+        <item>SG</item>
+        <item>MY</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>UA</item>
+     </string-array>
 	 <string-array name="vip_mode_text">
         <item>Всі</item>
         <item>Контакти</item>

@@ -33,6 +33,7 @@
      <string name="security_space_button_pos">Не перезавантажувати</string>
      <string name="security_space_msg">MIUI 9 має нову файлову систему. Якщо Ви перезавантажте свій пристрій зараз, можливо, Ви не зможете використовувати другий простір. Перед перезавантаженням перемістіть всі елементи з другого простору в перший.</string>
      <string name="security_space_title">Важливе оновлення</string>
+	 <string name="menu_title_feedback">"Зворотній зв'язок"</string>
 	 
 	<string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Це відео не діє для потокової передачі на цей пристрій</string>

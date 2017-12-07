@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Дані додатків</item>
+        <item>Робочий стіл</item>
+        <item>Налаштування системи</item>
+        <item>Пошук пристрою</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Синхронізація контактів, повідомлень, заміток, календаря та інших даних</item>
+        <item>Бекап додатків, розташування робочого екрану та шпалер</item>
+        <item>Бекап важливих налаштувань, тому що Wi-Fi та екран</item>
+        <item>Віддалене блокування пристрою в разі його втрати</item>
+    </string-array>
+</resources>

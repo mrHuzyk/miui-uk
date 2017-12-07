@@ -5,6 +5,8 @@
      <string name="stop_recording">Зупинити запис</string>
 	 <string name="recording_failure">Останній запис не вдався. Перезапустіть запис екрану.</string>
 	 <string name="recording_max_size">Запис було зупинено та автоматично збережено через максимальний розмір відео. Ви можете почати ще однин запис, якщо хочете продовжити.</string>
+	 <string name="description_content">Запис екрану забезпечує можливість запису відео з екрану на системному рівні. Хочете видалити дані додатку?</string>
+     <string name="description_title">Про додаток</string>
 	 
 	<string name="low_memory_dior">"Доступно менше 500 МБ пам'яті. Ви можете записати відео до 12 хвилин."</string>
     <string name="app_info">Запис. Натисніть, щоб зупинити.</string>

@@ -43,6 +43,7 @@
      <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Цей сайт не може забезпечити безпечне з'єднання. %s0 не відповідає стандартам безпеки."</string>
      <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Цей сайт не може забезпечити безпечне з'єднання. %s0 відправляє невірну відповідь."</string>
      <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Цей сайт не може забезпечити безпечне з'єднання. %s0 використовує непідтримуваний протокол."</string>
+     <string name="miuishare_dialog_cancel">Відміна</string>
 
 	 <string name="qr_description">Сканувати QR код</string>
      <string name="voice_description">Голосовий пошук</string>

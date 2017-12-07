@@ -24,6 +24,8 @@
      <string name="ks_update_fail_request_timeout">Час підключення минув. Зачекайте та спробуйте ще раз.</string>
      <string name="ks_update_success">Оновлено</string>
      <string name="ks_update_wait">Зачекайте…</string>
+	 <string name="title_back">Назад</string>
+     <string name="xiaomi_cloud_service_subtitle">Всі важливі дані в одному місці</string>
 	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>

@@ -12,6 +12,15 @@
      <string name="sign_in">Увійти</string>
      <string name="update_phone_notice">Змінити налаштування безпеки</string>
 	 <string name="account_global_region">Закордон</string>
+	 <string name="account_error_user_name">"Введене ім'я недійсне"</string>
+     <string name="passport_get_innetdate_agree">Перевірити</string>
+     <string name="passport_get_innetdate_disagree">Немає</string>
+     <string name="passport_get_innetdate_msg">&lt;font color=Red>Схоже&lt;/font>, номер %s був змінений Вашим оператором. Перевірити, коли номер був в мережі?</string>
+     <string name="passport_get_innetdate_title">Перевірка номеру</string>
+     <string name="recycle_phone_notification_msg">Схоже, ваш номер телефону був перероблений. Натисніть, щоб оновити.</string>
+     <string name="recycle_phone_notification_title">Ризик безпеки</string>
+     <string name="sim_changed_notification_msg">Натисніть, щоб оновити резервний телефон та тримати аккаунт безпечнішим</string>
+     <string name="sim_changed_notification_title">Змінено номер телефону?</string>
 	 
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>
