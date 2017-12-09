@@ -3969,7 +3969,7 @@ ID реклами унікальний для вашого пристрою. П�
      <string name="screen_key_long_press_action">Функція натискання</string>
      <string name="screen_key_long_press_timeout">Тривалість натискання</string>
      <string name="screen_key_position">Клавіші навігації</string>
-     <string name="screen_key_press">Простенатискання</string>
+     <string name="screen_key_press">Просте натискання</string>
      <string name="screen_key_press_action">Функція натискання</string>
      <string name="screen_locking_sounds_title">Звук блокування екрану</string>
      <string name="screen_never_timeout_title">Не виключати</string>
