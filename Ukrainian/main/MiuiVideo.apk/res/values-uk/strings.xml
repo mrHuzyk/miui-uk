@@ -7,6 +7,16 @@
      <string name="null_video_uri">Невірне посилання на відео</string>
 	 <string name="v_click_to_refresh_video">Оновити</string>
      <string name="v_video_local">Локальне</string>
+	 <string name="detail_cp">Джерело</string>
+     <string name="empty_video_uri">Помилка відтворення. Невірне посилання.</string>
+     <string name="layer_gloable_search">Пошук</string>
+     <string name="lcok_setting">Налаштування екрану блокування</string>
+     <string name="lock_open">Увімкнути заставку для відео</string>
+     <string name="lock_open_summary">Ви можете переглядати відео при заблокованому екрані</string>
+     <string name="lock_screen_date">EEEE, d MMMM</string>
+     <string name="lock_screen_date_12">EEEE, d MMMM</string>
+     <string name="no_comment">Будьте першим, хто відповість</string>
+     <string name="sliding_on_unlock">Проведіть вгору для розблокування</string>
 	 
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>

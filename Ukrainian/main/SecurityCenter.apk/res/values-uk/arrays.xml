@@ -7,6 +7,10 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
      </string-array>
+	 <string-array name="tether_limit_warn_type">
+        <item>Попередити та вимкнути</item>
+        <item>Тільки попередити</item>
+     </string-array>
 	 <string-array name="luckymoney_sound">
         <item>Без звуку</item>
         <item>Золоті монети</item>

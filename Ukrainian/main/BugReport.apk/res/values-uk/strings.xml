@@ -30,6 +30,7 @@
 	 <string name="feedback_choose_reproductivity">Репродуктивність</string>
      <string name="feedback_title_reproductivity">Виберіть репродуктивність</string>
 	 <string name="app_search">Пошук додатків</string>
+	 <string name="issue_search">Пошук</string>
 	 
 	 <string name="title_customer_service">Обслуговування клієнтів</string>
 	 <string name="feedback_third_packagename_hint">Проблеми зі сторонніми додатками?</string>

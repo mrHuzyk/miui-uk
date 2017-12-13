@@ -11,6 +11,20 @@
      <string name="app_manager_not_support_uninstall">Неможливо вилучити ці додатки</string>
      <string name="app_manager_support_uninstall">Ви можете видалити ці додатки</string>
      <string name="app_manager_total_size">Всього</string>
+	 <string name="more_settings">Ще</string>
+     <string name="firewall_mobile">Мобільний трафік</string>
+     <string name="firewall_system_title">Використання трафіку системними додатками</string>
+     <string name="firewall_wifi">Wi-Fi</string>
+     <string name="pref_key_tethering_setting">Одноразова межа трафіку</string>
+     <string name="pref_key_tethering_title">Одноразова межа трафіку</string>
+     <string name="tether_custom_dialog_title">Межа мобільного трафіку</string>
+     <string name="tether_limit_dialog_title">Межа мобільного трафіку</string>
+     <string name="tether_limit_value_custom">Користувача</string>
+     <string name="tether_over_limit_dialog_cancle_btn">Скинути точку доступу</string>
+     <string name="tether_over_limit_dialog_message">Ви досягли ліміт трафіку для точки доступу</string>
+     <string name="tether_over_limit_dialog_title">Попередження трафіку</string>
+     <string name="tether_over_limit_warning_notify_message">Вимкніть точку доступу</string>
+     <string name="tether_over_limit_warning_notify_title">Досягнено ліміт трафіку</string>
 	 
 	 <string name="ac_mask_all_apps">Приховати для всіх додатків</string>
      <string name="ac_unmask_all_apps">Показати для всіх додатків</string>

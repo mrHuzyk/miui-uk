@@ -5,6 +5,13 @@
 Ваш акаунт тимчасово буде недоступний, будь ласка почекайте…"</string>
      <string name="support_mtp">MTP буде підтримуватися найближчим часом</string>
 	 <string name="search_guid_hint">Пошук файлу</string>
+	 <string name="default_empty_des">Пусто. Натисніть для повтору.</string>
+     <string name="default_error_des">Мережа недоступна. Перевірте налаштування та натисніть Повторити.</string>
+     <string name="list_refreshing_text">Оновлення...</string>
+     <string name="list_refreshing_time">Останнє оновлення: %1$s</string>
+     <string name="load_more_load_end">Кінець сторінки</string>
+     <string name="load_more_load_failed">Помилка завантаження. Натисніть для повтору.</string>
+     <string name="load_more_loading">Завантаження...</string>
 	 
 	 <string name="cannot_send">Неможливо відправити файли з зовнішнього сховища</string>
      <string name="clock_in">Перевірка…</string>

@@ -11,6 +11,13 @@
 	 <string name="default_screen_preview_title">Робочий стіл за замовчуванням</string>
      <string name="menu_default_screen_preview">Робочий стіл за замовчуванням</string>
 	 <string name="action_add_to_workspace">Додати в робочий простір</string>
+	 <string name="edit_mode_group">Угруповання</string>
+     <string name="edit_mode_group_error_full">Недостатньо місця</string>
+     <string name="edit_mode_group_error_in_folder">Закрийте папку перед угрупованням іконок</string>
+     <string name="edit_mode_group_error_one_folder">Неможливо дублювати папку з вибраними іконками</string>
+     <string name="edit_mode_uninstall">Видалити</string>
+     <string name="memory_clear_nothing_result">Нічого немає для очищення</string>
+     <string name="memory_clear_result">Очищено %1$s</string>
 	 
 	 <string name="gadget_clock_14_label">Годинник</string>
      <string name="launcher_not_exist">Робочий стіл зупинений. Поверніться додому і спробуйте ще раз.</string>

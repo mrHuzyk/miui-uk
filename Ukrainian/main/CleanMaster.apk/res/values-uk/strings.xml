@@ -26,6 +26,24 @@
      <string name="cd_percent">відсоток</string>
      <string name="cd_settings">Налаштування</string>
      <string name="cd_sort_type">Тип сортування</string>
+	 <string name="qq_clean_finish_summary">Вибрані файли успішно видалені</string>
+     <string name="wechat_clean_canceled_empty_summary">Очищення не було завершено. Розпочніть спочатку.</string>
+     <string name="wechat_clean_finish_empty_summary">Все виглядає добре</string>
+     <string name="wechat_clean_finish_summary">Вибрані файли успішно видалені</string>
+     <string name="wechat_qq_celan_tab_file">Файл</string>
+     <string name="wechat_qq_celan_tab_image">Зображення</string>
+     <string name="wechat_qq_celan_tab_video">Відео</string>
+     <string name="wechat_qq_celan_tab_voice">Голос</string>
+     <string name="wechat_qq_deep_clean_button_text">Глибоке очищення</string>
+     <string name="wq_deep_clean_filter_all">Все</string>
+     <string name="wq_deep_clean_filter_month_ago">За місяць</string>
+     <string name="wq_deep_clean_filter_three_month_ago">За три місяці</string>
+     <string name="wq_deep_clean_filter_week_ago">За неділю</string>
+     <string name="wq_deep_clean_filter_years_ago">За півроку</string>
+     <string name="wqfile_group_chat_file">Інші файли</string>
+     <string name="wqfile_group_chat_pic">Зображення</string>
+     <string name="wqfile_group_chat_video">Відео</string>
+     <string name="wqfile_group_chat_voice">Голосові повідомлення</string>
 	 
 	 <string name="engine_init">Ініціалізація…</string>
 	 <string name="app_description_content">Cleaner знаходить сміття на пристрої та звільняє місце. Перед видаленням додатку переконайтеся, що Ви можете обійтися без цих функцій.</string>

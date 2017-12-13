@@ -23,6 +23,8 @@
      <string name="suggestion_for_phone_recycled">Додайте інший номер телефону</string>
      <string name="system_shortcut_wake">Пробудження ярликами кнопок</string>
      <string name="voice_helper_title">Голосовий помічник</string>
+	 <string name="tether_data_usage_limit">Одноразова межа трафіку</string>
+     <string name="tether_data_usage_limit_summary">Межа трафіку буде застосована при наступному увімкнені точки доступу</string>
 	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>

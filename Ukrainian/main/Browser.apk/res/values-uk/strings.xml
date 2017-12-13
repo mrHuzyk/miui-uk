@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="MIUI_startpage">Стартова сторінка</string>
+	 <string name="action_menu_user_center">Панель керування</string>
+     <string name="action_modify_bookmark">Редагувати закладку</string>
+     <string name="action_put_in_search_box">Введіть %s в рядок пошуку</string>
+	 
 	 <string name="action_menu_text_drop">Вийти</string>
      <string name="bookmark_move_to">Перемістити в</string>
      <string name="check_security_tip_privacy_policy">Політика конфіденційності</string>
@@ -44,7 +48,6 @@
      <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Цей сайт не може забезпечити безпечне з'єднання. %s0 відправляє невірну відповідь."</string>
      <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Цей сайт не може забезпечити безпечне з'єднання. %s0 використовує непідтримуваний протокол."</string>
      <string name="miuishare_dialog_cancel">Відміна</string>
-
 	 <string name="qr_description">Сканувати QR код</string>
      <string name="voice_description">Голосовий пошук</string>
 	 <string name="at_miui_browser">\@Mi Браузер</string>

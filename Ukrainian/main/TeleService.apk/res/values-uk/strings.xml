@@ -9,6 +9,14 @@
      <string name="sim_accounts">Контакти SIM-карти</string>
      <string name="volte_switch_not_support_summary2">VoLTE дзвінки можуть не підтримуватись оператором</string>
 	 <string name="miui_notification_network_selection_text" formatted="false">SIM %s. Обрана мережа недоступна. (%s)</string>
+	 <string name="dual_4g_switch_summary">Дозволити підключення 4G для обох SIM-карт</string>
+     <string name="dual_4g_switch_title">Подвійний 4G</string>
+     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE вимагає підключення 4G для обох SIM-карт. Переключитися на подвійний 4G?</string>
+     <string name="turn_off_dual_4g_failed">Неможливо вимкнути подвійний 4G</string>
+     <string name="turn_on_dual_4g_failed">Неможливо увімкнути подвійний 4G</string>
+	 <string name="miui_network_selection_reset_text">Скинути</string>
+     <string name="miui_notification_network_selection_title">SIM немає служби</string>
+     <string name="miui_notification_network_selection_title_by_sim">SIM %s немає служби</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

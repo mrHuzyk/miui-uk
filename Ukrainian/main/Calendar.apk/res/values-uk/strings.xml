@@ -11,6 +11,9 @@
      <string name="install_email_app">Встановіть додаток пошти</string>
      <string name="install_email_finished">Додаток пошти встановлено</string>
      <string name="installing_email">Встановлення...</string>
+	 <string name="action_bar_return">Назад</string>
+     <string name="date_calculate_direction_content_description">Напрямок, зараз %1s</string>
+     <string name="talk_back_read_date">Поточна дата %1$s, %2$s,</string>
 	 
      <string name="load_more_hint">Оновити події %1$d</string>
      <string name="no_events_hint">Немає подій</string>
