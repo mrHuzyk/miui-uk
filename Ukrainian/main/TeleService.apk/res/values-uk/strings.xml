@@ -283,7 +283,7 @@
      <string name="callFailed_userBusy">Ліня зайнята</string>
      <string name="callFailed_user_not_member_of_CUG" />
      <string name="callUnanswered_forwarded">Виклик пропущено та переадресовано</string>
-     <string name="call_additional_sum">Номер телефону і налаштування очікування виклику</string>
+     <string name="call_additional_sum">Номер телефону та налаштування очікування виклику</string>
      <string name="call_advanced_setting_title">Додатково</string>
      <string name="call_background_default">Зображення за замовчуванням</string>
      <string name="call_background_lock_wallpaper">Шпалери екрану блокування</string>
@@ -330,7 +330,7 @@
      <string name="call_settings_with_label">Налаштування викликів (%s)</string>
      <string name="call_type">Тип виклику</string>
      <string name="call_waiting_summary">Повідомляти про вхідні виклики під час розмови</string>
-     <string name="call_waiting_title">Очікування виклику</string>
+     <string name="call_waiting_title">Утримання виклику</string>
      <string name="call_waiting_tone_continuously">Відтворювати безупинно</string>
      <string name="call_waiting_tone_stop_summary">" (натисніть клавішу регулювання гучності, щоб зупинити відтворення)."</string>
      <string name="call_waiting_tone_title">Повідомлення про виклик</string>
@@ -343,7 +343,7 @@
      <string name="callind">Call Feature Settings</string>
      <string name="callind_multi_sim">Налаштування підписок</string>
      <string name="calling_via_template">Виклик через %s</string>
-     <string name="callwait_open_hint">Послуга \"Очікування виклику\" надається оператором, якщо ви одержуєте помилку коду MMI, зверніться до вашого оператора для зясування подробиць</string>
+     <string name="callwait_open_hint">Послуга \"Утримання виклику\" надається оператором, якщо ви одержуєте помилку коду MMI, зверніться до вашого оператора для зясування подробиць</string>
      <string name="can_not_call_self">Неможливо набрати власний номер</string>
      <string name="can_not_use_for_not_data_sim">(слід встановити SIM за замовчанням)</string>
      <string name="cancel">Скасувати</string>
@@ -356,7 +356,7 @@
      <string name="card_title_call_ended">Виклик завершено</string>
      <string name="card_title_callconnectedect">"З\'єднання встановлене"</string>
      <string name="card_title_callconnectingect">"З\'єднання виклику"</string>
-     <string name="card_title_calliswaiting">Очікування виклику</string>
+     <string name="card_title_calliswaiting">Утримання виклику</string>
      <string name="card_title_callonhold">Утримання</string>
      <string name="card_title_callonhold_released">Виклик зроблений</string>
      <string name="card_title_callretrieved">Виклики витягнуті</string>
@@ -1097,7 +1097,7 @@
      <string name="mo_call_type_title">Тип виклику MO</string>
      <string name="mo_code_call_deflected">Виклик передано</string>
      <string name="mo_code_call_forwarded">Виклик переадресовано</string>
-     <string name="mo_code_call_is_waiting">Очікування виклику</string>
+     <string name="mo_code_call_is_waiting">Утримання виклику</string>
      <string name="mo_code_clir_suppression_rejected">Перевірте службу відправки ID виклику</string>
      <string name="mo_code_cug_call">Закрита група користувачів</string>
      <string name="mo_code_incoming_calls_barred">Вхідний виклик заборонено іншою стороною</string>
@@ -1381,7 +1381,7 @@
      <string name="path_call_record_auto_title">Системні додатки | Виклики | Запис викликів | Автоматичний запис</string>
      <string name="path_call_record_setting">Системні додатки | Виклики | Запис викликів</string>
      <string name="path_call_recording_notification_toggle_title">Системні додатку | Виклики | Запис викликів | Сповіщення про запис</string>
-     <string name="path_call_waiting_title">Системні додатки | Виклики | Очікування виклику</string>
+     <string name="path_call_waiting_title">Системні додатки | Виклики | Утримання виклику</string>
      <string name="path_call_waiting_tone_title">Системні додатки | Виклики | Додатково | Сповіщення про виклик</string>
      <string name="path_caller_id_title">Системні додатку | Виклики | Додатково | Приховування номеру</string>
      <string name="path_cloud_antispam_title">Системні додатку | Виклики | Визначення невідомих номерів</string>
@@ -1579,7 +1579,7 @@
      <string name="product_reflash_button">Оновлення…</string>
      <string name="progress_dialog_exiting_ecm">Вихід з режиму екстрених зворотних викликів</string>
      <string name="propmpt_dialog_do_not_ask">"Запам\'ятати"</string>
-     <string name="propmpt_dialog_network_failed_title">Час очікування виклику</string>
+     <string name="propmpt_dialog_network_failed_title">Час утримання виклику</string>
      <string name="propmpt_dialog_no_call_back_content">Занадто тривале підключення. Перемикання на звичайні виклики.</string>
      <string name="propmpt_dialog_not_activate_sim_content">Підтвердіть номер телефону для використання пакету поповнення</string>
      <string name="propmpt_dialog_not_activate_sim_title">Номер телефону не підтверджено</string>
