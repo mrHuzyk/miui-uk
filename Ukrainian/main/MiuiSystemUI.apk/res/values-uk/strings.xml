@@ -385,7 +385,6 @@ d MMMM yyyy"</string>
  вниз для блокування"</string>
      <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
      <string name="status_bar_recent_guide_top">Потягніть вгору для закриття</string>
-     <string name="status_bar_recent_inspect_item_title">Про додаток</string>
      <string name="status_bar_recent_memory_info1">Вільно %1$s з %2$s</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Натисніть для повернення в Диктофон</string>

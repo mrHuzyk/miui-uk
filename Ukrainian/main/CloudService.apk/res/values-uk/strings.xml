@@ -488,10 +488,10 @@
      <string name="micloud_warn_full_title">Недостатньо місця</string>
      <string name="micloud_warn_low_sum">Хмара заповнена на 90%</string>
      <string name="micloud_warn_low_title">Мало вільного місця…</string>
-     <string name="micloud_web_discription">Увійдіть до аккаунту на i.mi.com</string>
+     <string name="micloud_web_discription">Посетите i.mi.com</string>
      <string name="micloud_web_discription_01">Увійдіть до аккаунту на i.mi.com</string>
      <string name="micloud_web_discription_02">для доступу до Ваших файлів у будь-який час</string>
-     <string name="micloud_web_discription_international">Увійдіть до аккаунту на i.mi.com</string>
+     <string name="micloud_web_discription_international">Посетите www.mi.com/micloud</string>
      <string name="micloud_website">Хмарні дані</string>
      <string name="micloud_wipe_data_confirm_label">Видалити дані з Mi Cloud</string>
      <string name="micloud_wipe_data_confirm_title">Видалити дані з Mi Cloud після виходу із акаунта?</string>
