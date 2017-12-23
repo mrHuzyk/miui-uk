@@ -25,6 +25,11 @@
      <string name="voice_helper_title">Голосовий помічник</string>
 	 <string name="tether_data_usage_limit">Одноразова межа трафіку</string>
      <string name="tether_data_usage_limit_summary">Межа трафіку буде застосована при наступному увімкнені точки доступу</string>
+	 <string name="unlock_disable_frp_warning_content_profile">"Функції захисту профілю не будуть працювати без паролю.
+
+ Ви не зможете розблокувати свій профіль, авторизувати покупки або увійти в додатки."</string>
+     <string name="unlock_set_unlock_password_none">Не встановлено</string>
+	 <string name="back_button">Назад</string>
 	 
 	 <string name="popup_window">Дозволити спливаючі вікна</string>
 	 <string name="bluetooth_device_misc_title">Рідко використовувані Bluetooth пристрої</string>

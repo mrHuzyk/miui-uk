@@ -4,4 +4,16 @@
         <item quantity="other">Ви не дозволили пошук %d ел.</item>
         <item quantity="one">Ви не дозволили пошук %d ел.</item>
     </plurals>
+	<plurals name="favor_delete_message">
+        <item quantity="other">Видалити вибрані елементи? (%d)</item>
+        <item quantity="one">Видалити вибраний елемент? (%d)</item>
+     </plurals>
+     <plurals name="favor_delete_succeed">
+        <item quantity="other">Видалено %d елем.</item>
+        <item quantity="one">Видалений %d елемент</item>
+     </plurals>
+     <plurals name="favor_select_num">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+     </plurals>
 </resources>

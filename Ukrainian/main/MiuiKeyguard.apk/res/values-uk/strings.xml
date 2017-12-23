@@ -4,6 +4,8 @@
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
 	 <string name="wallpaper_global_des_drop_down_notify_text">Відпустіть для перегляду подробиць</string>
 	 <string name="lock_screen_no_sim_card">Немає SIM-карти</string>
+	 <string name="do_disclosure_generic">Цей пристрій управляється вашою організацією</string>
+     <string name="do_disclosure_with_name">Цей пристрій управляється %s</string>
 	 
 	 <string name="input_password_handle_sdcard_fs">Перед входом відключіть Оптимізацію SD-карти в налаштуваннях для розробників</string>
 	 <string name="btn_camera">Введіть своє обличчя</string>

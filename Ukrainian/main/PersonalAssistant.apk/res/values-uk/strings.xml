@@ -20,6 +20,22 @@
      <string name="memory_clear_nothing_result">Нема пам'яті для очищення</string>
      <string name="memory_clear_result">%1$s очищено</string>
 	 <string name="favorite_title_modify_success">Успішно змінено</string>
+	 <string name="network_exception">Помилка мережі. Повторіть пізніше.</string>
+     <string name="tag_view_nav">tag_view_nav</string>
+     <string name="upgrade_being">Оновлення встановлено. Скоро буде перезавантаження.</string>
+     <string name="upgrade_find">Знайдена нова версія</string>
+     <string name="upgrade_later">Пізніше</string>
+     <string name="upgrade_log_default">"1. Оптимізація продуктивності
+2. Виправлення помилок"</string>
+     <string name="upgrade_log_subtitle">(Wi-Fi)</string>
+     <string name="upgrade_log_title">Список змін</string>
+     <string name="upgrade_now">Оновити</string>
+     <string name="vr_pay_not_support">VR не підтримується</string>
+	 <string name="fav_tab_all">Все</string>
+     <string name="fav_tab_article">Статті</string>
+     <string name="fav_tab_new">Нове</string>
+     <string name="fav_tab_shopping">Покупки</string>
+     <string name="fav_tab_video">Відео</string>
 	 
 	<string name="access_change_text" formatted="false">Замінити %d на %d?</string>
      <string name="access_select">Вибрано: %s</string>

@@ -4,6 +4,11 @@
         <item quantity="other">Нещодавніх додатків: %d</item>
         <item quantity="one">Нещодавніх додатків: 1</item>
     </plurals>
+	<plurals name="accessibility_desc_weather_temperature">
+        <item quantity="other">Погода %d градусів</item>
+        <item quantity="zero">Погода %d градусів</item>
+        <item quantity="one">Погода %d градус</item>
+     </plurals>
 	<plurals name="disable_notification_confirm_title">
        <item quantity="other">Блокувати додатків: %d</item>
        <item quantity="one">Блокувати додаток: %d</item>

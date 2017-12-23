@@ -26,6 +26,14 @@
      <string name="ks_update_wait">Зачекайте…</string>
 	 <string name="title_back">Назад</string>
      <string name="xiaomi_cloud_service_subtitle">Всі важливі дані в одному місці</string>
+	 <string name="micloud_footer_international_url">mi.com/micloud</string>
+     <string name="micloud_footer_normal_url">i.mi.com</string>
+     <string name="micloud_main_head_menu_cloud_backup">Хмарний бекап</string>
+     <string name="micloud_main_head_menu_recycle_bin_summary">Відновлення контактів та фото</string>
+     <string name="micloud_main_head_menu_recycle_bin_title">Корзина</string>
+     <string name="micloud_main_head_menu_state_close">Вимкнений</string>
+     <string name="micloud_main_head_menu_state_open">Увімкнений</string>
+     <string name="micloud_manage_space_data">Управління даними</string>
 	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>

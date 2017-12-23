@@ -3,6 +3,9 @@
     <string name="app_name">Резервне копіювання​</string>
 	<string name="device_corrupt">Mi Phone (дані пошкоджені)</string>
      <string name="size_unknown">Невідомий розмір</string>
+	 <string name="btn_retry">Повторити</string>
+     <string name="provision_error_connect_msg">Ви можете перевірити мережу та повторити спробу. Функція резервного копіювання буде недоступна.</string>
+     <string name="provision_error_connect_title">Неможливо підключитися</string>
 	 
 	<string name="arrange_restore_order">Ініціалізація порядку відновлення</string>
      <string name="authentication_failed">Помилка аутентифікації!</string>

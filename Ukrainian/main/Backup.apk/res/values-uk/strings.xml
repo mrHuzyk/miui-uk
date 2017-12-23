@@ -11,7 +11,31 @@
      <string name="hide_password_description">Приховати пароль</string>
      <string name="succ_description">Успішно</string>
      <string name="view_password_description">Показати пароль</string>
-	 
+	 <string name="list_footer_tip_title">Порада:</string>
+     <string name="trans_detail_app_apk_list_title">Встановлені додатки</string>
+     <string name="trans_detail_app_apk_page_title">Виберіть додатки</string>
+     <string name="trans_detail_app_data_list_title">Дані додатків</string>
+     <string name="trans_detail_app_data_page_title">Виберіть дані додатків</string>
+     <string name="trans_detail_app_data_useless_tip">Ви можете відновити їх з додатків. Передача не потрібна.</string>
+     <string name="trans_detail_audio_video_doc_list_title">Аудіо, відео та файли</string>
+     <string name="trans_detail_audio_video_doc_page_title">Виберіть аудіо, відео та файли</string>
+     <string name="trans_detail_category_audio_video_doc">Аудіо, відео та файли</string>
+     <string name="trans_detail_category_user_app_data">Дані додатків 2</string>
+     <string name="trans_detail_category_wechat_qq">Дані WeChat та QQ (включаючи історію чату)</string>
+     <string name="trans_detail_item_app_data_selected_tip">Виберіть також відповідні додатки</string>
+     <string name="trans_detail_item_app_data_too_large_tip">Цей елемент дуже великий для передачі</string>
+     <string name="trans_detail_list_footer">Ви можете передавати додатки окремо. Однак, якщо Ви виберете дані додатків, відповідні додатки також будуть передані.</string>
+     <string name="trans_detail_page_tip">Чим більше елементів ви виберете, тим більше часу займе передача</string>
+     <string name="trans_detail_qq_data">Дані QQ (включаючи історію чату)</string>
+     <string name="trans_detail_sys_data_list_title">Системні додатки</string>
+     <string name="trans_detail_sys_data_page_title">Виберіть системні додатки</string>
+     <string name="trans_detail_wechat_data">Дані WeChat (включаючи історію чату)</string>
+     <string name="trans_detail_wechat_qq_list_title">WeChat та QQ</string>
+     <string name="trans_detail_wechat_qq_page_title">Виберіть WeChat, QQ, та дані додатків</string>
+     <string name="trans_pausing">Пауза…</string>
+     <string name="trans_select_data_too_large">"Дані занадто великого розміру. Це забере багато часу.
+Рекомендується передавати тільки важливі дані."</string>
+
      <string name="trans_security_tips_message">Деякі додатки не підтримують Mi Mover</string>
      <string name="trans_security_tips_title">Сумісність Mi Mover</string>
 	 <string name="notif_trans_wait_for_reconnecting">Віддалений пристрій відключено. Підключіть знову.</string>
