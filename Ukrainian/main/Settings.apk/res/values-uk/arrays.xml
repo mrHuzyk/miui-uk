@@ -432,11 +432,13 @@
      <string-array name="alarm_repeat_type">
         <item>Щодня</item>
         <item>По вихідних</item>
+		<item>Вихідні дні</item>
         <item>Обрати дні</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Щодня</item>
         <item>По вихідних</item>
+		<item>Вихідні дні</item>
         <item>Обрати дні</item>
      </string-array>
      <string-array name="animator_duration_scale_entries">
