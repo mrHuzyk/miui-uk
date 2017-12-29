@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="mute_music_stream">Відключити гучність медіа</string>
+	 <string name="navigation_guide_back_anim_summary">Жест назад з анімацією</string>
+	 <string name="navigation_guide_back_anim_title">Анімація жесту назад</string>
+     <string name="navigation_guide_back_summary">Посуньте вліво або вправо від екрана</string>
+	 <string name="navigation_guide_back_title">Повернутися назад</string>
+	 <string name="navigation_guide_dialog_dont_show_again">Не показувати</string>
+	 <string name="navigation_guide_dialog_ok">Вивчити</string>
+     <string name="navigation_guide_dialog_skip">Пропустити</string>
+	 <string name="navigation_guide_dialog_summary">Використовуйте жести замість панелі навігації</string>
+     <string name="navigation_guide_dialog_title">Жести</string>
+	 <string name="navigation_guide_home_summary">Посуньте вгору</string>
+	 <string name="navigation_guide_home_title">Повернутися на головну</string>
+	 <string name="navigation_guide_recent_summary">Посуньте вгору і зробіть паузу</string>
+	 <string name="navigation_guide_recent_title">Недавні програми</string>
+	 <string name="navigation_guide_settings">Керівництво</string>
+	 <string name="navigation_type_radio_text_full_screen">Повноекранні жести</string>
+	 <string name="navigation_type_radio_text_virtual_key">Панель навігації</string>
+     <string name="navigation_type_settings">Системна навігація</string>
+     <string name="close_demo_mode">Скасування</string>
+	 <string name="open_demo_mode">Включити</string>
+	 <string name="open_demo_mode_warning_message">Коли демо режим включений, годинник в статус барі будуть зупинені, індикатори батареї і сигналу будуть відображатися у повному обсязі. Ви можете відключити демо режим або перезавантажити пристрій, щоб змінити це.</string>
 	 <string name="setup_choose_unlock_mixed_password">Пароль</string>
      <string name="setup_choose_unlock_password">PIN-код</string>
      <string name="setup_choose_unlock_pattern">Шаблон</string>

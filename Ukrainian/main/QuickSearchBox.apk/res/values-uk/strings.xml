@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Пошук</string>
+	 <string name="close_webview_description">Закрити цю сторінку</string>
+     <string name="history_arrow_up_description">Введіть елемент з історії пошуку або перегляду</string>
+     <string name="search_history_clear_all_description">Очистити історію пошуку</string>
+     <string name="search_history_clear_single_description">Видалити цей елемент з історії пошуку</string>
+     <string name="setting_back_description">Повернутися назад</string>
+     <string name="view_history_clear_all_description">Очистити історію перегляду</string>
+     <string name="view_history_clear_single_description">Видалити цей елемент з історії перегляду</string>
+     <string name="webview_more_description">Додаткові функції</string>
+	 
 	 <string name="mi_account">Mi акаунт</string>
 	 <string name="hint_baidu">Пошук сайтів</string>
      <string name="hint_book">Пошук книг</string>

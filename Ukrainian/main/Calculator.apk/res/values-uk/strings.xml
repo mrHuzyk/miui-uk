@@ -15,6 +15,13 @@
      <string name="reciprocal">1/X</string>
      <string name="scanner_had_been_uninstalled">Сканер видалений</string>
      <string name="secondFunction">2nd</string>
+	 <string name="degDesc">Кут</string>
+     <string name="radDesc">Радіан</string>
+     <string name="reciprocalDesc">Reciprocal</string>
+     <string name="reverceDesc">arc</string>
+     <string name="scannerDesc">Сканер</string>
+     <string name="secondFunctionDesc">Перемкнутись на другу функцію</string>
+     <string name="switchDesc">Перемкнути</string>
 	 
 	 <string name="description_content">Крім основних функцій, калькулятор також працює як багатофункціональний конвертер, іпотечний та податковий калькулятор. Перед видаленням переконайтеся, що Ви зможете обійтися без цих функцій.</string>
      <string name="description_title">Про калькулятор</string>

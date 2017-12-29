@@ -22,6 +22,7 @@
      <string name="sim_changed_notification_msg">Натисніть, щоб оновити резервний телефон та тримати аккаунт безпечнішим</string>
      <string name="sim_changed_notification_title">Змінено номер телефону?</string>
 	 <string name="passport_confirm_login">Продовжити</string>
+	 <string name="passport_sms_verification_code_login">Вхід через SMS</string>
 	 
 	 <string name="find_device_message">Поточний пристрій заблоковано. Повідомлення: %1$s. Контактний телефон: %2$s.</string>
      <string name="find_device_owner_phone">Поточний пристрій заблоковано. Контактний телефон: %1$s.</string>

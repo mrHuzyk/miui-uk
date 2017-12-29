@@ -7,6 +7,18 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="bg_network_allow_count">
+        <item quantity="other">%d додатків можуть підключитися до мережі в фоні</item>
+        <item quantity="one">%d додаток може підключитися до мережі в фоні</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d додатків не можуть підключитися до мережі в фоні</item>
+        <item quantity="one">%d додаток не може підключитися до мережі в фоні</item>
+     </plurals>
+     <plurals name="network_restrict_count">
+        <item quantity="other">Доступ до мережі обмежений для &lt;font color='#ff0000'>%d:&lt;/font> додатків</item>
+        <item quantity="one">Доступ до мережі обмежений для &lt;font color='#ff0000'>%d&lt;/font> додатку</item>
+     </plurals>
 	 <plurals name="number_masked">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>

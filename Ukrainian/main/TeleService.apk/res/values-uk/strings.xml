@@ -17,6 +17,15 @@
 	 <string name="miui_network_selection_reset_text">Скинути</string>
      <string name="miui_notification_network_selection_title">SIM немає служби</string>
      <string name="miui_notification_network_selection_title_by_sim">SIM %s немає служби</string>
+	 <string name="dialog_cancel">Відміна</string>
+     <string name="dialog_report">Повідомити</string>
+     <string name="modem_dialog_body">Мобільна мережа нестабільна, викликаючи перебої або проблеми з мережею. Надіслати звіт про помилку в Mi для аналізу? Цей звіт може містити особисту інформацію. Ваш звіт буде використовуватися для виправлення цієї помилки і ніколи не буде використовуватися в комерційних цілях.</string>
+     <string name="modem_dialog_title">Мобільна мережа нестабільна</string>
+	 <string name="callFailed_dialToDialVideo">Дзвінок змінений на відеодзвінок</string>
+     <string name="callFailed_dialVideoToDial">Відеодзвінок змінений на дзвінок</string>
+     <string name="callFailed_dialVideoToDialVideo">Відеодзвінок змінений на відеодзвінок з різними номерами</string>
+     <string name="callFailed_dialVideoToSs">Відеодзвінок змінений на SS запит</string>
+     <string name="callFailed_dialVideoToUssd">Відеодзвінок змінений на USSD запит</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

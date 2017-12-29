@@ -27,6 +27,12 @@
      <string name="system_root_path">"Налаштування внутрішньої пам'яті"</string>
      <string name="toast_bar_send_fail_remind">Неможливо відправити лист. Він збережений в папці «Вихідні».</string>
 	 <string name="select_path">Виберіть шлях</string>
+	 <string name="auto_login_fail">Помилка автоматичного входу в систему</string>
+     <string name="auto_login_fail_to_retry">Вхід не вдався. Повторіть ще раз.</string>
+     <string name="qq_auto_login_failed_cpy_pass_success">Скопійовано; поверніться на сторінку входу та вставте вміст в поле введення паролю</string>
+     <string name="qq_auto_login_failed_dialog_message">"Скопіюйте код авторизації, потім поверніться на сторінку входу і натисніть «Ввести ім'я користувача та пароль»; вставте вміст в поле введення пароля для входу в систему вручну"</string>
+     <string name="qq_auto_login_failed_dialog_positive_label">Скопіюйте код авторизації</string>
+     <string name="retry_login">Увійдіть ще раз</string>
 	 
 	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
      <string name="account_settings_preference_head_icon">Показувати фото відправників</string>

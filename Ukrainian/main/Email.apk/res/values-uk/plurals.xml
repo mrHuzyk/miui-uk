@@ -4,6 +4,38 @@
         <item quantity="other">Непрочитаних: %1$d</item>
 		<item quantity="one">Непрочитаних: %1$d</item>
     </plurals>
+	<plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ нових повідомлень</item>
+        <item quantity="one">%1$d+ нове повідомлення</item>
+     </plurals>
+     <plurals name="hide_atts_remaining">
+        <item quantity="other">Приховати %1$d вкладень</item>
+        <item quantity="one">Приховати %1$d вкладення</item>
+     </plurals>
+     <plurals name="local_search_result">
+        <item quantity="other">%s результатів в синхронізованих повідомленнях</item>
+        <item quantity="one">%s результат в синхронізованих повідомленнях</item>
+     </plurals>
+     <plurals name="more_atts_remaining">
+        <item quantity="other">Ще %1$d</item>
+        <item quantity="one">Ще %1$d</item>
+     </plurals>
+     <plurals name="new_messages">
+        <item quantity="other">Нових повідомлень: %1$d</item>
+		<item quantity="one">Нове повідомлення: %1$d</item>
+     </plurals>
+     <plurals name="quick_reply_hint">
+        <item quantity="other">Відповісти %1$d корист.</item>
+        <item quantity="one">Відповісти %1$d корист.</item>
+     </plurals>
+     <plurals name="remote_search_result">
+        <item quantity="other">%s результатів на сервері</item>
+        <item quantity="one">%s результат на сервері</item>
+     </plurals>
+     <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s не відправлено в %2$s</item>
+        <item quantity="one">%1$s не відправлено в %2$s</item>
+     </plurals>
 	<plurals name="confirm_delete_draft">
         <item quantity="other">Видалити чернетки? (%1$d)</item>
      </plurals>

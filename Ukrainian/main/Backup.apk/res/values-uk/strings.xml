@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="backup_security_tips_message">Можливо, деякі додатки не можуть бути скопійовані або відновлені</string>
+	 <string name="alert_button_agree_and_continue">Дозволити</string>
+     <string name="alert_button_deny">Заборонити</string>
+     <string name="alert_message_backup_to_miasist">"Mi PC Suite запитує дозвіл на створення бекапа на комп'ютері. Дозволити?"</string>
+     <string name="alert_message_restore_from_miasist">Mi PC Suite запитує дозвіл на відновлення даних на телефоні. Дозволити?</string>
+     <string name="alert_miasist_occupy_backup">Бекап даних за допомогою Mi PC Suite… Дочекайтеся завершення бекапу та спробуйте ще раз.</string>
+     <string name="alert_miasist_occupy_restore">Відновлення даних за допомогою Mi PC Suite… Дочекайтеся відновлення даних та спробуйте ще раз.</string>
+     <string name="alert_phone_occupy_backup">Mi PC Suite недоступний. Завершіть бекап або відновлення даних на телефоні та спробуйте ще раз.</string>
+     <string name="alert_second_space_not_support_miasist">Не можна використовувати Mi PC Suite в другому просторі. Перейдіть на перший.</string>
+     <string name="alert_title_backup_to_miasist">Створити бекап даних за допомогою Mi PC Suite?</string>
+     <string name="alert_title_restore_from_miasist">Відновити дані на телефоні?</string>
+     <string name="notif_calculating_app">Обчислення %1$s (%2$s)…</string>
+     <string name="notif_connect_miasist">Підключено до Mi PC Suite</string>
+     <string name="notif_disconnect_miasist">Не підключено до Mi PC Suite</string>
+     <string name="notif_parse_select_descript_error">Не вдалося синхронізувати список резервних копій</string>
+     <string name="notif_receiving_transingsd">Отримання %1$s (%2$s)…</string>
+     <string name="notif_sending_transingsd">Відправлення %1$s (%2$s)…</string>
+	 
      <string name="backup_security_tips_title">Бекап може не працювати</string>
      <string name="btn_got_it">OK</string>
 	 <string name="error_permissions">Перевірте дозволи на читання та запис для кадендаря в налаштуваннях</string>

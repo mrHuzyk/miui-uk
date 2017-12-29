@@ -4,6 +4,12 @@
 	 <string name="action_menu_user_center">Панель керування</string>
      <string name="action_modify_bookmark">Редагувати закладку</string>
      <string name="action_put_in_search_box">Введіть %s в рядок пошуку</string>
+	 <string name="open_cloud_sync">Синхронізація</string>
+     <string name="open_cloud_sync_desc">Закладку додано. Увімкніть синхронізацію, додані на інші пристрої, будуть синхронізовані з цим апаратом. Увійти, щоб увімкнути зараз?</string>
+     <string name="sign_and_open">Увійти та увімкнути</string>
+     <string name="sync_and_backup_bookmark">Синхронізація та бекап закладок</string>
+     <string name="sync_and_backup_history">Синхронізація та бекап історії</string>
+     <string name="temp_refuse">Відміна</string>
 	 
 	 <string name="action_menu_text_drop">Вийти</string>
      <string name="bookmark_move_to">Перемістити в</string>
