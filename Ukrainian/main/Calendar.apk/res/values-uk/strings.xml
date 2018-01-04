@@ -14,6 +14,23 @@
 	 <string name="action_bar_return">Назад</string>
      <string name="date_calculate_direction_content_description">Напрямок, зараз %1s</string>
      <string name="talk_back_read_date">Поточна дата %1$s, %2$s,</string>
+	 <string name="miuishare_account_activate_confirmation">Активуйте Mi акаунт</string>
+     <string name="miuishare_account_activate_ok">Активувати</string>
+     <string name="miuishare_account_login_cancel">Відміна</string>
+     <string name="miuishare_account_login_confirmation">Увійдіть в Mi акаунт</string>
+     <string name="miuishare_account_login_ok">Увійти</string>
+     <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
+     <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
+     <string name="miuishare_app_name">Поділитися</string>
+     <string name="miuishare_no_network">Немає підключення до мережі</string>
+     <string name="miuishare_publish">Відправити</string>
+     <string name="miuishare_qzone_title">Qzone</string>
+     <string name="miuishare_share_done">Успішно відправлено</string>
+     <string name="miuishare_share_editor_title">Поділитися</string>
+     <string name="miuishare_title_more">Ще</string>
+     <string name="miuishare_title_share">Поділитися</string>
+     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+     <string name="miuishare_weibo_title">Weibo</string>
 	 
      <string name="load_more_hint">Оновити події %1$d</string>
      <string name="no_events_hint">Немає подій</string>

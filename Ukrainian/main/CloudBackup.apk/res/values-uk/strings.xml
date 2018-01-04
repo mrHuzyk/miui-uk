@@ -6,6 +6,7 @@
 	 <string name="btn_retry">Повторити</string>
      <string name="provision_error_connect_msg">Ви можете перевірити мережу та повторити спробу. Функція резервного копіювання буде недоступна.</string>
      <string name="provision_error_connect_title">Неможливо підключитися</string>
+	 <string name="cloud_backup_derail_size_summary">Розмір: %s</string>
 	 
 	<string name="arrange_restore_order">Ініціалізація порядку відновлення</string>
      <string name="authentication_failed">Помилка аутентифікації!</string>

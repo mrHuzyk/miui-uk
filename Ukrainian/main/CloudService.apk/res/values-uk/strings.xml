@@ -34,6 +34,9 @@
      <string name="micloud_main_head_menu_state_close">Вимкнений</string>
      <string name="micloud_main_head_menu_state_open">Увімкнений</string>
      <string name="micloud_manage_space_data">Управління даними</string>
+	 <string name="micloud_main_head_menu_state_unavailable">Недоступний</string>
+     <string name="reading_status">Завантаження статусу…</string>
+     <string name="reading_status_failure">Не вдалося завантажити статус</string>
 	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>

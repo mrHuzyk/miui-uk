@@ -22,6 +22,48 @@
      <string name="notification_group_title_text">%1$s (%2$s)</string>
      <string name="screenshot_feedback_txt">Відгук</string>
      <string name="screenshot_toalbum_txt">Перегляд</string>
+	 <string name="legacy_vpn_name">VPN</string>
+     <string name="monitoring_button_view_policies">Перегляд політики</string>
+     <string name="monitoring_description_ca_certificate">На цьому пристрої встановлено центр сертифікації. Ваш захищений мережевий трафік може контролюватися або змінюватися.</string>
+     <string name="monitoring_description_managed_profile_ca_certificate">Ваша організація встановила центр сертифікації в вашому робочому профілі. Ваш захищений мережевий трафік може контролюватися або змінюватися.</string>
+     <string name="monitoring_description_managed_profile_named_vpn">Ваш робочий профіль підключений до %1$s, який може контролювати вашу мережеву активність, включаючи електронні листи, додатки та веб-сайти.</string>
+     <string name="monitoring_description_management">"Ваш пристрій управляється Вашою організацією.
+
+Ваш адміністратор може контролювати та управляти налаштуванями, корпоративним доступом, додатками, даними, пов'язаними з вашим пристроєм, та інформацією про місцезнаходження вашого пристрою.
+
+Для отримання більш докладної інформації, зверніться до адміністратора."</string>
+     <string name="monitoring_description_management_ca_certificate">Ваша організація встановила на цьому пристрої центр сертифікації. Захищений мережевий трафік може відслідковуватися або змінюватися.</string>
+     <string name="monitoring_description_management_network_logging">Ваш адміністратор увімкнув мережеве протоколювання, яке відстежує трафік на своєму пристрої.</string>
+     <string name="monitoring_description_named_management">"Ваш пристрій управляється %1$s.
+
+Ваш адміністратор може контролювати та управляти налаштуванями, корпоративним доступом, додатками, даними, пов'язаними з вашим пристроєм, та інформацією про місцезнаходження вашого пристрою.
+
+Для отримання більш докладної інформації, зверніться до адміністратора."</string>
+     <string name="monitoring_description_named_vpn">"Ви підключені до %1$s, які можуть контролювати Вашу мережеву активність, включаючи електронну пошту, додатки та веб-сайти."</string>
+     <string name="monitoring_description_personal_profile_named_vpn">Особистий профіль підключений до %1$s, який можуть контролювати Вашу мережеву активність, включаючи електронну пошту, додатки та веб-сайти.</string>
+     <string name="monitoring_description_two_named_vpns">"Ви підключені до %1$s та %2$s, які можуть контролювати Вашу мережеву активність, включаючи електронну пошту, додатки та веб-сайти."</string>
+     <string name="monitoring_description_vpn_settings">Відкрити параметри VPN</string>
+     <string name="monitoring_description_vpn_settings_separator">" "</string>
+     <string name="monitoring_subtitle_ca_certificate">CA Сертифікати</string>
+     <string name="monitoring_subtitle_network_logging">Мережеве протоколювання</string>
+     <string name="monitoring_subtitle_vpn">VPN</string>
+     <string name="monitoring_title">Моніторинг мережі</string>
+     <string name="monitoring_title_device_owned">Управління пристроями</string>
+     <string name="quick_settings_disclosure_managed_profile_monitoring">Ваша організація може контролювати мережевий трафік в Вашому робочому профілі</string>
+     <string name="quick_settings_disclosure_managed_profile_named_vpn">Робочий профіль підключений до %1$s</string>
+     <string name="quick_settings_disclosure_management">Пристрій управляється Вашою організацією.</string>
+     <string name="quick_settings_disclosure_management_monitoring">Ваша організація управляє цим пристроєм та може контролювати мережевий трафік</string>
+     <string name="quick_settings_disclosure_management_named_vpn">Пристрій управляється вашою організацією та підключено до %1$s</string>
+     <string name="quick_settings_disclosure_management_vpns">Пристрій управляється вашою організацією та підключено до VPN</string>
+     <string name="quick_settings_disclosure_monitoring">Мережа може контролюватися</string>
+     <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s може контролювати мережевий трафік в вашому робочому профілі</string>
+     <string name="quick_settings_disclosure_named_management">Пристрій управляється %1$s</string>
+     <string name="quick_settings_disclosure_named_management_monitoring">%1$s управляє цим пристроєм та може контролювати мережевий трафік</string>
+     <string name="quick_settings_disclosure_named_management_named_vpn">Пристрій управляється %1$s та підключено до %2$s</string>
+     <string name="quick_settings_disclosure_named_management_vpns">Пристрій управляється %1$s та підключено до VPN</string>
+     <string name="quick_settings_disclosure_named_vpn">Пристрій підключений до %1$s</string>
+     <string name="quick_settings_disclosure_personal_profile_named_vpn">Особистий профіль підключений до %1$s</string>
+     <string name="quick_settings_disclosure_vpns">Пристрій підключений до VPN</string>
 	 
 	 <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard не підтримує багатовіконний режим. Вихід.</string>
 	 <string name="call_status_holding">Утримання</string>

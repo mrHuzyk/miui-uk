@@ -4,4 +4,12 @@
         <item quantity="other">Відновлення файлів: %d</item>
         <item quantity="one">Відновлення файлів: %d</item>
     </plurals>
+	<plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Бекап кожні %d днів</item>
+        <item quantity="one">Бекап щодня</item>
+     </plurals>
+     <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">Копій: %1$s | Розмір: %2$s</item>
+        <item quantity="one">Копій: %1$s | Розмір: %2$s</item>
+     </plurals>
 </resources>

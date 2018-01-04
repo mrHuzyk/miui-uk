@@ -6,4 +6,10 @@
 		<item quantity="few">пропущений виклик</item>
         <item quantity="many">пропущених викликів</item>
     </plurals>
+	<plurals name="notification_missedCallTitle_miui">
+        <item quantity="other">пропущених викликів</item>
+        <item quantity="one">пропущений виклик</item>
+        <item quantity="few">пропущених викликів</item>
+        <item quantity="many">пропущених викликів</item>
+     </plurals>
 </resources>
