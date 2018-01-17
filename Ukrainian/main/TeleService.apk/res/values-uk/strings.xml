@@ -26,6 +26,7 @@
      <string name="callFailed_dialVideoToDialVideo">Відеодзвінок змінений на відеодзвінок з різними номерами</string>
      <string name="callFailed_dialVideoToSs">Відеодзвінок змінений на SS запит</string>
      <string name="callFailed_dialVideoToUssd">Відеодзвінок змінений на USSD запит</string>
+	 <string name="quick_dial_setting_title">Швидкий набір</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

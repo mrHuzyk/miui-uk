@@ -4,6 +4,14 @@
         <item quantity="other">Видалити %s елем. з платежів?</item>
         <item quantity="one">Видалити %s елем. з платежів?</item>
      </plurals>
+	 <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Видалити %s з експрес?</item>
+        <item quantity="one">Видалити %s з експрес?</item>
+     </plurals>
+     <plurals name="express_history_menu_select_num">
+        <item quantity="other">Обрано:  %s</item>
+        <item quantity="one">Обрано: %s</item>
+     </plurals>
 	 <plurals name="mins_ago">
         <item quantity="other">%1$d хв. назад</item>
     </plurals>

@@ -26,6 +26,10 @@
      <string name="xspace_qq_title">QQ</string>
      <string name="xspace_weibo_title">Weibo</string>
      <string name="xspace_weixin_title">WeChat</string>
+	 <string name="weixin_share_sign">Увійти та поділитися</string>
+     <string name="xspace_default_guide_notification_content">Натисніть, щоб змінити</string>
+     <string name="xspace_default_guide_notification_main_title">Використання додатку за замовчуванням</string>
+     <string name="xspace_default_guide_notification_xspace_title">Використання клонованого додатку</string>
 	 
 	 <string name="support_desc">Послуги безпеки надані Graphite</string>
 	 <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>

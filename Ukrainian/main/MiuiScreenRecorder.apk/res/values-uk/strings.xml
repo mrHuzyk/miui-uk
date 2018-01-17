@@ -7,6 +7,8 @@
 	 <string name="recording_max_size">Запис було зупинено та автоматично збережено через максимальний розмір відео. Ви можете почати ще однин запис, якщо хочете продовжити.</string>
 	 <string name="description_content">Запис екрану забезпечує можливість запису відео з екрану на системному рівні. Хочете видалити дані додатку?</string>
      <string name="description_title">Про додаток</string>
+	 <string name="app_notification_info">Запис екрану працює у фоновому режимі</string>
+     <string name="recording_without_mic">Мікрофон зайнятий. Звук мікрофона не може бути записано.</string>
 	 
 	<string name="low_memory_dior">"Доступно менше 500 МБ пам'яті. Ви можете записати відео до 12 хвилин."</string>
     <string name="app_info">Запис. Натисніть, щоб зупинити.</string>

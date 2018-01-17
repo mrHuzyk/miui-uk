@@ -3,6 +3,10 @@
     <plurals name="editing_mode_title">
         <item quantity="other">Обрано: %1$d</item>
     </plurals>
+	<plurals name="announce_for_drag">
+        <item quantity="other">Перетягування %1$d елем.</item>
+        <item quantity="one">Перетягування</item>
+     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Видалити %1$d додатків?</item>
         <item quantity="one">Видалити %1$d додаток?</item>

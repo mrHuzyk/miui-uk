@@ -7,6 +7,18 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">Дзвінків: %1$d | Від %2$s та інших</item>
+        <item quantity="one">%1$d дзвінок від %2$s</item>
+     </plurals>
+	 <plurals name="gb_ad_people_play">
+        <item quantity="other">Грає людей: %1$d</item>
+        <item quantity="one">Грає людей: %1$d</item>
+     </plurals>
+     <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">Грає людей: %1$d</item>
+        <item quantity="one">Грає людей: %1$d</item>
+     </plurals>
 	 <plurals name="bg_network_allow_count">
         <item quantity="other">%d додатків можуть підключитися до мережі в фоні</item>
         <item quantity="one">%d додаток може підключитися до мережі в фоні</item>

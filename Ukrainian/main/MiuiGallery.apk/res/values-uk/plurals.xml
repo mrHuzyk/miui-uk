@@ -4,6 +4,26 @@
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">"%2$d елем. не можуть бути додані до альбому. %1$s."</item>
+        <item quantity="one">"%2$d елем. не може бути доданий до альбому. %1$s."</item>
+     </plurals>
+     <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d елем. не можуть бути додані в прихований альбом. %1$s."</item>
+        <item quantity="one">"%2$d елем. не може бути доданий в прихований альбом. %1$s."</item>
+     </plurals>
+     <plurals name="fail_reason_processing_file">
+        <item quantity="other">Обробка фото…</item>
+        <item quantity="one">Обробка фото…</item>
+     </plurals>
+     <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d елем. не можуть бути видалені з прихованого альбому. %1$s."</item>
+        <item quantity="one">"%2$d елем. не може бути видалений з прихованого альбому. %1$s."</item>
+     </plurals>
+     <plurals name="send_processing_files_error">
+        <item quantity="other">"Не вдалося поділитися. %d фото в обробці…"</item>
+        <item quantity="one">"Не вдалося поділитися. %d фото в обробці…"</item>
+     </plurals>
 	 <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Видалити %d файлів з всіх пристроїв та Mi Cloud?</item>
         <item quantity="one">Видалити %d файл з всіх пристроїв та Mi Cloud?</item>

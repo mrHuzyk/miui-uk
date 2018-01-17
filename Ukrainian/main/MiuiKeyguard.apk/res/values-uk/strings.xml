@@ -12,6 +12,7 @@
      <string name="face_data_siggesstion_next_time">Далі (%ds)</string>
      <string name="face_unlock_reenter_content">Алгоритм розблокування обличчям оновлений. Натисніть, щоб знову записати дані особи.</string>
      <string name="face_unlock_reenter_title">Повторно додайте дані обличчя</string>
+	 <string name="fingerprint_not_identified_msg_lock">Занадто багато невдалих спроб. Введіть пароль.</string>
 	 
 	 <string name="input_password_handle_sdcard_fs">Перед входом відключіть Оптимізацію SD-карти в налаштуваннях для розробників</string>
 	 <string name="btn_camera">Введіть своє обличчя</string>

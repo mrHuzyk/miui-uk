@@ -8,6 +8,17 @@
      <string name="contacts_unavailable_import_from_old_device">Зі старого телефону</string>
      <string name="contacts_unavailable_import_sim_contacts">SIM-карта</string>
      <string name="import_sim_contacts_hint_title">Щоб імпортувати контакти з SIM-карти</string>
+	 <string name="dialer_firewall_entry_name">Заблоковані журнали дзвінків</string>
+	 <string name="description_quick_dial_button">Швидкий набір</string>
+     <string name="path_quick_dial_setting">Системні додатки/Контакти/Швидкий набір</string>
+     <string name="quick_dial_setting_delete_dialog_message">Видалити призначений номер швидкого набору?</string>
+     <string name="quick_dial_setting_delete_dialog_option_delete">Видалити</string>
+     <string name="quick_dial_setting_hint">Натисніть кнопку, щоб призначити або видалити номер швидкого набору. Натисніть та утримуйте кнопку з призначеним номером для набору номера.</string>
+     <string name="quick_dial_setting_set_dialog_message">Призначити номер швидкого набору на цю кнопку?</string>
+     <string name="quick_dial_setting_set_dialog_option_set">Так</string>
+     <string name="quick_dial_setting_title">Швидкий набір</string>
+     <string name="search_quick_dial_setting">Контакти</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
 	 
 	 <string name="hybrid_webpage_not_available">Веб-сторінка недоступна</string>
      <string name="t9_search_empty_create_contact">Новий контакт</string>

@@ -36,6 +36,7 @@
      <string name="fav_tab_new">Нове</string>
      <string name="fav_tab_shopping">Покупки</string>
      <string name="fav_tab_video">Відео</string>
+	 <string name="express_install_cainiao_not_found">Mi Market не знайдений</string>
 	 
 	<string name="access_change_text" formatted="false">Замінити %d на %d?</string>
      <string name="access_select">Вибрано: %s</string>

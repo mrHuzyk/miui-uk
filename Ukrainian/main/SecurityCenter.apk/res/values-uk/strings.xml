@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="firewall_temp_rule_reason">%2$s обмежує інтернет для %1$s​</string>
+	 <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>
+     <string name="app_manager_mobile_slot2">Мобільний інтернет (SIM 2)</string>
+     <string name="txv_dnd_start_time">0:00</string>
+	 <string name="action_source_call_title">Заблоковані дзвінки</string>
+     <string name="delete_input">Видалити</string>
+     <string name="gb_ad_game_size">МБ</string>
+     <string name="gb_cutoff">|</string>
+     <string name="gb_new_feature">Нова функція</string>
+     <string name="input_password_hint_text">Введіть пароль</string>
+     <string name="mixed_need_to_confirm">Введіть ще раз, для підтвердження</string>
+     <string name="mixed_password_confirmed_header_confirm">Успішно. Натисніть, щоб підтвердити.</string>
+     <string name="mixed_password_confirmed_header_continue">Успішно. Натисніть \"Далі\".</string>
+     <string name="mixed_pattern_entered_header">Пароль встановлений</string>
+     <string name="mixed_recording_incorrect_too_short">Введіть не менше %d символів</string>
+     <string name="mixed_recording_intro_header">Введіть не менше 4 символів</string>
+     <string name="mixed_retry_button_text">Відміна</string>
+     <string name="mixed_settings_help_how_to_record">Як встановити пароль</string>
+     <string name="numeric_need_to_confirm">Введіть ще раз, для підтвердження</string>
+     <string name="numeric_password_confirmed_header_confirm">Успішно. Натисніть, щоб підтвердити.</string>
+     <string name="numeric_password_confirmed_header_continue">Успішно. Натисніть \"Далі\".</string>
+     <string name="numeric_pattern_entered_header">PIN-код встановлений</string>
+     <string name="numeric_recording_incorrect_too_short">Введіть не менше %d цифр</string>
+     <string name="numeric_recording_intro_header">Введіть пароль</string>
+     <string name="numeric_retry_button_text">Відміна</string>
+     <string name="numeric_settings_help_how_to_record">Як встановити PIN-код</string>
+     <string name="password_type">Змінити пароль</string>
+     <string name="password_type_underline"><u>Змінити пароль</u></string>
+     <string name="quite_all_string">Відміна</string>
+     <string name="set_mixed_password_name">Встановити пароль</string>
+     <string name="set_numeric_password_name">Встановити PIN-код</string>
+     <string name="set_pattern_password_name">Встановити шаблон</string>
+     <string name="text_cycle_day">%s</string>
+     <string name="unlock_set_unlock_password_summary">Придумайте пароль</string>
+     <string name="unlock_set_unlock_password_title">Пароль</string>
+     <string name="unlock_set_unlock_pattern_summary">"З'єднайте не менше 4 точки"</string>
+     <string name="unlock_set_unlock_pattern_title">Шаблон</string>
+     <string name="unlock_set_unlock_pin_summary">Введіть 4 цифри</string>
+     <string name="unlock_set_unlock_pin_title">PIN-код</string>
+     <string name="wrong_password">Невірний пароль</string>
+	 
 	 <string name="app_manager_cache_size">Кеш</string>
      <string name="app_manager_clear_all_data">Очистити всі дані</string>
      <string name="app_manager_clear_dlg_title">Очистити дані</string>

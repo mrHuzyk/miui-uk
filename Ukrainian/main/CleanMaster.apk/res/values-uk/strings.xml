@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
+	 <string name="auto_clean_time_every_day">Кожен день</string>
+     <string name="auto_clean_time_fifteen_day">Кожних 15 днів</string>
+     <string name="auto_clean_time_seven_day">Кожних 7 днів</string>
+     <string name="auto_clean_time_three_day">Кожних 3 дня</string>
+	 
 	 <string name="qq_cache_files">Кеш QQ</string>
      <string name="qq_clean">QQ cleaner</string>
      <string name="qq_clean_exit_confirm_msg">Зупинити сканування і вийти?</string>

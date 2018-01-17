@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="add_to_album_failed_with_reason">"Неможливо додати до альбому. %1$s."</string>
+     <string name="loading_processing_tip">Обробка фото…</string>
+     <string name="operate_processing_file_error">Зачекайте, поки будуть оброблені всі фото</string>
+	 
 	 <string name="grant_permission_unlock_and_set">Розблокувати та встановити</string>
      <string name="search_feedback_task_complete">Всі завдання завершені</string>
      <string name="search_feedback_user_notice">Я прочитав і згоден з %s</string>

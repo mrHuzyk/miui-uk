@@ -7,8 +7,12 @@
 	 <string name="accessibility_enabled">Доступність увімкнена</string>
      <string name="continue_to_enable_accessibility">Продовжуйте утримувати два пальця, щоб увімкнути доступність</string>
      <string name="enable_accessibility_canceled">Доступність скасована</string>
+	 <string name="terms_of_use_label_gms">"Ваша конфіденційність дуже важлива для нас. Ознайомтеся з нашими Умовами обслуговування та Політикою конфіденційності, щоб зрозуміти, яку інформацію ми збираємо, як ми її використовуємо, та які варіанти доступні для Вас.
+
+
+Ви повинні погодитися з нашими Умовами обслуговування та Політикою конфіденційності, перш ніж зможете використовувати MIUI. Сервіси Mi, активації SIM-карти, Mi Cloud, Пошук пристрою, Робочий стіл, Ігровий центр, MAB, MiuiDaemon та компоненти системи MSA, веб-додатки, швидкі картки, статистика, смарт-карти, Mi Link, Mi аккаунт та компоненти Google Play будуть підключатися до інтернету і отримувати інформацію про Ваше місцезнаходження."</string>
+     <string name="application_permissions">Дозволи додатку</string>
 	 
-	<string name="application_permissions">Дозволи додатку</string>
      <string name="fail_to_generate_qr_code">Не вдалось створити QR код. Повторно зайдіть на цю сторінку.</string>
      <string name="other_settings_taplus">Taplus</string>
      <string name="other_settings_taplus_summary">Тривале натиснення для отримання додаткової інформації</string>
