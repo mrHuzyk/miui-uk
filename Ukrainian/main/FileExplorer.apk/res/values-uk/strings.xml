@@ -1004,7 +1004,7 @@
      <string name="system_video_control_tip">Показувати популярні відео</string>
      <string name="tab_category">Категорії</string>
      <string name="tab_claim">Бронювання</string>
-     <string name="tab_common_app">додатку</string>
+     <string name="tab_common_app">Додатку</string>
      <string name="tab_discover">Огляд</string>
      <string name="tab_expand">Онлайн</string>
      <string name="tab_follow">Підписки</string>
@@ -1029,7 +1029,7 @@
      <string name="terabyteShort">Тб</string>
      <string name="tip">Попередження</string>
      <string name="title_album">Альбоми</string>
-     <string name="title_app_tags">додатку</string>
+     <string name="title_app_tags">Додатки та папки</string>
      <string name="title_enable_documentsui">Включіть \"Документи\"</string>
      <string name="title_expire_video">Спливання терміну</string>
      <string name="title_more_source">Iнші додатку</string>

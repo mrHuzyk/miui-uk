@@ -10,6 +10,8 @@
      <string name="sync_and_backup_bookmark">Синхронізація та бекап закладок</string>
      <string name="sync_and_backup_history">Синхронізація та бекап історії</string>
      <string name="temp_refuse">Відміна</string>
+	 <string name="loading_dialog_title">Переміщення…</string>
+     <string name="speech_engine_not_install">Синтезатор мови не встановлено</string>
 	 
 	 <string name="action_menu_text_drop">Вийти</string>
      <string name="bookmark_move_to">Перемістити в</string>

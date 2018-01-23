@@ -5,6 +5,7 @@
      <string name="auto_clean_time_fifteen_day">Кожних 15 днів</string>
      <string name="auto_clean_time_seven_day">Кожних 7 днів</string>
      <string name="auto_clean_time_three_day">Кожних 3 дня</string>
+	 <string name="wechat_qq_activity_title">Глибоке очищення</string>
 	 
 	 <string name="qq_cache_files">Кеш QQ</string>
      <string name="qq_clean">QQ cleaner</string>

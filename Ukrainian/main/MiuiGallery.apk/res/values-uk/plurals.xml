@@ -4,6 +4,18 @@
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>
+	 <plurals name="slim_complete_photo_count">
+        <item quantity="other">Оптимізовано %d фото</item>
+        <item quantity="one">Оптимізовано %d фото</item>
+     </plurals>
+     <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d фото не були оптимізовані. Зупинити?"</item>
+        <item quantity="one">"%d фото не були оптимізовано. Зупинити?"</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count">
+        <item quantity="other">Залишилося %d фото</item>
+        <item quantity="one">Залишилося %d фото</item>
+     </plurals>
 	 <plurals name="add_to_album_failed_with_reason_and_count">
         <item quantity="other">"%2$d елем. не можуть бути додані до альбому. %1$s."</item>
         <item quantity="one">"%2$d елем. не може бути доданий до альбому. %1$s."</item>

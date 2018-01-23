@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sharedUserLabel">додатку ядра Android</string>
+	<string name="update_accounts_changed">Аккаунт змінено</string>
 	<string name="low_memory_toast">"Не вдалося продовжити використання через брак пам'яті"</string>
     <string name="app_label">Сховище контактів</string>
     <string name="provider_label">Контакти</string>

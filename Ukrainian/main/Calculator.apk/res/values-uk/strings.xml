@@ -22,6 +22,7 @@
      <string name="scannerDesc">Сканер</string>
      <string name="secondFunctionDesc">Перемкнутись на другу функцію</string>
      <string name="switchDesc">Перемкнути</string>
+	 <string name="negDesc">Перемикання між температурами нижче та вище нуля</string>
 	 
 	 <string name="description_content">Крім основних функцій, калькулятор також працює як багатофункціональний конвертер, іпотечний та податковий калькулятор. Перед видаленням переконайтеся, що Ви зможете обійтися без цих функцій.</string>
      <string name="description_title">Про калькулятор</string>

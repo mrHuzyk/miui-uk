@@ -7,6 +7,18 @@
         <item quantity="few">Видалити %d плейлиста?</item>
         <item quantity="many">Видалити %d плейлистів?</item>
      </plurals>
+	 <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Завантаження %1$d треків</item>
+        <item quantity="one">Завантаження %1$d треку</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">Не вдалося видалити %1$d треків</item>
+        <item quantity="one">Не вдалося видалити %1$d трек</item>
+     </plurals>
+     <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d треків</item>
+        <item quantity="one">%1$d трек</item>
+     </plurals>
 	 <plurals name="Nassociate_songs">
         <item quantity="other">Зіставлення альбому та тексту (%1$d/%2$d треків)</item>
         <item quantity="one">Зіставлення альбому та тексту (%1$d/%2$d трек)</item>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 <string name="lucky_alarm_count_down">0:00:00</string>
+     <string name="lucky_alarm_count_down_default">0:00:00</string>
+     <string name="lucky_alarm_item_date">27</string>
+     <string name="power_center_back">Назад до батареї</string>
+	 <string name="menu_white">Крім</string>
+	 
 	 <string name="firewall_temp_rule_reason">%2$s обмежує інтернет для %1$s​</string>
 	 <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>
      <string name="app_manager_mobile_slot2">Мобільний інтернет (SIM 2)</string>

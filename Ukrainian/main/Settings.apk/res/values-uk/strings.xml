@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="title_jeejen">Jeejen</string>
+	 <string name="wifi_click_login_wlan">Необхідна авторизація</string>
+	 <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5 мм)</string>
+     <string name="navigation_guide_app_summary">Проведіть пальцем вліво або вправо від краю екрану в верхню область</string>
+     <string name="navigation_guide_app_title">Виклик додатків</string>
+	 
 	 <string name="mute_music_stream">Відключити гучність медіа</string>
 	 <string name="navigation_guide_back_anim_summary">Жест назад з анімацією</string>
 	 <string name="navigation_guide_back_anim_title">Анімація жесту назад</string>

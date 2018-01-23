@@ -6,6 +6,27 @@
         <item>Доступний</item>
         <item>Не визначений</item>
      </string-array>
+	 <string-array name="aqi_level_simple_desc">
+        <item>Відмінний</item>
+        <item>Хороший</item>
+        <item>Середній</item>
+        <item>Помірний</item>
+        <item>Брудний</item>
+        <item>Дуже брудний</item>
+     </string-array>
+     <string-array name="fortune_random_name">
+        <item>Ван Вей</item>
+        <item>Лі Донг</item>
+        <item>Sun Hui</item>
+        <item>Лі Мінь</item>
+        <item>Чжоу Юн</item>
+        <item>Чжен Цзянь</item>
+        <item>Жовте море</item>
+        <item>Чжен Фейфі</item>
+        <item>Чен Цзе</item>
+        <item>Пісня Енді</item>
+        <item>Го Деганг</item>
+     </string-array>
 	 <string-array name="week_header_name">
         <item>НЕД</item>
         <item>ПОН</item>

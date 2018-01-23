@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome">Ласкаво просимо!</string>
+	<string name="congratulation_swipe">Проведіть вгору, щоб увійти в систему</string>
+     <string name="navigation_picker_gesture_guide">Інструкції</string>
+     <string name="navigation_picker_radio_text_full_screen">Жести</string>
+     <string name="navigation_picker_radio_text_virtual_key">Клавіші</string>
+     <string name="sim_card_detecting_check">Не вдалося знайти SIM-карту. Переконайтеся, що SIM-картку вставлено правильно, та на балансі достатньо коштів.</string>
+     <string name="system_navigation_mode">Режим управління</string>
+	 <string name="voice_assist_desp">Скажіть телефону \"Mi AI\". Mi AI розпізнає Ваш голос і Ви зможете керувати пристроєм голосом.</string>
+     <string name="voice_assist_title">Голосовий помічник</string>
+	 
 	<string name="item_fingerprint">Відбиток пальця</string>
      <string name="item_lock_screen_password">Тільки пароль блокування</string>
      <string name="language_settings">Налаштування мови</string>

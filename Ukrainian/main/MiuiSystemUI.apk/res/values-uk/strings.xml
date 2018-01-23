@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_airplane_mode">Режим польоту</string>
+	 <string name="accessibility_drag_hint_message">Перетягніть елементи в верхню частину екрану</string>
+     <string name="accessibility_recent_task_locked_state">Заблоковано</string>
+     <string name="accessibility_recent_task_unlocked_state">Розблоковано</string>
+	 
 	 <string name="click_expand">Натисніть, щоб розгорнути</string>
      <string name="fs_gesture_back_home_summary">Посуньте знизу швидко</string>
      <string name="fs_gesture_back_ready_title">Як повернутися назад?</string>
