@@ -485,8 +485,7 @@
      <string name="micloud_sync_alert_dialog_positive">ОК</string>
      <string name="micloud_sync_alert_dialog_title">Mi Cloud</string>
      <string name="micloud_sync_off">Синхронізацію з Mi Cloud вимкнено</string>
-     <string name="micloud_title_dspt" formatted="false">"Всього: %s 
- Зайнято: %s | Вільно: %s"</string>
+     <string name="micloud_title_dspt" formatted="false">Зайнято: %s | Всього: %s</string>
      <string name="micloud_title_dspt_remain">Залишилось %s</string>
      <string name="micloud_title_full_dspt">Досягнута межа місця в хмарі</string>
      <string name="micloud_unlogin_for_time_summary" />
