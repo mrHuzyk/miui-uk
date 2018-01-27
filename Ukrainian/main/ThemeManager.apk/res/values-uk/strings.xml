@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	 <string name="account_id_not_login">Натисніть, щоб увійти</string>
+	 <string name="resource_current_using_title">Поточні ресурси</string>
+     <string name="resource_free_trial_15_days">Спробуйте 15 днів безкоштовно</string>
+     <string name="resource_free_use_last_one_day">Ваш пробний термін закінчується завтра</string>
+     <string name="resource_local_picker">Виберіть локальну мелодію</string>
+     <string name="resource_on_use">Використовується: %1$s</string>
+     <string name="resource_online_picker">Виберіть онлайн мелодію</string>
+     <string name="resource_trial_15_days_end_title">15 денний пробний період закінчився</string>
+     <string name="resource_trial_15_days_immediately">Спробувати 15 днів безкоштовно</string>
+     <string name="resource_trial_end_change">Змінити</string>
+     <string name="title_system_audio_notification_resource">Системні сповіщення</string>
+	 
 	 <string name="card_data_request_error">Запит даних закінчився. Повторіть пізніше.</string>
      <string name="card_loading">Завантаження…</string>
      <string name="card_no_network">Немає мережі. Підключіться та повторіть.</string>

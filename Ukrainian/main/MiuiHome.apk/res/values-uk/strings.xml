@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">Додаток не знайдено</string>
+	 <string name="gadget_clock_34_label">Годинники 4x3</string>
+	 
 	 <string name="menu_auto_fill">Автозаповнення</string>
      <string name="menu_cell_setting">Налаштування екрану</string>
      <string name="menu_lock">Блокування екрану</string>
