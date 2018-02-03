@@ -21,7 +21,7 @@
      <string name="cleaner_slim_description">Зберігайте оптимізовані фотографії на пристрої. Вихідні файли будуть зберігатися в Mi Cloud.</string>
      <string name="cleaner_slim_start">Оптимізувати</string>
      <string name="cleaner_slim_title">Оптимізація фото</string>
-     <string name="cleaner_space_description">може бути звільнений</string>
+     <string name="cleaner_space_description">може бути звільнено</string>
      <string name="cleaner_space_detail_description">Очистіть фото в галереї, щоб звільнити місце</string>
      <string name="cleaner_stop_scan">Зупинити сканування</string>
      <string name="photo_save_to_msg">Збережено в %s</string>
